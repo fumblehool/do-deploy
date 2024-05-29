@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201373021,
+      "chineseName": "防爆服",
+      "translatedName": "Explosion-proof clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373126"
+    }
+  }
+}

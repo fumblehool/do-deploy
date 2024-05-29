@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123864001,
+      "chineseName": "婴儿游泳池",
+      "translatedName": "Baby swimming pool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

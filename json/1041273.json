@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041273,
+      "chineseName": "硬盘录像机",
+      "translatedName": "hard disk video recorder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041272"
+    }
+  }
+}

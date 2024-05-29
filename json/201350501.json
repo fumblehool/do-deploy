@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201350501,
+      "chineseName": "悠悠(溜溜)球",
+      "translatedName": "Yoyo (yo) ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201827725,
+      "chineseName": "家居婚鞋",
+      "translatedName": "Home wedding shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125312003"
+    }
+  }
+}

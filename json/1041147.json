@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041147,
+      "chineseName": "凹版印刷机",
+      "translatedName": "gravure printing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3403"
+    }
+  }
+}

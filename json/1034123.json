@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034123,
+      "chineseName": "其他播出、前端设备",
+      "translatedName": "Other broadcast, front-end equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3419"
+    }
+  }
+}

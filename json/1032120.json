@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032120,
+      "chineseName": "座垫、座套",
+      "translatedName": "Seat cushion, seat cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3307"
+    }
+  }
+}

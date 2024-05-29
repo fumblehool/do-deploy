@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201336914,
+      "chineseName": "护肤旅行装",
+      "translatedName": "Skincare Travel Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042634"
+    }
+  }
+}

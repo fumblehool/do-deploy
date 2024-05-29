@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122702004,
+      "chineseName": "发卡",
+      "translatedName": "Card issuing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1752"
+    }
+  }
+}

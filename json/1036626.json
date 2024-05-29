@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036626,
+      "chineseName": "其他生活电器",
+      "translatedName": "Other living appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

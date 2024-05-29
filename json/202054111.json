@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054111,
+      "chineseName": "水泵发电机",
+      "translatedName": "Water pump generator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055111"
+    }
+  }
+}

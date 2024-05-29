@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022006,
+      "chineseName": "船板",
+      "translatedName": "ship plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022004"
+    }
+  }
+}

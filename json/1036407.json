@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036407,
+      "chineseName": "米面机械",
+      "translatedName": "Rice Noodles Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

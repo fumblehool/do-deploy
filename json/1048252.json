@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048252,
+      "chineseName": "电炉变压器",
+      "translatedName": "electric furnace transformer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048230"
+    }
+  }
+}

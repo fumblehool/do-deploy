@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201604501,
+      "chineseName": "其他继电器（低压电气）",
+      "translatedName": "Other relays (low voltage electrical)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

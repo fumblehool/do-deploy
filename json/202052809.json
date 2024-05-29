@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052809,
+      "chineseName": "代糖/零卡糖（食品）",
+      "translatedName": "Sugar Substitutes/Zero Carb (Food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10082"
+    }
+  }
+}

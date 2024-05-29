@@ -1,0 +1,415 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201649001,
+      "chineseName": "西洋乐器",
+      "translatedName": "Western musical instruments",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201675002,
+          "chineseName": "小提琴",
+          "translatedName": "Violin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675104,
+          "chineseName": "短笛",
+          "translatedName": "Piccolo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675304,
+          "chineseName": "钹类",
+          "translatedName": "Cymbal Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201673604,
+          "chineseName": "钢琴",
+          "translatedName": "Piano",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201673902,
+          "chineseName": "长笛",
+          "translatedName": "Flute",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201674002,
+          "chineseName": "单簧管",
+          "translatedName": "Clarinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201674602,
+          "chineseName": "口琴",
+          "translatedName": "Harmonica",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679701,
+          "chineseName": "数码钢琴",
+          "translatedName": "Digital Piano",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679801,
+          "chineseName": "吉他合成器",
+          "translatedName": "guitar synthesizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679901,
+          "chineseName": "贝司-木贝司",
+          "translatedName": "Bass-Mubei",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201680001,
+          "chineseName": "贝司-电贝司",
+          "translatedName": "Bass-Electric Bass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201680101,
+          "chineseName": "班卓琴",
+          "translatedName": "Banjo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201672605,
+          "chineseName": "竖笛",
+          "translatedName": "clarinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201672802,
+          "chineseName": "风琴",
+          "translatedName": "Organ",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678501,
+          "chineseName": "邦戈鼓",
+          "translatedName": "Bongo drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678601,
+          "chineseName": "康佳鼓",
+          "translatedName": "Konjia Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678701,
+          "chineseName": "卡洪鼓/箱鼓",
+          "translatedName": "Cajon Drum/Box Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678801,
+          "chineseName": "竖琴",
+          "translatedName": "Harp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678901,
+          "chineseName": "其它西洋乐器",
+          "translatedName": "Other Western Musical Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679001,
+          "chineseName": "卡林巴/拇指琴",
+          "translatedName": "Kalinba/Thumb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679101,
+          "chineseName": "中提琴",
+          "translatedName": "Viola",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201671203,
+          "chineseName": "吉他-古典吉他",
+          "translatedName": "Guitar-Classical Guitar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201677203,
+          "chineseName": "双簧管",
+          "translatedName": "Oboe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201677202,
+          "chineseName": "非洲鼓",
+          "translatedName": "African Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201677402,
+          "chineseName": "架子鼓/爵士鼓",
+          "translatedName": "Drums/Jazz Drums",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201673002,
+          "chineseName": "吉他-电吉他",
+          "translatedName": "Guitar-Electric Guitar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201673504,
+          "chineseName": "手卷钢琴",
+          "translatedName": "Hand Roll Piano",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679102,
+          "chineseName": "巴松/大管",
+          "translatedName": "Basson/Large Pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679201,
+          "chineseName": "大提琴",
+          "translatedName": "Cello",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679301,
+          "chineseName": "低音提琴/倍大提琴",
+          "translatedName": "Double bass/double cello",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679401,
+          "chineseName": "小号",
+          "translatedName": "trumpet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679501,
+          "chineseName": "大号",
+          "translatedName": "Large",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201679601,
+          "chineseName": "卡祖笛",
+          "translatedName": "kazoo flute",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201676502,
+          "chineseName": "木琴/钟琴",
+          "translatedName": "Xylophone/Carillon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201676503,
+          "chineseName": "电子琴",
+          "translatedName": "Electronic organ",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201676702,
+          "chineseName": "电子鼓",
+          "translatedName": "Electronic Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675502,
+          "chineseName": "口风琴",
+          "translatedName": "Harmonica",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675602,
+          "chineseName": "吉他-民谣吉他",
+          "translatedName": "Guitar-Folk Guitar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675803,
+          "chineseName": "小军鼓",
+          "translatedName": "snare drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675804,
+          "chineseName": "萨克斯风",
+          "translatedName": "Saxophone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201675805,
+          "chineseName": "长号",
+          "translatedName": "trombone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201677702,
+          "chineseName": "圆号",
+          "translatedName": "The Fin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678102,
+          "chineseName": "手风琴",
+          "translatedName": "Accordion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        },
+        {
+          "categoryId": 201678401,
+          "chineseName": "静音鼓",
+          "translatedName": "silent drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649001
+        }
+      ]
+    }
+  }
+}

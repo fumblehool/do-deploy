@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270007,
+      "chineseName": "管道工具",
+      "translatedName": "Pipe Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035492,
+          "chineseName": "弯管器",
+          "translatedName": "pipe bender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        },
+        {
+          "categoryId": 123928002,
+          "chineseName": "管子钳",
+          "translatedName": "pipe tong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        },
+        {
+          "categoryId": 124262009,
+          "chineseName": "其他管道工具",
+          "translatedName": "Other Piping Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        },
+        {
+          "categoryId": 124184006,
+          "chineseName": "切管器",
+          "translatedName": "pipe cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        },
+        {
+          "categoryId": 124256012,
+          "chineseName": "扩管器",
+          "translatedName": "pipe expander",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        },
+        {
+          "categoryId": 201922202,
+          "chineseName": "工业内窥镜",
+          "translatedName": "Industrial Endoscope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124270007
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331613,
+      "chineseName": "慢回弹玩具",
+      "translatedName": "Slow rebound toy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122990003"
+    }
+  }
+}

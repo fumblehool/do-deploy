@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200776006,
+      "chineseName": "双向触发二极管(DIAC)",
+      "translatedName": "Bidirectional Trigger Diode (DIAC)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200800009"
+    }
+  }
+}

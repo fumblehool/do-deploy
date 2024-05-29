@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122698008,
+      "chineseName": "燃气热水器",
+      "translatedName": "gas water heater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047393"
+    }
+  }
+}

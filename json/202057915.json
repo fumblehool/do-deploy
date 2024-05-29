@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057915,
+      "chineseName": "广告衫polo",
+      "translatedName": "advertising shirt polo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420010"
+    }
+  }
+}

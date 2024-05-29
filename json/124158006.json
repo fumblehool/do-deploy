@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124158006,
+      "chineseName": "防砸防刺穿鞋",
+      "translatedName": "Smash-resistant and puncture-resistant shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124166001"
+    }
+  }
+}

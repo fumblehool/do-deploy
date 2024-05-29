@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121188006,
+      "chineseName": "起重钳",
+      "translatedName": "Lifter pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1227"
+    }
+  }
+}

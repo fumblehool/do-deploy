@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201148001,
+      "chineseName": "投影机吊架",
+      "translatedName": "Projector Hanger",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

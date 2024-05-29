@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126584003,
+      "chineseName": "单据/收据",
+      "translatedName": "Documents/Receipts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121504010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201804005,
+      "chineseName": "猪毛夹",
+      "translatedName": "Pig hair clip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122146001"
+    }
+  }
+}

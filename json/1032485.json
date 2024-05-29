@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032485,
+      "chineseName": "齿轮加工机床",
+      "translatedName": "gear processing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1426"
+    }
+  }
+}

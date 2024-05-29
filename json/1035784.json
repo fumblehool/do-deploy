@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035784,
+      "chineseName": "摩托车发动机及配件",
+      "translatedName": "Motorcycle engine and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3304"
+    }
+  }
+}

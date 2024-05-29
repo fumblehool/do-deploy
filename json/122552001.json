@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122552001,
+      "chineseName": "升降晾衣架",
+      "translatedName": "lifting drying rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374002"
+    }
+  }
+}

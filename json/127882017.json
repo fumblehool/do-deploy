@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127882017,
+      "chineseName": "珊瑚绒床垫",
+      "translatedName": "Coral Fleece Mattress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123088001"
+    }
+  }
+}

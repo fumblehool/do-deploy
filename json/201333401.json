@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201333401,
+      "chineseName": "面筋制品",
+      "translatedName": "gluten products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742011"
+    }
+  }
+}

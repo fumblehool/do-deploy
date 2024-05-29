@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053614,
+      "chineseName": "太阳能电池片",
+      "translatedName": "solar cell",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202059611"
+    }
+  }
+}

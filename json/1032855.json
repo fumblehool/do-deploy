@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032855,
+      "chineseName": "乌龙茶",
+      "translatedName": "Oolong Tea",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10041"
+    }
+  }
+}

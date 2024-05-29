@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201678302,
+      "chineseName": "中胡",
+      "translatedName": "Zhonghu",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649201"
+    }
+  }
+}

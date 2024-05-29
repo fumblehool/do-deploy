@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201153801,
+      "chineseName": "万向轮",
+      "translatedName": "universal wheel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127278005"
+    }
+  }
+}

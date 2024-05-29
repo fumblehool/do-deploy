@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033548,
+      "chineseName": "踏步机",
+      "translatedName": "Stepping machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

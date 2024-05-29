@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202037303,
+      "chineseName": "手持起苗工具",
+      "translatedName": "Handheld Seedling Tool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047258"
+    }
+  }
+}

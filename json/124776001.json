@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124776001,
+      "chineseName": "服饰配件加工",
+      "translatedName": "Clothing accessories processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

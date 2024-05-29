@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10543,
+      "chineseName": "包装项目合作",
+      "translatedName": "Packaging project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "68"
+    }
+  }
+}

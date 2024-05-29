@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10226,
+      "chineseName": "其他指示灯具",
+      "translatedName": "Other indicating lamps",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034967"
+    }
+  }
+}

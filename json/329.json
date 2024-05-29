@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 329,
+      "chineseName": "服装机械设备",
+      "translatedName": "Clothing machinery and equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035806,
+          "chineseName": "服装加工设备零部件",
+          "translatedName": "Garment processing equipment parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 1035807,
+          "chineseName": "服装加工辅助设备",
+          "translatedName": "Garment processing auxiliary equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 1035808,
+          "chineseName": "缝后设备",
+          "translatedName": "Equipment after sewing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 1035809,
+          "chineseName": "缝中设备",
+          "translatedName": "Equipment in seam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 1035810,
+          "chineseName": "缝前设备",
+          "translatedName": "Equipment before sewing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201336319,
+          "chineseName": "缝纫机",
+          "translatedName": "Sewing Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201958504,
+          "chineseName": "钉扣机",
+          "translatedName": "nailing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201958105,
+          "chineseName": "包缝机",
+          "translatedName": "overlock sewing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201958106,
+          "chineseName": "蒸化机",
+          "translatedName": "steaming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201958701,
+          "chineseName": "烫台",
+          "translatedName": "Hot table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        },
+        {
+          "categoryId": 201955701,
+          "chineseName": "检针机",
+          "translatedName": "needle detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 329
+        }
+      ]
+    }
+  }
+}

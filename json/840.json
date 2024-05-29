@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 840,
+      "chineseName": "重氮化合物",
+      "translatedName": "diazo compound",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "8"
+    }
+  }
+}

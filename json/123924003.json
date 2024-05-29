@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924003,
+      "chineseName": "剥线钳",
+      "translatedName": "Wire stripping pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123928001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125754002,
+      "chineseName": "分馏柱",
+      "translatedName": "fractionating column",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "826"
+    }
+  }
+}

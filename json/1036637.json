@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036637,
+      "chineseName": "阳篷、雨篷",
+      "translatedName": "Awning, awning",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1037965"
+    }
+  }
+}

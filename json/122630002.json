@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122630002,
+      "chineseName": "洗米筛",
+      "translatedName": "washing rice sieve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122146001"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10347,
+      "chineseName": "过滤设备",
+      "translatedName": "Filtration equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031663,
+          "chineseName": "压滤设备",
+          "translatedName": "Pressure filter equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10347
+        },
+        {
+          "categoryId": 1034331,
+          "chineseName": "其他过滤设备",
+          "translatedName": "Other filtration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10347
+        },
+        {
+          "categoryId": 1034332,
+          "chineseName": "滤油机",
+          "translatedName": "Oil filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10347
+        },
+        {
+          "categoryId": 1034333,
+          "chineseName": "过滤器",
+          "translatedName": "Filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10347
+        },
+        {
+          "categoryId": 1034334,
+          "chineseName": "过滤机",
+          "translatedName": "Filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10347
+        }
+      ]
+    }
+  }
+}

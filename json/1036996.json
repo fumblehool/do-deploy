@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036996,
+      "chineseName": "男式沙滩裤",
+      "translatedName": "men's beach pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165"
+    }
+  }
+}

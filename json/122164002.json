@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122164002,
+      "chineseName": "剥蒜器、蒜泥器",
+      "translatedName": "Garlic peeler, garlic peeler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122146001"
+    }
+  }
+}

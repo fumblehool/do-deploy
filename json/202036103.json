@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202036103,
+      "chineseName": "救援担架",
+      "translatedName": "rescue stretcher",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373319"
+    }
+  }
+}

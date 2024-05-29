@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201357202,
+      "chineseName": "早教闪卡/潜能开发卡",
+      "translatedName": "Early Education Flash Card/Potential Development Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

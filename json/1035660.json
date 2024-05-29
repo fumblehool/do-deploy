@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035660,
+      "chineseName": "打印机配件",
+      "translatedName": "Printer Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

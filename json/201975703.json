@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201975703,
+      "chineseName": "蒸笼屉布/垫/纸",
+      "translatedName": "Steamer drawer cloth/pad/paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122146001"
+    }
+  }
+}

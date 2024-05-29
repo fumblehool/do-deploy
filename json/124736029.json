@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736029,
+      "chineseName": "樱桃干/车厘子干",
+      "translatedName": "Dried Cherry/Cherry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744016"
+    }
+  }
+}

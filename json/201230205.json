@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201230205,
+      "chineseName": "纪念盘",
+      "translatedName": "Commemorative Plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229008"
+    }
+  }
+}

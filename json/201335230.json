@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335230,
+      "chineseName": "恒温杯垫",
+      "translatedName": "Constant Temperature Coaster",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "653"
+    }
+  }
+}

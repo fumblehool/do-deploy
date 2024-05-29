@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054203,
+      "chineseName": "电路保护",
+      "translatedName": "Circuit Protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1039966,
+          "chineseName": "保护器件",
+          "translatedName": "protection device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202057505,
+          "chineseName": "一次性保险丝",
+          "translatedName": "Disposable fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202057603,
+          "chineseName": "温度保险丝",
+          "translatedName": "Temperature fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202063402,
+          "chineseName": "自恢复保险丝",
+          "translatedName": "Self-recovery fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202058204,
+          "chineseName": "保险丝座(盒)",
+          "translatedName": "Fuse holder (box)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202058304,
+          "chineseName": "防雷管",
+          "translatedName": "Lightning protection tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        },
+        {
+          "categoryId": 202060408,
+          "chineseName": "放电管",
+          "translatedName": "discharge tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054203
+        }
+      ]
+    }
+  }
+}

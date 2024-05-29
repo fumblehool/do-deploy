@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122352005,
+      "chineseName": "钻石画、皮画",
+      "translatedName": "Diamond painting, leather painting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926016"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037032,
+      "chineseName": "展示裤架",
+      "translatedName": "Show trouser rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "345"
+    }
+  }
+}

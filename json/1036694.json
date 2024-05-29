@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036694,
+      "chineseName": "光固化树脂",
+      "translatedName": "light curing resin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036686"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122196011,
+      "chineseName": "衣物清洁护理",
+      "translatedName": "Clothing cleaning care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122200010,
+          "chineseName": "其他衣物清洁护理",
+          "translatedName": "Other clothes cleaning care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122202006,
+          "chineseName": "干洗剂",
+          "translatedName": "dry cleaning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122278003,
+          "chineseName": "衣物柔顺剂",
+          "translatedName": "Clothing Softener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122220008,
+          "chineseName": "彩漂",
+          "translatedName": "Color drift",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122258005,
+          "chineseName": "衣领净",
+          "translatedName": "collar clean",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122242006,
+          "chineseName": "洗衣粉",
+          "translatedName": "washing powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122222006,
+          "chineseName": "洗衣皂",
+          "translatedName": "Laundry soap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122982008,
+          "chineseName": "婴幼儿洗衣液/皂",
+          "translatedName": "Baby laundry detergent/soap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122208007,
+          "chineseName": "漂白水",
+          "translatedName": "Bleaching water",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 122210007,
+          "chineseName": "洗衣液",
+          "translatedName": "Laundry Detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201304725,
+          "chineseName": "鞋袜除臭剂",
+          "translatedName": "Footwear Deodorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201238704,
+          "chineseName": "留香珠",
+          "translatedName": "Leave Fragrant Beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201312203,
+          "chineseName": "衣物去渍笔",
+          "translatedName": "Clothes stain removing pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201231605,
+          "chineseName": "洗衣凝珠",
+          "translatedName": "Laundry beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201774901,
+          "chineseName": "肥皂片洗手片",
+          "translatedName": "soap tablets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201725606,
+          "chineseName": "内衣洗衣液",
+          "translatedName": "Underwear laundry detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201747801,
+          "chineseName": "吸色片/防染色片",
+          "translatedName": "Absorbing color film/anti-dyeing color film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        },
+        {
+          "categoryId": 201748102,
+          "chineseName": "洗衣片",
+          "translatedName": "Laundry Tablets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196011
+        }
+      ]
+    }
+  }
+}

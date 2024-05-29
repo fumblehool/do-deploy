@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201376002,
+      "chineseName": "切切乐",
+      "translatedName": "Cheschile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

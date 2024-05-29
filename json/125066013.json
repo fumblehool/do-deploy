@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125066013,
+      "chineseName": "电动车配件",
+      "translatedName": "Electric Vehicle Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125062023,
+          "chineseName": "其他电动车配件",
+          "translatedName": "Other Electric Vehicle Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201976002,
+          "chineseName": "电动车后靠背",
+          "translatedName": "Electric car rear backrest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201890206,
+          "chineseName": "电动车挡泥板",
+          "translatedName": "Electric vehicle fender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201890803,
+          "chineseName": "瘪胎助推器",
+          "translatedName": "flat tire booster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201891502,
+          "chineseName": "电动车脚踏",
+          "translatedName": "Electric vehicle pedal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201884512,
+          "chineseName": "电动车牌照框",
+          "translatedName": "Electric vehicle license plate frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201885306,
+          "chineseName": "电动车坐垫",
+          "translatedName": "Electric car cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201972302,
+          "chineseName": "儿童座椅棚",
+          "translatedName": "Child seat shed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201899902,
+          "chineseName": "电动车儿童座椅",
+          "translatedName": "Electric car child seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201960106,
+          "chineseName": "电动车遮阳棚",
+          "translatedName": "Electric car awning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201879305,
+          "chineseName": "电动车钥匙盖壳",
+          "translatedName": "Electric vehicle key cover shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201879906,
+          "chineseName": "电动车防撞垫",
+          "translatedName": "Anti-collision pad for electric vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201880806,
+          "chineseName": "电动车GPS定位器",
+          "translatedName": "Electric Vehicle GPS Locator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201887505,
+          "chineseName": "电动车脚垫",
+          "translatedName": "Electric vehicle foot mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201888003,
+          "chineseName": "头盔锁",
+          "translatedName": "helmet lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201881608,
+          "chineseName": "电动车大脚架",
+          "translatedName": "Electric car big tripod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201881906,
+          "chineseName": "电动车单边撑垫",
+          "translatedName": "Electric car unilateral support pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201967003,
+          "chineseName": "电动车尾箱",
+          "translatedName": "Electric car tail box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        },
+        {
+          "categoryId": 201969005,
+          "chineseName": "手把套",
+          "translatedName": "Handlehold cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125066013
+        }
+      ]
+    }
+  }
+}

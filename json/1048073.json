@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048073,
+      "chineseName": "冲锋衣、裤",
+      "translatedName": "Charge clothes, pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048070"
+    }
+  }
+}

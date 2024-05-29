@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201358947,
+      "chineseName": "午睡枕",
+      "translatedName": "Nap Pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127894012"
+    }
+  }
+}

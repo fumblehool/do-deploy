@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122108003,
+      "chineseName": "独轮车",
+      "translatedName": "unicycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564618"
+    }
+  }
+}

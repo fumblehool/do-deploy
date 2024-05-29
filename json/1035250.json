@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035250,
+      "chineseName": "电光源材料",
+      "translatedName": "Electric light source material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032345,
+          "chineseName": "灯丝",
+          "translatedName": "filament",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035250
+        },
+        {
+          "categoryId": 1035251,
+          "chineseName": "其他电光源材料",
+          "translatedName": "Other electric light source materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035250
+        },
+        {
+          "categoryId": 1035252,
+          "chineseName": "芯柱",
+          "translatedName": "core column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035250
+        },
+        {
+          "categoryId": 1035253,
+          "chineseName": "灯管、泡壳",
+          "translatedName": "Lamp, bubble shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035250
+        },
+        {
+          "categoryId": 1035254,
+          "chineseName": "荧光粉、电子粉",
+          "translatedName": "Fluorescent powder, electronic powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035250
+        }
+      ]
+    }
+  }
+}

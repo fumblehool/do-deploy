@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033662,
+      "chineseName": "智力迷宫",
+      "translatedName": "Intelligence Maze",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201901602,
+      "chineseName": "弹力棒/健身棒",
+      "translatedName": "Bars/Fitness Bars",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201828601,
+      "chineseName": "水槽沥水袋",
+      "translatedName": "Sink Drain Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1514"
+    }
+  }
+}

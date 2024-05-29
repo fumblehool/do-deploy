@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612001,
+      "chineseName": "圆柱滚子轴承",
+      "translatedName": "Cylindrical roller bearings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141903"
+    }
+  }
+}

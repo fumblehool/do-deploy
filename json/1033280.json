@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033280,
+      "chineseName": "电源适配器",
+      "translatedName": "Power Adapter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032228"
+    }
+  }
+}

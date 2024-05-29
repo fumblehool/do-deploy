@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2111,
+      "chineseName": "学习文具",
+      "translatedName": "Learning Stationery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033061,
+          "chineseName": "橡皮擦",
+          "translatedName": "Eraser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033062,
+          "chineseName": "修正带",
+          "translatedName": "Correction tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033063,
+          "chineseName": "修正液",
+          "translatedName": "Correction fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1031744,
+          "chineseName": "笔袋",
+          "translatedName": "Pencil case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033087,
+          "chineseName": "笔筒",
+          "translatedName": "Pen container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033088,
+          "chineseName": "文具盒",
+          "translatedName": "Stationery box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033089,
+          "chineseName": "文具套装",
+          "translatedName": "Stationery Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033090,
+          "chineseName": "卷笔刀、削笔器",
+          "translatedName": "Pencil sharpener, pencil sharpener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033091,
+          "chineseName": "书立",
+          "translatedName": "Book Stand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033092,
+          "chineseName": "墨水",
+          "translatedName": "Ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1033095,
+          "chineseName": "圆规",
+          "translatedName": "compass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1041667,
+          "chineseName": "看书架",
+          "translatedName": "Look at the bookshelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1036616,
+          "chineseName": "书签",
+          "translatedName": "Bookmarks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 1040573,
+          "chineseName": "书套",
+          "translatedName": "book cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 127840004,
+          "chineseName": "练字帖",
+          "translatedName": "Practice Copybook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        },
+        {
+          "categoryId": 127854004,
+          "chineseName": "文具贴纸",
+          "translatedName": "Stationery stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2111
+        }
+      ]
+    }
+  }
+}

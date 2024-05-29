@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1746,
+      "chineseName": "首饰套装",
+      "translatedName": "Jewelry Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "54"
+    }
+  }
+}

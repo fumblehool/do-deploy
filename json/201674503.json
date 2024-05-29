@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201674503,
+      "chineseName": "曼陀铃弦",
+      "translatedName": "Mandolin String",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

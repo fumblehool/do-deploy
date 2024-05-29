@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161304,
+      "chineseName": "毛绒/布艺公仔玩具",
+      "translatedName": "Plush/Fabric Doll Toy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032026,
+          "chineseName": "布老虎",
+          "translatedName": "Cloth tiger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201161107,
+          "chineseName": "吉祥物公仔",
+          "translatedName": "Mascot Figurine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201161202,
+          "chineseName": "仿真公仔",
+          "translatedName": "simulation doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201161203,
+          "chineseName": "公仔抱枕",
+          "translatedName": "Doll pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201157304,
+          "chineseName": "ins公仔",
+          "translatedName": "ins doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201162206,
+          "chineseName": "抓娃娃机公仔",
+          "translatedName": "Catch doll machine doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201162602,
+          "chineseName": "毛绒公仔椅",
+          "translatedName": "Plush Doll Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        },
+        {
+          "categoryId": 201162807,
+          "chineseName": "公仔挂件",
+          "translatedName": "Doll pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201161304
+        }
+      ]
+    }
+  }
+}

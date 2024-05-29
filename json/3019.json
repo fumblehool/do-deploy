@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3019,
+      "chineseName": "防静电产品",
+      "translatedName": "Anti-static products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032245,
+          "chineseName": "其他防静电产品",
+          "translatedName": "Other anti-static products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1035284,
+          "chineseName": "离子风棒",
+          "translatedName": "Ion wind rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1035285,
+          "chineseName": "离子风枪",
+          "translatedName": "ion air gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1035286,
+          "chineseName": "防静电工具",
+          "translatedName": "Anti-static tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036661,
+          "chineseName": "防静电包装材料",
+          "translatedName": "Anti-static packaging materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036660,
+          "chineseName": "防静电板",
+          "translatedName": "anti-static plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036662,
+          "chineseName": "无尘纸、无尘布",
+          "translatedName": "Dust-free paper, dust-free cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036664,
+          "chineseName": "防静电服及配件",
+          "translatedName": "Anti-static clothing and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036665,
+          "chineseName": "防静电手套、腕带",
+          "translatedName": "Anti-static gloves, wrist strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036666,
+          "chineseName": "防静电垫",
+          "translatedName": "Anti-static mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036667,
+          "chineseName": "防静电帘",
+          "translatedName": "Anti-static curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036668,
+          "chineseName": "静电消除、发生器",
+          "translatedName": "Static elimination, generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036739,
+          "chineseName": "防静电椅",
+          "translatedName": "Anti-static chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1036740,
+          "chineseName": "防静电刷",
+          "translatedName": "Anti-static brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 1046809,
+          "chineseName": "离子风蛇",
+          "translatedName": "Ionic Wind Snake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 124680002,
+          "chineseName": "擦拭棒",
+          "translatedName": "Wipe stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        },
+        {
+          "categoryId": 124680003,
+          "chineseName": "工业湿巾",
+          "translatedName": "Industrial Wipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3019
+        }
+      ]
+    }
+  }
+}

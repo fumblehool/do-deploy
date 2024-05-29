@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201694001,
+      "chineseName": "智能垃圾桶",
+      "translatedName": "Intelligent trash can",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

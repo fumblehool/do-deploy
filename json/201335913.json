@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335913,
+      "chineseName": "摩尼宝",
+      "translatedName": "Monebo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330711"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736001,
+      "chineseName": "体脂测量仪",
+      "translatedName": "body fat measuring instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

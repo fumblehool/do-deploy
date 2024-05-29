@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034084,
+      "chineseName": "晒版机",
+      "translatedName": "printer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3406"
+    }
+  }
+}

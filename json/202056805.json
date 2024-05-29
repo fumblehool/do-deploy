@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056805,
+      "chineseName": "充电桩线缆",
+      "translatedName": "Charging pile cable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10197"
+    }
+  }
+}

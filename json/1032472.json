@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032472,
+      "chineseName": "匠作工具",
+      "translatedName": "Craftsman Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032408,
+          "chineseName": "手工刨",
+          "translatedName": "Hand planer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        },
+        {
+          "categoryId": 1035515,
+          "chineseName": "其他匠作工具",
+          "translatedName": "Other craftsmanship tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        },
+        {
+          "categoryId": 1035516,
+          "chineseName": "玻璃刀",
+          "translatedName": "Glass knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        },
+        {
+          "categoryId": 1035517,
+          "chineseName": "抹泥板",
+          "translatedName": "Spureboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        },
+        {
+          "categoryId": 1035518,
+          "chineseName": "油灰刀",
+          "translatedName": "putty knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        },
+        {
+          "categoryId": 201914704,
+          "chineseName": "玻璃瓷砖吸盘",
+          "translatedName": "Glass Tile Suction Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032472
+        }
+      ]
+    }
+  }
+}

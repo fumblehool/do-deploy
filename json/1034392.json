@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034392,
+      "chineseName": "鞋材、鞋件加工",
+      "translatedName": "Shoe materials and shoe parts processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

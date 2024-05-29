@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060611,
+      "chineseName": "散热片/散热元件",
+      "translatedName": "Heat sink/cooling element",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061004"
+    }
+  }
+}

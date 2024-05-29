@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304911,
+      "chineseName": "除毛用品",
+      "translatedName": "Hair removal supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121850001"
+    }
+  }
+}

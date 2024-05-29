@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055309,
+      "chineseName": "发热暖脖圈",
+      "translatedName": "Heating warm neck ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201664803"
+    }
+  }
+}

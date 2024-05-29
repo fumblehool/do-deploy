@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202050801,
+      "chineseName": "女式唐装",
+      "translatedName": "women's tang suit",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201159503,
+          "chineseName": "唐装套装",
+          "translatedName": "Tang Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050801
+        },
+        {
+          "categoryId": 202054801,
+          "chineseName": "上衣",
+          "translatedName": "Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050801
+        },
+        {
+          "categoryId": 202051201,
+          "chineseName": "裙子",
+          "translatedName": "Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050801
+        },
+        {
+          "categoryId": 202055401,
+          "chineseName": "裤子",
+          "translatedName": "Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050801
+        }
+      ]
+    }
+  }
+}

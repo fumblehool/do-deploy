@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127450002,
+      "chineseName": "琥珀手饰",
+      "translatedName": "Amber Bracelet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

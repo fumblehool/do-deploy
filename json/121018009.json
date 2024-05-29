@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018009,
+      "chineseName": "普通热轧板",
+      "translatedName": "ordinary hot rolled plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012015"
+    }
+  }
+}

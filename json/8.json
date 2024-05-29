@@ -1,0 +1,820 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 8,
+      "chineseName": "化工",
+      "translatedName": "Chemical",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 100104,
+          "chineseName": "石油蜡",
+          "translatedName": "petroleum wax",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031623,
+          "chineseName": "无机胶粘剂",
+          "translatedName": "inorganic adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031624,
+          "chineseName": "涂料、油漆",
+          "translatedName": "Coatings, paints",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031630,
+          "chineseName": "有机颜料",
+          "translatedName": "organic pigment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031632,
+          "chineseName": "无机颜料/填料",
+          "translatedName": "Inorganic Pigments/Fillers",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031633,
+          "chineseName": "香料、香精",
+          "translatedName": "Spices, flavors",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034557,
+          "chineseName": "其他精细化学品",
+          "translatedName": "Other Fine Chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031617,
+          "chineseName": "饲料添加剂",
+          "translatedName": "feed additive",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031620,
+          "chineseName": "合成胶粘剂",
+          "translatedName": "synthetic adhesive",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031622,
+          "chineseName": "天然胶粘剂",
+          "translatedName": "natural adhesive",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1032190,
+          "chineseName": "车用润滑油",
+          "translatedName": "automotive lubricating oil",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034567,
+          "chineseName": "石油产品添加剂",
+          "translatedName": "Petroleum Product Additives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10239,
+          "chineseName": "化工废料",
+          "translatedName": "chemical waste",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034578,
+          "chineseName": "库存精细化学品",
+          "translatedName": "Inventory of fine chemicals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034587,
+          "chineseName": "精细化学品代理加盟",
+          "translatedName": "Fine chemicals agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031656,
+          "chineseName": "金属加工助剂",
+          "translatedName": "Metal processing aids",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1033682,
+          "chineseName": "工业润滑油",
+          "translatedName": "Industrial Lubricants",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034588,
+          "chineseName": "精细化工项目合作",
+          "translatedName": "Fine chemical project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10054,
+          "chineseName": "化肥",
+          "translatedName": "Fertilizer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031672,
+          "chineseName": "合成树脂",
+          "translatedName": "synthetic resin",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1034240,
+          "chineseName": "空气处理化学品",
+          "translatedName": "Air Treatment Chemicals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10055,
+          "chineseName": "农药原药",
+          "translatedName": "raw pesticide",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031680,
+          "chineseName": "天然树脂",
+          "translatedName": "natural resin",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031681,
+          "chineseName": "染料",
+          "translatedName": "Dyes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031687,
+          "chineseName": "催化剂",
+          "translatedName": "Catalyst",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031799,
+          "chineseName": "化工原料代理加盟",
+          "translatedName": "Chemical raw materials agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10069,
+          "chineseName": "植物生长调节剂",
+          "translatedName": "plant growth regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1031607,
+          "chineseName": "食品添加剂",
+          "translatedName": "Food Additives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10383,
+          "chineseName": "电子工业用助剂",
+          "translatedName": "Additives for electronic industry",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10374,
+          "chineseName": "表面活性剂",
+          "translatedName": "surface active agent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10377,
+          "chineseName": "纺织染整助剂",
+          "translatedName": "Textile Dyeing and Finishing Auxiliaries",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1036571,
+          "chineseName": "建筑用精细化学品",
+          "translatedName": "Fine chemicals for construction",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1036686,
+          "chineseName": "涂料乳液及成膜物质",
+          "translatedName": "Coating emulsion and film-forming substance",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10371,
+          "chineseName": "合成材料助剂",
+          "translatedName": "Synthetic material additives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10380,
+          "chineseName": "水处理化学品",
+          "translatedName": "Water Treatment Chemicals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10381,
+          "chineseName": "造纸助剂",
+          "translatedName": "Papermaking additives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10382,
+          "chineseName": "皮革化学品",
+          "translatedName": "Leather Chemicals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10402,
+          "chineseName": "玻璃",
+          "translatedName": "Glass",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 1036778,
+          "chineseName": "选矿药剂及冶炼助剂",
+          "translatedName": "Beneficiation reagent and smelting aid",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10384,
+          "chineseName": "涂料助剂",
+          "translatedName": "Coating additives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10385,
+          "chineseName": "其他助剂",
+          "translatedName": "Other Auxiliaries",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10373,
+          "chineseName": "吸附剂",
+          "translatedName": "Adsorbent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 10522,
+          "chineseName": "金属粉末",
+          "translatedName": "Metal powder",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 201332403,
+          "chineseName": "生命科学",
+          "translatedName": "Life science",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 141,
+          "chineseName": "农药制剂",
+          "translatedName": "pesticide formulation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 201827202,
+          "chineseName": "乳胶原液",
+          "translatedName": "latex stock solution",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 201828801,
+          "chineseName": "信息用化学品",
+          "translatedName": "Information chemicals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 290308,
+          "chineseName": "化工项目合作",
+          "translatedName": "Chemical project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 803,
+          "chineseName": "烃类",
+          "translatedName": "Hydrocarbons",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 802,
+          "chineseName": "无机盐",
+          "translatedName": "inorganic salt",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 836,
+          "chineseName": "羧酸衍生物",
+          "translatedName": "carboxylic acid derivative",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 837,
+          "chineseName": "磺酸",
+          "translatedName": "sulfonic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 838,
+          "chineseName": "磺酸衍生物",
+          "translatedName": "sulfonic acid derivatives",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 839,
+          "chineseName": "偶氮化合物",
+          "translatedName": "azo compound",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 840,
+          "chineseName": "重氮化合物",
+          "translatedName": "diazo compound",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 201834402,
+          "chineseName": "工业用清洗剂",
+          "translatedName": "Industrial cleaning agent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80304,
+          "chineseName": "砜",
+          "translatedName": "sulfone",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80305,
+          "chineseName": "碳水化合物",
+          "translatedName": "Carbohydrate",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80307,
+          "chineseName": "醇类",
+          "translatedName": "Alcohols",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80308,
+          "chineseName": "酚类",
+          "translatedName": "Phenols",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80309,
+          "chineseName": "醛",
+          "translatedName": "Aldehyde",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80310,
+          "chineseName": "酮",
+          "translatedName": "Ketone",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80311,
+          "chineseName": "胺",
+          "translatedName": "Amine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80312,
+          "chineseName": "羧酸",
+          "translatedName": "carboxylic acid",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80313,
+          "chineseName": "醌类",
+          "translatedName": "Quinones",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 201836001,
+          "chineseName": "碳纤维",
+          "translatedName": "carbon fiber",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80316,
+          "chineseName": "醚",
+          "translatedName": "Ether",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80317,
+          "chineseName": "杂环化合物",
+          "translatedName": "heterocyclic compound",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80320,
+          "chineseName": "腈",
+          "translatedName": "Nitrile",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 810,
+          "chineseName": "其他聚合物",
+          "translatedName": "Other Polymers",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 813,
+          "chineseName": "油墨",
+          "translatedName": "Ink",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 817,
+          "chineseName": "化学试剂",
+          "translatedName": "Chemical reagent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80201,
+          "chineseName": "无机酸",
+          "translatedName": "Inorganic acids",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80202,
+          "chineseName": "无机碱",
+          "translatedName": "inorganic base",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80204,
+          "chineseName": "氧化物",
+          "translatedName": "Oxide",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80205,
+          "chineseName": "单质",
+          "translatedName": "simple substance",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 80206,
+          "chineseName": "工业气体",
+          "translatedName": "Industrial gas",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 842,
+          "chineseName": "过氧化物",
+          "translatedName": "peroxide",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 843,
+          "chineseName": "煤焦化产品",
+          "translatedName": "coal coking products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 844,
+          "chineseName": "化工中间体",
+          "translatedName": "chemical intermediate",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 845,
+          "chineseName": "玻璃制品",
+          "translatedName": "Glass Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 846,
+          "chineseName": "海绵",
+          "translatedName": "Sponge",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 847,
+          "chineseName": "玻璃纤维",
+          "translatedName": "glass fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 848,
+          "chineseName": "无机非金属材料",
+          "translatedName": "inorganic non-metallic materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 824,
+          "chineseName": "火工产品",
+          "translatedName": "fire engineering products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 826,
+          "chineseName": "实验室器皿",
+          "translatedName": "Laboratory Utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 828,
+          "chineseName": "库存化工原料",
+          "translatedName": "Stock of chemical raw materials",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 830,
+          "chineseName": "其他未分类",
+          "translatedName": "Other Unclassified",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 8
+        },
+        {
+          "categoryId": 832,
+          "chineseName": "生物化工",
+          "translatedName": "biological chemical industry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 8
+        }
+      ]
+    }
+  }
+}

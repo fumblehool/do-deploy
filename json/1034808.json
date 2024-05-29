@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034808,
+      "chineseName": "其他涂料助剂",
+      "translatedName": "Other Coating Additives",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10384"
+    }
+  }
+}

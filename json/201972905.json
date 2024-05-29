@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201972905,
+      "chineseName": "桶装水支架",
+      "translatedName": "Barreled water support",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122146001"
+    }
+  }
+}

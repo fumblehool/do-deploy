@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045488,
+      "chineseName": "仙人掌及多肉植物",
+      "translatedName": "Cactus and succulents",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124"
+    }
+  }
+}

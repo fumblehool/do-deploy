@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121486006,
+      "chineseName": "车载洗车器",
+      "translatedName": "Car washer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121500003"
+    }
+  }
+}

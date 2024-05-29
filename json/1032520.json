@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032520,
+      "chineseName": "豆制品加工设备",
+      "translatedName": "Bean products processing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

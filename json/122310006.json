@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310006,
+      "chineseName": "大豆纤维枕",
+      "translatedName": "soybean fiber pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123086001"
+    }
+  }
+}

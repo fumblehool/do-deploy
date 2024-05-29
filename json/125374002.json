@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125374002,
+      "chineseName": "冰丝袖套",
+      "translatedName": "Ice Silk Sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122478003"
+    }
+  }
+}

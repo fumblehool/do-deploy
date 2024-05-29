@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160502,
+      "chineseName": "节日用品礼盒",
+      "translatedName": "Holiday supplies gift box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1702"
+    }
+  }
+}

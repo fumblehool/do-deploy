@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127880002,
+      "chineseName": "变频器",
+      "translatedName": "Frequency converter",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038209,
+          "chineseName": "其他变频器",
+          "translatedName": "Other frequency converters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127880002
+        },
+        {
+          "categoryId": 127876003,
+          "chineseName": "变频器控制单元",
+          "translatedName": "Frequency converter control unit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127880002
+        },
+        {
+          "categoryId": 127894005,
+          "chineseName": "变频器操作面板",
+          "translatedName": "Frequency converter operation panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127880002
+        },
+        {
+          "categoryId": 127874003,
+          "chineseName": "变频器功率模块",
+          "translatedName": "Frequency converter power module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127880002
+        },
+        {
+          "categoryId": 127890002,
+          "chineseName": "标准变频器",
+          "translatedName": "Standard frequency converter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127880002
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201973203,
+      "chineseName": "生发仪（器械）",
+      "translatedName": "Hair growth apparatus (apparatus)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

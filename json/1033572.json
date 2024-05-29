@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033572,
+      "chineseName": "二手皮革加工设备",
+      "translatedName": "Used leather processing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2829"
+    }
+  }
+}

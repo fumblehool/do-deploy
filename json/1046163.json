@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046163,
+      "chineseName": "充气芯膜",
+      "translatedName": "Inflatable core membrane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046156"
+    }
+  }
+}

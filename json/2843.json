@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2843,
+      "chineseName": "展览服务",
+      "translatedName": "Exhibition Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036524,
+          "chineseName": "其他展览服务",
+          "translatedName": "Other Exhibition Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2843
+        },
+        {
+          "categoryId": 1036525,
+          "chineseName": "展台设计搭建",
+          "translatedName": "Booth design and construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2843
+        },
+        {
+          "categoryId": 2504,
+          "chineseName": "展览设计制作",
+          "translatedName": "Exhibition design and production",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2843
+        }
+      ]
+    }
+  }
+}

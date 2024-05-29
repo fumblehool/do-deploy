@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033129,
+      "chineseName": "学校课桌椅",
+      "translatedName": "School desks and chairs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122794001"
+    }
+  }
+}

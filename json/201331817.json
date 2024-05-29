@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331817,
+      "chineseName": "布质/软胶积木",
+      "translatedName": "Cloth/Soft Rubber Building Blocks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122984013"
+    }
+  }
+}

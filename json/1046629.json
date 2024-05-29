@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046629,
+      "chineseName": "其他棉类面料",
+      "translatedName": "Other Cotton Fabrics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046621"
+    }
+  }
+}

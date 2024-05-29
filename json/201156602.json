@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156602,
+      "chineseName": "军迷配饰",
+      "translatedName": "Army fan accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045423"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032380,
+      "chineseName": "仪器仪表配附件",
+      "translatedName": "Instrument accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032381,
+          "chineseName": "仪用电源",
+          "translatedName": "Instrument power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        },
+        {
+          "categoryId": 1032385,
+          "chineseName": "其他仪器仪表配附件",
+          "translatedName": "Other instruments and meters with accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        },
+        {
+          "categoryId": 1033817,
+          "chineseName": "仪表盘",
+          "translatedName": "Instrument cluster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        },
+        {
+          "categoryId": 1033818,
+          "chineseName": "仪表壳体",
+          "translatedName": "Instrument housing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        },
+        {
+          "categoryId": 1033819,
+          "chineseName": "仪表盒",
+          "translatedName": "Instrument box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        },
+        {
+          "categoryId": 1037346,
+          "chineseName": "仪器箱",
+          "translatedName": "Instrument box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032380
+        }
+      ]
+    }
+  }
+}

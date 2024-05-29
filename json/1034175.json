@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034175,
+      "chineseName": "数码印刷机",
+      "translatedName": "digital printing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3403"
+    }
+  }
+}

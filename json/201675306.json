@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201675306,
+      "chineseName": "梆子",
+      "translatedName": "Bangzi",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649201"
+    }
+  }
+}

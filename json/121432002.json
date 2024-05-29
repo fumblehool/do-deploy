@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121432002,
+      "chineseName": "CD机",
+      "translatedName": "CD player",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047104"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054702,
+      "chineseName": "中老年毛衣、针织衫",
+      "translatedName": "Middle-aged and elderly sweaters, knitwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

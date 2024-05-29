@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126022003,
+      "chineseName": "男士U型/囊袋内裤",
+      "translatedName": "Men's U-shaped/Pocket Panties",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201835213"
+    }
+  }
+}

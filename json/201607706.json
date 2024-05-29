@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201607706,
+      "chineseName": "瓷砖附件",
+      "translatedName": "Tile Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10405"
+    }
+  }
+}

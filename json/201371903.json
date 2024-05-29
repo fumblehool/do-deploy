@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201371903,
+      "chineseName": "感统训练器材/设备",
+      "translatedName": "sensory training equipment/equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

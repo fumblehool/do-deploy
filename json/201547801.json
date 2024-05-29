@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201547801,
+      "chineseName": "日用餐厨饮具",
+      "translatedName": "Daily food, kitchen and drinking utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10287,
+          "chineseName": "餐具",
+          "translatedName": "Tableware",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 10297,
+          "chineseName": "烘焙用具",
+          "translatedName": "Baking utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 1046721,
+          "chineseName": "饮水用具",
+          "translatedName": "Drinking utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 122548001,
+          "chineseName": "锅、煲",
+          "translatedName": "Pot, pot",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 122146001,
+          "chineseName": "厨房工具",
+          "translatedName": "Kitchen Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 122320004,
+          "chineseName": "酒具",
+          "translatedName": "Wine utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 121546006,
+          "chineseName": "烧烤用具",
+          "translatedName": "Barbecue utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 121548001,
+          "chineseName": "茶具",
+          "translatedName": "Tea Set",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 127764003,
+          "chineseName": "厨用刀剪具",
+          "translatedName": "Kitchen knife scissors",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        },
+        {
+          "categoryId": 201162703,
+          "chineseName": "咖啡具",
+          "translatedName": "Coffee set",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547801
+        }
+      ]
+    }
+  }
+}

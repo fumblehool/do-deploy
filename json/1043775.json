@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043775,
+      "chineseName": "厨房置物架",
+      "translatedName": "Kitchen Storage Rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10295"
+    }
+  }
+}

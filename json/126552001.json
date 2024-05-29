@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126552001,
+      "chineseName": "民用无人机",
+      "translatedName": "Civilian UAV",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126510004,
+          "chineseName": "巡查/航拍无人机",
+          "translatedName": "Patrol/aerial drone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        },
+        {
+          "categoryId": 126454008,
+          "chineseName": "其他无人机",
+          "translatedName": "Other drones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        },
+        {
+          "categoryId": 126440004,
+          "chineseName": "气象无人机",
+          "translatedName": "Meteorological UAV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        },
+        {
+          "categoryId": 126476005,
+          "chineseName": "农用无人机",
+          "translatedName": "Agricultural Drones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        },
+        {
+          "categoryId": 126478006,
+          "chineseName": "测绘无人机",
+          "translatedName": "Surveying and mapping UAV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        },
+        {
+          "categoryId": 126450004,
+          "chineseName": "勘探无人机",
+          "translatedName": "Exploration UAV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126552001
+        }
+      ]
+    }
+  }
+}

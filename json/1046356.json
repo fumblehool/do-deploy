@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046356,
+      "chineseName": "肠衣",
+      "translatedName": "Casing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046352"
+    }
+  }
+}

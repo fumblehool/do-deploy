@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035227,
+      "chineseName": "绝缘隔离柱",
+      "translatedName": "Insulating isolation column",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1324"
+    }
+  }
+}

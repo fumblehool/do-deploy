@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037215,
+      "chineseName": "培养皿",
+      "translatedName": "Petri dish",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "826"
+    }
+  }
+}

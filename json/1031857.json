@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031857,
+      "chineseName": "二手制药设备",
+      "translatedName": "Used Pharmaceutical Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2829"
+    }
+  }
+}

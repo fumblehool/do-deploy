@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160906,
+      "chineseName": "布艺沙发",
+      "translatedName": "Fabric Sofa",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

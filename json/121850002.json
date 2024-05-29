@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121850002,
+      "chineseName": "仓鼠清洁用品",
+      "translatedName": "Hamster Cleaning Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121814002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744030,
+      "chineseName": "宠物门栏",
+      "translatedName": "Pet door rail",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121776006"
+    }
+  }
+}

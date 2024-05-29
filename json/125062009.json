@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062009,
+      "chineseName": "卤蛋蛋干类",
+      "translatedName": "Dried marinated eggs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125062008"
+    }
+  }
+}

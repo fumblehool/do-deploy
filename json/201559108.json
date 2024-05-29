@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201559108,
+      "chineseName": "童家居裙/睡裙",
+      "translatedName": "Children's Home Dress/Nightgown",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552907"
+    }
+  }
+}

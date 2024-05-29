@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201693704,
+      "chineseName": "岛台",
+      "translatedName": "Island Platform",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610020"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043500,
+      "chineseName": "唇膜、唇霜",
+      "translatedName": "Lip mask, lip cream",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043498"
+    }
+  }
+}

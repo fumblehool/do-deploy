@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201925701,
+      "chineseName": "太空豆",
+      "translatedName": "Space beans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044658"
+    }
+  }
+}

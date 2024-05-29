@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127876018,
+      "chineseName": "空中吊饰",
+      "translatedName": "Air Chandelier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127888009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034302,
+      "chineseName": "垃圾车",
+      "translatedName": "Garbage truck",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1209"
+    }
+  }
+}

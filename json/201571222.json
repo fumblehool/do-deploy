@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201571222,
+      "chineseName": "母婴电器",
+      "translatedName": "Maternal and child electrical appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043779,
+          "chineseName": "消毒器、暖奶器、小家电",
+          "translatedName": "Sterilizer, milk warmer, small household appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        },
+        {
+          "categoryId": 1043805,
+          "chineseName": "其他安全防护提醒产品",
+          "translatedName": "Other safety protection reminder products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        },
+        {
+          "categoryId": 122984007,
+          "chineseName": "婴儿理发器",
+          "translatedName": "baby hair clipper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        },
+        {
+          "categoryId": 124956001,
+          "chineseName": "婴儿监护器",
+          "translatedName": "baby monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        },
+        {
+          "categoryId": 123868001,
+          "chineseName": "吸鼻器",
+          "translatedName": "nasal aspirator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        },
+        {
+          "categoryId": 124960002,
+          "chineseName": "电动调奶器",
+          "translatedName": "Electric milk regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201571222
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201863904,
+      "chineseName": "健骨补钙",
+      "translatedName": "Bone strengthening and calcium supplementation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125278008"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127432007,
+      "chineseName": "战术双肩背包",
+      "translatedName": "Tactical Backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127406010"
+    }
+  }
+}

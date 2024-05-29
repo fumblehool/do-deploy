@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122390004,
+      "chineseName": "整理用具",
+      "translatedName": "Finishing utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037029,
+          "chineseName": "衣钩、挂钩、粘钩、钩子",
+          "translatedName": "Coat hook, hook, sticky hook, hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122396007,
+          "chineseName": "双面贴物器、魔力吸盘",
+          "translatedName": "Double-sided sticker, magic sucker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122340005,
+          "chineseName": "纸巾架",
+          "translatedName": "Tissue holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122312007,
+          "chineseName": "收纳整理架、置物架",
+          "translatedName": "Storage rack, storage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122378005,
+          "chineseName": "浴室架",
+          "translatedName": "Bathroom rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122628002,
+          "chineseName": "吸盘置物架",
+          "translatedName": "Suction Cup Storage Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122358003,
+          "chineseName": "整理隔板",
+          "translatedName": "Tidy up the partition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122362005,
+          "chineseName": "其他整理用具",
+          "translatedName": "Other Finishing Utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 124196002,
+          "chineseName": "门后挂钩",
+          "translatedName": "Door Hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 1048040,
+          "chineseName": "叠衣板、架",
+          "translatedName": "Fold board, rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122554001,
+          "chineseName": "洗衣机架",
+          "translatedName": "Laundry Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122554002,
+          "chineseName": "多层置物架",
+          "translatedName": "Multi-layer storage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 122556001,
+          "chineseName": "马桶架",
+          "translatedName": "Toilet Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        },
+        {
+          "categoryId": 124190020,
+          "chineseName": "墙壁挂架",
+          "translatedName": "Wall rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122390004
+        }
+      ]
+    }
+  }
+}

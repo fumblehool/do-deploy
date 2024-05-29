@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033142,
+      "chineseName": "量筒、量杯",
+      "translatedName": "Measuring cylinder, measuring cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "826"
+    }
+  }
+}

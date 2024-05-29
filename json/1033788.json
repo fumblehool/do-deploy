@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033788,
+      "chineseName": "包装设计",
+      "translatedName": "Packaging Design",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2828"
+    }
+  }
+}

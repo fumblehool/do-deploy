@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035822,
+      "chineseName": "铅及铅合金材",
+      "translatedName": "Lead and lead alloy materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10507"
+    }
+  }
+}

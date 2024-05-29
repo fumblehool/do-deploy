@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122218012,
+      "chineseName": "其他LED显示屏",
+      "translatedName": "Other LED displays",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612008"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123752004,
+      "chineseName": "其他智能设备",
+      "translatedName": "Other Smart Devices",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123754001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124184004,
+      "chineseName": "迷你电饭煲",
+      "translatedName": "Mini rice cooker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "653"
+    }
+  }
+}

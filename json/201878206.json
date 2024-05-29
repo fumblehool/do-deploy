@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201878206,
+      "chineseName": "汽车防虫网",
+      "translatedName": "Automobile anti-insect net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3308"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033451,
+      "chineseName": "二手通用零部件",
+      "translatedName": "Used General Parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2829"
+    }
+  }
+}

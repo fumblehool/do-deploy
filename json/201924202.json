@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201924202,
+      "chineseName": "划线V型铁",
+      "translatedName": "Scribed V-iron",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921406"
+    }
+  }
+}

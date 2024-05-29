@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122212001,
+      "chineseName": "婚庆回礼",
+      "translatedName": "Wedding return",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201336105,
+      "chineseName": "藤艺床",
+      "translatedName": "Rattan Art Bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122930001"
+    }
+  }
+}

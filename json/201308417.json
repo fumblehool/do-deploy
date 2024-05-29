@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308417,
+      "chineseName": "伞架/伞配件",
+      "translatedName": "Umbrella stand/umbrella accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016003"
+    }
+  }
+}

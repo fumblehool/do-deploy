@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202034504,
+      "chineseName": "伴娘服",
+      "translatedName": "Bridesmaid's Dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125740002"
+    }
+  }
+}

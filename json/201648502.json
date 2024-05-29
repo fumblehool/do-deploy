@@ -1,0 +1,532 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201648502,
+      "chineseName": "乐器配件",
+      "translatedName": "Musical Instrument Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201674605,
+          "chineseName": "琴码",
+          "translatedName": "piano code",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201675307,
+          "chineseName": "指挥棒",
+          "translatedName": "baton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201680402,
+          "chineseName": "民谣吉他弦",
+          "translatedName": "folk guitar strings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201680403,
+          "chineseName": "节拍器",
+          "translatedName": "Metronome",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201680502,
+          "chineseName": "吉他背带",
+          "translatedName": "Guitar Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201680702,
+          "chineseName": "谱架/谱台",
+          "translatedName": "Spectrum frame/spectrum table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201673606,
+          "chineseName": "笛头",
+          "translatedName": "Flute head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201673704,
+          "chineseName": "乐器连接线",
+          "translatedName": "Instrument Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201674503,
+          "chineseName": "曼陀铃弦",
+          "translatedName": "Mandolin String",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201679803,
+          "chineseName": "号嘴",
+          "translatedName": "Nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201672002,
+          "chineseName": "微调",
+          "translatedName": "Fine-tuning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201672403,
+          "chineseName": "镲片",
+          "translatedName": "cymbal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201672503,
+          "chineseName": "拉弦板",
+          "translatedName": "pull string plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201672703,
+          "chineseName": "乐器盒",
+          "translatedName": "musical instrument box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683201,
+          "chineseName": "踏板控制器",
+          "translatedName": "Pedal Controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683301,
+          "chineseName": "手指练习器",
+          "translatedName": "finger exerciser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683401,
+          "chineseName": "音叉",
+          "translatedName": "tuning fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683501,
+          "chineseName": "乐器包",
+          "translatedName": "musical instrument bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201670904,
+          "chineseName": "乐器指甲",
+          "translatedName": "Musical Instrument Nails",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201676803,
+          "chineseName": "滑棒/指套",
+          "translatedName": "Slipper/Finger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201677003,
+          "chineseName": "电吉他弦",
+          "translatedName": "electric guitar string",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201677204,
+          "chineseName": "班卓琴弦",
+          "translatedName": "banjo strings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681802,
+          "chineseName": "变调夹",
+          "translatedName": "Variable Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681903,
+          "chineseName": "背带",
+          "translatedName": "Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682002,
+          "chineseName": "鼓皮",
+          "translatedName": "Drumhead",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682201,
+          "chineseName": "贝司弦",
+          "translatedName": "Bessstring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682301,
+          "chineseName": "单块效果器",
+          "translatedName": "Single block effect",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682302,
+          "chineseName": "鼓刷",
+          "translatedName": "Drum brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201673004,
+          "chineseName": "琴托",
+          "translatedName": "Ginto",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201673203,
+          "chineseName": "吉他背包/琴盒",
+          "translatedName": "Guitar backpack/case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201673403,
+          "chineseName": "踏套/脚垫",
+          "translatedName": "Pedals/Foot Pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201679103,
+          "chineseName": "弦钮",
+          "translatedName": "string button",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201679104,
+          "chineseName": "鼓架/镲架",
+          "translatedName": "Drum stand/cymbal stand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201679602,
+          "chineseName": "笛膜",
+          "translatedName": "Flute film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201675806,
+          "chineseName": "弦柱",
+          "translatedName": "string column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201676405,
+          "chineseName": "拨片",
+          "translatedName": "Paddle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681502,
+          "chineseName": "琴弦",
+          "translatedName": "strings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681503,
+          "chineseName": "五线谱电教板",
+          "translatedName": "Five-line spectrum teaching board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681702,
+          "chineseName": "古典吉他弦",
+          "translatedName": "classical guitar strings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201675405,
+          "chineseName": "上弦器",
+          "translatedName": "winder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201675703,
+          "chineseName": "哑鼓垫",
+          "translatedName": "Dumb Drum Pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681102,
+          "chineseName": "背带钮",
+          "translatedName": "Strap button",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201681303,
+          "chineseName": "弦枕",
+          "translatedName": "String pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201671603,
+          "chineseName": "吉他效果器配件",
+          "translatedName": "Guitar Effects Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201671604,
+          "chineseName": "哨片",
+          "translatedName": "Sentry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201677603,
+          "chineseName": "踏板",
+          "translatedName": "Pedal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201678103,
+          "chineseName": "音笛",
+          "translatedName": "Sound flute",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201678104,
+          "chineseName": "乐器工具",
+          "translatedName": "Instrument Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682401,
+          "chineseName": "拨片/拨片套",
+          "translatedName": "Paddle/Paddle Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682501,
+          "chineseName": "吉他连接线",
+          "translatedName": "Guitar cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682601,
+          "chineseName": "吉他电源",
+          "translatedName": "Guitar power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682701,
+          "chineseName": "提琴盒/包",
+          "translatedName": "Violin case/bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682702,
+          "chineseName": "提琴弦",
+          "translatedName": "fiddle string",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682801,
+          "chineseName": "提琴弓",
+          "translatedName": "Violin Bow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201682901,
+          "chineseName": "指板",
+          "translatedName": "Fingerboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683001,
+          "chineseName": "鼓棒/鼓锤/鼓槌",
+          "translatedName": "Drum sticks/drumsticks/drumsticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        },
+        {
+          "categoryId": 201683101,
+          "chineseName": "键盘架",
+          "translatedName": "Keyboard rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201648502
+        }
+      ]
+    }
+  }
+}

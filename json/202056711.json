@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056711,
+      "chineseName": "捡果器",
+      "translatedName": "Fruit picker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047258"
+    }
+  }
+}

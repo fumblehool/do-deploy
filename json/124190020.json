@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124190020,
+      "chineseName": "墙壁挂架",
+      "translatedName": "Wall rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122390004"
+    }
+  }
+}

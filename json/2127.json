@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2127,
+      "chineseName": "美术、书法、绘图用品",
+      "translatedName": "Art, calligraphy, drawing supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033093,
+          "chineseName": "其他绘图文具",
+          "translatedName": "Other Drawing Stationery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033094,
+          "chineseName": "绘图模板",
+          "translatedName": "Drawing Template",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033096,
+          "chineseName": "尺子",
+          "translatedName": "Ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033097,
+          "chineseName": "其他美术用品",
+          "translatedName": "Other Art Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033099,
+          "chineseName": "画纸、画布",
+          "translatedName": "Drawing paper, canvas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033100,
+          "chineseName": "画夹、画板、画架",
+          "translatedName": "Picture folder, drawing board, easel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033101,
+          "chineseName": "调色用品",
+          "translatedName": "Tone Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033102,
+          "chineseName": "美术颜料",
+          "translatedName": "Fine Art Pigments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033103,
+          "chineseName": "画笔",
+          "translatedName": "Brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1033106,
+          "chineseName": "毛笔",
+          "translatedName": "Brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1035634,
+          "chineseName": "笔架",
+          "translatedName": "Penholder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 125460001,
+          "chineseName": "水彩笔",
+          "translatedName": "Watercolor Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201161103,
+          "chineseName": "蜡笔",
+          "translatedName": "Crayon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201179401,
+          "chineseName": "水写布",
+          "translatedName": "Waterwrite Cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 1733,
+          "chineseName": "墨砚、文房四宝套件",
+          "translatedName": "Ink stone, four treasures of study kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201222210,
+          "chineseName": "素描本",
+          "translatedName": "Sketthere",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201222708,
+          "chineseName": "石膏像",
+          "translatedName": "plaster image",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201220115,
+          "chineseName": "油画框",
+          "translatedName": "Oil painting frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201220811,
+          "chineseName": "油画棒",
+          "translatedName": "Oil painting stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 201221216,
+          "chineseName": "调色板",
+          "translatedName": "Palette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        },
+        {
+          "categoryId": 2119,
+          "chineseName": "文具配件",
+          "translatedName": "Stationery Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2127
+        }
+      ]
+    }
+  }
+}

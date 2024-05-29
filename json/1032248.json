@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032248,
+      "chineseName": "其他低压电器",
+      "translatedName": "Other low-voltage electrical appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

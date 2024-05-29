@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033172,
+      "chineseName": "IC卡",
+      "translatedName": "IC Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3017"
+    }
+  }
+}

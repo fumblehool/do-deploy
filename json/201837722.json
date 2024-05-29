@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201837722,
+      "chineseName": "即食传统滋补",
+      "translatedName": "Instant Traditional Nourishing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048224"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037002,
+      "chineseName": "围嘴围兜/口水巾",
+      "translatedName": "Bib bib/saliva towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380006"
+    }
+  }
+}

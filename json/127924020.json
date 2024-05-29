@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127924020,
+      "chineseName": "连帽浴巾、斗篷浴巾",
+      "translatedName": "Hooded bath towel, cloak bath towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127874019"
+    }
+  }
+}

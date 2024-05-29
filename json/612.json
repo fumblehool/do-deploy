@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 612,
+      "chineseName": "搅拌机、料理机",
+      "translatedName": "Mixer, cooking machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "653"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 837,
+      "chineseName": "磺酸",
+      "translatedName": "sulfonic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "8"
+    }
+  }
+}

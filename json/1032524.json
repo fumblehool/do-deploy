@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032524,
+      "chineseName": "印后加工设备",
+      "translatedName": "Post-press processing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "72",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034179,
+          "chineseName": "其他印后加工设备",
+          "translatedName": "Other Post-Press Processing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034181,
+          "chineseName": "分切机",
+          "translatedName": "slitting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034182,
+          "chineseName": "复合机",
+          "translatedName": "Compound machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034183,
+          "chineseName": "折页机",
+          "translatedName": "Folding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034184,
+          "chineseName": "压纹机",
+          "translatedName": "Embosser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034185,
+          "chineseName": "压痕机",
+          "translatedName": "Indentation machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034186,
+          "chineseName": "模切机",
+          "translatedName": "die cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034187,
+          "chineseName": "烫金机",
+          "translatedName": "Hot stamping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034188,
+          "chineseName": "上光机",
+          "translatedName": "glared machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034189,
+          "chineseName": "覆膜机",
+          "translatedName": "Laminating machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1034190,
+          "chineseName": "装订机",
+          "translatedName": "Binding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1042407,
+          "chineseName": "横切机",
+          "translatedName": "cross-cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1036335,
+          "chineseName": "包本机",
+          "translatedName": "Package this machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1035775,
+          "chineseName": "切纸机",
+          "translatedName": "paper cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1036336,
+          "chineseName": "压光机",
+          "translatedName": "calender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1036337,
+          "chineseName": "配页机",
+          "translatedName": "collator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1036338,
+          "chineseName": "压平机",
+          "translatedName": "flattening machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 1036952,
+          "chineseName": "胶装机",
+          "translatedName": "Glue machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        },
+        {
+          "categoryId": 3409,
+          "chineseName": "印刷检测仪器",
+          "translatedName": "printing detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032524
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034294,
+      "chineseName": "混凝土搅拌车",
+      "translatedName": "Concrete mixer truck",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1209"
+    }
+  }
+}

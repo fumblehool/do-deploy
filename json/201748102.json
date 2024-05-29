@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201748102,
+      "chineseName": "洗衣片",
+      "translatedName": "Laundry Tablets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196011"
+    }
+  }
+}

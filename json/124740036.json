@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740036,
+      "chineseName": "视频分配器",
+      "translatedName": "Video Splitter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "705"
+    }
+  }
+}

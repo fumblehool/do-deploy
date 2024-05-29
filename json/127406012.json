@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127406012,
+      "chineseName": "天然珍珠其他饰品",
+      "translatedName": "Natural Pearl Other Jewelry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

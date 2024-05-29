@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125064009,
+      "chineseName": "女性护理加工",
+      "translatedName": "female nursing processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304234"
+    }
+  }
+}

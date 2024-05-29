@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305825,
+      "chineseName": "明星海报/写真",
+      "translatedName": "Star poster/photo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064004"
+    }
+  }
+}

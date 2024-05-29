@@ -1,0 +1,415 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 68,
+      "chineseName": "包装",
+      "translatedName": "Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10240,
+          "chineseName": "废纸",
+          "translatedName": "waste paper",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1033299,
+          "chineseName": "其他纸业",
+          "translatedName": "Other Paper Industry",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1033000,
+          "chineseName": "复合包装材料",
+          "translatedName": "composite packaging materials",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1033003,
+          "chineseName": "塑料膜",
+          "translatedName": "plastic film",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1031809,
+          "chineseName": "包装产品代理加盟",
+          "translatedName": "Packaging products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1032932,
+          "chineseName": "纸及纸品代理加盟",
+          "translatedName": "Paper and paper products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1032933,
+          "chineseName": "纸及纸品项目合作",
+          "translatedName": "Paper and paper products project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10359,
+          "chineseName": "包装用纸",
+          "translatedName": "Packaging paper",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10364,
+          "chineseName": "纸类包装容器",
+          "translatedName": "Paper packaging container",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10366,
+          "chineseName": "金属包装容器",
+          "translatedName": "metal packaging container",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10363,
+          "chineseName": "托盘",
+          "translatedName": "Pallet",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1042727,
+          "chineseName": "包装辅助物",
+          "translatedName": "Packaging aids",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10361,
+          "chineseName": "胶带",
+          "translatedName": "Tape",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10362,
+          "chineseName": "绳索、扎带",
+          "translatedName": "Ropes, ties",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10368,
+          "chineseName": "木质包装容器",
+          "translatedName": "Wooden packaging container",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 1047293,
+          "chineseName": "布类包装",
+          "translatedName": "Cloth packing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10360,
+          "chineseName": "其他用途纸",
+          "translatedName": "Other uses of paper",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10358,
+          "chineseName": "文化、印刷用纸",
+          "translatedName": "Culture, printing paper",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10365,
+          "chineseName": "塑料包装",
+          "translatedName": "Plastic Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 121562002,
+          "chineseName": "陶瓷包装容器",
+          "translatedName": "ceramic packaging container",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 121564003,
+          "chineseName": "玻璃包装",
+          "translatedName": "Glass packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 10543,
+          "chineseName": "包装项目合作",
+          "translatedName": "Packaging project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 121504010,
+          "chineseName": "图文印刷",
+          "translatedName": "Graphic Printing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 124594001,
+          "chineseName": "塑料包装袋",
+          "translatedName": "plastic packaging bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 121186001,
+          "chineseName": "物流包装",
+          "translatedName": "logistics packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126510002,
+          "chineseName": "饰品包装",
+          "translatedName": "Jewelry packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 201368001,
+          "chineseName": "农业包装",
+          "translatedName": "Agricultural Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126506001,
+          "chineseName": "酒水饮料包装",
+          "translatedName": "Beverage packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126376002,
+          "chineseName": "工业包装",
+          "translatedName": "Industrial Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126390001,
+          "chineseName": "食品包装",
+          "translatedName": "Food Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126390002,
+          "chineseName": "鞋服包装",
+          "translatedName": "Shoes and clothing packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126392001,
+          "chineseName": "日用包装",
+          "translatedName": "Daily Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 164,
+          "chineseName": "复合包装制品",
+          "translatedName": "composite packaging products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126478003,
+          "chineseName": "美妆日化包装",
+          "translatedName": "Beauty makeup packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 126512001,
+          "chineseName": "数码家电包装",
+          "translatedName": "Digital home appliance packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 127134002,
+          "chineseName": "包装产品定制",
+          "translatedName": "Packaging Product Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 127134003,
+          "chineseName": "包装印刷加工",
+          "translatedName": "Packaging Printing Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 84,
+          "chineseName": "标签、标牌",
+          "translatedName": "Labels, placards",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 2318,
+          "chineseName": "工业用纸",
+          "translatedName": "Industrial Paper",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 201900010,
+          "chineseName": "绿色环保包装",
+          "translatedName": "green environmental protection packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 85,
+          "chineseName": "烫金、烫印材料",
+          "translatedName": "Bronzing, hot stamping materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 201925101,
+          "chineseName": "智慧包装",
+          "translatedName": "Smart Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 202021701,
+          "chineseName": "礼品包装",
+          "translatedName": "Gift Packaging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        },
+        {
+          "categoryId": 83,
+          "chineseName": "纸浆",
+          "translatedName": "Pulp",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 68
+        }
+      ]
+    }
+  }
+}

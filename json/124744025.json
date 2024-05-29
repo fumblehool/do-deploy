@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744025,
+      "chineseName": "芒果干",
+      "translatedName": "Dried Mango",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744016"
+    }
+  }
+}

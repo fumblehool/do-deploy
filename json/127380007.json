@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127380007,
+      "chineseName": "大码牛仔裤",
+      "translatedName": "Plus Size Jeans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127372010"
+    }
+  }
+}

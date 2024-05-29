@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034959,
+      "chineseName": "橡胶挤出机",
+      "translatedName": "Rubber extruder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10410"
+    }
+  }
+}

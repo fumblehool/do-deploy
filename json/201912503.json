@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201912503,
+      "chineseName": "手动升降平台车",
+      "translatedName": "Manual lifting platform truck",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1227"
+    }
+  }
+}

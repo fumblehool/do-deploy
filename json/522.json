@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 522,
+      "chineseName": "开关电源",
+      "translatedName": "switching power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "529"
+    }
+  }
+}

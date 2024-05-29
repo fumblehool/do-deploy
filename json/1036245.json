@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036245,
+      "chineseName": "硫化氢检测仪",
+      "translatedName": "Hydrogen sulfide detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033898"
+    }
+  }
+}

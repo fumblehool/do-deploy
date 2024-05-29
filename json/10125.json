@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10125,
+      "chineseName": "混纺、合股纱",
+      "translatedName": "Blended and plied yarn",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10118"
+    }
+  }
+}

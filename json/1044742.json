@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044742,
+      "chineseName": "冲浪、滑水、帆板",
+      "translatedName": "Surfing, water skiing, windsurfing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044740"
+    }
+  }
+}

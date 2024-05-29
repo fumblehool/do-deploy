@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031644,
+      "chineseName": "合成橡胶",
+      "translatedName": "synthetic rubber",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034933,
+          "chineseName": "硅橡胶",
+          "translatedName": "Silicone rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034934,
+          "chineseName": "丁基橡胶",
+          "translatedName": "butyl rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034935,
+          "chineseName": "丁腈橡胶",
+          "translatedName": "nitrile rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034936,
+          "chineseName": "乙丙橡胶",
+          "translatedName": "ethylene propylene rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034937,
+          "chineseName": "氯丁橡胶",
+          "translatedName": "Neoprene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034939,
+          "chineseName": "丁苯橡胶",
+          "translatedName": "styrene-butadiene rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034938,
+          "chineseName": "顺丁橡胶",
+          "translatedName": "butadiene rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1031645,
+          "chineseName": "聚硫橡胶",
+          "translatedName": "polysulfide rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034931,
+          "chineseName": "聚氨酯橡胶",
+          "translatedName": "Polyurethane rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1034932,
+          "chineseName": "氟橡胶",
+          "translatedName": "Fluorine rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 1036790,
+          "chineseName": "异戊橡胶",
+          "translatedName": "isoprene rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        },
+        {
+          "categoryId": 10395,
+          "chineseName": "其他合成橡胶",
+          "translatedName": "Other Synthetic Rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031644
+        }
+      ]
+    }
+  }
+}

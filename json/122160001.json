@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122160001,
+      "chineseName": "手动打蛋器",
+      "translatedName": "Manual egg beater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10297"
+    }
+  }
+}

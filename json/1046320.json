@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046320,
+      "chineseName": "其他肉禽制品",
+      "translatedName": "Other meat and poultry products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10086"
+    }
+  }
+}

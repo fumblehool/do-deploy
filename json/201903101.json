@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201903101,
+      "chineseName": "手机稳定器",
+      "translatedName": "Mobile phone stabilizer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

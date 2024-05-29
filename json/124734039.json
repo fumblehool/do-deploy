@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734039,
+      "chineseName": "移动电源电芯",
+      "translatedName": "Mobile power cell",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

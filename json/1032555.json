@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032555,
+      "chineseName": "其他石油设备",
+      "translatedName": "Other petroleum equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10417"
+    }
+  }
+}

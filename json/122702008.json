@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122702008,
+      "chineseName": "两季电器配件",
+      "translatedName": "Two seasons electrical accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

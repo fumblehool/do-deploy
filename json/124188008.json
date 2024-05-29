@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124188008,
+      "chineseName": "家用除螨机、除螨仪",
+      "translatedName": "Household Mite Removal Machine, Mite Removal Instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

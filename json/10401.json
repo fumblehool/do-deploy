@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10401,
+      "chineseName": "特种玻璃",
+      "translatedName": "Special glass",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10402"
+    }
+  }
+}

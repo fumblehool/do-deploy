@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 24,
+      "chineseName": "广告服务",
+      "translatedName": "Advertising Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 2418,
+          "chineseName": "其他广告服务",
+          "translatedName": "Other Advertising Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 24
+        },
+        {
+          "categoryId": 2419,
+          "chineseName": "广告代理",
+          "translatedName": "Advertising Agency",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 24
+        },
+        {
+          "categoryId": 2420,
+          "chineseName": "广告制作",
+          "translatedName": "advertising production",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 24
+        },
+        {
+          "categoryId": 2421,
+          "chineseName": "广告策划",
+          "translatedName": "Advertising planning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 24
+        }
+      ]
+    }
+  }
+}

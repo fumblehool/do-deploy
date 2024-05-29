@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035215,
+      "chineseName": "其他天线",
+      "translatedName": "Other antennas",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10235"
+    }
+  }
+}

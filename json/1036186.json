@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036186,
+      "chineseName": "其他生命科学仪器",
+      "translatedName": "Other Life Science Instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036185"
+    }
+  }
+}

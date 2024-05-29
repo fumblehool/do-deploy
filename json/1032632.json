@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032632,
+      "chineseName": "管道辅助材料",
+      "translatedName": "Pipe Auxiliary Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1350"
+    }
+  }
+}

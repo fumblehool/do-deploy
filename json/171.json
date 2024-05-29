@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 171,
+      "chineseName": "市场调研",
+      "translatedName": "Market research",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "69"
+    }
+  }
+}

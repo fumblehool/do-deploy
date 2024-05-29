@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 915,
+      "chineseName": "开采、选矿设备",
+      "translatedName": "Mining and mineral processing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032531,
+          "chineseName": "其他选矿设备",
+          "translatedName": "Other mineral processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1032534,
+          "chineseName": "磁选设备",
+          "translatedName": "Magnetic separation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1032535,
+          "chineseName": "筛分设备",
+          "translatedName": "Screening equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1032536,
+          "chineseName": "分级设备",
+          "translatedName": "Grading equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1032537,
+          "chineseName": "浮选设备",
+          "translatedName": "Flotation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1032540,
+          "chineseName": "水力选矿设备",
+          "translatedName": "Hydraulic beneficiation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1045753,
+          "chineseName": "开采、选矿设备配件",
+          "translatedName": "Mining and mineral processing equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        },
+        {
+          "categoryId": 1042993,
+          "chineseName": "重选设备",
+          "translatedName": "reselect equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 915
+        }
+      ]
+    }
+  }
+}

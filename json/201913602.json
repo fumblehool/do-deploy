@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201913602,
+      "chineseName": "防爆葫芦/小车",
+      "translatedName": "Explosion-proof hoist/trolley",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1227"
+    }
+  }
+}

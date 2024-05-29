@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122406002,
+      "chineseName": "晾衣架、晾晒架",
+      "translatedName": "Drying rack, drying rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374002"
+    }
+  }
+}

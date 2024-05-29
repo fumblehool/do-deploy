@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045059,
+      "chineseName": "USB新奇特",
+      "translatedName": "USB New Strange",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045068,
+          "chineseName": "其他USB产品",
+          "translatedName": "Other USB Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045059
+        },
+        {
+          "categoryId": 201305917,
+          "chineseName": "USB烟灰缸",
+          "translatedName": "USB ashtray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045059
+        }
+      ]
+    }
+  }
+}

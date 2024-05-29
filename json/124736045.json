@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736045,
+      "chineseName": "蜡烛灯",
+      "translatedName": "candle lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122192001"
+    }
+  }
+}

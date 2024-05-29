@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494015,
+      "chineseName": "吊篮",
+      "translatedName": "Basket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122796003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201489705,
+      "chineseName": "男式中老年下装",
+      "translatedName": "Men's Middle-aged and Elderly Bottles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201473006"
+    }
+  }
+}

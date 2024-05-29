@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201976301,
+      "chineseName": "康养仪（器械）",
+      "translatedName": "Health care instrument (apparatus)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

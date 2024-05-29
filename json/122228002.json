@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122228002,
+      "chineseName": "钱包",
+      "translatedName": "Wallet",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031751,
+          "chineseName": "女士钱包",
+          "translatedName": "Ladies Wallet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122228002
+        },
+        {
+          "categoryId": 122206002,
+          "chineseName": "零钱包",
+          "translatedName": "Coin Purse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122228002
+        },
+        {
+          "categoryId": 126398002,
+          "chineseName": "男士钱包",
+          "translatedName": "Men's Wallet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122228002
+        }
+      ]
+    }
+  }
+}

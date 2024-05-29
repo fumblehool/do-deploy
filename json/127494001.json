@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127494001,
+      "chineseName": "琥珀其他饰品",
+      "translatedName": "Amber Other Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

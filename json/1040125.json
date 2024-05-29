@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040125,
+      "chineseName": "工具车轮胎",
+      "translatedName": "Tool car tire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10113"
+    }
+  }
+}

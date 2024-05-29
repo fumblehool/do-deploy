@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032434,
+      "chineseName": "截止阀",
+      "translatedName": "Globe valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141907"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201353753,
+      "chineseName": "男士洗衣液",
+      "translatedName": "Men's laundry detergent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201358608"
+    }
+  }
+}

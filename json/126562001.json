@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126562001,
+      "chineseName": "蓝牙模块",
+      "translatedName": "bluetooth module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50916"
+    }
+  }
+}

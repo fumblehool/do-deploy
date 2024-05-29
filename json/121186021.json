@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186021,
+      "chineseName": "酒店装饰布草",
+      "translatedName": "Hotel Decorative Cloth Grass",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186015"
+    }
+  }
+}

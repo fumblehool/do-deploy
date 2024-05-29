@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126440001,
+      "chineseName": "生鲜水果包装",
+      "translatedName": "Fresh fruit packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390001"
+    }
+  }
+}

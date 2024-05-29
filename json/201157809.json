@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157809,
+      "chineseName": "火腿类",
+      "translatedName": "Ham",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10086"
+    }
+  }
+}

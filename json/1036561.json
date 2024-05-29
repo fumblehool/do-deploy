@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036561,
+      "chineseName": "透明颜料",
+      "translatedName": "transparent pigment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031630"
+    }
+  }
+}

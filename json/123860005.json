@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123860005,
+      "chineseName": "吸奶器",
+      "translatedName": "breast pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1556"
+    }
+  }
+}

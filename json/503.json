@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 503,
+      "chineseName": "有线光缆设备",
+      "translatedName": "Cable and optical cable equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034139,
+          "chineseName": "其他有线光缆设备",
+          "translatedName": "Other cable equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 503
+        },
+        {
+          "categoryId": 1034140,
+          "chineseName": "光纤波分复用器",
+          "translatedName": "optical fiber wavelength division multiplexer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 503
+        },
+        {
+          "categoryId": 1034141,
+          "chineseName": "光衰减器",
+          "translatedName": "optical attenuator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 503
+        },
+        {
+          "categoryId": 1034142,
+          "chineseName": "光纤放大器",
+          "translatedName": "fiber amplifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 503
+        }
+      ]
+    }
+  }
+}

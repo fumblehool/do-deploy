@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 803,
+      "chineseName": "烃类",
+      "translatedName": "Hydrocarbons",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 80301,
+          "chineseName": "烷烃",
+          "translatedName": "alkane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80302,
+          "chineseName": "烯烃",
+          "translatedName": "Olefins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80303,
+          "chineseName": "炔烃",
+          "translatedName": "alkyne",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80306,
+          "chineseName": "芳香烃",
+          "translatedName": "aromatic hydrocarbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80319,
+          "chineseName": "其他烃类",
+          "translatedName": "Other hydrocarbons",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80321,
+          "chineseName": "硝基化合物",
+          "translatedName": "nitro compound",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80322,
+          "chineseName": "卤代烃",
+          "translatedName": "halogenated hydrocarbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        },
+        {
+          "categoryId": 80323,
+          "chineseName": "脂环烃",
+          "translatedName": "alicyclic hydrocarbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 803
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123758003,
+      "chineseName": "智能眼镜",
+      "translatedName": "Smart Glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123754001"
+    }
+  }
+}

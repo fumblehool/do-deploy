@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052004,
+      "chineseName": "光伏电站",
+      "translatedName": "Photovoltaic Power Station",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127754005"
+    }
+  }
+}

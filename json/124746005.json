@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746005,
+      "chineseName": "办公用胶带",
+      "translatedName": "Office tape",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2113"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034063,
+      "chineseName": "音像制品加工",
+      "translatedName": "processing of audio-visual products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

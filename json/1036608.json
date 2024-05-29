@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036608,
+      "chineseName": "汽摩及配件项目合作",
+      "translatedName": "Cooperation of Auto, Motorcycle and Accessories Project",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "71"
+    }
+  }
+}

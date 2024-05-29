@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127420010,
+      "chineseName": "广告衫",
+      "translatedName": "Advertising Shirt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127416003,
+          "chineseName": "广告衫T恤",
+          "translatedName": "Advertising shirt T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127416004,
+          "chineseName": "其它广告衫",
+          "translatedName": "Other Advertising Shirts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127422005,
+          "chineseName": "广告衫外套",
+          "translatedName": "Advertising Shirt Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127390008,
+          "chineseName": "广告衫棒球服",
+          "translatedName": "Advertising shirt baseball uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127390009,
+          "chineseName": "广告衫马甲",
+          "translatedName": "Advertising Shirt Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127390010,
+          "chineseName": "广告衫风衣",
+          "translatedName": "Advertising Shirt Windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 127406006,
+          "chineseName": "广告衫卫衣",
+          "translatedName": "Advertising shirt sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        },
+        {
+          "categoryId": 202057915,
+          "chineseName": "广告衫polo",
+          "translatedName": "advertising shirt polo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420010
+        }
+      ]
+    }
+  }
+}

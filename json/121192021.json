@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192021,
+      "chineseName": "地脚灯/墙脚灯/台阶灯",
+      "translatedName": "Foot lamp/wall foot lamp/step lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10217"
+    }
+  }
+}

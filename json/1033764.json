@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033764,
+      "chineseName": "其他金融专用设备",
+      "translatedName": "Other special financial equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "510"
+    }
+  }
+}

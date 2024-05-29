@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122200004,
+      "chineseName": "睡袋、防踢被",
+      "translatedName": "Sleeping bag, kick-proof",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121188018"
+    }
+  }
+}

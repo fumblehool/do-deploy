@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058708,
+      "chineseName": "中式养生冲饮",
+      "translatedName": "Chinese Style Health Preserving Chong Drink",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

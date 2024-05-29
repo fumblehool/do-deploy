@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057413,
+      "chineseName": "锌铝镁卷材",
+      "translatedName": "zinc aluminum magnesium coil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053805"
+    }
+  }
+}

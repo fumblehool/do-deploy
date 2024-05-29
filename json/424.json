@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 424,
+      "chineseName": "混纺、交织类面料",
+      "translatedName": "Blended and interwoven fabrics",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031780,
+          "chineseName": "其他混纺、交织类面料",
+          "translatedName": "Other blended and interwoven fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        },
+        {
+          "categoryId": 1031781,
+          "chineseName": "交织类",
+          "translatedName": "Interleaving Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        },
+        {
+          "categoryId": 1031782,
+          "chineseName": "化纤类混纺",
+          "translatedName": "chemical fiber blending",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        },
+        {
+          "categoryId": 1031783,
+          "chineseName": "棉毛混纺",
+          "translatedName": "cotton wool blend",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        },
+        {
+          "categoryId": 1031784,
+          "chineseName": "棉麻混纺",
+          "translatedName": "cotton and linen blend",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        },
+        {
+          "categoryId": 1036951,
+          "chineseName": "涤棉混纺",
+          "translatedName": "polyester-cotton blend",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 424
+        }
+      ]
+    }
+  }
+}

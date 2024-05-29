@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036409,
+      "chineseName": "饼干机械",
+      "translatedName": "Biscuit machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

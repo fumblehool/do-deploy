@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201138101,
+      "chineseName": "水产种苗",
+      "translatedName": "Aquatic Seedlings",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1"
+    }
+  }
+}

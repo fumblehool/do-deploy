@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035423,
+      "chineseName": "人造磨料",
+      "translatedName": "artificial abrasive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921802"
+    }
+  }
+}

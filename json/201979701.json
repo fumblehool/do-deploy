@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201979701,
+      "chineseName": "激光热处理设备",
+      "translatedName": "Laser heat treatment equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201958403"
+    }
+  }
+}

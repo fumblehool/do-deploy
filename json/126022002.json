@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126022002,
+      "chineseName": "孕妇内裤",
+      "translatedName": "Pregnant women's underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450001"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 12,
+      "chineseName": "交通运输",
+      "translatedName": "Transportation",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10103,
+          "chineseName": "二手交通工具",
+          "translatedName": "Used Transportation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 10115,
+          "chineseName": "库存交通工具",
+          "translatedName": "Stock Transportation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1031814,
+          "chineseName": "交通工具代理加盟",
+          "translatedName": "Transportation agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1224,
+          "chineseName": "船舶专用配件",
+          "translatedName": "Special accessories for ships",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1222,
+          "chineseName": "非机动车",
+          "translatedName": "Non-motor vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1230,
+          "chineseName": "物流辅助器材",
+          "translatedName": "Logistics auxiliary equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1207,
+          "chineseName": "船舶",
+          "translatedName": "Ship",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1218,
+          "chineseName": "飞机及配件",
+          "translatedName": "Aircraft and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1225,
+          "chineseName": "航道设施",
+          "translatedName": "Channel facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1228,
+          "chineseName": "通用输送设备",
+          "translatedName": "General Conveying Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 1229,
+          "chineseName": "集装整理设备",
+          "translatedName": "Container finishing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 153,
+          "chineseName": "轨道交通设备器材",
+          "translatedName": "Rail transit equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        },
+        {
+          "categoryId": 290312,
+          "chineseName": "交通工具项目合作",
+          "translatedName": "Transportation project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201649201,
+      "chineseName": "民族乐器",
+      "translatedName": "national musical instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201674604,
+          "chineseName": "手锣",
+          "translatedName": "Hand Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201674802,
+          "chineseName": "军镲",
+          "translatedName": "military cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675003,
+          "chineseName": "低音胡",
+          "translatedName": "bass beard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675305,
+          "chineseName": "唢呐",
+          "translatedName": "Suona",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675306,
+          "chineseName": "梆子",
+          "translatedName": "Bangzi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675403,
+          "chineseName": "芦笙",
+          "translatedName": "Lusheng",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680302,
+          "chineseName": "柳琴",
+          "translatedName": "Liu Qin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680303,
+          "chineseName": "板鼓",
+          "translatedName": "Plate Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680401,
+          "chineseName": "月琴",
+          "translatedName": "Yueqin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680501,
+          "chineseName": "弹布尔",
+          "translatedName": "Bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680601,
+          "chineseName": "热瓦普",
+          "translatedName": "Rewap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680701,
+          "chineseName": "箫",
+          "translatedName": "Xiao",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680801,
+          "chineseName": "葫芦丝",
+          "translatedName": "Hulusi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201673605,
+          "chineseName": "京二胡",
+          "translatedName": "Jingerhu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201674203,
+          "chineseName": "拍板",
+          "translatedName": "Clapper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201674303,
+          "chineseName": "箜篌",
+          "translatedName": "konghou",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201674603,
+          "chineseName": "古琴",
+          "translatedName": "Guqin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201679702,
+          "chineseName": "广钹",
+          "translatedName": "wide cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201679802,
+          "chineseName": "笛子",
+          "translatedName": "Flute",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680201,
+          "chineseName": "琵琶",
+          "translatedName": "Pipa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680301,
+          "chineseName": "阮",
+          "translatedName": "Nguyen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672402,
+          "chineseName": "铜书板",
+          "translatedName": "copper book board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672502,
+          "chineseName": "虎音锣",
+          "translatedName": "Tiger Sound Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672702,
+          "chineseName": "二胡",
+          "translatedName": "Erhu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672803,
+          "chineseName": "巴乌",
+          "translatedName": "Bau",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201678902,
+          "chineseName": "镲锅",
+          "translatedName": "cymbal pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201679002,
+          "chineseName": "开道锣",
+          "translatedName": "Opening Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201670903,
+          "chineseName": "尺八",
+          "translatedName": "shakuhachi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671204,
+          "chineseName": "坠琴",
+          "translatedName": "Pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671205,
+          "chineseName": "大钹",
+          "translatedName": "Big Cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671302,
+          "chineseName": "冬不拉",
+          "translatedName": "Dongfula",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676704,
+          "chineseName": "萨巴依",
+          "translatedName": "Sabayi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201677002,
+          "chineseName": "四胡",
+          "translatedName": "Sihu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201677302,
+          "chineseName": "古筝",
+          "translatedName": "Guzheng",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201677602,
+          "chineseName": "埙",
+          "translatedName": "Xun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681901,
+          "chineseName": "水镲",
+          "translatedName": "Water cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681902,
+          "chineseName": "碰钟",
+          "translatedName": "Kink the bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201682101,
+          "chineseName": "川钹",
+          "translatedName": "Chuan Cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201682001,
+          "chineseName": "秧歌镲",
+          "translatedName": "Yangko cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672804,
+          "chineseName": "马头琴",
+          "translatedName": "Matouqin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201672903,
+          "chineseName": "京胡",
+          "translatedName": "Jinghu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201673003,
+          "chineseName": "大顶钹",
+          "translatedName": "Big Top Cymbal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201673505,
+          "chineseName": "武锣",
+          "translatedName": "Wu Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201679202,
+          "chineseName": "三弦",
+          "translatedName": "three strings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201679502,
+          "chineseName": "云锣",
+          "translatedName": "Yun Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676302,
+          "chineseName": "陶笛",
+          "translatedName": "Ocarina",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676303,
+          "chineseName": "高胡",
+          "translatedName": "Gao Hu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676403,
+          "chineseName": "花盆鼓",
+          "translatedName": "Flower Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676404,
+          "chineseName": "细腰鼓",
+          "translatedName": "thin waist drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676504,
+          "chineseName": "板胡",
+          "translatedName": "Banhu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201676703,
+          "chineseName": "低音锣",
+          "translatedName": "Bass Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681402,
+          "chineseName": "腰鼓镲",
+          "translatedName": "waist drum cymbals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681501,
+          "chineseName": "秧歌鼓",
+          "translatedName": "Yangko Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681601,
+          "chineseName": "排鼓",
+          "translatedName": "drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681701,
+          "chineseName": "象脚鼓",
+          "translatedName": "Elephant Foot Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681801,
+          "chineseName": "空灵鼓",
+          "translatedName": "Ethereal Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675404,
+          "chineseName": "椰胡",
+          "translatedName": "Coconut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201675702,
+          "chineseName": "秦琴",
+          "translatedName": "Qin Qin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680802,
+          "chineseName": "快板",
+          "translatedName": "Allegro",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201680901,
+          "chineseName": "葫芦笙",
+          "translatedName": "Hulusheng",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681001,
+          "chineseName": "革胡",
+          "translatedName": "Gehu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681101,
+          "chineseName": "马骨胡",
+          "translatedName": "Maguard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681201,
+          "chineseName": "苏锣",
+          "translatedName": "Su Luo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681301,
+          "chineseName": "堂鼓",
+          "translatedName": "Tanggu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681302,
+          "chineseName": "战鼓",
+          "translatedName": "war drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201681401,
+          "chineseName": "腰鼓",
+          "translatedName": "Waist Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671503,
+          "chineseName": "铜鼓",
+          "translatedName": "bronze drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671803,
+          "chineseName": "京锣",
+          "translatedName": "Jing Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671804,
+          "chineseName": "舟山锣",
+          "translatedName": "Zhoushan Gong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671805,
+          "chineseName": "大铙",
+          "translatedName": "Big Nao",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671902,
+          "chineseName": "扬琴",
+          "translatedName": "dulcimer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671903,
+          "chineseName": "笙",
+          "translatedName": "Sheng",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201671904,
+          "chineseName": "管子",
+          "translatedName": "Pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201677803,
+          "chineseName": "艾捷克",
+          "translatedName": "Czech Republic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        },
+        {
+          "categoryId": 201678302,
+          "chineseName": "中胡",
+          "translatedName": "Zhonghu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201649201
+        }
+      ]
+    }
+  }
+}

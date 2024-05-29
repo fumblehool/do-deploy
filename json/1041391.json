@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041391,
+      "chineseName": "智能锁",
+      "translatedName": "Smart lock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041389"
+    }
+  }
+}

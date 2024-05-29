@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032145,
+      "chineseName": "轴瓦及连杆瓦",
+      "translatedName": "Bearing bush and connecting rod bush",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10110"
+    }
+  }
+}

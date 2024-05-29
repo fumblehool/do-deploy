@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125064001,
+      "chineseName": "车厘子/樱桃",
+      "translatedName": "Cherry/Cherry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10037"
+    }
+  }
+}

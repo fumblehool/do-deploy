@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122772002,
+      "chineseName": "指示标签、手写标签",
+      "translatedName": "Indicate labels, handwritten labels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10336"
+    }
+  }
+}

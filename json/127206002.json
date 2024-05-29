@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127206002,
+      "chineseName": "压力继电器",
+      "translatedName": "Pressure relay",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127170001"
+    }
+  }
+}

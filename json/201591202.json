@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201591202,
+      "chineseName": "儿童独轮车",
+      "translatedName": "Children's unicycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962004"
+    }
+  }
+}

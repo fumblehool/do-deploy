@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201866101,
+      "chineseName": "丁吡胶乳",
+      "translatedName": "butyl pyridine latex",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201827202"
+    }
+  }
+}

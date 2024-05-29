@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033268,
+      "chineseName": "喷墨打印机",
+      "translatedName": "Inkjet Printer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157507,
+      "chineseName": "手持花洒",
+      "translatedName": "Hand Shower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032416"
+    }
+  }
+}

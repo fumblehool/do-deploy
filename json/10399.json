@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10399,
+      "chineseName": "其他橡胶制品",
+      "translatedName": "Other Rubber Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "55"
+    }
+  }
+}

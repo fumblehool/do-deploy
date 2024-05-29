@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305504,
+      "chineseName": "宠物拾便袋",
+      "translatedName": "Pet pick-up bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121850001"
+    }
+  }
+}

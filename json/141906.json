@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141906,
+      "chineseName": "紧固件、连接件",
+      "translatedName": "Fasteners, fittings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036788,
+          "chineseName": "螺柱",
+          "translatedName": "Stud",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1042787,
+          "chineseName": "组合件及连接副",
+          "translatedName": "Assembly and connection pair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035458,
+          "chineseName": "其他紧固件、连接件",
+          "translatedName": "Other fasteners, connectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035459,
+          "chineseName": "卡簧、挡圈",
+          "translatedName": "Circlip, retaining ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035463,
+          "chineseName": "铆钉",
+          "translatedName": "Rivets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035464,
+          "chineseName": "销及键",
+          "translatedName": "Pin and key",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035465,
+          "chineseName": "垫圈",
+          "translatedName": "Washer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035466,
+          "chineseName": "螺母",
+          "translatedName": "Nut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035467,
+          "chineseName": "螺钉",
+          "translatedName": "Screw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        },
+        {
+          "categoryId": 1035468,
+          "chineseName": "螺栓",
+          "translatedName": "Bolt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141906
+        }
+      ]
+    }
+  }
+}

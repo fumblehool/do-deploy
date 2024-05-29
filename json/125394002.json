@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125394002,
+      "chineseName": "烘焙辅料类",
+      "translatedName": "Baking Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042703"
+    }
+  }
+}

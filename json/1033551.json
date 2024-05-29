@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033551,
+      "chineseName": "大型户外陆地游乐设备",
+      "translatedName": "Large outdoor land amusement equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1811"
+    }
+  }
+}

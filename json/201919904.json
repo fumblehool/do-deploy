@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201919904,
+      "chineseName": "云石片",
+      "translatedName": "marble flakes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921802"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122404001,
+      "chineseName": "婴儿床",
+      "translatedName": "Crib",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122794001"
+    }
+  }
+}

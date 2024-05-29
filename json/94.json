@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 94,
+      "chineseName": "舞台设备",
+      "translatedName": "Stage Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034101,
+          "chineseName": "其他舞台设备",
+          "translatedName": "Other stage equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 94
+        },
+        {
+          "categoryId": 1034102,
+          "chineseName": "舞台机械",
+          "translatedName": "Stage Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 94
+        },
+        {
+          "categoryId": 1034103,
+          "chineseName": "舞台幕布",
+          "translatedName": "Stage Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 94
+        },
+        {
+          "categoryId": 1034104,
+          "chineseName": "舞台",
+          "translatedName": "Stage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 94
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201835213,
+      "chineseName": "男士内裤",
+      "translatedName": "Men's Underwear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122452001,
+          "chineseName": "男士平角裤/平脚裤",
+          "translatedName": "Men's boxers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 126028002,
+          "chineseName": "男士三角裤",
+          "translatedName": "Men's briefs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 126028003,
+          "chineseName": "男士丁字裤",
+          "translatedName": "Men's thong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 126030001,
+          "chineseName": "其它男士内裤",
+          "translatedName": "Other Men's Underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 126022003,
+          "chineseName": "男士U型/囊袋内裤",
+          "translatedName": "Men's U-shaped/Pocket Panties",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 201562211,
+          "chineseName": "男士阿罗裤",
+          "translatedName": "Men's Aro Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        },
+        {
+          "categoryId": 201553214,
+          "chineseName": "男士大码内裤",
+          "translatedName": "Men's Plus Size Underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201835213
+        }
+      ]
+    }
+  }
+}

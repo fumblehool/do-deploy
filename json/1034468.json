@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034468,
+      "chineseName": "其他皮革化学品",
+      "translatedName": "Other Leather Chemicals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10382"
+    }
+  }
+}

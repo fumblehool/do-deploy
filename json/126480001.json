@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126480001,
+      "chineseName": "服饰配件包装",
+      "translatedName": "Clothing accessories packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390002"
+    }
+  }
+}

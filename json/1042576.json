@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042576,
+      "chineseName": "条幅机",
+      "translatedName": "banner machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2415"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190006,
+      "chineseName": "轴承座",
+      "translatedName": "Bearing seat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141903"
+    }
+  }
+}

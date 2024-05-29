@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032562,
+      "chineseName": "气浮设备",
+      "translatedName": "air flotation equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "77"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047271,
+      "chineseName": "养生壶、煎药壶",
+      "translatedName": "Health pot, decoction pot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "653"
+    }
+  }
+}

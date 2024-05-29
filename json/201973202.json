@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201973202,
+      "chineseName": "头/腰/颈/腿按摩器（器械）",
+      "translatedName": "Head/Waist/Neck/Leg Massager (Apparatus)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201924201,
+      "chineseName": "导丝轮",
+      "translatedName": "wire guide wheel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1427"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306614,
+      "chineseName": "应援横幅",
+      "translatedName": "Aid Banner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304320"
+    }
+  }
+}

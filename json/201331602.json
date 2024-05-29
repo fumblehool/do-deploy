@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331602,
+      "chineseName": "防晒袖套",
+      "translatedName": "Sunscreen Sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127484008"
+    }
+  }
+}

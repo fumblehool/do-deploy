@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958510,
+      "chineseName": "渣浆泵、灰渣泵",
+      "translatedName": "Slurry pump, ash pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1425"
+    }
+  }
+}

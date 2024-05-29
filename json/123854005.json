@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123854005,
+      "chineseName": "其他情趣用品",
+      "translatedName": "Other sex toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126144003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201353613,
+      "chineseName": "男士止汗香体",
+      "translatedName": "Men's Antiperspirant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201358608"
+    }
+  }
+}

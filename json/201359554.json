@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359554,
+      "chineseName": "桥梁伸缩缝",
+      "translatedName": "bridge expansion joint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373405"
+    }
+  }
+}

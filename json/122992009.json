@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122992009,
+      "chineseName": "彩泥/粘土/沙",
+      "translatedName": "Colored clay/clay/sand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

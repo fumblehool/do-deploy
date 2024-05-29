@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124960001,
+      "chineseName": "床护栏",
+      "translatedName": "Bed guardrail",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122930001"
+    }
+  }
+}

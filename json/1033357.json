@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033357,
+      "chineseName": "其他地矿勘测设备",
+      "translatedName": "Other geological and mineral survey equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "921"
+    }
+  }
+}

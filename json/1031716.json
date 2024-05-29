@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031716,
+      "chineseName": "人造革",
+      "translatedName": "artificial leather",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031715"
+    }
+  }
+}

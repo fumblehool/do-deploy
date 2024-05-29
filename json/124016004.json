@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016004,
+      "chineseName": "创意伞具",
+      "translatedName": "Creative Umbrella",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016003"
+    }
+  }
+}

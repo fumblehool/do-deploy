@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047443,
+      "chineseName": "工商服务",
+      "translatedName": "Business Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047438,
+          "chineseName": "公司注册",
+          "translatedName": "Company Registration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047443
+        },
+        {
+          "categoryId": 1047447,
+          "chineseName": "知识产权",
+          "translatedName": "Intellectual Property",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047443
+        },
+        {
+          "categoryId": 1047457,
+          "chineseName": "公司注销与变更",
+          "translatedName": "Company Cancellation and Change",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047443
+        },
+        {
+          "categoryId": 1047458,
+          "chineseName": "工商年检",
+          "translatedName": "Annual inspection of industry and commerce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047443
+        }
+      ]
+    }
+  }
+}

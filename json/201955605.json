@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201955605,
+      "chineseName": "汽车清洁软胶",
+      "translatedName": "Car cleaning soft rubber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "79"
+    }
+  }
+}

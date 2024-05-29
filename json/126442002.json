@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126442002,
+      "chineseName": "内衣裤包装",
+      "translatedName": "Packaging of underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390002"
+    }
+  }
+}

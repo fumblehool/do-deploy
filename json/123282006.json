@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123282006,
+      "chineseName": "专车专用脚垫",
+      "translatedName": "Special foot mat for special car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3307"
+    }
+  }
+}

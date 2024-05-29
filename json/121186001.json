@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186001,
+      "chineseName": "物流包装",
+      "translatedName": "logistics packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032992,
+          "chineseName": "封装打包胶带",
+          "translatedName": "Packaging Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 1033007,
+          "chineseName": "纸箱",
+          "translatedName": "Carton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 1035908,
+          "chineseName": "塑料编织袋",
+          "translatedName": "plastic woven bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 1036284,
+          "chineseName": "气垫膜、气泡膜",
+          "translatedName": "Air cushion film, bubble film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 1036283,
+          "chineseName": "EPE珍珠棉",
+          "translatedName": "EPE pearl cotton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121590004,
+          "chineseName": "气柱袋",
+          "translatedName": "Air column bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121190001,
+          "chineseName": "快递袋",
+          "translatedName": "express bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121190002,
+          "chineseName": "泡沫箱",
+          "translatedName": "Foam box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 122150001,
+          "chineseName": "纸护角",
+          "translatedName": "Paper Angle Protectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121186002,
+          "chineseName": "气泡袋",
+          "translatedName": "bubble bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121188001,
+          "chineseName": "气泡信封",
+          "translatedName": "Bubble Envelope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121192001,
+          "chineseName": "飞机盒",
+          "translatedName": "aircraft box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 121192002,
+          "chineseName": "快递标签",
+          "translatedName": "Express label",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        },
+        {
+          "categoryId": 201356956,
+          "chineseName": "冷链物流包装",
+          "translatedName": "cold chain logistics packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186001
+        }
+      ]
+    }
+  }
+}

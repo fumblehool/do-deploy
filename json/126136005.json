@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126136005,
+      "chineseName": "摩托车车灯总成",
+      "translatedName": "Motorcycle lamp assembly",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3304"
+    }
+  }
+}

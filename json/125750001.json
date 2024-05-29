@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125750001,
+      "chineseName": "女装杂款",
+      "translatedName": "Women's Miscellaneous",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031792,
+          "chineseName": "女装代理加盟",
+          "translatedName": "Women's clothing agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125750001
+        },
+        {
+          "categoryId": 122668006,
+          "chineseName": "女装杂款包",
+          "translatedName": "Women's Miscellaneous Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125750001
+        }
+      ]
+    }
+  }
+}

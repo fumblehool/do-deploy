@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055601,
+      "chineseName": "lolita洛丽塔套装",
+      "translatedName": "lolita lolita set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202050901"
+    }
+  }
+}

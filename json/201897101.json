@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201897101,
+      "chineseName": "VR/AR一体游戏机",
+      "translatedName": "VR/AR integrated game console",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "727"
+    }
+  }
+}

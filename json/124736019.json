@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736019,
+      "chineseName": "正版动漫形象",
+      "translatedName": "Genuine cartoon image",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1813"
+    }
+  }
+}

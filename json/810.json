@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 810,
+      "chineseName": "其他聚合物",
+      "translatedName": "Other Polymers",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "8"
+    }
+  }
+}

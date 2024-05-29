@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201164003,
+      "chineseName": "麦片",
+      "translatedName": "Catmeal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

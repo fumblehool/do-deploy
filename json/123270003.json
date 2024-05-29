@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123270003,
+      "chineseName": "示宽灯",
+      "translatedName": "Width indicator light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10108"
+    }
+  }
+}

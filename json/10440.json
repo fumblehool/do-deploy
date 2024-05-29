@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10440,
+      "chineseName": "门、窗",
+      "translatedName": "Doors and windows",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046262,
+          "chineseName": "平开门",
+          "translatedName": "swing door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046302,
+          "chineseName": "平开窗",
+          "translatedName": "casement window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1037207,
+          "chineseName": "卫生间隔断",
+          "translatedName": "Toilet partition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046203,
+          "chineseName": "平移门",
+          "translatedName": "Translatable door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046211,
+          "chineseName": "推拉门",
+          "translatedName": "sliding door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046214,
+          "chineseName": "折叠门",
+          "translatedName": "Folding door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046216,
+          "chineseName": "旋转门",
+          "translatedName": "revolving door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046218,
+          "chineseName": "卷闸门",
+          "translatedName": "Roll gate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046219,
+          "chineseName": "其他门",
+          "translatedName": "Other Doors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046226,
+          "chineseName": "伸缩门",
+          "translatedName": "Retractable door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046303,
+          "chineseName": "悬窗",
+          "translatedName": "Hanging window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046304,
+          "chineseName": "推拉窗",
+          "translatedName": "sliding window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046305,
+          "chineseName": "固定窗",
+          "translatedName": "Fixed window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046306,
+          "chineseName": "折叠窗",
+          "translatedName": "folding window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1046319,
+          "chineseName": "其他窗",
+          "translatedName": "Other windows",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1036632,
+          "chineseName": "窗纱",
+          "translatedName": "Window screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 1036639,
+          "chineseName": "阳光房",
+          "translatedName": "Sun room",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 124956002,
+          "chineseName": "安全门卡",
+          "translatedName": "Security Door Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 124958001,
+          "chineseName": "防撞条",
+          "translatedName": "Anti-collision strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 124958002,
+          "chineseName": "防撞角",
+          "translatedName": "Anti-collision angle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 125316002,
+          "chineseName": "订制窗纱",
+          "translatedName": "Custom-made window screens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 124954002,
+          "chineseName": "门护栏",
+          "translatedName": "Door guardrail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 201308206,
+          "chineseName": "无框窗",
+          "translatedName": "Frameless window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        },
+        {
+          "categoryId": 201303405,
+          "chineseName": "进户门",
+          "translatedName": "Entry door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10440
+        }
+      ]
+    }
+  }
+}

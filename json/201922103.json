@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201922103,
+      "chineseName": "基桩检测仪器",
+      "translatedName": "testing instrument for foundation pile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10212"
+    }
+  }
+}

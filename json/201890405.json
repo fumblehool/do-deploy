@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201890405,
+      "chineseName": "汽车内饰贴膜",
+      "translatedName": "Car interior film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201888805"
+    }
+  }
+}

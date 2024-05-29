@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034725,
+      "chineseName": "微波干燥设备",
+      "translatedName": "Microwave drying equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10416"
+    }
+  }
+}

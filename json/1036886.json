@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036886,
+      "chineseName": "食品级润滑油",
+      "translatedName": "Food grade lubricating oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033682"
+    }
+  }
+}

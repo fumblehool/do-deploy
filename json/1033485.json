@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033485,
+      "chineseName": "跆拳道、柔道服",
+      "translatedName": "Taekwondo, judo suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048021"
+    }
+  }
+}

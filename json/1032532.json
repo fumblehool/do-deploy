@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032532,
+      "chineseName": "矿业物探仪器",
+      "translatedName": "mining geophysical prospecting instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "921"
+    }
+  }
+}

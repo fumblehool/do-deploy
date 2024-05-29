@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 79,
+      "chineseName": "美容养护",
+      "translatedName": "Beauty maintenance",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032182,
+          "chineseName": "其它汽车保养/添加剂",
+          "translatedName": "Other car care/additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032183,
+          "chineseName": "车釉/车漆镀膜",
+          "translatedName": "Car glaze/paint coating",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032184,
+          "chineseName": "制动液",
+          "translatedName": "Brake fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032185,
+          "chineseName": "玻璃用剂",
+          "translatedName": "Glass agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032187,
+          "chineseName": "清洗剂/养护剂",
+          "translatedName": "Cleaning/curing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032188,
+          "chineseName": "冷媒",
+          "translatedName": "Refrigerant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 1032192,
+          "chineseName": "车蜡",
+          "translatedName": "car wax",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124746010,
+          "chineseName": "洗车机",
+          "translatedName": "car washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124016001,
+          "chineseName": "汽油机机油",
+          "translatedName": "Gasoline Engine Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124742027,
+          "chineseName": "高压洗车水枪",
+          "translatedName": "High pressure car wash water gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124742030,
+          "chineseName": "汽车清洁工具",
+          "translatedName": "Car cleaning tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 125464004,
+          "chineseName": "钣喷维修",
+          "translatedName": "Sheet Metal Spray Repair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 125066006,
+          "chineseName": "机油添加剂",
+          "translatedName": "oil additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124014001,
+          "chineseName": "车用汽油添加剂",
+          "translatedName": "motor gasoline additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 124014002,
+          "chineseName": "柴油机机油",
+          "translatedName": "Diesel Engine Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 126644001,
+          "chineseName": "便携式洗车器",
+          "translatedName": "Portable car washer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 201357404,
+          "chineseName": "汽车玻璃修复液",
+          "translatedName": "Auto glass repair liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 201357702,
+          "chineseName": "汽车玻璃除雾剂",
+          "translatedName": "automotive glass defogging agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 201151104,
+          "chineseName": "补漆笔/油漆笔",
+          "translatedName": "Paint pen/paint pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 201964707,
+          "chineseName": "车用空气降温剂",
+          "translatedName": "Air cooling agent for vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        },
+        {
+          "categoryId": 201955605,
+          "chineseName": "汽车清洁软胶",
+          "translatedName": "Car cleaning soft rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 79
+        }
+      ]
+    }
+  }
+}

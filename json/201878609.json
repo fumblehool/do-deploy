@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201878609,
+      "chineseName": "摩托车头盔耳机",
+      "translatedName": "Motorcycle Helmet Headset",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3304"
+    }
+  }
+}

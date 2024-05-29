@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032273,
+      "chineseName": "紫外线灯",
+      "translatedName": "ultraviolet lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "527"
+    }
+  }
+}

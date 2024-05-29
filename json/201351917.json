@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201351917,
+      "chineseName": "挽联",
+      "translatedName": "elegiac couplet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044217"
+    }
+  }
+}

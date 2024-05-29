@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058309,
+      "chineseName": "光电子器件",
+      "translatedName": "optoelectronic device",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202051307,
+          "chineseName": "光电管",
+          "translatedName": "photocell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058309
+        },
+        {
+          "categoryId": 202058312,
+          "chineseName": "光模块",
+          "translatedName": "optical module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058309
+        },
+        {
+          "categoryId": 202058807,
+          "chineseName": "光电倍增管",
+          "translatedName": "photomultiplier tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058309
+        },
+        {
+          "categoryId": 202055811,
+          "chineseName": "光电隔离器",
+          "translatedName": "photoelectric isolator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058309
+        },
+        {
+          "categoryId": 202063207,
+          "chineseName": "光敏电阻",
+          "translatedName": "Photoresistor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058309
+        }
+      ]
+    }
+  }
+}

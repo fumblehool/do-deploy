@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201965504,
+      "chineseName": "茶盘排水管",
+      "translatedName": "Tea tray drain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121548001"
+    }
+  }
+}

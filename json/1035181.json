@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035181,
+      "chineseName": "电子电器生产线",
+      "translatedName": "Electronic and Electrical Equipment Production Line",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10236"
+    }
+  }
+}

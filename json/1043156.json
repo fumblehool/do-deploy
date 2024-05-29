@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043156,
+      "chineseName": "磨脚石、足部磨砂工具",
+      "translatedName": "Foot stone, foot sanding tool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043058"
+    }
+  }
+}

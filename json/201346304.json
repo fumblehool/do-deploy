@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201346304,
+      "chineseName": "SPE管",
+      "translatedName": "SPE tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "826"
+    }
+  }
+}

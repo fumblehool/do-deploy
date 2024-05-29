@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186015,
+      "chineseName": "酒店布草",
+      "translatedName": "Hotel Cloth",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122232004,
+          "chineseName": "地巾",
+          "translatedName": "Twig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121188023,
+          "chineseName": "酒店床垫、保护垫",
+          "translatedName": "Hotel mattress, protective pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121188024,
+          "chineseName": "床旗、床尾巾",
+          "translatedName": "Bed flag, bed towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121186019,
+          "chineseName": "酒店床品套件",
+          "translatedName": "Hotel Bedding Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121186020,
+          "chineseName": "酒店椅套",
+          "translatedName": "Hotel chair cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121192036,
+          "chineseName": "酒店浴袍",
+          "translatedName": "Hotel Bathrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121186021,
+          "chineseName": "酒店装饰布草",
+          "translatedName": "Hotel Decorative Cloth Grass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121190026,
+          "chineseName": "酒店毛巾、浴巾",
+          "translatedName": "Hotel towels, bath towels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        },
+        {
+          "categoryId": 121190027,
+          "chineseName": "酒店桌布、台布、桌裙",
+          "translatedName": "Hotel tablecloths, tablecloths, table skirts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121186015
+        }
+      ]
+    }
+  }
+}

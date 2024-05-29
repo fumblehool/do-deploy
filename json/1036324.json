@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036324,
+      "chineseName": "家用电器包装",
+      "translatedName": "Household appliances packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126512001"
+    }
+  }
+}

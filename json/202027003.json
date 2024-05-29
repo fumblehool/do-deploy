@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202027003,
+      "chineseName": "道路反光玻璃微珠",
+      "translatedName": "Road reflective glass beads",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3015"
+    }
+  }
+}

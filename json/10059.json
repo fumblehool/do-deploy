@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10059,
+      "chineseName": "屠宰及肉类初加工设备",
+      "translatedName": "Slaughter and meat primary processing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "138"
+    }
+  }
+}

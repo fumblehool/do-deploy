@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036722,
+      "chineseName": "电火花机油",
+      "translatedName": "Electric spark oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031656"
+    }
+  }
+}

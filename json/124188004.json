@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124188004,
+      "chineseName": "LED防爆手电筒",
+      "translatedName": "LED explosion-proof flashlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268005"
+    }
+  }
+}

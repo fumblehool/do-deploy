@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126128005,
+      "chineseName": "实体娃娃",
+      "translatedName": "Entity Doll",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126150002"
+    }
+  }
+}

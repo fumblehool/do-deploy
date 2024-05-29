@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1216,
+      "chineseName": "库存汽摩配件",
+      "translatedName": "Inventory of auto parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "71"
+    }
+  }
+}

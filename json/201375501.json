@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375501,
+      "chineseName": "仿真果蔬/食物玩具",
+      "translatedName": "Simulation of fruits and vegetables/food toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181302"
+    }
+  }
+}

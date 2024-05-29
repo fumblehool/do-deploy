@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201638360,
+      "chineseName": "收纳洞洞板",
+      "translatedName": "Storage Cave",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1548"
+    }
+  }
+}

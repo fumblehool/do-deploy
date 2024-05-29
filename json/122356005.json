@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122356005,
+      "chineseName": "卫浴置物架",
+      "translatedName": "Bathroom storage rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

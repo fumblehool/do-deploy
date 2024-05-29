@@ -1,0 +1,397 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 181309,
+      "chineseName": "益智、科教玩具",
+      "translatedName": "Puzzle, science and education toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033658,
+          "chineseName": "其他益智玩具",
+          "translatedName": "Other educational toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 1033660,
+          "chineseName": "智力魔方",
+          "translatedName": "Intelligence Cube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 1033661,
+          "chineseName": "拼图、拼板",
+          "translatedName": "Puzzle, puzzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 1033662,
+          "chineseName": "智力迷宫",
+          "translatedName": "Intelligence Maze",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 1033664,
+          "chineseName": "解环、解锁",
+          "translatedName": "Unring, unlock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122986007,
+          "chineseName": "早教书籍",
+          "translatedName": "Early Education Books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122986008,
+          "chineseName": "陶瓷彩绘/沙画/水彩",
+          "translatedName": "Ceramic Painting/Sand Painting/Watercolor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122984010,
+          "chineseName": "串珠、绕珠",
+          "translatedName": "Beaded",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122984011,
+          "chineseName": "彩虹圈",
+          "translatedName": "Rainbow Circle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122984012,
+          "chineseName": "珠算架",
+          "translatedName": "Bead rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122992008,
+          "chineseName": "万花筒",
+          "translatedName": "Kaleidoscope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122992009,
+          "chineseName": "彩泥/粘土/沙",
+          "translatedName": "Colored clay/clay/sand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 124736030,
+          "chineseName": "软陶泥",
+          "translatedName": "soft clay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122988011,
+          "chineseName": "教学时钟",
+          "translatedName": "Teaching clock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122990006,
+          "chineseName": "有声挂图",
+          "translatedName": "audio flip chart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 123648004,
+          "chineseName": "科教玩具",
+          "translatedName": "science and education toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122982010,
+          "chineseName": "拼插类玩具",
+          "translatedName": "Patchwork toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122982011,
+          "chineseName": "儿童乐器",
+          "translatedName": "Children's musical instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 122988010,
+          "chineseName": "学习机/早教机/早教智能",
+          "translatedName": "Learning machine/early education machine/early education intelligence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 123752006,
+          "chineseName": "儿童画板",
+          "translatedName": "Children's drawing board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 181303,
+          "chineseName": "积木类",
+          "translatedName": "Building blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201563815,
+          "chineseName": "考古挖掘玩具",
+          "translatedName": "Archaeological Excavation Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201330613,
+          "chineseName": "儿童思维训练教具",
+          "translatedName": "Teaching aids for children's thinking training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201351403,
+          "chineseName": "玩具挂图/认知卡",
+          "translatedName": "Toy Wall Chart/Awareness Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201351704,
+          "chineseName": "婴幼儿学爬玩具",
+          "translatedName": "Infant learning to climb toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201374502,
+          "chineseName": "其他形状认知/配对玩具",
+          "translatedName": "Other Shape Cognitive/Matching Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201374902,
+          "chineseName": "几何形状套柱",
+          "translatedName": "Geometry Sleeve Column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201352804,
+          "chineseName": "儿童多功能玩具台/游戏台",
+          "translatedName": "Children's multi-functional toy table/game table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201358702,
+          "chineseName": "儿童早教教具/套装",
+          "translatedName": "Children's early education aids/set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201359402,
+          "chineseName": "科学实验玩具",
+          "translatedName": "Science experiment toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201332716,
+          "chineseName": "磁力片/磁力球/磁力积木",
+          "translatedName": "Magnetic sheet/magnetic ball/magnetic building blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201371402,
+          "chineseName": "数字屋/形状盒/多孔认知玩具",
+          "translatedName": "Digital House/Shape Box/Porous Cognitive Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201371903,
+          "chineseName": "感统训练器材/设备",
+          "translatedName": "sensory training equipment/equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201357202,
+          "chineseName": "早教闪卡/潜能开发卡",
+          "translatedName": "Early Education Flash Card/Potential Development Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201375701,
+          "chineseName": "建筑/DIY小屋/拼装玩具",
+          "translatedName": "Construction/DIY Cabin/Assembled Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201375801,
+          "chineseName": "插珠/蘑菇插钉",
+          "translatedName": "Bead/Mushroom Stud",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201375901,
+          "chineseName": "螺母拆装/组合玩具",
+          "translatedName": "Nut disassembly/assembly toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201376001,
+          "chineseName": "钓鱼类玩具",
+          "translatedName": "Fishing toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201376002,
+          "chineseName": "切切乐",
+          "translatedName": "Cheschile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201376101,
+          "chineseName": "叠叠圈/叠套玩具",
+          "translatedName": "Stacking rings/stacking toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201376201,
+          "chineseName": "智力解题/通关玩具",
+          "translatedName": "Intellectual Problem Solving/Clearance Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        },
+        {
+          "categoryId": 201878001,
+          "chineseName": "卡片、卡牌、闪卡玩具",
+          "translatedName": "Cards, cards, flash card toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181309
+        }
+      ]
+    }
+  }
+}

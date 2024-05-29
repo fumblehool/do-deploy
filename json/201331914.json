@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331914,
+      "chineseName": "书桌椅+书柜+休闲沙发",
+      "translatedName": "Desk Chair Bookcase Leisure Sofa",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

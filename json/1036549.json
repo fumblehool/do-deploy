@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036549,
+      "chineseName": "口服液制药设备",
+      "translatedName": "Oral Liquid Pharmaceutical Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1615"
+    }
+  }
+}

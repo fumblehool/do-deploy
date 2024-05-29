@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124878004,
+      "chineseName": "其他车辆座椅",
+      "translatedName": "Other vehicle seats",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3311"
+    }
+  }
+}

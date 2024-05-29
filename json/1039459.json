@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039459,
+      "chineseName": "排水板",
+      "translatedName": "Drainage board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10435"
+    }
+  }
+}

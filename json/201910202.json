@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201910202,
+      "chineseName": "营地推车",
+      "translatedName": "Camp Cart",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "281904"
+    }
+  }
+}

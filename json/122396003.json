@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122396003,
+      "chineseName": "体感游戏机",
+      "translatedName": "somatosensory game machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "727"
+    }
+  }
+}

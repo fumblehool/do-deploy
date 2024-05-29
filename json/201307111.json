@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201307111,
+      "chineseName": "足膜",
+      "translatedName": "foot membrane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126182004"
+    }
+  }
+}

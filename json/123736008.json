@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123736008,
+      "chineseName": "宠物智能穿戴设备",
+      "translatedName": "Pet smart wearable device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232602"
+    }
+  }
+}

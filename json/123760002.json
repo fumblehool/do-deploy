@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123760002,
+      "chineseName": "智能计步器",
+      "translatedName": "Intelligent pedometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123754001"
+    }
+  }
+}

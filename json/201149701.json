@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201149701,
+      "chineseName": "热敏/热转印打印机",
+      "translatedName": "Thermal/Thermal Transfer Printer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

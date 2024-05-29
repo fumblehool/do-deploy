@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121432001,
+      "chineseName": "烟灶消套装",
+      "translatedName": "Smoke stove elimination set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047393"
+    }
+  }
+}

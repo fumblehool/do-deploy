@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303808,
+      "chineseName": "烟丝盒/罐",
+      "translatedName": "Tobacco box/jar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124272009"
+    }
+  }
+}

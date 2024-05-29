@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056001,
+      "chineseName": "中老年半身裙",
+      "translatedName": "Middle-aged and elderly skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

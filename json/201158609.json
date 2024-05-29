@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201158609,
+      "chineseName": "亚克力加工",
+      "translatedName": "Acrylic processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160006"
+    }
+  }
+}

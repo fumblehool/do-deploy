@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122916001,
+      "chineseName": "宠物及园艺",
+      "translatedName": "Pets and Gardening",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045486,
+          "chineseName": "林业及园林业副产品",
+          "translatedName": "Forestry and landscape by-products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121850001,
+          "chineseName": "猫/狗美容清洁用品",
+          "translatedName": "Cat/Dog Beauty Cleaning Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125,
+          "chineseName": "园林资材",
+          "translatedName": "Garden Materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125278008,
+          "chineseName": "宠物保健品",
+          "translatedName": "Pet Health Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125496001,
+          "chineseName": "花盆、花瓶",
+          "translatedName": "Flowerpot, vase",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121786003,
+          "chineseName": "水族世界",
+          "translatedName": "Aquarium World",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121792003,
+          "chineseName": "宠物活体",
+          "translatedName": "Pet Live",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 124,
+          "chineseName": "园林植物",
+          "translatedName": "garden plant",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121814002,
+          "chineseName": "小宠及用品",
+          "translatedName": "Small pets and supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121828001,
+          "chineseName": "猫狗用品",
+          "translatedName": "Cat and Dog Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 121776006,
+          "chineseName": "其他宠物用品",
+          "translatedName": "Other Pet Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125270017,
+          "chineseName": "宠物医药",
+          "translatedName": "Pet Medicine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125484002,
+          "chineseName": "种子、种苗及种球",
+          "translatedName": "Seeds, seedlings and balls",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125492001,
+          "chineseName": "盆栽、盆景",
+          "translatedName": "Potted plants, bonsai",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 125492002,
+          "chineseName": "花卉",
+          "translatedName": "Flowers",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 200550001,
+          "chineseName": "宠物食品",
+          "translatedName": "Pet Food",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 201305503,
+          "chineseName": "宠物服饰、配饰",
+          "translatedName": "Pet clothing, accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 201232602,
+          "chineseName": "宠物智能设备",
+          "translatedName": "Pet Smart Device",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 202055517,
+          "chineseName": "猫/狗零食",
+          "translatedName": "Cat/Dog Snacks",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        },
+        {
+          "categoryId": 202055518,
+          "chineseName": "猫/狗主粮",
+          "translatedName": "cat/dog staple food",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916001
+        }
+      ]
+    }
+  }
+}

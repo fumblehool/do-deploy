@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 843,
+      "chineseName": "煤焦化产品",
+      "translatedName": "coal coking products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033693,
+          "chineseName": "煤焦油",
+          "translatedName": "coal tar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035949,
+          "chineseName": "顺酐",
+          "translatedName": "maleic anhydride",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035951,
+          "chineseName": "精萘",
+          "translatedName": "refined naphthalene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035952,
+          "chineseName": "蒽油",
+          "translatedName": "anthracene oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035953,
+          "chineseName": "工业萘",
+          "translatedName": "industrial naphthalene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035954,
+          "chineseName": "焦化甲苯",
+          "translatedName": "coking toluene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035955,
+          "chineseName": "焦化二甲苯",
+          "translatedName": "Coking xylene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035956,
+          "chineseName": "粗苯",
+          "translatedName": "crude benzene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035957,
+          "chineseName": "焦化苯",
+          "translatedName": "coking benzene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035946,
+          "chineseName": "洗油",
+          "translatedName": "wash oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035945,
+          "chineseName": "其他煤化工产品",
+          "translatedName": "Other Coal Chemical Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035947,
+          "chineseName": "轻油",
+          "translatedName": "light oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        },
+        {
+          "categoryId": 1035948,
+          "chineseName": "酚",
+          "translatedName": "Phenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 843
+        }
+      ]
+    }
+  }
+}

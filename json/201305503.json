@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305503,
+      "chineseName": "宠物服饰、配饰",
+      "translatedName": "Pet clothing, accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122586001,
+          "chineseName": "宠物鞋靴",
+          "translatedName": "Pet Shoes and Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 121778003,
+          "chineseName": "狗狗服装",
+          "translatedName": "Dog Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 121810004,
+          "chineseName": "猫猫服饰",
+          "translatedName": "Cat Costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201304806,
+          "chineseName": "宠物袜子",
+          "translatedName": "Pet socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201309909,
+          "chineseName": "宠物项圈",
+          "translatedName": "Pet collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201625901,
+          "chineseName": "宠物绝育服/生理裤",
+          "translatedName": "Pet sterilization suit/physiological pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201301109,
+          "chineseName": "宠物自背包",
+          "translatedName": "Pet Self-Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201304209,
+          "chineseName": "宠物围巾",
+          "translatedName": "Pet Scarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201304306,
+          "chineseName": "伊丽莎白圈",
+          "translatedName": "Elizabeth Circle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201306406,
+          "chineseName": "宠物挂牌/挂饰",
+          "translatedName": "Pet Tag/Hanging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201309405,
+          "chineseName": "宠物帽子",
+          "translatedName": "Pet Hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        },
+        {
+          "categoryId": 201302008,
+          "chineseName": "宠物头饰",
+          "translatedName": "Pet Headwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305503
+        }
+      ]
+    }
+  }
+}

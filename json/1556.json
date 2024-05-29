@@ -1,0 +1,595 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1556,
+      "chineseName": "居家日用",
+      "translatedName": "Home daily use",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031796,
+          "chineseName": "日用百货代理加盟",
+          "translatedName": "Daily necessities agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043789,
+          "chineseName": "宝宝日常护理小用品",
+          "translatedName": "Baby daily care supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043808,
+          "chineseName": "其他孕产用品",
+          "translatedName": "Other Maternity Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043950,
+          "chineseName": "针线、别针、缝纫",
+          "translatedName": "Needle and thread, pin, sewing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043956,
+          "chineseName": "鞋套、鞋刷、鞋用品",
+          "translatedName": "Shoe covers, shoe brushes, shoe supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043961,
+          "chineseName": "其他居家日用",
+          "translatedName": "Other Home Daily Use",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1043962,
+          "chineseName": "家用剪刀",
+          "translatedName": "household scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1046731,
+          "chineseName": "冰垫",
+          "translatedName": "Ice pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1047889,
+          "chineseName": "迷你手持扇",
+          "translatedName": "Mini hand-held fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1037330,
+          "chineseName": "温度计、水温计",
+          "translatedName": "Thermometer, water thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1047891,
+          "chineseName": "护眼罩",
+          "translatedName": "Eye protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 122400001,
+          "chineseName": "扇子",
+          "translatedName": "Fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124272001,
+          "chineseName": "一次性防尘罩",
+          "translatedName": "Disposable dust cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 122522004,
+          "chineseName": "其他一次性用品",
+          "translatedName": "Other Disposable Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 122328007,
+          "chineseName": "冰箱贴",
+          "translatedName": "Refrigerator magnets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124742029,
+          "chineseName": "母乳储存保鲜",
+          "translatedName": "Breast milk storage and preservation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124746025,
+          "chineseName": "量衣卷尺",
+          "translatedName": "Measuring Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124746026,
+          "chineseName": "家用打气筒",
+          "translatedName": "Household pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124734043,
+          "chineseName": "一次性内裤",
+          "translatedName": "disposable underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124740029,
+          "chineseName": "一次性鞋套",
+          "translatedName": "Disposable shoe covers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124744039,
+          "chineseName": "防烫、防高温手套",
+          "translatedName": "Anti-scald and anti-high temperature gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 123860005,
+          "chineseName": "吸奶器",
+          "translatedName": "breast pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 125070006,
+          "chineseName": "一次性鞋用品",
+          "translatedName": "Disposable shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 124264004,
+          "chineseName": "一次性日用口罩",
+          "translatedName": "Disposable daily masks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1532,
+          "chineseName": "库存日用百货",
+          "translatedName": "Inventory of daily necessities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201301635,
+          "chineseName": "隔离帘",
+          "translatedName": "Isolation curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201301811,
+          "chineseName": "鞋袜干爽剂",
+          "translatedName": "Shoes and socks drying agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201307213,
+          "chineseName": "蒸汽面罩",
+          "translatedName": "Steam mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201309520,
+          "chineseName": "驱蚊喷雾/走珠",
+          "translatedName": "Mosquito repellent spray/beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201638254,
+          "chineseName": "胎心监护带",
+          "translatedName": "Fetal heart monitoring belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201303805,
+          "chineseName": "宝宝量温",
+          "translatedName": "Baby's temperature",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201624701,
+          "chineseName": "蚊香托盘/架",
+          "translatedName": "Mosquito-repellent incense tray/rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201626002,
+          "chineseName": "居家手腕球",
+          "translatedName": "Home Wrist Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 126572005,
+          "chineseName": "退烧用品",
+          "translatedName": "Fen reduction supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201305914,
+          "chineseName": "祛螨包",
+          "translatedName": "Mite removal package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201325902,
+          "chineseName": "日用冰贴",
+          "translatedName": "Daily Ice Stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201344701,
+          "chineseName": "口罩挂钩",
+          "translatedName": "Mask hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201628150,
+          "chineseName": "一次性吸汗贴",
+          "translatedName": "Disposable Perspiration Sticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201630358,
+          "chineseName": "护脐贴",
+          "translatedName": "Umbilical Cord Paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201237501,
+          "chineseName": "香薰蜡烛工具",
+          "translatedName": "Scented Candle Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201302418,
+          "chineseName": "防打鼾用品",
+          "translatedName": "Anti-snoring supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201659103,
+          "chineseName": "痒痒挠",
+          "translatedName": "Tickle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201661801,
+          "chineseName": "一次性纱窗修补贴",
+          "translatedName": "One-time screen repair subsidy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 1549,
+          "chineseName": "家用梯",
+          "translatedName": "household ladder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201302028,
+          "chineseName": "一次性口罩垫",
+          "translatedName": "Disposable mask pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201307412,
+          "chineseName": "炭盒/竹炭包",
+          "translatedName": "Charcoal box/bamboo charcoal bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201309915,
+          "chineseName": "驱蚊草",
+          "translatedName": "mosquito repellent grass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201549913,
+          "chineseName": "口罩支架",
+          "translatedName": "Mask holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201649401,
+          "chineseName": "家用鞋套机",
+          "translatedName": "household shoe cover machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201303207,
+          "chineseName": "粘蝇纸/苍蝇拍",
+          "translatedName": "Sticky Flypaper/Fly Spatters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201306115,
+          "chineseName": "祛螨剂",
+          "translatedName": "Mite removing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201308613,
+          "chineseName": "护腕垫",
+          "translatedName": "Wrist pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201700301,
+          "chineseName": "开箱涂改器",
+          "translatedName": "Unpacking modifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201774702,
+          "chineseName": "针线盒",
+          "translatedName": "sewing box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201860704,
+          "chineseName": "缝纫DIY工具套装",
+          "translatedName": "Sewing DIY tool set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201732603,
+          "chineseName": "戳戳乐工具套装",
+          "translatedName": "Stamping tool set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 201754501,
+          "chineseName": "一次性床单",
+          "translatedName": "Disposable sheets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202060807,
+          "chineseName": "单眼眼罩",
+          "translatedName": "monocular eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202055503,
+          "chineseName": "冰敷/热敷眼罩",
+          "translatedName": "Ice/hot eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202062603,
+          "chineseName": "蒸汽眼罩",
+          "translatedName": "Steam eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202054519,
+          "chineseName": "一次性被套",
+          "translatedName": "Disposable quilt cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202063709,
+          "chineseName": "一次性套件",
+          "translatedName": "Disposable Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202052915,
+          "chineseName": "一次性擦脚布",
+          "translatedName": "Disposable foot cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        },
+        {
+          "categoryId": 202051316,
+          "chineseName": "一次性枕套",
+          "translatedName": "Disposable pillowcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1556
+        }
+      ]
+    }
+  }
+}

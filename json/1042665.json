@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042665,
+      "chineseName": "太阳能充电器",
+      "translatedName": "Solar charger",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "629"
+    }
+  }
+}

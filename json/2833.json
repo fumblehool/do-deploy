@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2833,
+      "chineseName": "摄影摄像服务",
+      "translatedName": "Photography services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047355,
+          "chineseName": "后期处理",
+          "translatedName": "Post-processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2833
+        },
+        {
+          "categoryId": 1036542,
+          "chineseName": "摄像服务",
+          "translatedName": "Camera Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2833
+        },
+        {
+          "categoryId": 1036543,
+          "chineseName": "摄影服务",
+          "translatedName": "Photography Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2833
+        }
+      ]
+    }
+  }
+}

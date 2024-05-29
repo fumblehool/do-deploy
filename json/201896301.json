@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201896301,
+      "chineseName": "鱼骨胸衣、马甲式文胸",
+      "translatedName": "Fishbone bra, waistcoat bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124188007"
+    }
+  }
+}

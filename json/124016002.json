@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016002,
+      "chineseName": "女士包袋",
+      "translatedName": "Ladies Bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124022001,
+          "chineseName": "帆布女包",
+          "translatedName": "Women's canvas bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 125730001,
+          "chineseName": "晚宴包",
+          "translatedName": "dinner bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 124020001,
+          "chineseName": "真皮女包",
+          "translatedName": "Women's Leather Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 125748006,
+          "chineseName": "牛津布女包",
+          "translatedName": "Oxford Cloth Women's Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 124676002,
+          "chineseName": "其他时尚女包",
+          "translatedName": "Other Fashion Women's Bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 124734004,
+          "chineseName": "PU女包",
+          "translatedName": "PU women's bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201548714,
+          "chineseName": "女士手提包",
+          "translatedName": "Women's handbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 126506003,
+          "chineseName": "草编包",
+          "translatedName": "Straw Bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201349001,
+          "chineseName": "女士胸包、腰包",
+          "translatedName": "Women's chest bag, fanny pack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201554511,
+          "chineseName": "女士单肩包",
+          "translatedName": "Women's Shoulder Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201580619,
+          "chineseName": "女士斜挎包",
+          "translatedName": "Women's Messenger Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201549914,
+          "chineseName": "女士手拿包",
+          "translatedName": "Women's Clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 126450003,
+          "chineseName": "pvc女包",
+          "translatedName": "PVC Women's Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201972802,
+          "chineseName": "腋下包",
+          "translatedName": "underarm bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201960405,
+          "chineseName": "托特包",
+          "translatedName": "Tote bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201960406,
+          "chineseName": "水桶包",
+          "translatedName": "Bucket bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        },
+        {
+          "categoryId": 201967404,
+          "chineseName": "小方包",
+          "translatedName": "small square bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016002
+        }
+      ]
+    }
+  }
+}

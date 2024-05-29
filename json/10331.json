@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10331,
+      "chineseName": "收音、录音机",
+      "translatedName": "Radio, tape recorder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047104"
+    }
+  }
+}

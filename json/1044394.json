@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044394,
+      "chineseName": "不锈钢角钢",
+      "translatedName": "stainless steel angle steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10518"
+    }
+  }
+}

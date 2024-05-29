@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033800,
+      "chineseName": "销售人员招聘",
+      "translatedName": "Sales staff recruitment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2816"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033530,
+      "chineseName": "乐器配件/零件",
+      "translatedName": "Musical Instrument Accessories/Parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1805"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125740001,
+      "chineseName": "化妆包",
+      "translatedName": "Makeup Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125728001"
+    }
+  }
+}

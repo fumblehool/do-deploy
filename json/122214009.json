@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122214009,
+      "chineseName": "玻璃清洁剂",
+      "translatedName": "Glass Cleaner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122212003"
+    }
+  }
+}

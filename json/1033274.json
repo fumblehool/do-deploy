@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033274,
+      "chineseName": "语音/传真网关",
+      "translatedName": "Voice/Fax Gateway",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "705"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044884,
+      "chineseName": "壁球",
+      "translatedName": "Squash",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044824"
+    }
+  }
+}

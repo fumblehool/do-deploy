@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032418,
+      "chineseName": "换向阀",
+      "translatedName": "reversing valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141907"
+    }
+  }
+}

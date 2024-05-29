@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060411,
+      "chineseName": "锌铝镁钢板",
+      "translatedName": "zinc aluminum magnesium steel plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053805"
+    }
+  }
+}

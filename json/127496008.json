@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127496008,
+      "chineseName": "围巾/帽子/手套 多件套",
+      "translatedName": "Scarf/hat/gloves multi-piece set",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034406,
+          "chineseName": "其它多件套",
+          "translatedName": "Other multi-piece sets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        },
+        {
+          "categoryId": 127496009,
+          "chineseName": "围巾+手套2件套（作废）",
+          "translatedName": "2-piece scarf glove set (obsolete)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        },
+        {
+          "categoryId": 127496010,
+          "chineseName": "帽子+手套2件套（作废）",
+          "translatedName": "2-piece set of hat and gloves (invalid)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        },
+        {
+          "categoryId": 127500007,
+          "chineseName": "口罩+耳罩2件套（作废）",
+          "translatedName": "2 sets of mask and earmuffs (obsolete)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        },
+        {
+          "categoryId": 127462006,
+          "chineseName": "3件套",
+          "translatedName": "Set of 3 pieces",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        },
+        {
+          "categoryId": 127446009,
+          "chineseName": "2件套",
+          "translatedName": "2-piece set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496008
+        }
+      ]
+    }
+  }
+}

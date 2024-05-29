@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046084,
+      "chineseName": "塑料篷布",
+      "translatedName": "plastic tarpaulin",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046090,
+          "chineseName": "其他塑料篷布",
+          "translatedName": "Other plastic tarpaulin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        },
+        {
+          "categoryId": 1046085,
+          "chineseName": "农用篷布",
+          "translatedName": "agricultural tarpaulin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        },
+        {
+          "categoryId": 1046086,
+          "chineseName": "工业用篷布",
+          "translatedName": "Industrial tarpaulin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        },
+        {
+          "categoryId": 1046087,
+          "chineseName": "露营用篷布",
+          "translatedName": "Camping tarpaulin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        },
+        {
+          "categoryId": 1046088,
+          "chineseName": "船用篷布",
+          "translatedName": "Marine tarpaulin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        },
+        {
+          "categoryId": 1046089,
+          "chineseName": "货场盖布",
+          "translatedName": "yard cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046084
+        }
+      ]
+    }
+  }
+}

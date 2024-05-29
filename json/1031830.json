@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031830,
+      "chineseName": "汽摩配件加工",
+      "translatedName": "Auto Parts Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

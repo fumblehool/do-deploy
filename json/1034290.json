@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034290,
+      "chineseName": "其他消音降噪设备",
+      "translatedName": "Other noise reduction equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1102"
+    }
+  }
+}

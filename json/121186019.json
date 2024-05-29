@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186019,
+      "chineseName": "酒店床品套件",
+      "translatedName": "Hotel Bedding Kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186015"
+    }
+  }
+}

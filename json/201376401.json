@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201376401,
+      "chineseName": "海洋球",
+      "translatedName": "ocean ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

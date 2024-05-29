@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122268003,
+      "chineseName": "LED标识",
+      "translatedName": "LED identification",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123618004"
+    }
+  }
+}

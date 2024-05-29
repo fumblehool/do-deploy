@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033903,
+      "chineseName": "PH计",
+      "translatedName": "PH meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10211"
+    }
+  }
+}

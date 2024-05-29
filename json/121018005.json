@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018005,
+      "chineseName": "槽钢",
+      "translatedName": "channel steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022010"
+    }
+  }
+}

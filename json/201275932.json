@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201275932,
+      "chineseName": "植物精华/提取物（食品）",
+      "translatedName": "Plant Essence/Extract (Food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

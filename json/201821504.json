@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201821504,
+      "chineseName": "软支撑文胸",
+      "translatedName": "Soft Support Bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124188007"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744015,
+      "chineseName": "配方牛奶粉",
+      "translatedName": "cow milk formula",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124746009"
+    }
+  }
+}

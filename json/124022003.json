@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022003,
+      "chineseName": "电子玩具",
+      "translatedName": "Electronic Toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022002"
+    }
+  }
+}

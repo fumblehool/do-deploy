@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033032,
+      "chineseName": "金属桶",
+      "translatedName": "Metal barrel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10366"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037029,
+      "chineseName": "衣钩、挂钩、粘钩、钩子",
+      "translatedName": "Coat hook, hook, sticky hook, hook",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122390004"
+    }
+  }
+}

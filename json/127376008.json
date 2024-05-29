@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127376008,
+      "chineseName": "大码其他女式裤装",
+      "translatedName": "Women's Plus Size Other Trousers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127372010"
+    }
+  }
+}

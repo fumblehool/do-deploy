@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033445,
+      "chineseName": "其他金属粉末",
+      "translatedName": "Other metal powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10522"
+    }
+  }
+}

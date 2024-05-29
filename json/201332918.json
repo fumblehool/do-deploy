@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201332918,
+      "chineseName": "充电桩",
+      "translatedName": "Charging pile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201345621,
+          "chineseName": "快速充电桩",
+          "translatedName": "Fast charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201345518,
+          "chineseName": "家用充电桩",
+          "translatedName": "Household charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201335426,
+          "chineseName": "充电桩方案",
+          "translatedName": "Charging pile scheme",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201338521,
+          "chineseName": "防雨充电桩",
+          "translatedName": "Rainproof charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201347104,
+          "chineseName": "新能源充电桩",
+          "translatedName": "New energy charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201347604,
+          "chineseName": "汽车充电桩",
+          "translatedName": "Car charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201332814,
+          "chineseName": "便携式充电桩",
+          "translatedName": "Portable charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201337616,
+          "chineseName": "投币充电桩",
+          "translatedName": "Coin charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201330115,
+          "chineseName": "户外充电桩",
+          "translatedName": "Outdoor charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201339311,
+          "chineseName": "电动自行车充电桩",
+          "translatedName": "Electric bicycle charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 201339425,
+          "chineseName": "共享式充电桩",
+          "translatedName": "Shared charging pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        },
+        {
+          "categoryId": 202008502,
+          "chineseName": "充电桩安装服务",
+          "translatedName": "Charging pile installation service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332918
+        }
+      ]
+    }
+  }
+}

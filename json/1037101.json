@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037101,
+      "chineseName": "环丁砜",
+      "translatedName": "Sulfolane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80304"
+    }
+  }
+}

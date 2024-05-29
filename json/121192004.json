@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192004,
+      "chineseName": "丝锥板牙套装",
+      "translatedName": "Tap and die set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042817"
+    }
+  }
+}

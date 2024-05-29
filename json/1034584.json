@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034584,
+      "chineseName": "库存涂料",
+      "translatedName": "Stock paint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034578"
+    }
+  }
+}

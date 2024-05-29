@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494007,
+      "chineseName": "基因检测及处理仪器",
+      "translatedName": "Gene detection and processing instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036185"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036600,
+      "chineseName": "长途、市话",
+      "translatedName": "Long distance, local calls",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2845"
+    }
+  }
+}

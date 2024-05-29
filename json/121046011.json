@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046011,
+      "chineseName": "结构钢",
+      "translatedName": "Structural Steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "927"
+    }
+  }
+}

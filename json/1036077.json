@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036077,
+      "chineseName": "定时器插座",
+      "translatedName": "Timer socket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "528"
+    }
+  }
+}

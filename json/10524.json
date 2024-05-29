@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10524,
+      "chineseName": "金属成型设备",
+      "translatedName": "Metal Forming Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "65"
+    }
+  }
+}

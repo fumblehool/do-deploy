@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201229809,
+      "chineseName": "储粮桶",
+      "translatedName": "grain storage bucket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121828001"
+    }
+  }
+}

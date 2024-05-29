@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744031,
+      "chineseName": "数码广告机",
+      "translatedName": "Digital advertising machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "730"
+    }
+  }
+}

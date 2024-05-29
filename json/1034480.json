@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034480,
+      "chineseName": "后帮机",
+      "translatedName": "Rear Helper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10179"
+    }
+  }
+}

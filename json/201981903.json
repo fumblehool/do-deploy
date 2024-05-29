@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201981903,
+      "chineseName": "锅具可拆卸把手",
+      "translatedName": "Removable pan handle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122548001"
+    }
+  }
+}

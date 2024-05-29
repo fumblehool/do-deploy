@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034865,
+      "chineseName": "酞菁颜料",
+      "translatedName": "phthalocyanine pigment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031630"
+    }
+  }
+}

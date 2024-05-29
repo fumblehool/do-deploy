@@ -1,0 +1,307 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 96,
+      "chineseName": "家纺家饰",
+      "translatedName": "Home Textile Home Decoration",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10132,
+          "chineseName": "套件类",
+          "translatedName": "Suite Class",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 10138,
+          "chineseName": "其他床上用品",
+          "translatedName": "Other Bedding",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 1043469,
+          "chineseName": "壁饰",
+          "translatedName": "Wall Decoration",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 121188018,
+          "chineseName": "婴童家纺",
+          "translatedName": "Baby Home Textile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 121192034,
+          "chineseName": "婚庆家纺",
+          "translatedName": "Wedding home textile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 124282001,
+          "chineseName": "钟",
+          "translatedName": "Clock",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 121186015,
+          "chineseName": "酒店布草",
+          "translatedName": "Hotel Cloth",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 122254002,
+          "chineseName": "中巾",
+          "translatedName": "Medium towel",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 123084001,
+          "chineseName": "被芯类",
+          "translatedName": "Quilt core class",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 123084002,
+          "chineseName": "夏凉品类",
+          "translatedName": "Cool summer category",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 123086001,
+          "chineseName": "枕芯类",
+          "translatedName": "Pillow core class",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 123088001,
+          "chineseName": "床垫床褥",
+          "translatedName": "Mattress Mattress",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 124264009,
+          "chineseName": "窗帘门帘及配件",
+          "translatedName": "Curtains, Door Curtains and Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127926016,
+          "chineseName": "装饰画、挂画",
+          "translatedName": "Decorative painting, hanging painting",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127926017,
+          "chineseName": "毛巾、面巾",
+          "translatedName": "Towel, face towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 201148907,
+          "chineseName": "一次性巾类",
+          "translatedName": "Disposable towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 201170806,
+          "chineseName": "仿真花饰",
+          "translatedName": "Simulation floral ornaments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127870016,
+          "chineseName": "毯类",
+          "translatedName": "Blanket",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127870018,
+          "chineseName": "礼品毛巾",
+          "translatedName": "Gift Towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127186001,
+          "chineseName": "窗帘加工定制",
+          "translatedName": "Customized curtain processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127864016,
+          "chineseName": "创意类毛巾",
+          "translatedName": "Creative towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127894012,
+          "chineseName": "居家布艺",
+          "translatedName": "Home Fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127874019,
+          "chineseName": "浴巾、浴袍、浴裙、沙滩巾",
+          "translatedName": "Bath towel, bathrobe, bath skirt, beach towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127160002,
+          "chineseName": "毛巾、巾类加工定制",
+          "translatedName": "Towel, towel class processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127888009,
+          "chineseName": "创意摆件",
+          "translatedName": "Creative ornaments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 1906,
+          "chineseName": "装饰框架",
+          "translatedName": "Decorative frame",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127142003,
+          "chineseName": "床上用品加工定制",
+          "translatedName": "Bedding processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127146002,
+          "chineseName": "家居软饰加工定制",
+          "translatedName": "Home soft decoration processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127900015,
+          "chineseName": "功能毛巾",
+          "translatedName": "Functional towel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 127900016,
+          "chineseName": "地毯地垫",
+          "translatedName": "Carpet floor mat",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 1704,
+          "chineseName": "贴饰",
+          "translatedName": "applique",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 96
+        },
+        {
+          "categoryId": 290315,
+          "chineseName": "家居用品项目合作",
+          "translatedName": "Home Furnishing Products Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 96
+        }
+      ]
+    }
+  }
+}

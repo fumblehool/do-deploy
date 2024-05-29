@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1424,
+      "chineseName": "换热、制冷空调设备",
+      "translatedName": "Heat exchange, refrigeration and air conditioning equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "65"
+    }
+  }
+}

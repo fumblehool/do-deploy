@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061802,
+      "chineseName": "传声器(咪头)",
+      "translatedName": "Microphone (microphone)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058705"
+    }
+  }
+}

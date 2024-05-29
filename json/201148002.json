@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201148002,
+      "chineseName": "儿童项饰",
+      "translatedName": "Children's Necklace",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201149004"
+    }
+  }
+}

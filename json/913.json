@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 913,
+      "chineseName": "库存金属材料",
+      "translatedName": "Stock Metal Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "9"
+    }
+  }
+}

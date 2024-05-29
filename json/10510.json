@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10510,
+      "chineseName": "其他金属加工材",
+      "translatedName": "Other metal processing materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10507"
+    }
+  }
+}

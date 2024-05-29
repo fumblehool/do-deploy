@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042627,
+      "chineseName": "其他滚动轴承",
+      "translatedName": "Other rolling bearings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141903"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122330012,
+      "chineseName": "卫浴扶手",
+      "translatedName": "Bathroom armrest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 280505,
+      "chineseName": "电工电气产品加工",
+      "translatedName": "Electrical and electrical products processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127890002,
+      "chineseName": "标准变频器",
+      "translatedName": "Standard frequency converter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127880002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202030005,
+      "chineseName": "手持采茶机",
+      "translatedName": "Handheld Tea Picking Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047258"
+    }
+  }
+}

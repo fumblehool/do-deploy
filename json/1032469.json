@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032469,
+      "chineseName": "弹簧",
+      "translatedName": "Spring",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035443,
+          "chineseName": "其他弹簧",
+          "translatedName": "Other springs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035444,
+          "chineseName": "碟形弹簧",
+          "translatedName": "Belleville spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035445,
+          "chineseName": "片弹簧",
+          "translatedName": "leaf spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035446,
+          "chineseName": "板弹簧",
+          "translatedName": "plate spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035447,
+          "chineseName": "涡卷弹簧",
+          "translatedName": "Scroll spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035448,
+          "chineseName": "扭转弹簧",
+          "translatedName": "Torsion spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035450,
+          "chineseName": "压缩弹簧",
+          "translatedName": "compression spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1035449,
+          "chineseName": "拉伸弹簧",
+          "translatedName": "tension spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1036586,
+          "chineseName": "气弹簧",
+          "translatedName": "gas spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1036587,
+          "chineseName": "异形弹簧",
+          "translatedName": "special-shaped spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        },
+        {
+          "categoryId": 1036588,
+          "chineseName": "恒力弹簧",
+          "translatedName": "constant force spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032469
+        }
+      ]
+    }
+  }
+}

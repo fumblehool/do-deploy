@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037947,
+      "chineseName": "日光灯",
+      "translatedName": "fluorescent lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "527"
+    }
+  }
+}

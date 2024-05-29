@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127896014,
+      "chineseName": "假山",
+      "translatedName": "rockery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127896013"
+    }
+  }
+}

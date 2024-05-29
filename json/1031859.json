@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031859,
+      "chineseName": "其他二手设备",
+      "translatedName": "Other used equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2829"
+    }
+  }
+}

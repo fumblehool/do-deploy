@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201564924,
+      "chineseName": "骑行服配",
+      "translatedName": "Riding Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048082,
+          "chineseName": "骑行服",
+          "translatedName": "Riding Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122102003,
+          "chineseName": "骑行面罩",
+          "translatedName": "riding mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122108004,
+          "chineseName": "袖、腿套、束管带",
+          "translatedName": "Sleeve, leg sleeve, tube strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122092003,
+          "chineseName": "骑行背包",
+          "translatedName": "Riding Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122092004,
+          "chineseName": "骑行头盔",
+          "translatedName": "Cycling Helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122096004,
+          "chineseName": "自行车包",
+          "translatedName": "Bicycle bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122124001,
+          "chineseName": "骑行鞋",
+          "translatedName": "Cycling shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122126001,
+          "chineseName": "其他骑行用品",
+          "translatedName": "Other Cycling Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        },
+        {
+          "categoryId": 122128001,
+          "chineseName": "骑行手套",
+          "translatedName": "Cycling Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564924
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201553711,
+      "chineseName": "抹胸/儿童文胸",
+      "translatedName": "Strapless/Children's Bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127496001"
+    }
+  }
+}

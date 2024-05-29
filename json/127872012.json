@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127872012,
+      "chineseName": "法兰绒毯",
+      "translatedName": "Flannel Blanket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127870016"
+    }
+  }
+}

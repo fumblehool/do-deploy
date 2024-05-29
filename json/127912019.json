@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127912019,
+      "chineseName": "其他窗帘配件",
+      "translatedName": "Other Curtain Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124264009"
+    }
+  }
+}

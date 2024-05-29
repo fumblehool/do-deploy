@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123084001,
+      "chineseName": "被芯类",
+      "translatedName": "Quilt core class",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10134,
+          "chineseName": "其他被芯",
+          "translatedName": "Other quilt cores",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122206004,
+          "chineseName": "羊毛被、羊绒被",
+          "translatedName": "Wool quilt, cashmere quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122234001,
+          "chineseName": "羽绒被",
+          "translatedName": "Duvet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122986005,
+          "chineseName": "蚕丝光胎",
+          "translatedName": "silk light tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122382005,
+          "chineseName": "驼毛被、驼绒被",
+          "translatedName": "Camel quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122224003,
+          "chineseName": "纤维被",
+          "translatedName": "Fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122982006,
+          "chineseName": "棉胎",
+          "translatedName": "cotton tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122982007,
+          "chineseName": "其他被胎",
+          "translatedName": "Other quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122210003,
+          "chineseName": "蚕丝被",
+          "translatedName": "silk quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 122236001,
+          "chineseName": "棉花被",
+          "translatedName": "Quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        },
+        {
+          "categoryId": 201305409,
+          "chineseName": "科技功能型纤维被",
+          "translatedName": "Science and technology functional fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084001
+        }
+      ]
+    }
+  }
+}

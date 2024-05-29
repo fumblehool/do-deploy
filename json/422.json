@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 422,
+      "chineseName": "功能性面料",
+      "translatedName": "Functional Fabrics",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "4"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031861,
+      "chineseName": "水质分析仪",
+      "translatedName": "water quality analyzer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10211"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200954002,
+      "chineseName": "煮面炉/意粉炉",
+      "translatedName": "Poodle oven/spaghetti oven",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

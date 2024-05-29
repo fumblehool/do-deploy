@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122984015,
+      "chineseName": "安抚摇椅体/摇摇车",
+      "translatedName": "Soothing rocking chair body/rocking car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122984013"
+    }
+  }
+}

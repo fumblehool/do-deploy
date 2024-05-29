@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045508,
+      "chineseName": "装配、组装",
+      "translatedName": "Assembly, assembly",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045498"
+    }
+  }
+}

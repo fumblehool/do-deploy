@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201360239,
+      "chineseName": "脱毛刀",
+      "translatedName": "hair removal knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126182004"
+    }
+  }
+}

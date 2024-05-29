@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037010,
+      "chineseName": "童毛衣",
+      "translatedName": "Children's Sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

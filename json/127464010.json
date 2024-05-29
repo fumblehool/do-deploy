@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127464010,
+      "chineseName": "帽子/头巾",
+      "translatedName": "Hat/Turban",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127504003,
+          "chineseName": "表演/节庆帽",
+          "translatedName": "Performance/Festival Hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 127452005,
+          "chineseName": "工作帽/职业帽",
+          "translatedName": "Working cap/occupational cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 127462005,
+          "chineseName": "披肩帽/连体帽",
+          "translatedName": "Shawl/Bonnet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 127446008,
+          "chineseName": "帽子/头巾 配件",
+          "translatedName": "Hats/Turban Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 1829,
+          "chineseName": "成人帽",
+          "translatedName": "adult hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 127492007,
+          "chineseName": "民族/宗教头巾",
+          "translatedName": "Ethnic/religious headscarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        },
+        {
+          "categoryId": 201350711,
+          "chineseName": "魔术头巾",
+          "translatedName": "Magic Turban",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127464010
+        }
+      ]
+    }
+  }
+}

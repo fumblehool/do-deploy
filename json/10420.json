@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10420,
+      "chineseName": "沙石、砾石、卵石",
+      "translatedName": "Sand, gravel and pebble",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10375"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036995,
+      "chineseName": "男式卫衣",
+      "translatedName": "men's sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202043801,
+      "chineseName": "按压泵头瓶",
+      "translatedName": "Press pump head bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126478003"
+    }
+  }
+}

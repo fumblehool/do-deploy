@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034661,
+      "chineseName": "氢氟酸",
+      "translatedName": "hydrofluoric acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80201"
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10210,
+      "chineseName": "试验机",
+      "translatedName": "Testing machine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033872,
+          "chineseName": "其他试验机",
+          "translatedName": "Other testing machines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033873,
+          "chineseName": "汽车试验设备",
+          "translatedName": "Automotive Test Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033874,
+          "chineseName": "包装件试验机",
+          "translatedName": "Package testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033875,
+          "chineseName": "力与变形检测仪",
+          "translatedName": "Force and deformation detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033876,
+          "chineseName": "工艺试验机",
+          "translatedName": "Process testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033878,
+          "chineseName": "平衡机",
+          "translatedName": "Balancing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033879,
+          "chineseName": "非金属材料试验机",
+          "translatedName": "Non-metallic material testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033880,
+          "chineseName": "万能试验机",
+          "translatedName": "Universal testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033881,
+          "chineseName": "硬度计",
+          "translatedName": "hardness tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033882,
+          "chineseName": "强度试验机",
+          "translatedName": "strength testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033883,
+          "chineseName": "疲劳试验机",
+          "translatedName": "fatigue testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033884,
+          "chineseName": "冲击试验机",
+          "translatedName": "Impact testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033885,
+          "chineseName": "扭转试验机",
+          "translatedName": "torsion testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033886,
+          "chineseName": "弯曲试验机",
+          "translatedName": "bending testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033887,
+          "chineseName": "压力试验机",
+          "translatedName": "Pressure testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1033888,
+          "chineseName": "拉力试验机",
+          "translatedName": "Tensile testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1036112,
+          "chineseName": "耐磨试验机",
+          "translatedName": "Wear resistance testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1035916,
+          "chineseName": "振动试验机",
+          "translatedName": "Vibration testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1035917,
+          "chineseName": "熔融指数仪",
+          "translatedName": "melt index meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1035918,
+          "chineseName": "跌落试验机",
+          "translatedName": "Drop tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        },
+        {
+          "categoryId": 1035919,
+          "chineseName": "材料试验机",
+          "translatedName": "Material testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10210
+        }
+      ]
+    }
+  }
+}

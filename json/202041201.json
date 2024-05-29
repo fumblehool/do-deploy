@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041201,
+      "chineseName": "孕妇棉服",
+      "translatedName": "pregnant women cotton-padded jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196004"
+    }
+  }
+}

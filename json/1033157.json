@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033157,
+      "chineseName": "折射仪",
+      "translatedName": "refractometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1904"
+    }
+  }
+}

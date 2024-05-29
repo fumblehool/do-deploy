@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301905,
+      "chineseName": "培训桌",
+      "translatedName": "Training table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045579"
+    }
+  }
+}

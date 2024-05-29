@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157611,
+      "chineseName": "草种子",
+      "translatedName": "grass seed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125484002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037247,
+      "chineseName": "三氧化二锑",
+      "translatedName": "Antimony trioxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031632"
+    }
+  }
+}

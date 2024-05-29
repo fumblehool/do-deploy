@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201135602,
+      "chineseName": "家庭住宅装修",
+      "translatedName": "Family Residential Decoration",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201135601"
+    }
+  }
+}

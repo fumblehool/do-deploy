@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127462001,
+      "chineseName": "钻石项饰",
+      "translatedName": "Diamond Necklace",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

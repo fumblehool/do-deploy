@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046526,
+      "chineseName": "化纤面料",
+      "translatedName": "chemical fiber fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046528,
+          "chineseName": "涤纶面料",
+          "translatedName": "Polyester fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046526
+        },
+        {
+          "categoryId": 1046529,
+          "chineseName": "尼龙面料",
+          "translatedName": "Nylon fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046526
+        },
+        {
+          "categoryId": 1046531,
+          "chineseName": "粘胶(人棉)面料",
+          "translatedName": "Viscose (rayon) fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046526
+        },
+        {
+          "categoryId": 1046532,
+          "chineseName": "其他化纤面料",
+          "translatedName": "Other chemical fiber fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046526
+        }
+      ]
+    }
+  }
+}

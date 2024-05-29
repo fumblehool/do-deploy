@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034194,
+      "chineseName": "证件、单据、文件防伪",
+      "translatedName": "Certificate, document and document anti-counterfeiting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3401"
+    }
+  }
+}

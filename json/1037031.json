@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037031,
+      "chineseName": "服装陈列架、中岛架",
+      "translatedName": "Clothing display rack, Nakajima rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "345"
+    }
+  }
+}

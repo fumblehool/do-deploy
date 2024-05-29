@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124160004,
+      "chineseName": "头部防护",
+      "translatedName": "Head protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033210,
+          "chineseName": "棉安全帽",
+          "translatedName": "Cotton safety helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        },
+        {
+          "categoryId": 124158003,
+          "chineseName": "玻璃钢安全帽",
+          "translatedName": "FRP safety helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        },
+        {
+          "categoryId": 124162001,
+          "chineseName": "塑料安全帽",
+          "translatedName": "Plastic safety helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        },
+        {
+          "categoryId": 124152005,
+          "chineseName": "其他头部防护",
+          "translatedName": "Other head protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        },
+        {
+          "categoryId": 124154005,
+          "chineseName": "无纺布帽",
+          "translatedName": "Non-woven hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        },
+        {
+          "categoryId": 201894801,
+          "chineseName": "abs安全帽",
+          "translatedName": "abs safety helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160004
+        }
+      ]
+    }
+  }
+}

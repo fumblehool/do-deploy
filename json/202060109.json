@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060109,
+      "chineseName": "女装绣花加工",
+      "translatedName": "Women's Embroidery Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056910"
+    }
+  }
+}

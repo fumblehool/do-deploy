@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123694001,
+      "chineseName": "男式西装",
+      "translatedName": "Men's Suit",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036997,
+          "chineseName": "男式西服套装",
+          "translatedName": "Men's Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694001
+        },
+        {
+          "categoryId": 123666006,
+          "chineseName": "男式西装马甲",
+          "translatedName": "Men's Suit Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694001
+        },
+        {
+          "categoryId": 123692001,
+          "chineseName": "男式商务西服",
+          "translatedName": "Men's Business Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694001
+        },
+        {
+          "categoryId": 316,
+          "chineseName": "男式休闲西装",
+          "translatedName": "men's casual suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694001
+        }
+      ]
+    }
+  }
+}

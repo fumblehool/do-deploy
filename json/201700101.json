@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201700101,
+      "chineseName": "食堂餐桌椅",
+      "translatedName": "Dining table and chair in canteen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610020"
+    }
+  }
+}

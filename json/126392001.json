@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126392001,
+      "chineseName": "日用包装",
+      "translatedName": "Daily Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036314,
+          "chineseName": "香烟包装",
+          "translatedName": "cigarette packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 121192030,
+          "chineseName": "箱包包装",
+          "translatedName": "Luggage packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 122174001,
+          "chineseName": "图书包装",
+          "translatedName": "book packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 121542005,
+          "chineseName": "其他日用包装",
+          "translatedName": "Other Daily Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 126484001,
+          "chineseName": "汽车用品包装",
+          "translatedName": "Automotive Supplies Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 126452002,
+          "chineseName": "隐形眼镜盒",
+          "translatedName": "Contact lens case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 126476002,
+          "chineseName": "家纺家饰包装",
+          "translatedName": "Home Textile Home Decoration Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        },
+        {
+          "categoryId": 2328,
+          "chineseName": "玩具包装",
+          "translatedName": "Toy Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126392001
+        }
+      ]
+    }
+  }
+}

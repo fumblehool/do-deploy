@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124190002,
+      "chineseName": "听力防护",
+      "translatedName": "Hearing protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033215,
+          "chineseName": "其他听力防护",
+          "translatedName": "Other Hearing Protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124190002
+        },
+        {
+          "categoryId": 124186004,
+          "chineseName": "防护耳罩",
+          "translatedName": "Protective earmuffs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124190002
+        },
+        {
+          "categoryId": 124194001,
+          "chineseName": "防护耳塞",
+          "translatedName": "Ear protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124190002
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161202,
+      "chineseName": "仿真公仔",
+      "translatedName": "simulation doll",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201161304"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124150003,
+      "chineseName": "防冲击眼镜",
+      "translatedName": "Anti-impact glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124154004"
+    }
+  }
+}

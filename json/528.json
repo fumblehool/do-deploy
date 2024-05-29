@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 528,
+      "chineseName": "插座",
+      "translatedName": "Socket",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035247,
+          "chineseName": "PCB插座",
+          "translatedName": "PCB Socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036074,
+          "chineseName": "桌面插座",
+          "translatedName": "Desktop socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036075,
+          "chineseName": "地面插座",
+          "translatedName": "GROUND RECEPTACLE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036076,
+          "chineseName": "工业插座",
+          "translatedName": "Industrial Socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036077,
+          "chineseName": "定时器插座",
+          "translatedName": "Timer socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036078,
+          "chineseName": "插座配件",
+          "translatedName": "Socket Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036071,
+          "chineseName": "接线插座",
+          "translatedName": "Wiring socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036072,
+          "chineseName": "墙壁插座",
+          "translatedName": "Wall socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1036073,
+          "chineseName": "机柜插座",
+          "translatedName": "Cabinet socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1035244,
+          "chineseName": "其他插座",
+          "translatedName": "Other sockets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1035245,
+          "chineseName": "转换插座",
+          "translatedName": "Conversion socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 1035246,
+          "chineseName": "音频、视频插座",
+          "translatedName": "Audio, video socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 125070002,
+          "chineseName": "WIFI智能插座",
+          "translatedName": "WIFI smart socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 127894003,
+          "chineseName": "剃须插座",
+          "translatedName": "Shaving socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 126580001,
+          "chineseName": "USB插座",
+          "translatedName": "USB socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 202051413,
+          "chineseName": "轨道插座",
+          "translatedName": "Rail socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 202058507,
+          "chineseName": "快充插座",
+          "translatedName": "Fast charging socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        },
+        {
+          "categoryId": 202054407,
+          "chineseName": "DC母座、电源插座",
+          "translatedName": "DC base, power socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 528
+        }
+      ]
+    }
+  }
+}

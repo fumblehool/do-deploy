@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041761,
+      "chineseName": "叉车配件",
+      "translatedName": "Forklift accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032077"
+    }
+  }
+}

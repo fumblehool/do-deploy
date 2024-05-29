@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046136,
+      "chineseName": "喷砂胶管",
+      "translatedName": "Sand blasting hose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032600"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036410,
+      "chineseName": "耐材及炉窑",
+      "translatedName": "Refractive materials and furnaces",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "914"
+    }
+  }
+}

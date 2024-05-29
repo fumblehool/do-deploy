@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126566003,
+      "chineseName": "接线端子",
+      "translatedName": "Terminal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200806003,
+      "chineseName": "达林顿晶体管",
+      "translatedName": "Darlington transistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200774004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038219,
+      "chineseName": "其他继电器",
+      "translatedName": "Other relays",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127170001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035876,
+      "chineseName": "其他有色金属",
+      "translatedName": "Other non-ferrous metals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "935"
+    }
+  }
+}

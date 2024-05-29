@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035288,
+      "chineseName": "其他五金工具",
+      "translatedName": "Other hardware tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

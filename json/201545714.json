@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201545714,
+      "chineseName": "童旗袍/唐装/民族服装",
+      "translatedName": "Children's cheongsam/Tang suit/national costume",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201547011,
+          "chineseName": "童旗袍",
+          "translatedName": "Children's cheongsam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545714
+        },
+        {
+          "categoryId": 201559814,
+          "chineseName": "童民族服装",
+          "translatedName": "Children's national costume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545714
+        },
+        {
+          "categoryId": 201553410,
+          "chineseName": "童汉服",
+          "translatedName": "Tong Han clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545714
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037250,
+      "chineseName": "其他塑胶零件、配件",
+      "translatedName": "Other plastic parts and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160507"
+    }
+  }
+}

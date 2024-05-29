@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3405,
+      "chineseName": "橡皮布",
+      "translatedName": "Blanket",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "72"
+    }
+  }
+}

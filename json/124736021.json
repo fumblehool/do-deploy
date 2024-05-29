@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736021,
+      "chineseName": "口香糖",
+      "translatedName": "Chewing gum",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124746011"
+    }
+  }
+}

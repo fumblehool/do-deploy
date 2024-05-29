@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10113,
+      "chineseName": "轮胎",
+      "translatedName": "Tires",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034944,
+          "chineseName": "汽车轮胎",
+          "translatedName": "car tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1034945,
+          "chineseName": "电动车轮胎",
+          "translatedName": "electric vehicle tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1034940,
+          "chineseName": "其他轮胎",
+          "translatedName": "Other Tires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1034941,
+          "chineseName": "工程机械轮胎",
+          "translatedName": "engineering machinery tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1034942,
+          "chineseName": "摩托车轮胎",
+          "translatedName": "motorcycle tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1034943,
+          "chineseName": "农用车轮胎",
+          "translatedName": "agricultural vehicle tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        },
+        {
+          "categoryId": 1040125,
+          "chineseName": "工具车轮胎",
+          "translatedName": "Tool car tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10113
+        }
+      ]
+    }
+  }
+}

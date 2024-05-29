@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10354,
+      "chineseName": "门窗挂钩",
+      "translatedName": "Door and window hook",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032415"
+    }
+  }
+}

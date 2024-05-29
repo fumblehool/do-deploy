@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121900001,
+      "chineseName": "运动腰包、配件包",
+      "translatedName": "Sport waist bag, accessory bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545602"
+    }
+  }
+}

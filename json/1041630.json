@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041630,
+      "chineseName": "液压工程机械",
+      "translatedName": "Hydraulic Engineering Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924008"
+    }
+  }
+}

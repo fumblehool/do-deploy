@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127302003,
+      "chineseName": "接线盒",
+      "translatedName": "Junction box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "526"
+    }
+  }
+}

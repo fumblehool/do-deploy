@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046210,
+      "chineseName": "药材种子、种苗",
+      "translatedName": "Seeds and seedlings of medicinal herbs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046204"
+    }
+  }
+}

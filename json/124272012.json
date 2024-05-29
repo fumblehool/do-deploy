@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272012,
+      "chineseName": "闪光灯",
+      "translatedName": "Flash",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124776003"
+    }
+  }
+}

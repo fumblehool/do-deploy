@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123272004,
+      "chineseName": "刹车调整臂",
+      "translatedName": "Brake adjuster arm",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10106"
+    }
+  }
+}

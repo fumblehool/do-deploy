@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1314,
+      "chineseName": "吊顶材料",
+      "translatedName": "ceiling material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037202,
+          "chineseName": "其他吊顶材料",
+          "translatedName": "Other ceiling materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1037203,
+          "chineseName": "铝天花",
+          "translatedName": "aluminum smallpox",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1037204,
+          "chineseName": "轻钢龙骨",
+          "translatedName": "light steel keel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1037205,
+          "chineseName": "石膏板天花",
+          "translatedName": "Gypsum board ceiling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1037206,
+          "chineseName": "软膜天花",
+          "translatedName": "soft film smallpox",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1040691,
+          "chineseName": "集成吊顶",
+          "translatedName": "Integrated ceiling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1040692,
+          "chineseName": "扣板",
+          "translatedName": "Buckle plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 1040693,
+          "chineseName": "矿棉板",
+          "translatedName": "Mineral wool board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 201220717,
+          "chineseName": "收边条",
+          "translatedName": "Edge strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        },
+        {
+          "categoryId": 202013301,
+          "chineseName": "蜂窝板",
+          "translatedName": "Honeycomb Panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1314
+        }
+      ]
+    }
+  }
+}

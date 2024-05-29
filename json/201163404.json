@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163404,
+      "chineseName": "面包刀",
+      "translatedName": "bread knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764003"
+    }
+  }
+}

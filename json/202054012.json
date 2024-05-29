@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054012,
+      "chineseName": "风力风力塔架",
+      "translatedName": "wind wind tower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202060416"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022026,
+      "chineseName": "管材",
+      "translatedName": "Pipe",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018021,
+          "chineseName": "焊管",
+          "translatedName": "welded pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121018022,
+          "chineseName": "无缝管",
+          "translatedName": "Seamless pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121018026,
+          "chineseName": "锅炉管",
+          "translatedName": "boiler tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121018027,
+          "chineseName": "石油套管",
+          "translatedName": "Oil casing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121022028,
+          "chineseName": "镀锌管",
+          "translatedName": "Galvanized pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121022030,
+          "chineseName": "异型管",
+          "translatedName": "Special-shaped pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121022031,
+          "chineseName": "铸管",
+          "translatedName": "cast pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121022033,
+          "chineseName": "螺旋管",
+          "translatedName": "spiral pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121022034,
+          "chineseName": "其他管材",
+          "translatedName": "Other pipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121046019,
+          "chineseName": "矩形管",
+          "translatedName": "rectangular tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121046020,
+          "chineseName": "方管",
+          "translatedName": "square tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121046022,
+          "chineseName": "结构管",
+          "translatedName": "Structural pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121012034,
+          "chineseName": "合金管",
+          "translatedName": "alloy tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 121012035,
+          "chineseName": "流体管",
+          "translatedName": "Fluid pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        },
+        {
+          "categoryId": 201214501,
+          "chineseName": "铸铁管",
+          "translatedName": "cast iron pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022026
+        }
+      ]
+    }
+  }
+}

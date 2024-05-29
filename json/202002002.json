@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202002002,
+      "chineseName": "PCBA/模块",
+      "translatedName": "PCBA/Module",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034050,
+          "chineseName": "其他电子加工",
+          "translatedName": "Other electronic processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1034051,
+          "chineseName": "电子焊接加工",
+          "translatedName": "Electronic welding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1034052,
+          "chineseName": "电子组装加工",
+          "translatedName": "Electronic assembly processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1035014,
+          "chineseName": "COB邦定加工",
+          "translatedName": "COB Bonding Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1035015,
+          "chineseName": "SMT贴片加工",
+          "translatedName": "SMT chip processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1038199,
+          "chineseName": "PCB电路板",
+          "translatedName": "PCB Circuit Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 1035621,
+          "chineseName": "插件加工",
+          "translatedName": "Plug-in processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 126510003,
+          "chineseName": "电子模块",
+          "translatedName": "Electronic module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202008803,
+          "chineseName": "功率模块",
+          "translatedName": "Power Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202009502,
+          "chineseName": "传感器模块",
+          "translatedName": "Sensor Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202002904,
+          "chineseName": "充电模块",
+          "translatedName": "Charging module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202003004,
+          "chineseName": "控制模块",
+          "translatedName": "Control Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202004103,
+          "chineseName": "柔性电路板(FPC)",
+          "translatedName": "Flexible Circuit Board (FPC)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202004202,
+          "chineseName": "PCBA方案板",
+          "translatedName": "PCBA Scheme Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202012302,
+          "chineseName": "显示模块",
+          "translatedName": "Display Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202012403,
+          "chineseName": "继电器模块",
+          "translatedName": "Relay Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202014002,
+          "chineseName": "制冷片",
+          "translatedName": "refrigeration sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202052115,
+          "chineseName": "音调板/前级板",
+          "translatedName": "Tone Board/Front Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202014503,
+          "chineseName": "遥控模块",
+          "translatedName": "Remote control module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202053612,
+          "chineseName": "功放板/功放模块",
+          "translatedName": "Power amplifier board/power amplifier module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202006702,
+          "chineseName": "计量模块",
+          "translatedName": "Metering module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202006803,
+          "chineseName": "音视频模块",
+          "translatedName": "Audio and video module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202007804,
+          "chineseName": "温控模块",
+          "translatedName": "Temperature control module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202007805,
+          "chineseName": "驱动模块",
+          "translatedName": "Drive module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        },
+        {
+          "categoryId": 202033906,
+          "chineseName": "路由模块",
+          "translatedName": "Routing module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202002002
+        }
+      ]
+    }
+  }
+}

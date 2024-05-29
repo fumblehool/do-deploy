@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044131,
+      "chineseName": "手机挂绳",
+      "translatedName": "Mobile phone lanyard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044130"
+    }
+  }
+}

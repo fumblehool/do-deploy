@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033066,
+      "chineseName": "办公剪刀",
+      "translatedName": "Office scissors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2113"
+    }
+  }
+}

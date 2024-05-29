@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036074,
+      "chineseName": "桌面插座",
+      "translatedName": "Desktop socket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "528"
+    }
+  }
+}

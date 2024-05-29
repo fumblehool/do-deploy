@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127484007,
+      "chineseName": "围脖",
+      "translatedName": "Scarf",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127508004"
+    }
+  }
+}

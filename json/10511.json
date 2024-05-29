@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10511,
+      "chineseName": "黑色金属矿产",
+      "translatedName": "ferrous metal mineral",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033391,
+          "chineseName": "其他黑色金属矿产",
+          "translatedName": "Other ferrous minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10511
+        },
+        {
+          "categoryId": 1033392,
+          "chineseName": "锰矿",
+          "translatedName": "manganese ore",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10511
+        },
+        {
+          "categoryId": 1033393,
+          "chineseName": "铬矿",
+          "translatedName": "chrome ore",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10511
+        },
+        {
+          "categoryId": 1033394,
+          "chineseName": "铁矿",
+          "translatedName": "iron ore",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10511
+        }
+      ]
+    }
+  }
+}

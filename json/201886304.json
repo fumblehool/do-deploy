@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201886304,
+      "chineseName": "瑜伽中/短裤",
+      "translatedName": "Yoga Medium/Shorts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013"
+    }
+  }
+}

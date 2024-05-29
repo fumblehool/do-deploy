@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200804003,
+      "chineseName": "二极管",
+      "translatedName": "Diode",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038818,
+          "chineseName": "其他二极管",
+          "translatedName": "Other Diodes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200816001,
+          "chineseName": "肖特基二极管",
+          "translatedName": "Schottky diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200818001,
+          "chineseName": "齐纳二极管(稳压)",
+          "translatedName": "Zener Diode (Regulated)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200820001,
+          "chineseName": "TVS二极管（瞬变抑制）",
+          "translatedName": "TVS diode (transient suppression)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200822001,
+          "chineseName": "整流二极管",
+          "translatedName": "Rectifier Diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200804004,
+          "chineseName": "通用二极管",
+          "translatedName": "General purpose diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200806002,
+          "chineseName": "功率二极管",
+          "translatedName": "power diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200812001,
+          "chineseName": "小信号二极管",
+          "translatedName": "small signal diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200814001,
+          "chineseName": "开关二极管",
+          "translatedName": "switching diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200768002,
+          "chineseName": "PIN二极管",
+          "translatedName": "PIN Diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        },
+        {
+          "categoryId": 200778003,
+          "chineseName": "变容二极管",
+          "translatedName": "varactor diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200804003
+        }
+      ]
+    }
+  }
+}

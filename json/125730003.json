@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125730003,
+      "chineseName": "鞋配件",
+      "translatedName": "Shoe Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042702,
+          "chineseName": "鞋辅件",
+          "translatedName": "Shoe accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 125754001,
+          "chineseName": "鞋垫/增高垫",
+          "translatedName": "insole/booster pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201301618,
+          "chineseName": "防雨鞋套",
+          "translatedName": "rain-proof shoe cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201157502,
+          "chineseName": "护脚",
+          "translatedName": "Foot protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201229102,
+          "chineseName": "矫正器",
+          "translatedName": "orthotics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127464012,
+          "chineseName": "鞋扣",
+          "translatedName": "Shoe buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127450008,
+          "chineseName": "鞋带",
+          "translatedName": "Shoelace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127462008,
+          "chineseName": "鞋拔",
+          "translatedName": "Shoehorn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127446010,
+          "chineseName": "前掌垫/半码垫",
+          "translatedName": "Forearm pad/half size pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127450006,
+          "chineseName": "后跟贴",
+          "translatedName": "heel sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 127450007,
+          "chineseName": "鞋撑/鞋楦",
+          "translatedName": "Shoe support/shoe last",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201158705,
+          "chineseName": "防滑贴",
+          "translatedName": "Anti-slip stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201217502,
+          "chineseName": "鞋套",
+          "translatedName": "Shoe cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201160101,
+          "chineseName": "雪套",
+          "translatedName": "Snow cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201222005,
+          "chineseName": "分离器",
+          "translatedName": "Separator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201868102,
+          "chineseName": "鞋塞",
+          "translatedName": "Shoe plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 201870601,
+          "chineseName": "鞋夹",
+          "translatedName": "Shoe clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        },
+        {
+          "categoryId": 202061307,
+          "chineseName": "发热鞋垫",
+          "translatedName": "Heating insole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125730003
+        }
+      ]
+    }
+  }
+}

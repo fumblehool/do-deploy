@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031847,
+      "chineseName": "二手化工设备",
+      "translatedName": "Used chemical equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2829"
+    }
+  }
+}

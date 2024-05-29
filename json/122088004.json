@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122088004,
+      "chineseName": "跳伞用品",
+      "translatedName": "Parachuting Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "74"
+    }
+  }
+}

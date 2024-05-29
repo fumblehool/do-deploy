@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303406,
+      "chineseName": "智能艾灸仪",
+      "translatedName": "Intelligent moxibustion instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

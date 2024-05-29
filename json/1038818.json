@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038818,
+      "chineseName": "其他二极管",
+      "translatedName": "Other Diodes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200804003"
+    }
+  }
+}

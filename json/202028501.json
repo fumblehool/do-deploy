@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028501,
+      "chineseName": "HIPS再生塑料",
+      "translatedName": "HIPS recycled plastic",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031640"
+    }
+  }
+}

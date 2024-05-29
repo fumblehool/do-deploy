@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 314,
+      "chineseName": "男式衬衫",
+      "translatedName": "Men's Shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165"
+    }
+  }
+}

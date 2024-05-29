@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10235,
+      "chineseName": "天线",
+      "translatedName": "Antenna",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035219,
+          "chineseName": "手机天线",
+          "translatedName": "Mobile phone antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        },
+        {
+          "categoryId": 1035220,
+          "chineseName": "通信天线",
+          "translatedName": "communication antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        },
+        {
+          "categoryId": 1035221,
+          "chineseName": "电视天线",
+          "translatedName": "TV antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        },
+        {
+          "categoryId": 1035215,
+          "chineseName": "其他天线",
+          "translatedName": "Other antennas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        },
+        {
+          "categoryId": 1035216,
+          "chineseName": "卫星天线",
+          "translatedName": "satellite antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        },
+        {
+          "categoryId": 1035218,
+          "chineseName": "收音机天线",
+          "translatedName": "Radio antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10235
+        }
+      ]
+    }
+  }
+}

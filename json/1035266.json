@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035266,
+      "chineseName": "工作灯、检修灯",
+      "translatedName": "Work lamp, inspection lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10108"
+    }
+  }
+}

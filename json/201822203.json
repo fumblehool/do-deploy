@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201822203,
+      "chineseName": "烤垫/烘焙垫",
+      "translatedName": "Baking mat/baking mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10297"
+    }
+  }
+}

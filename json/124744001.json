@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744001,
+      "chineseName": "膳食纤维/碳水化合物（食品）",
+      "translatedName": "Dietary Fiber/Carbohydrates (Food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034830,
+      "chineseName": "纺织柔软剂",
+      "translatedName": "textile softener",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10377"
+    }
+  }
+}

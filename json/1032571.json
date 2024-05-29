@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032571,
+      "chineseName": "集装机械",
+      "translatedName": "Container Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "86"
+    }
+  }
+}

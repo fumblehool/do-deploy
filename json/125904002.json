@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125904002,
+      "chineseName": "摩托车大灯、前照灯",
+      "translatedName": "Motorcycle headlights, headlights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10108"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046870,
+      "chineseName": "电磁离合器",
+      "translatedName": "electromagnetic clutch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046868"
+    }
+  }
+}

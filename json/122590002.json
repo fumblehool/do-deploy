@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122590002,
+      "chineseName": "一次性拖鞋",
+      "translatedName": "Disposable slippers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045268"
+    }
+  }
+}

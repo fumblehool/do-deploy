@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127778006,
+      "chineseName": "固定金具",
+      "translatedName": "Fixed hardware",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764004"
+    }
+  }
+}

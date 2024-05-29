@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033483,
+      "chineseName": "体操垫、运动垫子",
+      "translatedName": "Gymnastics mat, exercise mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2040"
+    }
+  }
+}

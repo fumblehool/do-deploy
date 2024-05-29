@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734025,
+      "chineseName": "布丁",
+      "translatedName": "Pudding",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734018"
+    }
+  }
+}

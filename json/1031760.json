@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031760,
+      "chineseName": "涤纶纤维",
+      "translatedName": "polyester fiber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "41508"
+    }
+  }
+}

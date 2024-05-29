@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044810,
+      "chineseName": "篮球用品",
+      "translatedName": "Basketball Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044812,
+          "chineseName": "篮球",
+          "translatedName": "Basketball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 122232006,
+          "chineseName": "篮球充气设备",
+          "translatedName": "Basketball Inflatable Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 122230006,
+          "chineseName": "篮球球迷用品",
+          "translatedName": "Basketball Fans Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 122248003,
+          "chineseName": "篮球架、球板、球框、球网",
+          "translatedName": "Basketball stand, ball board, ball frame, net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 121832006,
+          "chineseName": "篮球服",
+          "translatedName": "basketball uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 122198004,
+          "chineseName": "篮球包、篮球袋",
+          "translatedName": "Basketball bag, basketball bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        },
+        {
+          "categoryId": 122208006,
+          "chineseName": "篮球战术板",
+          "translatedName": "Basketball Tactical Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044810
+        }
+      ]
+    }
+  }
+}

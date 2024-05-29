@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201345014,
+      "chineseName": "香托/香盘/香座/香插",
+      "translatedName": "Incense holder/incense plate/incense holder/incense insert",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330711"
+    }
+  }
+}

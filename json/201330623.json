@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330623,
+      "chineseName": "熟食/即食菜",
+      "translatedName": "Cooked food/ready-to-eat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201900804"
+    }
+  }
+}

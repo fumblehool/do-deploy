@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201916803,
+      "chineseName": "冲击石工钻",
+      "translatedName": "Impact Stone Drill",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042817"
+    }
+  }
+}

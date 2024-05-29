@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122580001,
+      "chineseName": "折叠凳",
+      "translatedName": "Folding stool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122512002"
+    }
+  }
+}

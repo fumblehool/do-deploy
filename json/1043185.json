@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043185,
+      "chineseName": "吸油面纸",
+      "translatedName": "Oil Absorbing Face Paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

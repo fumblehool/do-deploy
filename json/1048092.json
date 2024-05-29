@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048092,
+      "chineseName": "运动裤",
+      "translatedName": "Sweatpants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048069"
+    }
+  }
+}

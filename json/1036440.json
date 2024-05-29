@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036440,
+      "chineseName": "纺织印染用粘合剂",
+      "translatedName": "Adhesives for textile printing and dyeing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10377"
+    }
+  }
+}

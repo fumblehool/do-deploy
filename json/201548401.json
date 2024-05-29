@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548401,
+      "chineseName": "工作/工装制服",
+      "translatedName": "Work/Tooling Uniform",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202031909,
+          "chineseName": "物业清洁工作服",
+          "translatedName": "Property cleaning work clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 202033804,
+          "chineseName": "美容技师工作服",
+          "translatedName": "Beauty technician work clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 202028306,
+          "chineseName": "空姐工作制服",
+          "translatedName": "Stewardess Work Uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 202040801,
+          "chineseName": "门童工作服",
+          "translatedName": "Door's Work Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 202051103,
+          "chineseName": "服务员工作服",
+          "translatedName": "Attendant overalls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 309,
+          "chineseName": "工作制服",
+          "translatedName": "Work Uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        },
+        {
+          "categoryId": 202055402,
+          "chineseName": "诊所工作服",
+          "translatedName": "Clinic Work Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548401
+        }
+      ]
+    }
+  }
+}

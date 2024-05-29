@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202044502,
+      "chineseName": "自发热包",
+      "translatedName": "Self-heating package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121546006"
+    }
+  }
+}

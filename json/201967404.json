@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201967404,
+      "chineseName": "小方包",
+      "translatedName": "small square bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016002"
+    }
+  }
+}

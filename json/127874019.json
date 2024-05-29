@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127874019,
+      "chineseName": "浴巾、浴袍、浴裙、沙滩巾",
+      "translatedName": "Bath towel, bathrobe, bath skirt, beach towel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047282,
+          "chineseName": "浴袍",
+          "translatedName": "Bathrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127874019
+        },
+        {
+          "categoryId": 1043474,
+          "chineseName": "浴巾、沙滩巾",
+          "translatedName": "Bath towels, beach towels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127874019
+        },
+        {
+          "categoryId": 127924020,
+          "chineseName": "连帽浴巾、斗篷浴巾",
+          "translatedName": "Hooded bath towel, cloak bath towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127874019
+        },
+        {
+          "categoryId": 127884012,
+          "chineseName": "浴裙",
+          "translatedName": "Bath Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127874019
+        }
+      ]
+    }
+  }
+}

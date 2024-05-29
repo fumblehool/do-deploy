@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201897602,
+      "chineseName": "合成/培育钻石戒指",
+      "translatedName": "Synthetic/Cultivated Diamond Ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201885405"
+    }
+  }
+}

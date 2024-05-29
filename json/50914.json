@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50914,
+      "chineseName": "其他通信产品",
+      "translatedName": "Other Communication Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "509"
+    }
+  }
+}

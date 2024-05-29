@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032014,
+      "chineseName": "骨雕/牙雕工艺品",
+      "translatedName": "Bone Carving/Tooth Carving Crafts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044181"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032552,
+      "chineseName": "铸造设备",
+      "translatedName": "Casting equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "924"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048241,
+      "chineseName": "组合式变压器",
+      "translatedName": "combined transformer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048230"
+    }
+  }
+}

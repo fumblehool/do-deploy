@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201626003,
+      "chineseName": "直播设备及配件",
+      "translatedName": "Live broadcast equipment and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201626851,
+          "chineseName": "直播声卡套装",
+          "translatedName": "Live Sound Card Package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201626003
+        },
+        {
+          "categoryId": 201629264,
+          "chineseName": "直播专用支架",
+          "translatedName": "Dedicated stand for live broadcast",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201626003
+        },
+        {
+          "categoryId": 201632450,
+          "chineseName": "直播提词器",
+          "translatedName": "Live teleprompter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201626003
+        }
+      ]
+    }
+  }
+}

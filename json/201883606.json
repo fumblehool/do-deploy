@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201883606,
+      "chineseName": "摩托车头盔防雾膜",
+      "translatedName": "Motorcycle helmet anti-fog film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3304"
+    }
+  }
+}

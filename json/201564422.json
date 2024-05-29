@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201564422,
+      "chineseName": "儿童帽子/围巾/手套/配件",
+      "translatedName": "Children's hat/scarf/gloves/accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127442011,
+          "chineseName": "儿童围巾",
+          "translatedName": "Children's scarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564422
+        },
+        {
+          "categoryId": 127486010,
+          "chineseName": "儿童手套",
+          "translatedName": "Children's gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564422
+        },
+        {
+          "categoryId": 127496007,
+          "chineseName": "儿童帽",
+          "translatedName": "children's hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564422
+        },
+        {
+          "categoryId": 201754607,
+          "chineseName": "儿童袖套",
+          "translatedName": "Children's sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564422
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037158,
+      "chineseName": "电脑一体机",
+      "translatedName": "computer all-in-one machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "730"
+    }
+  }
+}

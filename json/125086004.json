@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125086004,
+      "chineseName": "一次性餐具套装",
+      "translatedName": "disposable tableware set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10287"
+    }
+  }
+}

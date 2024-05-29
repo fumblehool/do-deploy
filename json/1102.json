@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1102,
+      "chineseName": "消音降噪设备",
+      "translatedName": "Noise reduction equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034290,
+          "chineseName": "其他消音降噪设备",
+          "translatedName": "Other noise reduction equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1102
+        },
+        {
+          "categoryId": 1034291,
+          "chineseName": "工业噪声控制设备",
+          "translatedName": "Industrial noise control equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1102
+        },
+        {
+          "categoryId": 1041454,
+          "chineseName": "消声室",
+          "translatedName": "anechoic chamber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1102
+        },
+        {
+          "categoryId": 1045763,
+          "chineseName": "消音降噪设备配件",
+          "translatedName": "Noise reduction equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1102
+        }
+      ]
+    }
+  }
+}

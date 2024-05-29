@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012028,
+      "chineseName": "涂镀",
+      "translatedName": "coating and plating",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018018,
+          "chineseName": "镀铬板(卷)",
+          "translatedName": "Chrome plate (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 121046013,
+          "chineseName": "镀锌板",
+          "translatedName": "Galvanized sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 121046014,
+          "chineseName": "其它涂层板",
+          "translatedName": "Other coated plates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 125420002,
+          "chineseName": "热镀锌铁板",
+          "translatedName": "hot-dip galvanized iron plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 125464003,
+          "chineseName": "热镀锌铁卷",
+          "translatedName": "Hot-dip galvanized iron coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 125468001,
+          "chineseName": "镀锌卷",
+          "translatedName": "Galvanized coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 125470002,
+          "chineseName": "镀铝锌板",
+          "translatedName": "Galvanized zinc plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 121012030,
+          "chineseName": "彩涂板",
+          "translatedName": "color coated plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 121012031,
+          "chineseName": "马口铁(镀锡)",
+          "translatedName": "Tinplate (tinned)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 121012032,
+          "chineseName": "镀铝锌卷",
+          "translatedName": "aluminized zinc coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        },
+        {
+          "categoryId": 125472002,
+          "chineseName": "彩涂卷",
+          "translatedName": "Color coated roll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012028
+        }
+      ]
+    }
+  }
+}

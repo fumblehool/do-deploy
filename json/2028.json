@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2028,
+      "chineseName": "其他水上运动用品",
+      "translatedName": "Other Water Sports Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044740"
+    }
+  }
+}

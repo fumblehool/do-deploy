@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202027505,
+      "chineseName": "柔性材料加工设备",
+      "translatedName": "Flexible material processing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201958503"
+    }
+  }
+}

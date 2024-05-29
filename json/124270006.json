@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270006,
+      "chineseName": "其他照明电筒",
+      "translatedName": "Other lighting flashlights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268005"
+    }
+  }
+}

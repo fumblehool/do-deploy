@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058808,
+      "chineseName": "其他光伏零部件",
+      "translatedName": "Other PV Parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202054307"
+    }
+  }
+}

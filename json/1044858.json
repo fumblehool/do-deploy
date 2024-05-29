@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044858,
+      "chineseName": "羽毛球",
+      "translatedName": "Badminton",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044819"
+    }
+  }
+}

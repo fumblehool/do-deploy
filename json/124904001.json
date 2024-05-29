@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124904001,
+      "chineseName": "行政用品",
+      "translatedName": "Administrative Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037279,
+          "chineseName": "请柬",
+          "translatedName": "Invitation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 1038778,
+          "chineseName": "易拉得、易拉扣",
+          "translatedName": "Easy pull, easy pull buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 124902002,
+          "chineseName": "奖牌",
+          "translatedName": "MEDALS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 124904003,
+          "chineseName": "奖杯",
+          "translatedName": "Trophy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 121344001,
+          "chineseName": "席位卡",
+          "translatedName": "Seat card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 121348001,
+          "chineseName": "签到本",
+          "translatedName": "Sign-in book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 1732,
+          "chineseName": "旗帜",
+          "translatedName": "Flag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        },
+        {
+          "categoryId": 2120,
+          "chineseName": "奖状、证书",
+          "translatedName": "Certificate, certificate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124904001
+        }
+      ]
+    }
+  }
+}

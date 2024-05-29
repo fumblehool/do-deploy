@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018023,
+      "chineseName": "高线",
+      "translatedName": "High Line",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012033"
+    }
+  }
+}

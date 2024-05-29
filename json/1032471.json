@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032471,
+      "chineseName": "气动元件",
+      "translatedName": "Pneumatic components",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036831,
+          "chineseName": "气动软管",
+          "translatedName": "Pneumatic hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1045275,
+          "chineseName": "真空发生器",
+          "translatedName": "vacuum generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1045085,
+          "chineseName": "气动马达",
+          "translatedName": "Pneumatic motor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1035393,
+          "chineseName": "其他气动元件",
+          "translatedName": "Other pneumatic components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1035394,
+          "chineseName": "气源处理器",
+          "translatedName": "Air Source Processor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1035395,
+          "chineseName": "气动接头",
+          "translatedName": "Pneumatic connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 1035396,
+          "chineseName": "气缸",
+          "translatedName": "Cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 123928003,
+          "chineseName": "气动控制元件",
+          "translatedName": "Pneumatic control element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        },
+        {
+          "categoryId": 123924009,
+          "chineseName": "真空元件",
+          "translatedName": "Vacuum element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032471
+        }
+      ]
+    }
+  }
+}

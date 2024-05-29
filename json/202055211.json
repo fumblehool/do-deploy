@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055211,
+      "chineseName": "光伏检查和维修设备",
+      "translatedName": "Photovoltaic inspection and maintenance equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202052911"
+    }
+  }
+}

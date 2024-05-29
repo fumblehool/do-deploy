@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034712,
+      "chineseName": "空分设备",
+      "translatedName": "Air separation plant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031670"
+    }
+  }
+}

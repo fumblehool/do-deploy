@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126642001,
+      "chineseName": "即饮咖啡",
+      "translatedName": "Ready-to-drink coffee",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330404"
+    }
+  }
+}

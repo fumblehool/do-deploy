@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894003,
+      "chineseName": "剃须插座",
+      "translatedName": "Shaving socket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "528"
+    }
+  }
+}

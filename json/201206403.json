@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201206403,
+      "chineseName": "微型漏电断路器",
+      "translatedName": "miniature leakage circuit breaker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

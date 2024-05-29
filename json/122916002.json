@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122916002,
+      "chineseName": "汽车用品",
+      "translatedName": "Automotive Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10104,
+          "chineseName": "车身及附件",
+          "translatedName": "Body and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 10108,
+          "chineseName": "车灯",
+          "translatedName": "Lamps",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 1212,
+          "chineseName": "影音导航",
+          "translatedName": "AV Navigation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 1231,
+          "chineseName": "电动车",
+          "translatedName": "Electric Vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 124014003,
+          "chineseName": "汽车配件",
+          "translatedName": "car accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 201355911,
+          "chineseName": "整车",
+          "translatedName": "Complete vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 92,
+          "chineseName": "汽车内饰用品",
+          "translatedName": "Automotive Interior Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 79,
+          "chineseName": "美容养护",
+          "translatedName": "Beauty maintenance",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 201888805,
+          "chineseName": "汽车内饰改装",
+          "translatedName": "Car interior modification",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 3304,
+          "chineseName": "摩托车配附件",
+          "translatedName": "Motorcycle accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 3307,
+          "chineseName": "座垫脚垫",
+          "translatedName": "seat mat foot mat",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 3308,
+          "chineseName": "外饰/改装/配件",
+          "translatedName": "Exterior Trims/Modifications/Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 3311,
+          "chineseName": "安全/应急/自驾",
+          "translatedName": "Safety/Emergency/Self-driving",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        },
+        {
+          "categoryId": 3312,
+          "chineseName": "车载电器",
+          "translatedName": "On-board electrical appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 122916002
+        }
+      ]
+    }
+  }
+}

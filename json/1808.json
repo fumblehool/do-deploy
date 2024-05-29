@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1808,
+      "chineseName": "扑克、桌游牌",
+      "translatedName": "Poker, board game cards",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1809"
+    }
+  }
+}

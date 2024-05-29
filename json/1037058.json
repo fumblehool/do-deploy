@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037058,
+      "chineseName": "羟乙基乙二胺",
+      "translatedName": "hydroxyethylethylenediamine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80311"
+    }
+  }
+}

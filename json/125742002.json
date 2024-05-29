@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125742002,
+      "chineseName": "其他功能包袋",
+      "translatedName": "Other functional bags",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125728001"
+    }
+  }
+}

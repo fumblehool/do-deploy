@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201148801,
+      "chineseName": "投影机包",
+      "translatedName": "Projector package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

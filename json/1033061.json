@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033061,
+      "chineseName": "橡皮擦",
+      "translatedName": "Eraser",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2111"
+    }
+  }
+}

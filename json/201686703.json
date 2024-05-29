@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201686703,
+      "chineseName": "手机散热器",
+      "translatedName": "Mobile phone radiator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

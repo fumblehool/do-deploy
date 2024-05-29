@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201976403,
+      "chineseName": "休闲背包",
+      "translatedName": "Leisure Backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201956604"
+    }
+  }
+}

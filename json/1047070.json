@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047070,
+      "chineseName": "洗发护发套装",
+      "translatedName": "shampoo and hair care set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10313"
+    }
+  }
+}

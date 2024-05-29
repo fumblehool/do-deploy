@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202014702,
+      "chineseName": "干品/即食海参",
+      "translatedName": "Dried/Instant Sea Cucumber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048224"
+    }
+  }
+}

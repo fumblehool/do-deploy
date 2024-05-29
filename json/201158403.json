@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201158403,
+      "chineseName": "国际民族服装",
+      "translatedName": "international national costume",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201156902,
+          "chineseName": "其他民族服饰",
+          "translatedName": "Other national costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 201159905,
+          "chineseName": "穆斯林服饰",
+          "translatedName": "Muslim Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 202044001,
+          "chineseName": "非洲服饰",
+          "translatedName": "African Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 202041301,
+          "chineseName": "欧洲服饰",
+          "translatedName": "European Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 202041701,
+          "chineseName": "美洲服饰",
+          "translatedName": "American Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 202044101,
+          "chineseName": "印巴服饰",
+          "translatedName": "India-Pakistan Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        },
+        {
+          "categoryId": 202044301,
+          "chineseName": "亚太服饰",
+          "translatedName": "Asia Pacific Apparel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201158403
+        }
+      ]
+    }
+  }
+}

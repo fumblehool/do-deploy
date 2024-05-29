@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 927,
+      "chineseName": "优特钢",
+      "translatedName": "Youte Steel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035749,
+          "chineseName": "其他优特钢",
+          "translatedName": "Other Ute Steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035753,
+          "chineseName": "冷墩钢",
+          "translatedName": "cold pier steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035754,
+          "chineseName": "冷拉钢",
+          "translatedName": "cold drawn steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035755,
+          "chineseName": "冷拔钢",
+          "translatedName": "cold drawn steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035758,
+          "chineseName": "齿轮钢",
+          "translatedName": "gear steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035759,
+          "chineseName": "模具钢",
+          "translatedName": "die steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035760,
+          "chineseName": "弹簧钢",
+          "translatedName": "spring steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035761,
+          "chineseName": "轴承钢",
+          "translatedName": "bearing steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1035762,
+          "chineseName": "工具钢",
+          "translatedName": "tool steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 1036861,
+          "chineseName": "易切削钢",
+          "translatedName": "free cutting steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 121046011,
+          "chineseName": "结构钢",
+          "translatedName": "Structural Steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        },
+        {
+          "categoryId": 121012018,
+          "chineseName": "优质线材",
+          "translatedName": "High quality wire rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 927
+        }
+      ]
+    }
+  }
+}

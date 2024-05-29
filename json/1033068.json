@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033068,
+      "chineseName": "其他装订、胶粘用品",
+      "translatedName": "Other binding, adhesive supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2113"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040436,
+      "chineseName": "水焊机",
+      "translatedName": "water welding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1456"
+    }
+  }
+}

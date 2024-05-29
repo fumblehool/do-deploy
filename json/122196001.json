@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122196001,
+      "chineseName": "圣诞用品",
+      "translatedName": "Christmas Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122200002,
+          "chineseName": "其他圣诞用品",
+          "translatedName": "Other Christmas Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 122222001,
+          "chineseName": "圣诞雪花",
+          "translatedName": "Christmas snowflakes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 122224001,
+          "chineseName": "圣诞树",
+          "translatedName": "Christmas tree",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 122226001,
+          "chineseName": "圣诞装饰品",
+          "translatedName": "Christmas decorations",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 201162307,
+          "chineseName": "圣诞铃铛",
+          "translatedName": "Christmas Bells",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 201649701,
+          "chineseName": "圣诞树裙",
+          "translatedName": "Christmas Tree Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 201649801,
+          "chineseName": "圣诞花环",
+          "translatedName": "Christmas wreath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        },
+        {
+          "categoryId": 201649901,
+          "chineseName": "圣诞球",
+          "translatedName": "Christmas Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196001
+        }
+      ]
+    }
+  }
+}

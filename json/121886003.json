@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121886003,
+      "chineseName": "高海拔登山靴、攀冰鞋",
+      "translatedName": "High altitude hiking boots, skates",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121900002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122308007,
+      "chineseName": "手机支架",
+      "translatedName": "Mobile phone holder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

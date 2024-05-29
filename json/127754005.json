@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127754005,
+      "chineseName": "太阳能发电系统",
+      "translatedName": "solar power generation system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032304,
+          "chineseName": "光伏电池片",
+          "translatedName": "Photovoltaic cells",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 1042667,
+          "chineseName": "光伏组件",
+          "translatedName": "Photovoltaic modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 127740007,
+          "chineseName": "光伏汇流箱",
+          "translatedName": "Photovoltaic combiner box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 127770004,
+          "chineseName": "太阳能控制器",
+          "translatedName": "Solar controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202057207,
+          "chineseName": "光伏接线盒",
+          "translatedName": "Photovoltaic junction box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202009302,
+          "chineseName": "光伏并网箱",
+          "translatedName": "Photovoltaic grid-connected box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202063705,
+          "chineseName": "光伏折叠包",
+          "translatedName": "Photovoltaic folding package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202011503,
+          "chineseName": "太阳能跟踪器",
+          "translatedName": "Solar Tracker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202011905,
+          "chineseName": "光伏逆变器",
+          "translatedName": "photovoltaic inverter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202052004,
+          "chineseName": "光伏电站",
+          "translatedName": "Photovoltaic Power Station",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202014602,
+          "chineseName": "光伏电缆",
+          "translatedName": "Photovoltaic cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202014802,
+          "chineseName": "太阳能胶滴板",
+          "translatedName": "Solar glue drop plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202014901,
+          "chineseName": "太阳能逆控一体机",
+          "translatedName": "Solar energy reverse control integrated machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202007103,
+          "chineseName": "光伏螺旋地桩",
+          "translatedName": "Photovoltaic spiral ground pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202008004,
+          "chineseName": "光伏防水胶条",
+          "translatedName": "Photovoltaic waterproof adhesive strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        },
+        {
+          "categoryId": 202001802,
+          "chineseName": "其他太阳能发电系统",
+          "translatedName": "Other Solar Power Systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127754005
+        }
+      ]
+    }
+  }
+}

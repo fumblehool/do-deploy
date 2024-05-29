@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035815,
+      "chineseName": "商检报关",
+      "translatedName": "commodity inspection customs declaration",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "89"
+    }
+  }
+}

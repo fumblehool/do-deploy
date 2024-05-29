@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305307,
+      "chineseName": "创意礼品",
+      "translatedName": "Creative gifts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122344005,
+          "chineseName": "招财猫",
+          "translatedName": "Luckcat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 122344006,
+          "chineseName": "沙漏",
+          "translatedName": "Hourglass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201230312,
+          "chineseName": "摇步器",
+          "translatedName": "Shaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201304810,
+          "chineseName": "创意书灯",
+          "translatedName": "Creative book lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201304410,
+          "chineseName": "阳光罐/月光罐",
+          "translatedName": "Sunshine tank/moonlight tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201220614,
+          "chineseName": "工艺船",
+          "translatedName": "craft ship",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201303012,
+          "chineseName": "海螺/贝壳/珊瑚",
+          "translatedName": "Conch/Shell/Coral",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201308506,
+          "chineseName": "礼品盒",
+          "translatedName": "Gift Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201329618,
+          "chineseName": "金箔花",
+          "translatedName": "gold leaf flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201219106,
+          "chineseName": "牛顿摆",
+          "translatedName": "newton pendulum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201231604,
+          "chineseName": "针画",
+          "translatedName": "needle painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201332720,
+          "chineseName": "生日报",
+          "translatedName": "Daily Life",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201346406,
+          "chineseName": "礼品卡",
+          "translatedName": "Gift Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201330316,
+          "chineseName": "创意礼品套装",
+          "translatedName": "Creative Gift Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        },
+        {
+          "categoryId": 201833102,
+          "chineseName": "许愿瓶/幸运星瓶",
+          "translatedName": "Wishing Bottle/Lucky Star Bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201305307
+        }
+      ]
+    }
+  }
+}

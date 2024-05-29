@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123084002,
+      "chineseName": "夏凉品类",
+      "translatedName": "Cool summer category",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031727,
+          "chineseName": "其他凉席",
+          "translatedName": "Other mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 1031728,
+          "chineseName": "蚊帐、床幔",
+          "translatedName": "Mosquito net, bed curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122216004,
+          "chineseName": "冰丝席",
+          "translatedName": "Ice silk mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122220004,
+          "chineseName": "功能凉席",
+          "translatedName": "Functional mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122324006,
+          "chineseName": "枕席/枕片",
+          "translatedName": "Pillow mat/pillow pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122238004,
+          "chineseName": "草席",
+          "translatedName": "Straw mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122192002,
+          "chineseName": "藤席",
+          "translatedName": "Rattan mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122192003,
+          "chineseName": "麻将席",
+          "translatedName": "Mahjong table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122192004,
+          "chineseName": "竹纤维席",
+          "translatedName": "Bamboo fiber mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 123090001,
+          "chineseName": "夏凉被",
+          "translatedName": "Summer quilted",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122198002,
+          "chineseName": "牛皮席",
+          "translatedName": "cowhide mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122382006,
+          "chineseName": "凉席套件",
+          "translatedName": "Mat Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122234004,
+          "chineseName": "亚麻席",
+          "translatedName": "linen mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122238001,
+          "chineseName": "毛巾被",
+          "translatedName": "Towel Quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 122238003,
+          "chineseName": "竹席",
+          "translatedName": "Bamboo mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 201306707,
+          "chineseName": "乳胶凉席",
+          "translatedName": "Latex mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        },
+        {
+          "categoryId": 127868021,
+          "chineseName": "夏凉枕",
+          "translatedName": "Summer pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123084002
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201338516,
+      "chineseName": "道帽/道巾",
+      "translatedName": "Tao Hat/Tao Towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330711"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 213,
+      "chineseName": "速冻中式米面包点类",
+      "translatedName": "Quick-Frozen Chinese Rice Noodles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "216"
+    }
+  }
+}

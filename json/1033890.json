@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033890,
+      "chineseName": "粒度仪",
+      "translatedName": "Particle sizer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10211"
+    }
+  }
+}

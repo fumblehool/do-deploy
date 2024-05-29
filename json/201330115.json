@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330115,
+      "chineseName": "户外充电桩",
+      "translatedName": "Outdoor charging pile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332918"
+    }
+  }
+}

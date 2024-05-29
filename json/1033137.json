@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033137,
+      "chineseName": "容量瓶",
+      "translatedName": "Volumetric flask",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "826"
+    }
+  }
+}

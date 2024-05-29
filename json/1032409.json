@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032409,
+      "chineseName": "锯",
+      "translatedName": "saw",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035527,
+          "chineseName": "其他锯",
+          "translatedName": "Other Saws",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032409
+        },
+        {
+          "categoryId": 1035528,
+          "chineseName": "钢锯架",
+          "translatedName": "Hacksaw frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032409
+        },
+        {
+          "categoryId": 1035530,
+          "chineseName": "机用锯条",
+          "translatedName": "Machine saw blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032409
+        },
+        {
+          "categoryId": 1035531,
+          "chineseName": "手用锯条",
+          "translatedName": "hand saw blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032409
+        },
+        {
+          "categoryId": 1035532,
+          "chineseName": "手锯、木工锯",
+          "translatedName": "Hand saw, woodworking saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032409
+        }
+      ]
+    }
+  }
+}

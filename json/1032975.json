@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032975,
+      "chineseName": "其他办公用纸",
+      "translatedName": "Other office paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2112"
+    }
+  }
+}

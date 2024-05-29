@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200918004,
+      "chineseName": "压面机／面条机",
+      "translatedName": "noodle press/noodle machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

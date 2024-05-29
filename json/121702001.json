@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121702001,
+      "chineseName": "男士护肤",
+      "translatedName": "Men's Skin Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034770,
+          "chineseName": "剃须膏、须后水",
+          "translatedName": "Shaving cream, aftershave",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 122364006,
+          "chineseName": "男士身体护理",
+          "translatedName": "Men's Body Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 122310013,
+          "chineseName": "男士面部护理套装",
+          "translatedName": "Men's Facial Care Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121694002,
+          "chineseName": "男士面部精华",
+          "translatedName": "Men's Facial Essence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121706001,
+          "chineseName": "男士洁面",
+          "translatedName": "Men's Face Cleansing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121708001,
+          "chineseName": "男士爽肤水",
+          "translatedName": "Men's Toner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121710001,
+          "chineseName": "男士乳液",
+          "translatedName": "Men's Lotion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121710002,
+          "chineseName": "男士面膜",
+          "translatedName": "Mask for Men",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121712001,
+          "chineseName": "男士眼霜",
+          "translatedName": "Men's Eye Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        },
+        {
+          "categoryId": 121714001,
+          "chineseName": "男士润唇膏",
+          "translatedName": "Lip Balm for Men",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121702001
+        }
+      ]
+    }
+  }
+}

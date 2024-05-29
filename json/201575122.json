@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201575122,
+      "chineseName": "压力继电器（低压电气）",
+      "translatedName": "Pressure relay (low voltage electrical)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

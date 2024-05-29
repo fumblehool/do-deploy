@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10242,
+      "chineseName": "工控电脑产品",
+      "translatedName": "Industrial Control Computer Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "730"
+    }
+  }
+}

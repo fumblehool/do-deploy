@@ -1,0 +1,325 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127170001,
+      "chineseName": "继电器",
+      "translatedName": "Relay",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038219,
+          "chineseName": "其他继电器",
+          "translatedName": "Other relays",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127206001,
+          "chineseName": "光(耦合)继电器",
+          "translatedName": "optical (coupling) relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127206002,
+          "chineseName": "压力继电器",
+          "translatedName": "Pressure relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127208001,
+          "chineseName": "直流继电器",
+          "translatedName": "DC relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127172004,
+          "chineseName": "热(过载)继电器",
+          "translatedName": "Thermal (overload) relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127172005,
+          "chineseName": "通信继电器",
+          "translatedName": "communication relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127172006,
+          "chineseName": "差动继电器",
+          "translatedName": "differential relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127172007,
+          "chineseName": "热继电器",
+          "translatedName": "Thermal relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127174001,
+          "chineseName": "磁保持继电器",
+          "translatedName": "magnetic latching relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127174004,
+          "chineseName": "控制继电器",
+          "translatedName": "Control relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127182005,
+          "chineseName": "冲击继电器",
+          "translatedName": "Impact relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127186003,
+          "chineseName": "汽车继电器",
+          "translatedName": "Automotive Relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127310004,
+          "chineseName": "低压电子继电器",
+          "translatedName": "Low voltage electronic relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127160004,
+          "chineseName": "电压继电器",
+          "translatedName": "voltage relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127160005,
+          "chineseName": "时间继电器",
+          "translatedName": "time relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127160006,
+          "chineseName": "信号继电器",
+          "translatedName": "Signal relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127164002,
+          "chineseName": "普通继电器",
+          "translatedName": "ordinary relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127170003,
+          "chineseName": "同轴继电器",
+          "translatedName": "coaxial relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127172001,
+          "chineseName": "电磁继电器",
+          "translatedName": "electromagnetic relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127142007,
+          "chineseName": "温度继电器",
+          "translatedName": "Temperature relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127156002,
+          "chineseName": "交流继电器",
+          "translatedName": "AC relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127156003,
+          "chineseName": "中间继电器",
+          "translatedName": "Intermediate relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127156004,
+          "chineseName": "功率继电器",
+          "translatedName": "Power relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127156005,
+          "chineseName": "电流继电器",
+          "translatedName": "current relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127186004,
+          "chineseName": "线路板继电器",
+          "translatedName": "Circuit board relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127192002,
+          "chineseName": "真空继电器",
+          "translatedName": "Vacuum relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127200001,
+          "chineseName": "舌簧(磁簧)继电器",
+          "translatedName": "Reed relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127200002,
+          "chineseName": "速度继电器（转速继电器）",
+          "translatedName": "Speed relay (speed relay)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127202001,
+          "chineseName": "固态继电器",
+          "translatedName": "solid state relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127202002,
+          "chineseName": "安全继电器",
+          "translatedName": "Safety relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127202003,
+          "chineseName": "启动继电器",
+          "translatedName": "START RELAY",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127202004,
+          "chineseName": "液位继电器",
+          "translatedName": "Level relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127202005,
+          "chineseName": "正反转继电器",
+          "translatedName": "forward reverse relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        },
+        {
+          "categoryId": 127204001,
+          "chineseName": "延时继电器",
+          "translatedName": "Time delay relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127170001
+        }
+      ]
+    }
+  }
+}

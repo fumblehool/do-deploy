@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043469,
+      "chineseName": "壁饰",
+      "translatedName": "Wall Decoration",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122460001,
+          "chineseName": "壁挂、壁饰",
+          "translatedName": "Wall hanging, wall decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043469
+        },
+        {
+          "categoryId": 122306009,
+          "chineseName": "背景软包",
+          "translatedName": "Background soft bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043469
+        }
+      ]
+    }
+  }
+}

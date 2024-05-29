@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033949,
+      "chineseName": "水晶头",
+      "translatedName": "Crystal head",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033273"
+    }
+  }
+}

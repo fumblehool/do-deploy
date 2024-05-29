@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056910,
+      "chineseName": "女装加工定制",
+      "translatedName": "Women's custom processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127184002,
+          "chineseName": "女装其他加工",
+          "translatedName": "Women's Other Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202054213,
+          "chineseName": "女装毛织加工",
+          "translatedName": "Women's Wool Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202054214,
+          "chineseName": "女装烫钻加工",
+          "translatedName": "Women's Rhinestone Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202052817,
+          "chineseName": "女装牛仔加工",
+          "translatedName": "Women's denim processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202053213,
+          "chineseName": "女装针织加工",
+          "translatedName": "Women's Knitting Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202057214,
+          "chineseName": "女装钉珠、钉扣加工",
+          "translatedName": "Women's Beads, Nail Buckle Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202052422,
+          "chineseName": "女装印花加工",
+          "translatedName": "Women's clothing printing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202056113,
+          "chineseName": "女装压褶加工",
+          "translatedName": "Women's folding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202051516,
+          "chineseName": "女装染色加工",
+          "translatedName": "Women's Dyeing Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202061312,
+          "chineseName": "女装呢料加工",
+          "translatedName": "Women's Wool Material Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202053808,
+          "chineseName": "女装梭织加工",
+          "translatedName": "Women's Woven Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202058009,
+          "chineseName": "女装洗水加工",
+          "translatedName": "Women's Wash Water Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202057513,
+          "chineseName": "女装皮革加工",
+          "translatedName": "Women's Leather Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202063613,
+          "chineseName": "女装亮片加工",
+          "translatedName": "Women's sequin processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202060420,
+          "chineseName": "女装羽绒加工",
+          "translatedName": "Women's Down Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202060109,
+          "chineseName": "女装绣花加工",
+          "translatedName": "Women's Embroidery Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        },
+        {
+          "categoryId": 202059217,
+          "chineseName": "女装皮草加工",
+          "translatedName": "Women's Fur Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056910
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034688,
+      "chineseName": "果糖",
+      "translatedName": "Fructose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80305"
+    }
+  }
+}

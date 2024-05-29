@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201903001,
+      "chineseName": "童鞋礼盒装",
+      "translatedName": "Children's shoes gift box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125386001"
+    }
+  }
+}

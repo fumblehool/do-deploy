@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201339019,
+      "chineseName": "消毒抑菌用品套装",
+      "translatedName": "Disinfection and bacteriostasis supplies set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303409"
+    }
+  }
+}

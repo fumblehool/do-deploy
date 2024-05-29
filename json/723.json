@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 723,
+      "chineseName": "PC电源",
+      "translatedName": "PC Power Supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "731"
+    }
+  }
+}

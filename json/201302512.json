@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201302512,
+      "chineseName": "院线护理套盒",
+      "translatedName": "Hospital line nursing kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650003"
+    }
+  }
+}

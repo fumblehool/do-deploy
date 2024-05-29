@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034847,
+      "chineseName": "有机化工用催化剂",
+      "translatedName": "catalysts for organic chemical industry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031687"
+    }
+  }
+}

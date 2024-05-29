@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034631,
+      "chineseName": "硒氧化物",
+      "translatedName": "selenium oxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80204"
+    }
+  }
+}

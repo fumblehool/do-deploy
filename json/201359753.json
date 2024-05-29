@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359753,
+      "chineseName": "穿衣镜",
+      "translatedName": "Done mirror",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122512002"
+    }
+  }
+}

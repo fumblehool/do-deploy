@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958605,
+      "chineseName": "隔膜泵",
+      "translatedName": "diaphragm pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1425"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201268187,
+      "chineseName": "商用美容仪（非医疗器械）",
+      "translatedName": "Commercial beauty instrument (non-medical device)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

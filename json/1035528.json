@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035528,
+      "chineseName": "钢锯架",
+      "translatedName": "Hacksaw frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032409"
+    }
+  }
+}

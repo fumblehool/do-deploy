@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301403,
+      "chineseName": "裤型卫生巾",
+      "translatedName": "Trouser sanitary napkin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231505"
+    }
+  }
+}

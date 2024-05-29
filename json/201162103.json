@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162103,
+      "chineseName": "仿真园艺",
+      "translatedName": "simulation gardening",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038172,
+          "chineseName": "仿真绿植",
+          "translatedName": "simulation green plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201158006,
+          "chineseName": "仿真玫瑰",
+          "translatedName": "Simulation Rose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201170509,
+          "chineseName": "绢花",
+          "translatedName": "silk flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201172503,
+          "chineseName": "永生花",
+          "translatedName": "Eternal Flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201173907,
+          "chineseName": "塑料花",
+          "translatedName": "plastic flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201382918,
+          "chineseName": "香皂花",
+          "translatedName": "soap flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201160303,
+          "chineseName": "仿真植物配件",
+          "translatedName": "Simulation plant accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201159505,
+          "chineseName": "仿真盆栽",
+          "translatedName": "simulation potted plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201159605,
+          "chineseName": "仿真花",
+          "translatedName": "simulation flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201162304,
+          "chineseName": "仿真草皮",
+          "translatedName": "Simulation turf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201356127,
+          "chineseName": "仿真花瓣",
+          "translatedName": "Simulation of petals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201158804,
+          "chineseName": "仿真蕨类",
+          "translatedName": "Simulation Fern",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201161803,
+          "chineseName": "仿真枝叶和树",
+          "translatedName": "Simulation of branches and leaves and trees",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201161302,
+          "chineseName": "仿真果蔬",
+          "translatedName": "Simulation of fruits and vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201161505,
+          "chineseName": "仿真水生植物",
+          "translatedName": "simulation aquatic plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        },
+        {
+          "categoryId": 201162803,
+          "chineseName": "仿真藤条",
+          "translatedName": "Simulation of rattan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162103
+        }
+      ]
+    }
+  }
+}

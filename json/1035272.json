@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035272,
+      "chineseName": "大灯、前照灯",
+      "translatedName": "Headlights, headlamps",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10108"
+    }
+  }
+}

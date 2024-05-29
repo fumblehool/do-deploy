@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037103,
+      "chineseName": "二甲基亚砜",
+      "translatedName": "Dimethyl sulfoxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80304"
+    }
+  }
+}

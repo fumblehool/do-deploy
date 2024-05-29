@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033186,
+      "chineseName": "其他防盗、报警器材及系统",
+      "translatedName": "Other anti-theft and alarm equipment and systems",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3002"
+    }
+  }
+}

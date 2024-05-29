@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124776002,
+      "chineseName": "布尿裤",
+      "translatedName": "cloth diapers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380006"
+    }
+  }
+}

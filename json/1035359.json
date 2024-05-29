@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035359,
+      "chineseName": "快开、阀芯",
+      "translatedName": "Quick opening, valve core",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032416"
+    }
+  }
+}

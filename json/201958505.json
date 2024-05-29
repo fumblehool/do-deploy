@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958505,
+      "chineseName": "拉布机",
+      "translatedName": "cloth pulling machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10062"
+    }
+  }
+}

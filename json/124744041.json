@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744041,
+      "chineseName": "摄影摄像棚",
+      "translatedName": "Photography Studio",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124776003"
+    }
+  }
+}

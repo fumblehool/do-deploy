@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10438,
+      "chineseName": "管件",
+      "translatedName": "Pipe fittings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032606,
+          "chineseName": "其他管件",
+          "translatedName": "Other pipe fittings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1032607,
+          "chineseName": "法兰",
+          "translatedName": "Flange",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1032608,
+          "chineseName": "管帽",
+          "translatedName": "Pipe cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1032609,
+          "chineseName": "弯头",
+          "translatedName": "Elbow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1032610,
+          "chineseName": "异径管",
+          "translatedName": "Reducer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1032611,
+          "chineseName": "三通",
+          "translatedName": "Tee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1047076,
+          "chineseName": "封头",
+          "translatedName": "Head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1036640,
+          "chineseName": "四通",
+          "translatedName": "Four-way",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        },
+        {
+          "categoryId": 1036641,
+          "chineseName": "补偿器",
+          "translatedName": "Compensator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10438
+        }
+      ]
+    }
+  }
+}

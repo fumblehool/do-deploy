@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123694002,
+      "chineseName": "男式皮衣",
+      "translatedName": "men's leather",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031893,
+          "chineseName": "男式真皮皮衣",
+          "translatedName": "Men's Leather Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694002
+        },
+        {
+          "categoryId": 123696001,
+          "chineseName": "男式皮草",
+          "translatedName": "Men's Fur",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694002
+        },
+        {
+          "categoryId": 123688002,
+          "chineseName": "男式PU皮衣",
+          "translatedName": "Men's PU leather clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123694002
+        }
+      ]
+    }
+  }
+}

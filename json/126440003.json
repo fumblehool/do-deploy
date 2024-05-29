@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126440003,
+      "chineseName": "童装其他加工",
+      "translatedName": "Other processing of children's clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202057212"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038199,
+      "chineseName": "PCB电路板",
+      "translatedName": "PCB Circuit Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202002002"
+    }
+  }
+}

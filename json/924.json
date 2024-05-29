@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 924,
+      "chineseName": "铸造及热处理设备",
+      "translatedName": "Casting and heat treatment equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033363,
+          "chineseName": "其他铸造及热处理设备",
+          "translatedName": "Other casting and heat treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 1032546,
+          "chineseName": "中频电源",
+          "translatedName": "medium frequency power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 1032547,
+          "chineseName": "燃烧器",
+          "translatedName": "Burner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 1032549,
+          "chineseName": "工业炉",
+          "translatedName": "industrial furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 1032552,
+          "chineseName": "铸造设备",
+          "translatedName": "Casting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 1045091,
+          "chineseName": "燃烧器配件",
+          "translatedName": "Burner accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 201958401,
+          "chineseName": "抛丸机",
+          "translatedName": "shot blasting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        },
+        {
+          "categoryId": 201958102,
+          "chineseName": "连铸机",
+          "translatedName": "continuous casting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 924
+        }
+      ]
+    }
+  }
+}

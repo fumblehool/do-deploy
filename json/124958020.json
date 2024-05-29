@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124958020,
+      "chineseName": "火龙果",
+      "translatedName": "dragon fruit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10037"
+    }
+  }
+}

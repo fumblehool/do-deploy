@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036518,
+      "chineseName": "通信产品维修安装",
+      "translatedName": "Maintenance and installation of communication products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2823"
+    }
+  }
+}

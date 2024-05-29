@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124186007,
+      "chineseName": "美甲笔",
+      "translatedName": "nail pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043162"
+    }
+  }
+}

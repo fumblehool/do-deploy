@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043663,
+      "chineseName": "沙发类",
+      "translatedName": "Sofa Class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

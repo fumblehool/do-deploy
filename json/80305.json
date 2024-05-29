@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80305,
+      "chineseName": "碳水化合物",
+      "translatedName": "Carbohydrate",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034683,
+          "chineseName": "其他碳水化合物",
+          "translatedName": "Other Carbohydrates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034684,
+          "chineseName": "纤维素",
+          "translatedName": "Cellulose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034685,
+          "chineseName": "工业淀粉",
+          "translatedName": "industrial starch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034687,
+          "chineseName": "蔗糖",
+          "translatedName": "Sucrose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034686,
+          "chineseName": "麦芽糖",
+          "translatedName": "maltose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034688,
+          "chineseName": "果糖",
+          "translatedName": "Fructose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        },
+        {
+          "categoryId": 1034689,
+          "chineseName": "葡萄糖",
+          "translatedName": "Glucose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80305
+        }
+      ]
+    }
+  }
+}

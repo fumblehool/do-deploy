@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2047,
+      "chineseName": "其他极限运动用品",
+      "translatedName": "Other extreme sports supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "74"
+    }
+  }
+}

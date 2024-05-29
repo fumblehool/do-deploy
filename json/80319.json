@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80319,
+      "chineseName": "其他烃类",
+      "translatedName": "Other hydrocarbons",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "803"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201885405,
+      "chineseName": "合成/人工珠宝玉石饰品",
+      "translatedName": "Synthetic/artificial jewelry jade jewelry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201897602,
+          "chineseName": "合成/培育钻石戒指",
+          "translatedName": "Synthetic/Cultivated Diamond Ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201885405
+        },
+        {
+          "categoryId": 201900201,
+          "chineseName": "合成/培育钻石耳饰",
+          "translatedName": "Synthetic/Cultivated Diamond Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201885405
+        },
+        {
+          "categoryId": 201900301,
+          "chineseName": "合成/培育钻石手饰",
+          "translatedName": "Synthetic/Cultivated Diamond Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201885405
+        },
+        {
+          "categoryId": 201901401,
+          "chineseName": "合成/培育钻石项饰",
+          "translatedName": "Synthetic/Cultivated Diamond Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201885405
+        },
+        {
+          "categoryId": 201901402,
+          "chineseName": "合成/培育钻石裸石",
+          "translatedName": "Synthetic/Cultivated Diamond Bare Stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201885405
+        }
+      ]
+    }
+  }
+}

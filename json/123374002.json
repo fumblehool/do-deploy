@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123374002,
+      "chineseName": "不锈钢全软线",
+      "translatedName": "Stainless steel full cord",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123284006"
+    }
+  }
+}

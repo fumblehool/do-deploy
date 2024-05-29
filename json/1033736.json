@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033736,
+      "chineseName": "生瓜子",
+      "translatedName": "Raw melon seeds",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "104"
+    }
+  }
+}

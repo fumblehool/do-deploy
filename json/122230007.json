@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122230007,
+      "chineseName": "足球护腿板",
+      "translatedName": "Football leg guard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122226003"
+    }
+  }
+}

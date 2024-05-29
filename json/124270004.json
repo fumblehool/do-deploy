@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270004,
+      "chineseName": "机芯",
+      "translatedName": "Movement",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268003"
+    }
+  }
+}

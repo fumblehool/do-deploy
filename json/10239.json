@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10239,
+      "chineseName": "化工废料",
+      "translatedName": "chemical waste",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034259,
+          "chineseName": "其他化工废料",
+          "translatedName": "Other Chemical Waste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        },
+        {
+          "categoryId": 1034260,
+          "chineseName": "贵金属盐废料",
+          "translatedName": "precious metal salt waste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        },
+        {
+          "categoryId": 1034261,
+          "chineseName": "废催化剂",
+          "translatedName": "spent catalyst",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        },
+        {
+          "categoryId": 1034263,
+          "chineseName": "废海绵",
+          "translatedName": "waste sponge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        },
+        {
+          "categoryId": 1034265,
+          "chineseName": "废橡胶",
+          "translatedName": "waste rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        },
+        {
+          "categoryId": 1036862,
+          "chineseName": "化工废渣",
+          "translatedName": "chemical waste residue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10239
+        }
+      ]
+    }
+  }
+}

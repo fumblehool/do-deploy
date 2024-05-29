@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202012002,
+      "chineseName": "刺梨/刺梨原浆",
+      "translatedName": "Rosa roxburghii/prickly pear puree",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048224"
+    }
+  }
+}

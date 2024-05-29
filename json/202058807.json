@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058807,
+      "chineseName": "光电倍增管",
+      "translatedName": "photomultiplier tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058309"
+    }
+  }
+}

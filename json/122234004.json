@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122234004,
+      "chineseName": "亚麻席",
+      "translatedName": "linen mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084002"
+    }
+  }
+}

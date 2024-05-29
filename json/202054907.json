@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054907,
+      "chineseName": "OLED显示器件",
+      "translatedName": "OLED display device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061303"
+    }
+  }
+}

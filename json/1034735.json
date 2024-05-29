@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034735,
+      "chineseName": "真空干燥机",
+      "translatedName": "Vacuum dryer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10416"
+    }
+  }
+}

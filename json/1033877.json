@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033877,
+      "chineseName": "无损检测仪器",
+      "translatedName": "Non-destructive testing instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033908,
+          "chineseName": "测厚仪",
+          "translatedName": "Thickness gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1036174,
+          "chineseName": "超声检测仪",
+          "translatedName": "Ultrasonic detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1036175,
+          "chineseName": "探伤仪",
+          "translatedName": "flaw detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1036176,
+          "chineseName": "涂层检测仪",
+          "translatedName": "Coating detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1036177,
+          "chineseName": "检漏仪",
+          "translatedName": "Leak detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1036178,
+          "chineseName": "其他无损检测仪器",
+          "translatedName": "Other NDT Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1035915,
+          "chineseName": "粗糙度仪",
+          "translatedName": "roughness meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        },
+        {
+          "categoryId": 1043467,
+          "chineseName": "内窥镜",
+          "translatedName": "Endoscope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033877
+        }
+      ]
+    }
+  }
+}

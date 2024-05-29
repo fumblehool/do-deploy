@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033335,
+      "chineseName": "急救箱、急救包",
+      "translatedName": "First aid kit, first aid kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1613"
+    }
+  }
+}

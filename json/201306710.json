@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306710,
+      "chineseName": "闻香杯",
+      "translatedName": "smell cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121548001"
+    }
+  }
+}

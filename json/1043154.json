@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043154,
+      "chineseName": "沐浴球、浴擦、浴刷、澡巾",
+      "translatedName": "Bath ball, bath wipe, bath brush, bath towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

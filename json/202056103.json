@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056103,
+      "chineseName": "钙铁锌/钙镁（食品）",
+      "translatedName": "Calcium Iron Zinc/Calcium Magnesium (food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

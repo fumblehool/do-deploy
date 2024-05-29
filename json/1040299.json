@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040299,
+      "chineseName": "化工容器",
+      "translatedName": "chemical container",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1040298"
+    }
+  }
+}

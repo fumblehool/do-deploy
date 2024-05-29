@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044056,
+      "chineseName": "汽车钥匙",
+      "translatedName": "Car Keys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3311"
+    }
+  }
+}

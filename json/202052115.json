@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052115,
+      "chineseName": "音调板/前级板",
+      "translatedName": "Tone Board/Front Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202002002"
+    }
+  }
+}

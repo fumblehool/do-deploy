@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041707,
+      "chineseName": "船舶润滑油",
+      "translatedName": "marine lubricating oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033682"
+    }
+  }
+}

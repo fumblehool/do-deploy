@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920901,
+      "chineseName": "滑雪专用包",
+      "translatedName": "Ski special bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2013"
+    }
+  }
+}

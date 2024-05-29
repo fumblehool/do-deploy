@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127462009,
+      "chineseName": "领部配件",
+      "translatedName": "Collar fittings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122402001,
+          "chineseName": "领结/领花",
+          "translatedName": "Bow tie/bow flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462009
+        },
+        {
+          "categoryId": 201158002,
+          "chineseName": "假领",
+          "translatedName": "fake collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462009
+        },
+        {
+          "categoryId": 127496011,
+          "chineseName": "领结（即将作废，请勿发布）",
+          "translatedName": "Bow tie (to be voided, please do not post)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462009
+        },
+        {
+          "categoryId": 127500009,
+          "chineseName": "领带夹",
+          "translatedName": "tie clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462009
+        },
+        {
+          "categoryId": 326,
+          "chineseName": "领带",
+          "translatedName": "Tie",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462009
+        }
+      ]
+    }
+  }
+}

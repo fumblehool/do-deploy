@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127406010,
+      "chineseName": "军迷包具",
+      "translatedName": "Army Fan Bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127432007,
+          "chineseName": "战术双肩背包",
+          "translatedName": "Tactical Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127406010
+        },
+        {
+          "categoryId": 127422011,
+          "chineseName": "解放包、单肩包",
+          "translatedName": "Liberation bag, shoulder bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127406010
+        },
+        {
+          "categoryId": 127428004,
+          "chineseName": "腰包、臂包、拎包",
+          "translatedName": "Waist bag, arm bag, handbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127406010
+        },
+        {
+          "categoryId": 127420019,
+          "chineseName": "其他包、包具配件",
+          "translatedName": "Other bags, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127406010
+        },
+        {
+          "categoryId": 201549108,
+          "chineseName": "战术腿包",
+          "translatedName": "Tactical Leg Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127406010
+        }
+      ]
+    }
+  }
+}

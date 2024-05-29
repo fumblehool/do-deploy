@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127134002,
+      "chineseName": "包装产品定制",
+      "translatedName": "Packaging Product Customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "68"
+    }
+  }
+}

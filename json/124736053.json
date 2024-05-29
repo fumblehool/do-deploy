@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736053,
+      "chineseName": "数码传输交换设备",
+      "translatedName": "digital transmission switching equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "705"
+    }
+  }
+}

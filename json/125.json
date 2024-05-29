@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125,
+      "chineseName": "园林资材",
+      "translatedName": "Garden Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033755,
+          "chineseName": "其他园林资材",
+          "translatedName": "Other Garden Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        },
+        {
+          "categoryId": 1033758,
+          "chineseName": "栽培基质",
+          "translatedName": "cultivation substrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        },
+        {
+          "categoryId": 124744038,
+          "chineseName": "营养液",
+          "translatedName": "nutrient solution",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        },
+        {
+          "categoryId": 124742032,
+          "chineseName": "园艺灌溉工具",
+          "translatedName": "Gardening irrigation tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        },
+        {
+          "categoryId": 124066001,
+          "chineseName": "园艺工具",
+          "translatedName": "Gardening tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        },
+        {
+          "categoryId": 201330213,
+          "chineseName": "篱笆/栅栏",
+          "translatedName": "Fence/Fence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125
+        }
+      ]
+    }
+  }
+}

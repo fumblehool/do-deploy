@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201922604,
+      "chineseName": "测量台",
+      "translatedName": "Measuring table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201914203"
+    }
+  }
+}

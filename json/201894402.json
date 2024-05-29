@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201894402,
+      "chineseName": "增值服务",
+      "translatedName": "Value-added services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201896801,
+          "chineseName": "会员服务",
+          "translatedName": "Member Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201894402
+        }
+      ]
+    }
+  }
+}

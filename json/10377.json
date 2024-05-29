@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10377,
+      "chineseName": "纺织染整助剂",
+      "translatedName": "Textile Dyeing and Finishing Auxiliaries",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034828,
+          "chineseName": "其他纺织染整助剂",
+          "translatedName": "Other Textile Dyeing and Finishing Auxiliaries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034829,
+          "chineseName": "织物阻燃剂",
+          "translatedName": "fabric flame retardant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034830,
+          "chineseName": "纺织柔软剂",
+          "translatedName": "textile softener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034831,
+          "chineseName": "匀染剂",
+          "translatedName": "levelling agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034832,
+          "chineseName": "泡丝剂",
+          "translatedName": "bubble agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034833,
+          "chineseName": "渗透剂",
+          "translatedName": "Penetrant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1034834,
+          "chineseName": "净洗剂",
+          "translatedName": "Detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1036733,
+          "chineseName": "抗菌、防臭剂",
+          "translatedName": "Antibacterial, deodorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1036734,
+          "chineseName": "整理剂",
+          "translatedName": "finishing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1036440,
+          "chineseName": "纺织印染用粘合剂",
+          "translatedName": "Adhesives for textile printing and dyeing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1036441,
+          "chineseName": "化纤油剂",
+          "translatedName": "chemical fiber oil agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        },
+        {
+          "categoryId": 1036442,
+          "chineseName": "固色剂",
+          "translatedName": "color fixing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10377
+        }
+      ]
+    }
+  }
+}

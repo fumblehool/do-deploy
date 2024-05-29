@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 909,
+      "chineseName": "非金属矿物制品",
+      "translatedName": "non-metallic mineral products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033355,
+          "chineseName": "其他非金属矿物制品",
+          "translatedName": "Other non-metallic mineral products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 909
+        },
+        {
+          "categoryId": 1033356,
+          "chineseName": "非金属粉末",
+          "translatedName": "non-metallic powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 909
+        },
+        {
+          "categoryId": 10523,
+          "chineseName": "石墨及碳素产品",
+          "translatedName": "Graphite and carbon products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 909
+        }
+      ]
+    }
+  }
+}

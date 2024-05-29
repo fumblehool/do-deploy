@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034212,
+      "chineseName": "其他广告、展览器材",
+      "translatedName": "Other advertising and exhibition equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2415"
+    }
+  }
+}

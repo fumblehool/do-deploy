@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043178,
+      "chineseName": "粉刺针、暗疮针、黑头夹",
+      "translatedName": "Acne needle, acne needle, blackhead clip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

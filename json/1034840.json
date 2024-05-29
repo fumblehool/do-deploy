@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034840,
+      "chineseName": "其他表面活性剂",
+      "translatedName": "Other Surfactants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10374"
+    }
+  }
+}

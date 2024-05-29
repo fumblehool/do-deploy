@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033851,
+      "chineseName": "其他专用仪器仪表",
+      "translatedName": "Other special instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10214"
+    }
+  }
+}

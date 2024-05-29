@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 64,
+      "chineseName": "环保",
+      "translatedName": "Environmental protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10241,
+          "chineseName": "公共环卫设施",
+          "translatedName": "Public sanitation facilities",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 1031805,
+          "chineseName": "环保设备代理加盟",
+          "translatedName": "Environmental protection equipment agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 1036432,
+          "chineseName": "节能环保材料",
+          "translatedName": "Energy saving and environmental protection materials",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 1043112,
+          "chineseName": "无害化处理设备",
+          "translatedName": "Harmless treatment equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 1107,
+          "chineseName": "其他环保设备",
+          "translatedName": "Other environmental protection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 150,
+          "chineseName": "废电子电器",
+          "translatedName": "Waste electronic and electrical appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 127742004,
+          "chineseName": "危险废物回收",
+          "translatedName": "hazardous waste recycling",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        },
+        {
+          "categoryId": 290311,
+          "chineseName": "环保项目合作",
+          "translatedName": "Environmental protection project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 64
+        }
+      ]
+    }
+  }
+}

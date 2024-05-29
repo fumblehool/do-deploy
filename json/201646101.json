@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201646101,
+      "chineseName": "MIDI乐器/电脑音乐",
+      "translatedName": "MIDI Instrument/Computer Music",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201672606,
+          "chineseName": "混音器",
+          "translatedName": "Mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201678802,
+          "chineseName": "软音源",
+          "translatedName": "soft sound source",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201678903,
+          "chineseName": "编曲键盘",
+          "translatedName": "arranger keyboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201683502,
+          "chineseName": "声卡转换器",
+          "translatedName": "Sound Card Converter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201677205,
+          "chineseName": "乐器软件",
+          "translatedName": "Musical Instrument Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201681904,
+          "chineseName": "MIDI吹奏控制器",
+          "translatedName": "MIDI Blowing Controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201681602,
+          "chineseName": "电子吹管",
+          "translatedName": "Electronic blowpipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201675603,
+          "chineseName": "其它MIDI配件",
+          "translatedName": "Other MIDI Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201681202,
+          "chineseName": "模拟合成器",
+          "translatedName": "analog synthesizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201677604,
+          "chineseName": "MIDI键盘控制器",
+          "translatedName": "MIDI Keyboard Controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        },
+        {
+          "categoryId": 201678105,
+          "chineseName": "MIDI键盘",
+          "translatedName": "MIDI Keyboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201646101
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202030803,
+      "chineseName": "交通事故勘查箱",
+      "translatedName": "Traffic accident survey box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3015"
+    }
+  }
+}

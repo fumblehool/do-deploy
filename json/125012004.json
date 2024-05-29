@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125012004,
+      "chineseName": "智能家居系统",
+      "translatedName": "Smart Home System",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "6"
+    }
+  }
+}

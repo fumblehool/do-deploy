@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 73,
+      "chineseName": "项目合作",
+      "translatedName": "Project cooperation",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0"
+    }
+  }
+}

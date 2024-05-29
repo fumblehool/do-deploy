@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033936,
+      "chineseName": "电话报警设备",
+      "translatedName": "Telephone alarm equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3002"
+    }
+  }
+}

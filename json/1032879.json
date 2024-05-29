@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032879,
+      "chineseName": "大米",
+      "translatedName": "Rice",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "228"
+    }
+  }
+}

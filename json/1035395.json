@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035395,
+      "chineseName": "气动接头",
+      "translatedName": "Pneumatic connector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032471"
+    }
+  }
+}

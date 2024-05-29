@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201730604,
+      "chineseName": "家电清洁剂",
+      "translatedName": "Appliance Cleaner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122262003"
+    }
+  }
+}

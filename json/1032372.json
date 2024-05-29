@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032372,
+      "chineseName": "衡器",
+      "translatedName": "Weighing apparatus",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033843,
+          "chineseName": "吊秤",
+          "translatedName": "Hanging scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033844,
+          "chineseName": "皮带秤",
+          "translatedName": "Belt scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033615,
+          "chineseName": "地磅",
+          "translatedName": "Floor Scales",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033837,
+          "chineseName": "其他衡器",
+          "translatedName": "Other weighing apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033838,
+          "chineseName": "计价秤",
+          "translatedName": "Pricing Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033839,
+          "chineseName": "轨道衡",
+          "translatedName": "Track scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033841,
+          "chineseName": "定量秤",
+          "translatedName": "Quantitative scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033840,
+          "chineseName": "台秤",
+          "translatedName": "Bench Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1033842,
+          "chineseName": "配料秤",
+          "translatedName": "batching scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        },
+        {
+          "categoryId": 1036912,
+          "chineseName": "电子秤",
+          "translatedName": "Electronic scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032372
+        }
+      ]
+    }
+  }
+}

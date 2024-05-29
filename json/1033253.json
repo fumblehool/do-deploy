@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033253,
+      "chineseName": "软驱",
+      "translatedName": "Floppy Drive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "731"
+    }
+  }
+}

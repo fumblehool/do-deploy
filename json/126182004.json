@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126182004,
+      "chineseName": "身体护理",
+      "translatedName": "Body Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034565,
+          "chineseName": "纤体膏/霜",
+          "translatedName": "Slimming Cream/Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 1034566,
+          "chineseName": "胸部护理",
+          "translatedName": "Chest Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 1034758,
+          "chineseName": "护手霜",
+          "translatedName": "Hand Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 1034769,
+          "chineseName": "脱毛蜡纸/脱毛膏",
+          "translatedName": "Hair removal wax paper/hair removal cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 1046969,
+          "chineseName": "颈部护理",
+          "translatedName": "Neck Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 1043070,
+          "chineseName": "身体乳、霜",
+          "translatedName": "Body lotion, cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 122204004,
+          "chineseName": "其他身体护理用品",
+          "translatedName": "Other Body Care Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201307005,
+          "chineseName": "其它足部护理",
+          "translatedName": "Other Foot Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201307110,
+          "chineseName": "护足霜",
+          "translatedName": "Foot Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201307111,
+          "chineseName": "足膜",
+          "translatedName": "foot membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201360239,
+          "chineseName": "脱毛刀",
+          "translatedName": "hair removal knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201351666,
+          "chineseName": "儿童润肤乳",
+          "translatedName": "Children's Lotion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201357251,
+          "chineseName": "宝宝护臀膏",
+          "translatedName": "Baby's Hip Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201347805,
+          "chineseName": "脱毛喷雾/泡沫",
+          "translatedName": "Hair removal spray/foam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 126136006,
+          "chineseName": "纹绣产品",
+          "translatedName": "tattoo products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201302015,
+          "chineseName": "身体磨砂、去角质",
+          "translatedName": "Body scrub, exfoliate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201307309,
+          "chineseName": "手膜",
+          "translatedName": "Hand film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201310107,
+          "chineseName": "足部磨砂、去角质",
+          "translatedName": "Foot scrub, exfoliate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201308806,
+          "chineseName": "手部磨砂、去角质",
+          "translatedName": "Hand scrub and exfoliate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 201329921,
+          "chineseName": "美容纤体贴",
+          "translatedName": "Beauty slimming paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        },
+        {
+          "categoryId": 202060607,
+          "chineseName": "身体贴膏",
+          "translatedName": "body plaster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126182004
+        }
+      ]
+    }
+  }
+}

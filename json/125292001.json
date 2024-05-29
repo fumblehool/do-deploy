@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125292001,
+      "chineseName": "运动紧身衣",
+      "translatedName": "Sports tights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013"
+    }
+  }
+}

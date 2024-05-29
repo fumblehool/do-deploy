@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031825,
+      "chineseName": "电脑产品加工",
+      "translatedName": "Computer product processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "736"
+    }
+  }
+}

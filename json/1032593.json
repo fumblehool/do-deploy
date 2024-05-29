@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032593,
+      "chineseName": "外墙砖",
+      "translatedName": "Exterior wall brick",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10405"
+    }
+  }
+}

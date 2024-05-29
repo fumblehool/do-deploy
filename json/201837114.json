@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201837114,
+      "chineseName": "男式时装靴",
+      "translatedName": "Men's Fashion Boots",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506004"
+    }
+  }
+}

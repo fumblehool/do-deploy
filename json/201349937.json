@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201349937,
+      "chineseName": "台式净饮机",
+      "translatedName": "Desktop clean drinking machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

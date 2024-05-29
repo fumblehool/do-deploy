@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122934003,
+      "chineseName": "儿童床头柜",
+      "translatedName": "Children's bedside table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122794001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046008,
+      "chineseName": "热轧酸洗卷",
+      "translatedName": "hot-rolled pickling coil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012015"
+    }
+  }
+}

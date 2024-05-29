@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036282,
+      "chineseName": "封杯、包装膜",
+      "translatedName": "Sealing cup, packaging film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033003"
+    }
+  }
+}

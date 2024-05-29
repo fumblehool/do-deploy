@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201678802,
+      "chineseName": "软音源",
+      "translatedName": "soft sound source",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201646101"
+    }
+  }
+}

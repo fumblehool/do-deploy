@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201683501,
+      "chineseName": "乐器包",
+      "translatedName": "musical instrument bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

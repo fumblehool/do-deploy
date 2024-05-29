@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921101,
+      "chineseName": "雪杖",
+      "translatedName": "Snow staff",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2013"
+    }
+  }
+}

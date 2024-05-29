@@ -1,0 +1,325 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10110,
+      "chineseName": "发动系统",
+      "translatedName": "starting system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032132,
+          "chineseName": "其他发动系统",
+          "translatedName": "Other starting systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032133,
+          "chineseName": "燃油喷射装置",
+          "translatedName": "Fuel injection device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032134,
+          "chineseName": "三元催化器",
+          "translatedName": "three-way catalytic converter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032135,
+          "chineseName": "化油器",
+          "translatedName": "Carburetor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032136,
+          "chineseName": "增压器",
+          "translatedName": "Supercharger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032138,
+          "chineseName": "皮带",
+          "translatedName": "Belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032139,
+          "chineseName": "涨紧轮",
+          "translatedName": "Tensioner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032140,
+          "chineseName": "飞轮/齿轮",
+          "translatedName": "Flywheel/Gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032141,
+          "chineseName": "油封",
+          "translatedName": "Oil seal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032142,
+          "chineseName": "气门部件",
+          "translatedName": "Valve components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032144,
+          "chineseName": "气门及部件",
+          "translatedName": "Valves and components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032145,
+          "chineseName": "轴瓦及连杆瓦",
+          "translatedName": "Bearing bush and connecting rod bush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032146,
+          "chineseName": "曲轴、凸轮轴",
+          "translatedName": "Crankshaft, camshaft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032147,
+          "chineseName": "连杆总成",
+          "translatedName": "Connecting rod assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032148,
+          "chineseName": "油箱",
+          "translatedName": "Fuel tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032149,
+          "chineseName": "油泵、油嘴",
+          "translatedName": "Oil pump, nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032150,
+          "chineseName": "活塞、活塞环、活塞销",
+          "translatedName": "Piston, piston ring, piston pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032151,
+          "chineseName": "气缸及部件",
+          "translatedName": "Cylinder and parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032152,
+          "chineseName": "其他滤清器",
+          "translatedName": "Other Filters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1032153,
+          "chineseName": "发动机总成",
+          "translatedName": "Engine assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1036914,
+          "chineseName": "油管",
+          "translatedName": "Tubing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1041492,
+          "chineseName": "起动机及配件",
+          "translatedName": "Starter and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 1041493,
+          "chineseName": "节油器",
+          "translatedName": "economizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123274001,
+          "chineseName": "排气歧管",
+          "translatedName": "Exhaust manifold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123276001,
+          "chineseName": "节气门",
+          "translatedName": "Throttle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123278004,
+          "chineseName": "汽油滤清器",
+          "translatedName": "Gasoline filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123270001,
+          "chineseName": "进气总管",
+          "translatedName": "Intake manifold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123270004,
+          "chineseName": "空调滤清器",
+          "translatedName": "Air conditioning filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123272001,
+          "chineseName": "进气歧管",
+          "translatedName": "intake manifold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123286003,
+          "chineseName": "柴油滤清器",
+          "translatedName": "Diesel filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123288001,
+          "chineseName": "空气滤清器",
+          "translatedName": "Air filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123288002,
+          "chineseName": "机油滤清器",
+          "translatedName": "Oil filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123284003,
+          "chineseName": "天然气滤清器",
+          "translatedName": "Natural gas filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        },
+        {
+          "categoryId": 123284004,
+          "chineseName": "汽车滤芯",
+          "translatedName": "Automobile filter element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10110
+        }
+      ]
+    }
+  }
+}

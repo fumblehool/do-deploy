@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 173,
+      "chineseName": "管理咨询",
+      "translatedName": "Management Consulting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "76"
+    }
+  }
+}

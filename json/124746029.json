@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746029,
+      "chineseName": "相机背带、腕带",
+      "translatedName": "Camera strap, wristband",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124776003"
+    }
+  }
+}

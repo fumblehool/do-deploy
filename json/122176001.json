@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122176001,
+      "chineseName": "挂毯/壁毯",
+      "translatedName": "Tapestry/Tapestry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127894012"
+    }
+  }
+}

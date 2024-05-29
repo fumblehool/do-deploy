@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127186003,
+      "chineseName": "汽车继电器",
+      "translatedName": "Automotive Relay",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127170001"
+    }
+  }
+}

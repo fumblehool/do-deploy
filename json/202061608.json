@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061608,
+      "chineseName": "太阳能折叠包",
+      "translatedName": "solar folding bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055610"
+    }
+  }
+}

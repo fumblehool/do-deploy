@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161505,
+      "chineseName": "仿真水生植物",
+      "translatedName": "simulation aquatic plant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162103"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123122002,
+      "chineseName": "户外折叠床",
+      "translatedName": "Outdoor folding bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "281904"
+    }
+  }
+}

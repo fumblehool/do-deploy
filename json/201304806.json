@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304806,
+      "chineseName": "宠物袜子",
+      "translatedName": "Pet socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305503"
+    }
+  }
+}

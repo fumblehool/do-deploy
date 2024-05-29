@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033258,
+      "chineseName": "其他鼠标、键盘",
+      "translatedName": "Other mouse, keyboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10262"
+    }
+  }
+}

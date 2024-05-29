@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124196005,
+      "chineseName": "发热垫",
+      "translatedName": "Heating pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

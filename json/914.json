@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 914,
+      "chineseName": "冶炼设备",
+      "translatedName": "smelting equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033362,
+          "chineseName": "冶炼成套设备",
+          "translatedName": "Smelting complete equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032545,
+          "chineseName": "其他冶炼设备",
+          "translatedName": "Other smelting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032548,
+          "chineseName": "切断设备",
+          "translatedName": "Cut-off equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032550,
+          "chineseName": "焦化设备",
+          "translatedName": "Coking equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032551,
+          "chineseName": "轧钢设备",
+          "translatedName": "steel rolling equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032553,
+          "chineseName": "炼钢设备",
+          "translatedName": "steelmaking equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1032554,
+          "chineseName": "炼铁设备",
+          "translatedName": "ironmaking equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1045767,
+          "chineseName": "冶炼设备配件",
+          "translatedName": "Smelting equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        },
+        {
+          "categoryId": 1036410,
+          "chineseName": "耐材及炉窑",
+          "translatedName": "Refractive materials and furnaces",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 914
+        }
+      ]
+    }
+  }
+}

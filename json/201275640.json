@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201275640,
+      "chineseName": "维生素/矿物质（食品）",
+      "translatedName": "Vitamins/Minerals (food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

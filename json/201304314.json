@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304314,
+      "chineseName": "喜碗/敬茶杯",
+      "translatedName": "Happy bowl/toast cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194001"
+    }
+  }
+}

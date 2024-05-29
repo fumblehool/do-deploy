@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201973603,
+      "chineseName": "茶具架",
+      "translatedName": "Tea Rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121548001"
+    }
+  }
+}

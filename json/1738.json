@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1738,
+      "chineseName": "鲜花、花艺制品",
+      "translatedName": "Flowers, floral products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122192001"
+    }
+  }
+}

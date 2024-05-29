@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201333005,
+      "chineseName": "冰箱净化器",
+      "translatedName": "Refrigerator Purifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "653"
+    }
+  }
+}

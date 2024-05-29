@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122990003,
+      "chineseName": "新奇特玩具",
+      "translatedName": "New Strange Toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031849,
+          "chineseName": "魔术玩具",
+          "translatedName": "Magic Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 122984006,
+          "chineseName": "搞笑玩具",
+          "translatedName": "Funny toys.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 1048135,
+          "chineseName": "感应玩具",
+          "translatedName": "Induction toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 122962008,
+          "chineseName": "太阳能玩具",
+          "translatedName": "Solar toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 122982005,
+          "chineseName": "整人玩具",
+          "translatedName": "Toy.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 181325,
+          "chineseName": "其它新奇玩具",
+          "translatedName": "Other novelty toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201161109,
+          "chineseName": "玩具磁力棒",
+          "translatedName": "Toy magnetic stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201331613,
+          "chineseName": "慢回弹玩具",
+          "translatedName": "Slow rebound toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201160305,
+          "chineseName": "巴克球",
+          "translatedName": "Buckball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201519901,
+          "chineseName": "扭蛋",
+          "translatedName": "Gashapon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201340411,
+          "chineseName": "减压玩具",
+          "translatedName": "Stress relief toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201161804,
+          "chineseName": "其他创意玩具",
+          "translatedName": "Other creative toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        },
+        {
+          "categoryId": 201372301,
+          "chineseName": "盲盒玩具",
+          "translatedName": "Blind Box Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122990003
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037648,
+      "chineseName": "儿童外套/夹克/大衣（停用）",
+      "translatedName": "Children's coat/jacket/coat (deactivated)",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

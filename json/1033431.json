@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033431,
+      "chineseName": "其他不锈钢管",
+      "translatedName": "Other Stainless Steel Pipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123290007"
+    }
+  }
+}

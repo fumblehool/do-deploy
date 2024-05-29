@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043807,
+      "chineseName": "防溢乳垫",
+      "translatedName": "Anti-galactorrhea pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122528003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201329001,
+      "chineseName": "补光灯",
+      "translatedName": "fill light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124776003"
+    }
+  }
+}

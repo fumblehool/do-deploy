@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055517,
+      "chineseName": "猫/狗零食",
+      "translatedName": "Cat/Dog Snacks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001"
+    }
+  }
+}

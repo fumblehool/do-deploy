@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057011,
+      "chineseName": "音频与视频连接器",
+      "translatedName": "Audio and Video Connectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201549101"
+    }
+  }
+}

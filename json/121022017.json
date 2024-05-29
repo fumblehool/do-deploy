@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022017,
+      "chineseName": "低合金板",
+      "translatedName": "low alloy plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012015"
+    }
+  }
+}

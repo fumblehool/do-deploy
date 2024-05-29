@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036834,
+      "chineseName": "蒸汽发生器、蒸汽发生机",
+      "translatedName": "Steam generator, steam generator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1421"
+    }
+  }
+}

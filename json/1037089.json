@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037089,
+      "chineseName": "葵醛",
+      "translatedName": "sunflower aldehyde",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80309"
+    }
+  }
+}

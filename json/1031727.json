@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031727,
+      "chineseName": "其他凉席",
+      "translatedName": "Other mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084002"
+    }
+  }
+}

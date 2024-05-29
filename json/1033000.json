@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033000,
+      "chineseName": "复合包装材料",
+      "translatedName": "composite packaging materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "68"
+    }
+  }
+}

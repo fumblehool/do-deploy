@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033590,
+      "chineseName": "船用五金配件",
+      "translatedName": "Marine hardware accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

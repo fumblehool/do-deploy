@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032528,
+      "chineseName": "结算设备",
+      "translatedName": "Settlement equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "511"
+    }
+  }
+}

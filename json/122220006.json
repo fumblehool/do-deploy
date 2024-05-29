@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122220006,
+      "chineseName": "足球球迷用品",
+      "translatedName": "Football fan supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122226003"
+    }
+  }
+}

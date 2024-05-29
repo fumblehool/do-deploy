@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306115,
+      "chineseName": "祛螨剂",
+      "translatedName": "Mite removing agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1556"
+    }
+  }
+}

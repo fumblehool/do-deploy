@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123682002,
+      "chineseName": "男式羊毛衫",
+      "translatedName": "Men's Wool Sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650006"
+    }
+  }
+}

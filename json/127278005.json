@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127278005,
+      "chineseName": "箱包配件",
+      "translatedName": "luggage accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10284,
+          "chineseName": "其他箱包配件",
+          "translatedName": "Other luggage accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201149803,
+          "chineseName": "底座配件",
+          "translatedName": "Base fittings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201148203,
+          "chineseName": "扣锁",
+          "translatedName": "Buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201170620,
+          "chineseName": "插扣",
+          "translatedName": "Buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201170918,
+          "chineseName": "行李带",
+          "translatedName": "Luggage belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 127296004,
+          "chineseName": "包挂件",
+          "translatedName": "Bag pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 127324003,
+          "chineseName": "包带",
+          "translatedName": "Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201152918,
+          "chineseName": "行李牌",
+          "translatedName": "Luggage tag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201153103,
+          "chineseName": "拉杆",
+          "translatedName": "Tie Rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201153701,
+          "chineseName": "海关锁",
+          "translatedName": "Customs lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201153801,
+          "chineseName": "万向轮",
+          "translatedName": "universal wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201153901,
+          "chineseName": "箱包挂锁",
+          "translatedName": "Luggage padlock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201150903,
+          "chineseName": "手把",
+          "translatedName": "Handlehold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201152303,
+          "chineseName": "固定锁",
+          "translatedName": "Fixed lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 127492003,
+          "chineseName": "箱包相关配件",
+          "translatedName": "Luggage related accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        },
+        {
+          "categoryId": 201160201,
+          "chineseName": "拎环",
+          "translatedName": "Handring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127278005
+        }
+      ]
+    }
+  }
+}

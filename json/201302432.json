@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201302432,
+      "chineseName": "刺绣织绣工艺品",
+      "translatedName": "Embroidery Weaving and Embroidery Crafts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044181"
+    }
+  }
+}

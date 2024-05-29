@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043351,
+      "chineseName": "儿童袜",
+      "translatedName": "children's socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

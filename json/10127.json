@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10127,
+      "chineseName": "坯布",
+      "translatedName": "gray cloth",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10128,
+          "chineseName": "棉坯布",
+          "translatedName": "cotton gray cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10127
+        },
+        {
+          "categoryId": 10129,
+          "chineseName": "混纺坯布",
+          "translatedName": "Blended gray cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10127
+        },
+        {
+          "categoryId": 10130,
+          "chineseName": "其他坯布",
+          "translatedName": "Other gray cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10127
+        },
+        {
+          "categoryId": 1031692,
+          "chineseName": "化纤坯布",
+          "translatedName": "chemical fiber gray cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10127
+        },
+        {
+          "categoryId": 1046619,
+          "chineseName": "麻坯布",
+          "translatedName": "hemp gray cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10127
+        }
+      ]
+    }
+  }
+}

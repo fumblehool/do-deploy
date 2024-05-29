@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201310107,
+      "chineseName": "足部磨砂、去角质",
+      "translatedName": "Foot scrub, exfoliate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126182004"
+    }
+  }
+}

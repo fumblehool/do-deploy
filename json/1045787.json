@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045787,
+      "chineseName": "印刷加工",
+      "translatedName": "Printing processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045788,
+          "chineseName": "印前设计服务",
+          "translatedName": "prepress design service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045791,
+          "chineseName": "金属印刷",
+          "translatedName": "Metal Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045793,
+          "chineseName": "织物、皮革印刷",
+          "translatedName": "Fabric, leather printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045794,
+          "chineseName": "塑料印刷",
+          "translatedName": "Plastic Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045795,
+          "chineseName": "复合材印刷",
+          "translatedName": "composite material printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045796,
+          "chineseName": "其他材料印刷",
+          "translatedName": "Other Materials Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        },
+        {
+          "categoryId": 1045797,
+          "chineseName": "纸类印刷",
+          "translatedName": "Paper Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045787
+        }
+      ]
+    }
+  }
+}

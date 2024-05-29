@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201302809,
+      "chineseName": "保温桶/保温提锅",
+      "translatedName": "Insulation bucket/insulation pot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10287"
+    }
+  }
+}

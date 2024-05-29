@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122938002,
+      "chineseName": "衣柜",
+      "translatedName": "Wardrobe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122930001"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10366,
+      "chineseName": "金属包装容器",
+      "translatedName": "metal packaging container",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033029,
+          "chineseName": "其他金属包装容器",
+          "translatedName": "Other Metal Packaging Containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        },
+        {
+          "categoryId": 1033031,
+          "chineseName": "金属盒",
+          "translatedName": "Metal box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        },
+        {
+          "categoryId": 1033032,
+          "chineseName": "金属桶",
+          "translatedName": "Metal barrel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        },
+        {
+          "categoryId": 1033033,
+          "chineseName": "金属罐",
+          "translatedName": "Metal cans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        },
+        {
+          "categoryId": 1036289,
+          "chineseName": "其他金属包装材料",
+          "translatedName": "Other Metal Packaging Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        },
+        {
+          "categoryId": 1042780,
+          "chineseName": "金属软管包装",
+          "translatedName": "Metal Hose Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10366
+        }
+      ]
+    }
+  }
+}

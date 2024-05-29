@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10309,
+      "chineseName": "家具配件",
+      "translatedName": "FURNITURE ACCESSORIES",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1346"
+    }
+  }
+}

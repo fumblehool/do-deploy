@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033969,
+      "chineseName": "网络电话机",
+      "translatedName": "network telephone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50902"
+    }
+  }
+}

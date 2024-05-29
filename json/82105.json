@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 82105,
+      "chineseName": "女士香水",
+      "translatedName": "Ladies perfume",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303115"
+    }
+  }
+}

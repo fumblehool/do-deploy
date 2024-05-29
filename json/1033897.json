@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033897,
+      "chineseName": "色谱仪",
+      "translatedName": "chromatograph",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036253,
+          "chineseName": "色谱柱",
+          "translatedName": "Column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036254,
+          "chineseName": "离子色谱仪",
+          "translatedName": "ion chromatograph",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036255,
+          "chineseName": "液相色谱",
+          "translatedName": "liquid chromatography",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036256,
+          "chineseName": "气相色谱仪",
+          "translatedName": "gas chromatograph",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036249,
+          "chineseName": "其他色谱仪",
+          "translatedName": "Other chromatographs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036250,
+          "chineseName": "色谱工作站",
+          "translatedName": "chromatography workstation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        },
+        {
+          "categoryId": 1036252,
+          "chineseName": "进样器",
+          "translatedName": "Injector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033897
+        }
+      ]
+    }
+  }
+}

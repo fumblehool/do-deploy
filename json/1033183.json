@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033183,
+      "chineseName": "非可视对讲",
+      "translatedName": "Non-visual intercom",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3020"
+    }
+  }
+}

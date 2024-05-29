@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125386001,
+      "chineseName": "童鞋、婴儿鞋",
+      "translatedName": "Children's shoes, baby shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038532,
+          "chineseName": "童板鞋",
+          "translatedName": "Children's board shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125374004,
+          "chineseName": "童拖鞋",
+          "translatedName": "Children's slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125378002,
+          "chineseName": "童特色鞋",
+          "translatedName": "Children's specialty shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125372003,
+          "chineseName": "学步鞋",
+          "translatedName": "Toddler shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125372004,
+          "chineseName": "童皮靴",
+          "translatedName": "Children's Leather Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125372005,
+          "chineseName": "童棉鞋",
+          "translatedName": "Children's cotton shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125314002,
+          "chineseName": "童凉鞋",
+          "translatedName": "Children's sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 125314003,
+          "chineseName": "童运动鞋",
+          "translatedName": "Children's Sports Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201309714,
+          "chineseName": "童舞蹈鞋",
+          "translatedName": "Children's Dance Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 127362009,
+          "chineseName": "童皮鞋",
+          "translatedName": "Children's leather shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201163101,
+          "chineseName": "童雨靴",
+          "translatedName": "Children's Rain Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201306309,
+          "chineseName": "亲子鞋",
+          "translatedName": "parent-child shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201303035,
+          "chineseName": "童雪地靴",
+          "translatedName": "Children's snow boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 127342004,
+          "chineseName": "童帆布鞋",
+          "translatedName": "Children's canvas shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201161703,
+          "chineseName": "婴儿步前鞋",
+          "translatedName": "Baby's Step Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201682809,
+          "chineseName": "童鞋量脚器",
+          "translatedName": "Children's shoes foot measuring device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201903001,
+          "chineseName": "童鞋礼盒装",
+          "translatedName": "Children's shoes gift box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201834403,
+          "chineseName": "汉服鞋",
+          "translatedName": "Hanfu Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201834503,
+          "chineseName": "学生皮鞋",
+          "translatedName": "Student shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201834603,
+          "chineseName": "水晶/水钻鞋",
+          "translatedName": "Crystal/rhinone shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        },
+        {
+          "categoryId": 201907604,
+          "chineseName": "童洞洞鞋",
+          "translatedName": "Children's Cave Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125386001
+        }
+      ]
+    }
+  }
+}

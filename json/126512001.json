@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126512001,
+      "chineseName": "数码家电包装",
+      "translatedName": "Digital home appliance packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042918,
+          "chineseName": "数码3C包装",
+          "translatedName": "Digital 3C Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 1036324,
+          "chineseName": "家用电器包装",
+          "translatedName": "Household appliances packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 122346003,
+          "chineseName": "平板电脑防水包装",
+          "translatedName": "Tablet PC waterproof packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 122376004,
+          "chineseName": "手机防水包装",
+          "translatedName": "Mobile phone waterproof packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 122380007,
+          "chineseName": "相机防水包装",
+          "translatedName": "Camera waterproof packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 126454005,
+          "chineseName": "耳机包装",
+          "translatedName": "earphone packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        },
+        {
+          "categoryId": 126454006,
+          "chineseName": "数据线包装",
+          "translatedName": "Data line packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126512001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202063207,
+      "chineseName": "光敏电阻",
+      "translatedName": "Photoresistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058309"
+    }
+  }
+}

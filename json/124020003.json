@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124020003,
+      "chineseName": "复合调味料",
+      "translatedName": "compound seasoning",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10082"
+    }
+  }
+}

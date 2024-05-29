@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123650006,
+      "chineseName": "男式毛衫",
+      "translatedName": "men's sweater",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031902,
+          "chineseName": "男式毛衫背心",
+          "translatedName": "Men's sweater vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650006
+        },
+        {
+          "categoryId": 123650007,
+          "chineseName": "男式羊绒衫",
+          "translatedName": "men's cashmere sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650006
+        },
+        {
+          "categoryId": 123682001,
+          "chineseName": "男式针织衫",
+          "translatedName": "men's sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650006
+        },
+        {
+          "categoryId": 123682002,
+          "chineseName": "男式羊毛衫",
+          "translatedName": "Men's Wool Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650006
+        },
+        {
+          "categoryId": 201556216,
+          "chineseName": "男式毛衫假两件",
+          "translatedName": "Men's sweater fake two-piece",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650006
+        }
+      ]
+    }
+  }
+}

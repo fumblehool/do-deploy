@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1608,
+      "chineseName": "按摩保健",
+      "translatedName": "Massage Health Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033340,
+          "chineseName": "保健器具配件",
+          "translatedName": "health appliance accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 1033344,
+          "chineseName": "保健护具",
+          "translatedName": "Health care protective equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 1044996,
+          "chineseName": "美体瘦身器具",
+          "translatedName": "Body Slimming Appliance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 1044997,
+          "chineseName": "经络保健器材",
+          "translatedName": "Meridian Health Care Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 200924006,
+          "chineseName": "托玛琳/托玛琳按摩、保健用品",
+          "translatedName": "Tomalin/Tomalin Massage, Health Care Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 202056206,
+          "chineseName": "艾灸器具",
+          "translatedName": "moxibustion utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        },
+        {
+          "categoryId": 202056705,
+          "chineseName": "艾灸/艾草/艾条/艾制品",
+          "translatedName": "Moxibustion/wormwood/moxa sticks/moxa products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1608
+        }
+      ]
+    }
+  }
+}

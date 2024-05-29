@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034192,
+      "chineseName": "印章防伪",
+      "translatedName": "Seal anti-counterfeiting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3401"
+    }
+  }
+}

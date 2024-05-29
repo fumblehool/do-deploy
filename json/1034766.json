@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034766,
+      "chineseName": "化妆水、爽肤水",
+      "translatedName": "Toner, toner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042634"
+    }
+  }
+}

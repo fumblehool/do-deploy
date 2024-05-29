@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043956,
+      "chineseName": "鞋套、鞋刷、鞋用品",
+      "translatedName": "Shoe covers, shoe brushes, shoe supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1556"
+    }
+  }
+}

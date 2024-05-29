@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122150001,
+      "chineseName": "纸护角",
+      "translatedName": "Paper Angle Protectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186001"
+    }
+  }
+}

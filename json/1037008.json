@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037008,
+      "chineseName": "儿童羽绒服/羽绒内胆（停用）",
+      "translatedName": "Children's Down Jacket/Down Liner (Disused)",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

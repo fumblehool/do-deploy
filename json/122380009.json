@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122380009,
+      "chineseName": "定制家具",
+      "translatedName": "Custom Furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032645,
+          "chineseName": "整体厨房",
+          "translatedName": "Whole kitchen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 1032650,
+          "chineseName": "厨房壁橱、橱柜",
+          "translatedName": "Kitchen closets, cabinets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122398005,
+          "chineseName": "地柜",
+          "translatedName": "Floor cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122388008,
+          "chineseName": "米柜",
+          "translatedName": "rice cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122312008,
+          "chineseName": "橱柜台面",
+          "translatedName": "Cabinet countertop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122940001,
+          "chineseName": "榻榻米",
+          "translatedName": "Tatami",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122930003,
+          "chineseName": "定制衣柜",
+          "translatedName": "Custom wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122374008,
+          "chineseName": "其他厨房家具及配件",
+          "translatedName": "Other Kitchen Furniture & Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122330009,
+          "chineseName": "吊柜",
+          "translatedName": "Hanging cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 122330010,
+          "chineseName": "餐具柜",
+          "translatedName": "Sideboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        },
+        {
+          "categoryId": 201162007,
+          "chineseName": "全屋定制",
+          "translatedName": "Whole House Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380009
+        }
+      ]
+    }
+  }
+}

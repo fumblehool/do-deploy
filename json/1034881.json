@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034881,
+      "chineseName": "玻璃油墨",
+      "translatedName": "glass ink",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "813"
+    }
+  }
+}

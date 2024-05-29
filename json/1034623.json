@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034623,
+      "chineseName": "氦气",
+      "translatedName": "Helium",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80206"
+    }
+  }
+}

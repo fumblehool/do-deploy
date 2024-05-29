@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123650007,
+      "chineseName": "男式羊绒衫",
+      "translatedName": "men's cashmere sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650006"
+    }
+  }
+}

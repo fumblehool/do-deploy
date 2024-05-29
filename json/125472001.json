@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125472001,
+      "chineseName": "其他带钢",
+      "translatedName": "Other strip steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012006"
+    }
+  }
+}

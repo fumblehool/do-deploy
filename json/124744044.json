@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744044,
+      "chineseName": "多媒体一体机",
+      "translatedName": "multimedia all-in-one machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "730"
+    }
+  }
+}

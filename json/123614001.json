@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123614001,
+      "chineseName": "钢铁",
+      "translatedName": "Steel",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121022002,
+          "chineseName": "硅钢",
+          "translatedName": "silicon steel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121022004,
+          "chineseName": "中厚板",
+          "translatedName": "medium thick plate",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012014,
+          "chineseName": "圆钢",
+          "translatedName": "Round steel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012015,
+          "chineseName": "热轧板卷",
+          "translatedName": "hot rolled coil",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 123374001,
+          "chineseName": "不锈钢棒材",
+          "translatedName": "Stainless Steel Bar",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 10518,
+          "chineseName": "不锈钢型材",
+          "translatedName": "Stainless Steel Profile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 123284006,
+          "chineseName": "不锈钢线材",
+          "translatedName": "Stainless Steel Wire",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012006,
+          "chineseName": "带钢",
+          "translatedName": "strip steel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 123290006,
+          "chineseName": "不锈钢板（卷）",
+          "translatedName": "Stainless steel plate (roll)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 123290007,
+          "chineseName": "不锈钢管",
+          "translatedName": "Stainless steel pipe",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012021,
+          "chineseName": "冷轧板卷",
+          "translatedName": "cold rolled coil",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012028,
+          "chineseName": "涂镀",
+          "translatedName": "coating and plating",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012029,
+          "chineseName": "螺纹钢",
+          "translatedName": "Threaded steel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121012033,
+          "chineseName": "线材",
+          "translatedName": "Wire",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121022010,
+          "chineseName": "型材",
+          "translatedName": "Profile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 121022026,
+          "chineseName": "管材",
+          "translatedName": "Pipe",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 920,
+          "chineseName": "炉料",
+          "translatedName": "Charge",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 927,
+          "chineseName": "优特钢",
+          "translatedName": "Youte Steel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 933,
+          "chineseName": "铁合金",
+          "translatedName": "Ferroalloy",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        },
+        {
+          "categoryId": 202053805,
+          "chineseName": "锌铝镁",
+          "translatedName": "Zinc Aluminum Magnesium",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 123614001
+        }
+      ]
+    }
+  }
+}

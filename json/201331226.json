@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331226,
+      "chineseName": "陈皮果脯",
+      "translatedName": "dried tangerine peel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744016"
+    }
+  }
+}

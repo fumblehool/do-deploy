@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1756,
+      "chineseName": "景泰蓝(珐琅器)",
+      "translatedName": "Cloisonne (enamel)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044181"
+    }
+  }
+}

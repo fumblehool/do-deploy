@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160907,
+      "chineseName": "方腿培根类",
+      "translatedName": "Square Leg Bacon Class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10086"
+    }
+  }
+}

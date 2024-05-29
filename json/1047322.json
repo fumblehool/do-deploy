@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047322,
+      "chineseName": "电子用塑胶制品",
+      "translatedName": "Plastic products for electronics",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047323,
+          "chineseName": "塑胶外壳",
+          "translatedName": "Plastic shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047322
+        },
+        {
+          "categoryId": 1047325,
+          "chineseName": "电子塑胶零件",
+          "translatedName": "electronic plastic parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047322
+        },
+        {
+          "categoryId": 1047326,
+          "chineseName": "其他电子用塑胶制品",
+          "translatedName": "Other plastic products for electronic use",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047322
+        }
+      ]
+    }
+  }
+}

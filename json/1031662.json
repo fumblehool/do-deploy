@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031662,
+      "chineseName": "化工成型设备",
+      "translatedName": "Chemical forming equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "65"
+    }
+  }
+}

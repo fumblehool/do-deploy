@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310009,
+      "chineseName": "SIM卡卡套",
+      "translatedName": "SIM card cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

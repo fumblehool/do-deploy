@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032641,
+      "chineseName": "氟碳漆",
+      "translatedName": "fluorocarbon paint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031624"
+    }
+  }
+}

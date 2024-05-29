@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200532002,
+      "chineseName": "驱虫药物",
+      "translatedName": "anthelmintic drugs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125270017"
+    }
+  }
+}

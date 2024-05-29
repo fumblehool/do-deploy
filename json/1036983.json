@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036983,
+      "chineseName": "亚硫酸",
+      "translatedName": "sulfurous acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80201"
+    }
+  }
+}

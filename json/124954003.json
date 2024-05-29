@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124954003,
+      "chineseName": "吸汗巾",
+      "translatedName": "Sweat-absorbent towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380006"
+    }
+  }
+}

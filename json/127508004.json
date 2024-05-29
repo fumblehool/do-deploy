@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127508004,
+      "chineseName": "围巾/丝巾/防晒衣",
+      "translatedName": "Scarf/Silk Scarf/Sunscreen",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045424,
+          "chineseName": "围巾/丝巾/披肩 配件",
+          "translatedName": "Scarf/Silk Scarf/Shawl Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 201345718,
+          "chineseName": "防晒面纱、防晒面罩",
+          "translatedName": "Sunscreen veil, sunscreen mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 201179101,
+          "chineseName": "防晒衣",
+          "translatedName": "Sun-protective clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 127498006,
+          "chineseName": "披肩",
+          "translatedName": "Shawl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 127484007,
+          "chineseName": "围脖",
+          "translatedName": "Scarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 127486009,
+          "chineseName": "其它巾类",
+          "translatedName": "Other towel classes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 201160601,
+          "chineseName": "绶带",
+          "translatedName": "Ribbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 201152312,
+          "chineseName": "斗篷",
+          "translatedName": "Cloak",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 127490005,
+          "chineseName": "丝巾",
+          "translatedName": "Silk Scarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 325,
+          "chineseName": "围巾",
+          "translatedName": "Scarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        },
+        {
+          "categoryId": 202029501,
+          "chineseName": "防晒脖套",
+          "translatedName": "Sunscreen Collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127508004
+        }
+      ]
+    }
+  }
+}

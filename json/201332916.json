@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201332916,
+      "chineseName": "第四套人民币（流通币除外）",
+      "translatedName": "The fourth set of RMB (except currency in circulation)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201333016"
+    }
+  }
+}

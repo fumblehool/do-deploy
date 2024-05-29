@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272006,
+      "chineseName": "骑行灯、夜骑灯、固定电筒",
+      "translatedName": "Riding lamp, night riding lamp, fixed flashlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268005"
+    }
+  }
+}

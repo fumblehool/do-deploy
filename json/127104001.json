@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127104001,
+      "chineseName": "固态继电器（低压电器）",
+      "translatedName": "Solid State Relay (Low Voltage Apparatus)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

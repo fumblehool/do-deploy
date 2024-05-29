@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306208,
+      "chineseName": "铁艺沙发",
+      "translatedName": "Wrought Iron Sofa",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

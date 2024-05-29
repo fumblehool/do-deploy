@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736049,
+      "chineseName": "摄影摄像器材",
+      "translatedName": "photographic camera equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124776003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034218,
+      "chineseName": "充气模型",
+      "translatedName": "inflatable model",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2415"
+    }
+  }
+}

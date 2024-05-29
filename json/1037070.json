@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037070,
+      "chineseName": "三乙醇胺",
+      "translatedName": "Triethanolamine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80311"
+    }
+  }
+}

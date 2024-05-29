@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034572,
+      "chineseName": "金属络合染料",
+      "translatedName": "metal complex dyes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031681"
+    }
+  }
+}

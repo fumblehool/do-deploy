@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10119,
+      "chineseName": "棉纺纱",
+      "translatedName": "cotton spinning",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10118"
+    }
+  }
+}

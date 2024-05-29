@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331604,
+      "chineseName": "除醛机",
+      "translatedName": "Aldehyde removal machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

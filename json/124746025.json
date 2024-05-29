@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746025,
+      "chineseName": "量衣卷尺",
+      "translatedName": "Measuring Tape",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1556"
+    }
+  }
+}

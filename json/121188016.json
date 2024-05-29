@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121188016,
+      "chineseName": "调光、调色器",
+      "translatedName": "Dimmer, color palette",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616010"
+    }
+  }
+}

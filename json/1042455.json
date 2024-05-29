@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042455,
+      "chineseName": "帽条",
+      "translatedName": "Hat strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10157"
+    }
+  }
+}

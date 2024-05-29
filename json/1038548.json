@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038548,
+      "chineseName": "男式商务皮鞋",
+      "translatedName": "men's business leather shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506004"
+    }
+  }
+}

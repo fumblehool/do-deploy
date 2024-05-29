@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046737,
+      "chineseName": "景观工程",
+      "translatedName": "Landscape Engineering",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033756,
+          "chineseName": "园艺护栏",
+          "translatedName": "Horticultural guardrail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1046741,
+          "chineseName": "景观工程项目",
+          "translatedName": "Landscape Engineering Project",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1046743,
+          "chineseName": "其他景观材料",
+          "translatedName": "Other Landscape Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1045485,
+          "chineseName": "景观石",
+          "translatedName": "landscape stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1046739,
+          "chineseName": "景观雕塑",
+          "translatedName": "Landscape Sculpture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 10445,
+          "chineseName": "集成房屋",
+          "translatedName": "Integrated House",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 122458001,
+          "chineseName": "石雕",
+          "translatedName": "Stone Carving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1354,
+          "chineseName": "亭子",
+          "translatedName": "Pavilion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1740,
+          "chineseName": "喷泉水景",
+          "translatedName": "Fountain water feature",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        },
+        {
+          "categoryId": 1338,
+          "chineseName": "钢结构、膜结构",
+          "translatedName": "Steel structure, membrane structure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046737
+        }
+      ]
+    }
+  }
+}

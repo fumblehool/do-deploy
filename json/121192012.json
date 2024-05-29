@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192012,
+      "chineseName": "LED横插灯",
+      "translatedName": "LED horizontal plug lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192010"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121898001,
+      "chineseName": "运动户外辅助用品",
+      "translatedName": "Sports outdoor auxiliary supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044999,
+          "chineseName": "体质测试仪器",
+          "translatedName": "Physical fitness test instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 1048301,
+          "chineseName": "运动帽、头巾",
+          "translatedName": "Sports hat, headscarf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 1048304,
+          "chineseName": "户外袖套、冰袖",
+          "translatedName": "Outdoor sleeves, ice sleeves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 125290001,
+          "chineseName": "运动头带",
+          "translatedName": "sports headband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 122260001,
+          "chineseName": "运动心率表",
+          "translatedName": "Exercise heart rate table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 121886002,
+          "chineseName": "户外防水袋、水袋",
+          "translatedName": "Outdoor waterproof bag, water bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 122198003,
+          "chineseName": "防雨罩",
+          "translatedName": "Rain cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        },
+        {
+          "categoryId": 122224004,
+          "chineseName": "运动手环、颈环、能量环",
+          "translatedName": "Sports bracelet, neck ring, energy ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121898001
+        }
+      ]
+    }
+  }
+}

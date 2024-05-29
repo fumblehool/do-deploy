@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127494003,
+      "chineseName": "儿童其他户外服",
+      "translatedName": "Other outdoor clothing for children",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420011"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033584,
+      "chineseName": "车轴",
+      "translatedName": "Axle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122098001"
+    }
+  }
+}

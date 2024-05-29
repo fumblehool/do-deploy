@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736024,
+      "chineseName": "梅类",
+      "translatedName": "Plum",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744016"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201310219,
+      "chineseName": "助威喇叭",
+      "translatedName": "cheer horn",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304320"
+    }
+  }
+}

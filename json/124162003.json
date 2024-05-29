@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124162003,
+      "chineseName": "防尘眼镜",
+      "translatedName": "dust-proof glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124154004"
+    }
+  }
+}

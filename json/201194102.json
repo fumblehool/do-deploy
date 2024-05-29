@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201194102,
+      "chineseName": "眼镜链",
+      "translatedName": "glasses chain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80"
+    }
+  }
+}

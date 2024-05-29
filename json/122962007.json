@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962007,
+      "chineseName": "束缚带/塑体衣/矫正带",
+      "translatedName": "Binding belt/body suit/corrective belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122484001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122330010,
+      "chineseName": "餐具柜",
+      "translatedName": "Sideboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380009"
+    }
+  }
+}

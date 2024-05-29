@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162104,
+      "chineseName": "拉花杯/拉花缸/打奶缸",
+      "translatedName": "Flower cup/flower cylinder/milk tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162703"
+    }
+  }
+}

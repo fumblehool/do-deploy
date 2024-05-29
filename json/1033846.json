@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033846,
+      "chineseName": "其他量具",
+      "translatedName": "Other measuring tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1535"
+    }
+  }
+}

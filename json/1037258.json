@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037258,
+      "chineseName": "橡胶油墨",
+      "translatedName": "rubber ink",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "813"
+    }
+  }
+}

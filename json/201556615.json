@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201556615,
+      "chineseName": "儿童休闲箱包",
+      "translatedName": "Children's leisure bags",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201396201,
+          "chineseName": "儿童潮流双肩包",
+          "translatedName": "Children's trendy backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 126454007,
+          "chineseName": "儿童单肩包",
+          "translatedName": "Children's shoulder bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 127396008,
+          "chineseName": "行李箱",
+          "translatedName": "Trunk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 201349101,
+          "chineseName": "儿童胸包、腰包",
+          "translatedName": "Children's chest bag, waist bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 126444002,
+          "chineseName": "防走失背包",
+          "translatedName": "Anti-Lost Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 127404010,
+          "chineseName": "儿童拉杆箱",
+          "translatedName": "Children trolley case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        },
+        {
+          "categoryId": 127406011,
+          "chineseName": "儿童零钱包",
+          "translatedName": "children's coin purse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201556615
+        }
+      ]
+    }
+  }
+}

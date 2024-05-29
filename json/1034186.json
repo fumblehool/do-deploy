@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034186,
+      "chineseName": "模切机",
+      "translatedName": "die cutting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032524"
+    }
+  }
+}

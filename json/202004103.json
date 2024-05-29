@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202004103,
+      "chineseName": "柔性电路板(FPC)",
+      "translatedName": "Flexible Circuit Board (FPC)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202002002"
+    }
+  }
+}

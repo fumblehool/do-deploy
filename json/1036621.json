@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036621,
+      "chineseName": "莲子",
+      "translatedName": "lotus seed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10020"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121498001,
+      "chineseName": "马桶清洁贴、垫、套",
+      "translatedName": "Toilet cleaning paste, pad and sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1514"
+    }
+  }
+}

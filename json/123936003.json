@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123936003,
+      "chineseName": "星型螺丝刀",
+      "translatedName": "Star screwdriver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924001"
+    }
+  }
+}

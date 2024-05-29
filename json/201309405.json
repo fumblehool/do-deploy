@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309405,
+      "chineseName": "宠物帽子",
+      "translatedName": "Pet Hat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305503"
+    }
+  }
+}

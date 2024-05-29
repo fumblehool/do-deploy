@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047984,
+      "chineseName": "暖风机/取暖器",
+      "translatedName": "Fan heater/heater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

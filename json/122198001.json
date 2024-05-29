@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122198001,
+      "chineseName": "春节用品",
+      "translatedName": "Spring Festival Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031960,
+          "chineseName": "对联/春联",
+          "translatedName": "couplets/spring couplets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 121556001,
+          "chineseName": "福字/福字贴",
+          "translatedName": "Fu Zi/Fu Zi Sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 121558001,
+          "chineseName": "辣椒挂件",
+          "translatedName": "Pepper pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 122226002,
+          "chineseName": "门贴、年画",
+          "translatedName": "Door stickers, New Year pictures",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 122224002,
+          "chineseName": "窗花、窗贴",
+          "translatedName": "Window grilles, window stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 201309611,
+          "chineseName": "鞭炮挂件",
+          "translatedName": "firecracker pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 201466201,
+          "chineseName": "电子鞭炮",
+          "translatedName": "Electronic firecrackers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        },
+        {
+          "categoryId": 201649601,
+          "chineseName": "电子烟花",
+          "translatedName": "electronic fireworks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122198001
+        }
+      ]
+    }
+  }
+}

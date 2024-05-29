@@ -1,0 +1,667 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 653,
+      "chineseName": "厨房电器",
+      "translatedName": "Kitchen Appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032780,
+          "chineseName": "电热炉",
+          "translatedName": "electric heating furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 10144,
+          "chineseName": "咖啡机",
+          "translatedName": "Coffee machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 10060,
+          "chineseName": "电热水壶",
+          "translatedName": "Electric kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1032729,
+          "chineseName": "电烤箱",
+          "translatedName": "Electric oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1043799,
+          "chineseName": "电压力锅",
+          "translatedName": "electric pressure cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047995,
+          "chineseName": "紫砂煲",
+          "translatedName": "Purple clay pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1036909,
+          "chineseName": "电饼铛、煎烤炉",
+          "translatedName": "Electric cake pan, frying oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047271,
+          "chineseName": "养生壶、煎药壶",
+          "translatedName": "Health pot, decoction pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1041225,
+          "chineseName": "电火锅",
+          "translatedName": "Electric hot pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047074,
+          "chineseName": "电蒸锅",
+          "translatedName": "electric steamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047075,
+          "chineseName": "电炖锅",
+          "translatedName": "Electric cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1036627,
+          "chineseName": "其他厨房电器",
+          "translatedName": "Other Kitchen Appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1036628,
+          "chineseName": "果蔬解毒机、净化机",
+          "translatedName": "Fruit and vegetable detoxification machine, purification machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1036629,
+          "chineseName": "热得快",
+          "translatedName": "heat up fast",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1042452,
+          "chineseName": "厨房电器配件",
+          "translatedName": "Kitchen Appliances Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047884,
+          "chineseName": "面包机、馒头机",
+          "translatedName": "Bread machine, steamed bread machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047890,
+          "chineseName": "电热饭盒",
+          "translatedName": "Electric Lunch Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 1047895,
+          "chineseName": "电热水瓶",
+          "translatedName": "Electric thermos",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 123620010,
+          "chineseName": "家用酿酒机",
+          "translatedName": "Home Brewing Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 125728004,
+          "chineseName": "保温餐桌、保温板",
+          "translatedName": "Insulation table, insulation board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 122704005,
+          "chineseName": "电热杯",
+          "translatedName": "electric cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 122704006,
+          "chineseName": "电陶炉",
+          "translatedName": "electric ceramic furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 122704007,
+          "chineseName": "电动打蛋器",
+          "translatedName": "Electric egg beater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 123646002,
+          "chineseName": "刨冰机",
+          "translatedName": "Ice shaving machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124196010,
+          "chineseName": "家用榨油机",
+          "translatedName": "Household oil press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124256009,
+          "chineseName": "原汁机",
+          "translatedName": "raw juice machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 121428003,
+          "chineseName": "家用电炸锅",
+          "translatedName": "Household electric fryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 121372002,
+          "chineseName": "家用炒菜机",
+          "translatedName": "Household cooking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124184004,
+          "chineseName": "迷你电饭煲",
+          "translatedName": "Mini rice cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124256010,
+          "chineseName": "豆芽机",
+          "translatedName": "bean sprouts machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124256011,
+          "chineseName": "电烧烤炉",
+          "translatedName": "electric grill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 121430002,
+          "chineseName": "家用冰淇淋机",
+          "translatedName": "Household ice cream machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 122722005,
+          "chineseName": "鸡蛋杯",
+          "translatedName": "egg cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 123618006,
+          "chineseName": "电茶炉、电茶具",
+          "translatedName": "Electric tea stove, electric tea set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124186013,
+          "chineseName": "家用面条机",
+          "translatedName": "Household noodle machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124186016,
+          "chineseName": "净水器配件、附件",
+          "translatedName": "Water purifier accessories, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124736038,
+          "chineseName": "冷饮机",
+          "translatedName": "cold drink machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124736039,
+          "chineseName": "制冰机",
+          "translatedName": "Ice machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 122700009,
+          "chineseName": "榨汁机",
+          "translatedName": "Juicer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 124744033,
+          "chineseName": "碎冰机",
+          "translatedName": "Ice Crushers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201307105,
+          "chineseName": "家用菜馅机",
+          "translatedName": "Household stuffing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201309907,
+          "chineseName": "奶泡机",
+          "translatedName": "milk foam machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201345701,
+          "chineseName": "自动上水器",
+          "translatedName": "Automatic water dispenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201694303,
+          "chineseName": "消毒刀架",
+          "translatedName": "Disinfection knife holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201303607,
+          "chineseName": "家用干果机",
+          "translatedName": "household dried fruit machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201306210,
+          "chineseName": "智能杀菌筷筒",
+          "translatedName": "Intelligent sterilization chopsticks tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201335230,
+          "chineseName": "恒温杯垫",
+          "translatedName": "Constant Temperature Coaster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201340126,
+          "chineseName": "茶吧机",
+          "translatedName": "Tea bar machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201338903,
+          "chineseName": "家用早餐机",
+          "translatedName": "Home breakfast machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201601307,
+          "chineseName": "多功能料理机",
+          "translatedName": "multi-function cooking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201304304,
+          "chineseName": "家用食品保鲜机",
+          "translatedName": "Household food preservation machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201331304,
+          "chineseName": "家用电动涮烤锅",
+          "translatedName": "Household Electric Shabu Baking Pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201691803,
+          "chineseName": "恒温雪茄柜",
+          "translatedName": "Constant temperature cigar cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201302507,
+          "chineseName": "电动煮茶器",
+          "translatedName": "Electric tea maker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201308208,
+          "chineseName": "蒸烤一体机",
+          "translatedName": "Steaming and baking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201338604,
+          "chineseName": "电动便携速冷器",
+          "translatedName": "Electric portable speed cooler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201333005,
+          "chineseName": "冰箱净化器",
+          "translatedName": "Refrigerator Purifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201334904,
+          "chineseName": "家用电蒸笼",
+          "translatedName": "Household electric steamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201339310,
+          "chineseName": "刀具除菌机",
+          "translatedName": "Cutting tool sterilization machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201697203,
+          "chineseName": "电煮锅",
+          "translatedName": "Electric cooking pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201699701,
+          "chineseName": "家用破壁机",
+          "translatedName": "Household wall-breaking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 621,
+          "chineseName": "净水器、净水设备",
+          "translatedName": "Water purifier, water purification equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 636,
+          "chineseName": "豆浆机",
+          "translatedName": "Soybean milk machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201910504,
+          "chineseName": "家用电炒锅",
+          "translatedName": "Household electric wok",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 605,
+          "chineseName": "微波炉",
+          "translatedName": "Microwave oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 606,
+          "chineseName": "电饭煲、电饭锅",
+          "translatedName": "Rice cookers, rice cookers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 612,
+          "chineseName": "搅拌机、料理机",
+          "translatedName": "Mixer, cooking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 637,
+          "chineseName": "电磁炉",
+          "translatedName": "induction cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 638,
+          "chineseName": "多士炉、三明治机",
+          "translatedName": "Taster, sandwich machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 639,
+          "chineseName": "煮蛋器",
+          "translatedName": "Egg Boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 649,
+          "chineseName": "酸奶机",
+          "translatedName": "yogurt machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        },
+        {
+          "categoryId": 201901405,
+          "chineseName": "家用空气炸锅",
+          "translatedName": "Household air fryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 653
+        }
+      ]
+    }
+  }
+}

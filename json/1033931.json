@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033931,
+      "chineseName": "玻璃温度计",
+      "translatedName": "glass thermometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032398"
+    }
+  }
+}

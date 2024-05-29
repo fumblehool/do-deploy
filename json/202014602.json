@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202014602,
+      "chineseName": "光伏电缆",
+      "translatedName": "Photovoltaic cable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127754005"
+    }
+  }
+}

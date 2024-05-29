@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054403,
+      "chineseName": "杏仁粉",
+      "translatedName": "Almond Powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

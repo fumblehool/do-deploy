@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 527,
+      "chineseName": "气体放电灯",
+      "translatedName": "gas discharge lamp",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10222,
+          "chineseName": "氙气灯",
+          "translatedName": "Xenon lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032277,
+          "chineseName": "钠灯",
+          "translatedName": "Sodium lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032282,
+          "chineseName": "霓虹灯管",
+          "translatedName": "neon tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032286,
+          "chineseName": "冷阴极荧光灯",
+          "translatedName": "cold cathode fluorescent lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032266,
+          "chineseName": "其他气体放电灯",
+          "translatedName": "Other gas discharge lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032273,
+          "chineseName": "紫外线灯",
+          "translatedName": "ultraviolet lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032274,
+          "chineseName": "氖灯",
+          "translatedName": "neon lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032275,
+          "chineseName": "金卤灯",
+          "translatedName": "metal halide lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1032276,
+          "chineseName": "汞灯",
+          "translatedName": "mercury lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1037947,
+          "chineseName": "日光灯",
+          "translatedName": "fluorescent lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        },
+        {
+          "categoryId": 1036007,
+          "chineseName": "节能灯",
+          "translatedName": "energy saving lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 527
+        }
+      ]
+    }
+  }
+}

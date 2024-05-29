@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2112,
+      "chineseName": "办公用纸",
+      "translatedName": "Office Paper",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032975,
+          "chineseName": "其他办公用纸",
+          "translatedName": "Other office paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032976,
+          "chineseName": "收银纸",
+          "translatedName": "Cash register paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032977,
+          "chineseName": "描图、绘图纸",
+          "translatedName": "Drawing, drawing paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032979,
+          "chineseName": "书写纸",
+          "translatedName": "writing paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032980,
+          "chineseName": "传真纸",
+          "translatedName": "fax paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032981,
+          "chineseName": "彩喷纸",
+          "translatedName": "Inkjet Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1032982,
+          "chineseName": "复印纸",
+          "translatedName": "copy paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 122944001,
+          "chineseName": "打印纸",
+          "translatedName": "Printing paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 124746004,
+          "chineseName": "标签打印纸",
+          "translatedName": "Label Printing Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 1905,
+          "chineseName": "相纸",
+          "translatedName": "photographic paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 201150101,
+          "chineseName": "电脑连打纸",
+          "translatedName": "Computer with paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        },
+        {
+          "categoryId": 201150201,
+          "chineseName": "商标纸/标签纸",
+          "translatedName": "Trademark paper/label paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2112
+        }
+      ]
+    }
+  }
+}

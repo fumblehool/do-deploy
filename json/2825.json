@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2825,
+      "chineseName": "其他商务服务",
+      "translatedName": "Other Business Services",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "69"
+    }
+  }
+}

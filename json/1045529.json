@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045529,
+      "chineseName": "跳跳马/跳跳球",
+      "translatedName": "Jumping Horse/Jumping Ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

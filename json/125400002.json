@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125400002,
+      "chineseName": "浓缩果汁",
+      "translatedName": "juice concentrate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125390001"
+    }
+  }
+}

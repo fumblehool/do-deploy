@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036477,
+      "chineseName": "锤纹助剂",
+      "translatedName": "Hammer Auxiliary",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10384"
+    }
+  }
+}

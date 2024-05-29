@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036800,
+      "chineseName": "洋葱",
+      "translatedName": "Onion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10028"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044825,
+      "chineseName": "乒乓球用品",
+      "translatedName": "Table Tennis Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044788,
+          "chineseName": "乒乓球台",
+          "translatedName": "table tennis table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 1044865,
+          "chineseName": "乒乓球",
+          "translatedName": "table tennis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 1044875,
+          "chineseName": "乒乓球拍",
+          "translatedName": "table tennis racket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122230009,
+          "chineseName": "乒乓球保养、清洁装备",
+          "translatedName": "Table tennis maintenance, cleaning equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122216006,
+          "chineseName": "其他乒乓球配件",
+          "translatedName": "Other table tennis accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122246005,
+          "chineseName": "乒乓球挡板、底板",
+          "translatedName": "Table tennis baffle, bottom plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122218009,
+          "chineseName": "乒乓球发球机",
+          "translatedName": "table tennis service machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122218010,
+          "chineseName": "乒乓球拍套、包",
+          "translatedName": "Table tennis racket set, bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122196006,
+          "chineseName": "乒乓球网、网架",
+          "translatedName": "Table tennis net, net rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122222003,
+          "chineseName": "乒乓套胶、海绵、单胶片",
+          "translatedName": "Table tennis rubber, sponge, single film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122268001,
+          "chineseName": "乒乓球捡球器",
+          "translatedName": "table tennis ball picker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        },
+        {
+          "categoryId": 122236002,
+          "chineseName": "乒乓球服",
+          "translatedName": "Table Tennis Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044825
+        }
+      ]
+    }
+  }
+}

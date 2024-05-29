@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033821,
+      "chineseName": "三坐标测量机",
+      "translatedName": "coordinate measuring machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10212"
+    }
+  }
+}

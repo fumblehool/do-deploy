@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037109,
+      "chineseName": "聚四氢呋喃醚",
+      "translatedName": "polytetrahydrofuran ether",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

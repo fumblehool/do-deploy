@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122656001,
+      "chineseName": "军迷、防弹眼镜",
+      "translatedName": "Army fan, bulletproof glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122648001"
+    }
+  }
+}

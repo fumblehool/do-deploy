@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041441,
+      "chineseName": "安全防护加工合作",
+      "translatedName": "Safety protection processing cooperation",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031828,
+          "chineseName": "安全、防护用品加工",
+          "translatedName": "Processing of safety and protective articles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041441
+        },
+        {
+          "categoryId": 1031804,
+          "chineseName": "安全、防护用品代理加盟",
+          "translatedName": "Safety, protective supplies agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041441
+        }
+      ]
+    }
+  }
+}

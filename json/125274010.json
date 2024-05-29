@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125274010,
+      "chineseName": "水族照明设备",
+      "translatedName": "Aquarium lighting equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121786003"
+    }
+  }
+}

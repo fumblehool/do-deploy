@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123932008,
+      "chineseName": "防静电手套",
+      "translatedName": "Anti-static gloves",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060618,
+      "chineseName": "有线宽带",
+      "translatedName": "Wired Broadband",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202062910"
+    }
+  }
+}

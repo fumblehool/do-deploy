@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031750,
+      "chineseName": "小学书包",
+      "translatedName": "Primary school bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201551616"
+    }
+  }
+}

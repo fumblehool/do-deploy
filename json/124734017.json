@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734017,
+      "chineseName": "饼干膨化",
+      "translatedName": "Biscuit puffing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032907,
+          "chineseName": "膨化",
+          "translatedName": "puffing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 1047087,
+          "chineseName": "饼干",
+          "translatedName": "Cookies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 124734022,
+          "chineseName": "苏打",
+          "translatedName": "Soda",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 124744020,
+          "chineseName": "曲奇",
+          "translatedName": "Cookies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 124736022,
+          "chineseName": "夹心饼干",
+          "translatedName": "sandwich biscuits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 124746013,
+          "chineseName": "手指饼干",
+          "translatedName": "Finger Cookies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 124740018,
+          "chineseName": "威化",
+          "translatedName": "wafer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 201333301,
+          "chineseName": "消化饼干",
+          "translatedName": "Digestive biscuits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        },
+        {
+          "categoryId": 202051517,
+          "chineseName": "蛋白棒/能量棒/燕麦饼干",
+          "translatedName": "Protein Bars/Energy Bars/Oatmeal Cookies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734017
+        }
+      ]
+    }
+  }
+}

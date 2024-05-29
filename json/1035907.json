@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035907,
+      "chineseName": "其他电工电器设备",
+      "translatedName": "Other Electrical Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "530"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036418,
+      "chineseName": "扶手、把手、拉手",
+      "translatedName": "Armrest, handle, handle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10104"
+    }
+  }
+}

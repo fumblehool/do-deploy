@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201677302,
+      "chineseName": "古筝",
+      "translatedName": "Guzheng",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649201"
+    }
+  }
+}

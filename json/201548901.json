@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548901,
+      "chineseName": "艺术类箱包",
+      "translatedName": "Art bags",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037352,
+          "chineseName": "乐器箱包",
+          "translatedName": "Musical Instrument Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548901
+        },
+        {
+          "categoryId": 201562009,
+          "chineseName": "画板包",
+          "translatedName": "Drawing board bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548901
+        }
+      ]
+    }
+  }
+}

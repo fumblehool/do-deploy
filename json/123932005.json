@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123932005,
+      "chineseName": "绝缘手套",
+      "translatedName": "Insulating gloves",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926002"
+    }
+  }
+}

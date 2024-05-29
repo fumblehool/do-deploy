@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047415,
+      "chineseName": "名片卡片设计",
+      "translatedName": "Business Card Design",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2828"
+    }
+  }
+}

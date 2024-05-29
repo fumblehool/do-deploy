@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359954,
+      "chineseName": "拔步床/架子床",
+      "translatedName": "Walking bed/frame bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122930001"
+    }
+  }
+}

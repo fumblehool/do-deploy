@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201152912,
+      "chineseName": "生活口罩、耳罩",
+      "translatedName": "Life masks, earmuffs",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043395,
+          "chineseName": "耳罩",
+          "translatedName": "earmuffs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201152912
+        },
+        {
+          "categoryId": 122396004,
+          "chineseName": "生活口罩",
+          "translatedName": "Life Masks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201152912
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124824007,
+      "chineseName": "专业线护肤加工定制",
+      "translatedName": "Professional line skin care processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125070013"
+    }
+  }
+}

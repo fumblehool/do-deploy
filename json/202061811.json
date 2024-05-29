@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061811,
+      "chineseName": "铝基板",
+      "translatedName": "Aluminum substrate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202059412"
+    }
+  }
+}

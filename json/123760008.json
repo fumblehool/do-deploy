@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123760008,
+      "chineseName": "网络软件",
+      "translatedName": "Network Software",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "734"
+    }
+  }
+}

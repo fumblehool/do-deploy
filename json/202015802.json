@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202015802,
+      "chineseName": "白芷",
+      "translatedName": "Angelica dahurica",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164002"
+    }
+  }
+}

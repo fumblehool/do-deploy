@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046800,
+      "chineseName": "中老年休闲套装",
+      "translatedName": "Middle-aged and elderly leisure suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

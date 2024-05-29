@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920102,
+      "chineseName": "液压钻孔机",
+      "translatedName": "hydraulic drilling machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124194006"
+    }
+  }
+}

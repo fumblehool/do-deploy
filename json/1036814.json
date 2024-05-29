@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036814,
+      "chineseName": "浴盐",
+      "translatedName": "bath salt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043058"
+    }
+  }
+}

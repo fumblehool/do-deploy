@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2845,
+      "chineseName": "通讯服务",
+      "translatedName": "Communication Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036600,
+          "chineseName": "长途、市话",
+          "translatedName": "Long distance, local calls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2845
+        },
+        {
+          "categoryId": 1036601,
+          "chineseName": "彩铃、充值",
+          "translatedName": "CRBT, recharge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2845
+        }
+      ]
+    }
+  }
+}

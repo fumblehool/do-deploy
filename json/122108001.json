@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122108001,
+      "chineseName": "比基尼、分体泳衣",
+      "translatedName": "Bikini, split swimsuit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048023"
+    }
+  }
+}

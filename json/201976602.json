@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201976602,
+      "chineseName": "拉丝机",
+      "translatedName": "wire drawing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201958503"
+    }
+  }
+}

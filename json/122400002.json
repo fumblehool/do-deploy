@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122400002,
+      "chineseName": "真发假发",
+      "translatedName": "Real Hair Wig",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122338008"
+    }
+  }
+}

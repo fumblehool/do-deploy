@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201545701,
+      "chineseName": "骆驼奶粉",
+      "translatedName": "camel milk powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740008"
+    }
+  }
+}

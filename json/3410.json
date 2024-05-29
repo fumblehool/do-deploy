@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3410,
+      "chineseName": "图片、画册",
+      "translatedName": "Picture, picture album",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045647"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127464012,
+      "chineseName": "鞋扣",
+      "translatedName": "Shoe buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125730003"
+    }
+  }
+}

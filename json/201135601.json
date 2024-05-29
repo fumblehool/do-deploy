@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201135601,
+      "chineseName": "装修及工程",
+      "translatedName": "Decoration and engineering",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201135602,
+          "chineseName": "家庭住宅装修",
+          "translatedName": "Family Residential Decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201135601
+        },
+        {
+          "categoryId": 201135801,
+          "chineseName": "办公室装修服务",
+          "translatedName": "Office decoration services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201135601
+        },
+        {
+          "categoryId": 201135901,
+          "chineseName": "商铺装修服务",
+          "translatedName": "Shop decoration services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201135601
+        }
+      ]
+    }
+  }
+}

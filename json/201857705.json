@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201857705,
+      "chineseName": "手账",
+      "translatedName": "Hand account",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127840005,
+          "chineseName": "和纸胶带",
+          "translatedName": "And paper tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201305706,
+          "chineseName": "创意印章/印泥",
+          "translatedName": "Creative seal/inkpad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201304308,
+          "chineseName": "创意贴纸",
+          "translatedName": "Creative Stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201872103,
+          "chineseName": "手账本",
+          "translatedName": "hand ledger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201875801,
+          "chineseName": "手账周边素材",
+          "translatedName": "Hand account surrounding materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201876101,
+          "chineseName": "手账绘图模板",
+          "translatedName": "Hand account drawing template",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201876201,
+          "chineseName": "手账便签",
+          "translatedName": "Hand note",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201876301,
+          "chineseName": "手账印章",
+          "translatedName": "Hand Account Seal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201896201,
+          "chineseName": "手账夹",
+          "translatedName": "Hand account folder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201878412,
+          "chineseName": "手账点胶笔",
+          "translatedName": "Hand account dispensing pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201838517,
+          "chineseName": "手账套装",
+          "translatedName": "Hand account set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201900102,
+          "chineseName": "咕盘",
+          "translatedName": "Coo Pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201887304,
+          "chineseName": "手账打孔器",
+          "translatedName": "hand account punch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 202026003,
+          "chineseName": "卡砖",
+          "translatedName": "Card brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 201901107,
+          "chineseName": "手账贴纸/胶带",
+          "translatedName": "Hand account sticker/tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        },
+        {
+          "categoryId": 202059711,
+          "chineseName": "DIY安静书/手工书",
+          "translatedName": "DIY Quiet Book/Handmade Book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201857705
+        }
+      ]
+    }
+  }
+}

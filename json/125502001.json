@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125502001,
+      "chineseName": "种球",
+      "translatedName": "seed ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125484002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124262008,
+      "chineseName": "头灯、头戴式电筒",
+      "translatedName": "Headlamp, Headlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268005"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610021,
+      "chineseName": "成套餐桌椅",
+      "translatedName": "Complete set of dining tables and chairs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610020"
+    }
+  }
+}

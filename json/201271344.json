@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201271344,
+      "chineseName": "运动营养食品",
+      "translatedName": "sports nutrition food",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201275639"
+    }
+  }
+}

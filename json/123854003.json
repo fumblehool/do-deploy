@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123854003,
+      "chineseName": "射灯",
+      "translatedName": "Spotlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201903201"
+    }
+  }
+}

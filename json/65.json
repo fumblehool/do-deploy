@@ -1,0 +1,928 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 65,
+      "chineseName": "机械及行业设备",
+      "translatedName": "Machinery and industry equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10095,
+          "chineseName": "食品、饮料加工及餐饮行业设备",
+          "translatedName": "Equipment for food and beverage processing and catering industry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1034563,
+          "chineseName": "库存化工设备",
+          "translatedName": "Stock chemical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1034564,
+          "chineseName": "化工设备代理加盟",
+          "translatedName": "Chemical equipment agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031718,
+          "chineseName": "皮革加工设备",
+          "translatedName": "Leather Processing Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032476,
+          "chineseName": "机床附件",
+          "translatedName": "Machine tool accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10236,
+          "chineseName": "电子产品制造设备",
+          "translatedName": "Electronic Product Manufacturing Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031646,
+          "chineseName": "塑料机械",
+          "translatedName": "Plastic Machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031658,
+          "chineseName": "化工管道及配件",
+          "translatedName": "Chemical pipes and fittings",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031659,
+          "chineseName": "化工设备配件",
+          "translatedName": "chemical equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031660,
+          "chineseName": "化工成套设备",
+          "translatedName": "complete chemical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031662,
+          "chineseName": "化工成型设备",
+          "translatedName": "Chemical forming equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031664,
+          "chineseName": "制冷设备",
+          "translatedName": "Refrigeration equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031665,
+          "chineseName": "化工实验设备",
+          "translatedName": "chemical experiment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031666,
+          "chineseName": "输送设备",
+          "translatedName": "Conveying equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10269,
+          "chineseName": "电脑产品制造设备",
+          "translatedName": "Computer Product Manufacturing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031668,
+          "chineseName": "传热设备",
+          "translatedName": "Heat transfer equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031669,
+          "chineseName": "粉碎设备",
+          "translatedName": "Crushing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031670,
+          "chineseName": "分离设备",
+          "translatedName": "Separation equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031671,
+          "chineseName": "混合设备",
+          "translatedName": "Mixing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032438,
+          "chineseName": "模具标准件",
+          "translatedName": "Mold standard parts",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10347,
+          "chineseName": "过滤设备",
+          "translatedName": "Filtration equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10348,
+          "chineseName": "其他行业专用设备",
+          "translatedName": "Other industry-specific equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10062,
+          "chineseName": "纺织设备和器材",
+          "translatedName": "Textile equipment and equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1031798,
+          "chineseName": "工业制品代理加盟",
+          "translatedName": "Industrial Products Agent Joins",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032538,
+          "chineseName": "矿业装卸设备",
+          "translatedName": "Mining handling equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032539,
+          "chineseName": "矿业输送设备",
+          "translatedName": "Mining Conveying Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1034244,
+          "chineseName": "原水处理设备",
+          "translatedName": "Raw water treatment equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10179,
+          "chineseName": "制鞋机械",
+          "translatedName": "Shoe Machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032468,
+          "chineseName": "密封件",
+          "translatedName": "Seal",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032469,
+          "chineseName": "弹簧",
+          "translatedName": "Spring",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1032471,
+          "chineseName": "气动元件",
+          "translatedName": "Pneumatic components",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1034024,
+          "chineseName": "塑料加工",
+          "translatedName": "Plastic Processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1036829,
+          "chineseName": "模型、手板",
+          "translatedName": "Model, hand board",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10414,
+          "chineseName": "储运设备",
+          "translatedName": "Storage and transportation equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1042427,
+          "chineseName": "传动机构",
+          "translatedName": "transmission mechanism",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1045498,
+          "chineseName": "机械五金加工",
+          "translatedName": "Mechanical hardware processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10413,
+          "chineseName": "传质设备",
+          "translatedName": "Mass transfer equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10416,
+          "chineseName": "干燥设备",
+          "translatedName": "Drying equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1041627,
+          "chineseName": "液压系统",
+          "translatedName": "Hydraulic system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10370,
+          "chineseName": "纸加工机械",
+          "translatedName": "paper processing machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1041693,
+          "chineseName": "整熨洗涤设备",
+          "translatedName": "Ironing and washing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10417,
+          "chineseName": "石油设备",
+          "translatedName": "Petroleum Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1040140,
+          "chineseName": "工业皮带",
+          "translatedName": "Industrial belt",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10356,
+          "chineseName": "减速机、变速机",
+          "translatedName": "Reducer, gearbox",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1046868,
+          "chineseName": "离合器",
+          "translatedName": "Clutch",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10412,
+          "chineseName": "陶瓷生产加工机械",
+          "translatedName": "Ceramic production and processing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10446,
+          "chineseName": "工程机械、建筑机械",
+          "translatedName": "Construction machinery, construction machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1040928,
+          "chineseName": "压缩设备配件",
+          "translatedName": "Compression equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10410,
+          "chineseName": "橡胶机械",
+          "translatedName": "Rubber Machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10411,
+          "chineseName": "玻璃机械",
+          "translatedName": "Glass Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10415,
+          "chineseName": "反应设备",
+          "translatedName": "Reaction equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 121190004,
+          "chineseName": "铆接设备",
+          "translatedName": "riveting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 123924008,
+          "chineseName": "液压机械",
+          "translatedName": "hydraulic machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1102,
+          "chineseName": "消音降噪设备",
+          "translatedName": "Noise reduction equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1103,
+          "chineseName": "空气净化设备",
+          "translatedName": "Air purification equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 10524,
+          "chineseName": "金属成型设备",
+          "translatedName": "Metal Forming Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 121494014,
+          "chineseName": "焊接辅机",
+          "translatedName": "Welding auxiliary machine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 181314,
+          "chineseName": "玩具加工设备",
+          "translatedName": "Toy processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1452,
+          "chineseName": "内燃机",
+          "translatedName": "internal combustion engine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1454,
+          "chineseName": "过滤材料",
+          "translatedName": "filter material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1455,
+          "chineseName": "传动件",
+          "translatedName": "Transmission parts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1458,
+          "chineseName": "酒店设备",
+          "translatedName": "Hotel Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1459,
+          "chineseName": "车间设备",
+          "translatedName": "Workshop Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1460,
+          "chineseName": "制动器",
+          "translatedName": "Brake",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1421,
+          "chineseName": "锅、炉及配件",
+          "translatedName": "Pots, stoves and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1422,
+          "chineseName": "风机、排风设备",
+          "translatedName": "Fan and exhaust equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1735,
+          "chineseName": "工艺礼品加工设备",
+          "translatedName": "Craft gift processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 138,
+          "chineseName": "农业机械",
+          "translatedName": "agricultural machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 162,
+          "chineseName": "造纸设备及配件",
+          "translatedName": "Papermaking equipment and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 201356551,
+          "chineseName": "生产线",
+          "translatedName": "Production Line",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1423,
+          "chineseName": "压缩设备",
+          "translatedName": "Compression equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1424,
+          "chineseName": "换热、制冷空调设备",
+          "translatedName": "Heat exchange, refrigeration and air conditioning equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1425,
+          "chineseName": "泵",
+          "translatedName": "Pump",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1431,
+          "chineseName": "木工机械",
+          "translatedName": "Woodworking Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1449,
+          "chineseName": "库存设备及工业用品",
+          "translatedName": "Inventory of equipment and industrial supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1352,
+          "chineseName": "建材生产加工机械",
+          "translatedName": "Building materials production and processing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 161,
+          "chineseName": "光学加工机械",
+          "translatedName": "optical processing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 126552001,
+          "chineseName": "民用无人机",
+          "translatedName": "Civilian UAV",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 1415,
+          "chineseName": "节能设备",
+          "translatedName": "Energy-saving equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 141903,
+          "chineseName": "轴承及附属件",
+          "translatedName": "Bearings and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 141905,
+          "chineseName": "模具",
+          "translatedName": "Mold",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 141906,
+          "chineseName": "紧固件、连接件",
+          "translatedName": "Fasteners, fittings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 141907,
+          "chineseName": "阀门",
+          "translatedName": "Valve",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 201958503,
+          "chineseName": "材料加工设备",
+          "translatedName": "Material processing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 632,
+          "chineseName": "家电制造设备",
+          "translatedName": "Home appliance manufacturing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 914,
+          "chineseName": "冶炼设备",
+          "translatedName": "smelting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 915,
+          "chineseName": "开采、选矿设备",
+          "translatedName": "Mining and mineral processing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 921,
+          "chineseName": "地矿勘测设备",
+          "translatedName": "geological and mineral survey equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 922,
+          "chineseName": "矿山施工设备",
+          "translatedName": "Mine construction equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 924,
+          "chineseName": "铸造及热处理设备",
+          "translatedName": "Casting and heat treatment equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 201958403,
+          "chineseName": "激光加工设备",
+          "translatedName": "laser processing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 3403,
+          "chineseName": "印刷设备",
+          "translatedName": "Printing Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 329,
+          "chineseName": "服装机械设备",
+          "translatedName": "Clothing machinery and equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 510,
+          "chineseName": "金融专用设备",
+          "translatedName": "Financial special equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 511,
+          "chineseName": "商业专用设备",
+          "translatedName": "Commercial Special Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 77,
+          "chineseName": "污水处理设备",
+          "translatedName": "Sewage treatment equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 841,
+          "chineseName": "结晶设备",
+          "translatedName": "Crystallization equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 227,
+          "chineseName": "食品储运设备",
+          "translatedName": "Food storage and transportation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 290314,
+          "chineseName": "机械项目合作",
+          "translatedName": "Mechanical project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 86,
+          "chineseName": "包装设备",
+          "translatedName": "Packaging equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        },
+        {
+          "categoryId": 87,
+          "chineseName": "包装成型机械",
+          "translatedName": "packaging forming machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 65
+        }
+      ]
+    }
+  }
+}

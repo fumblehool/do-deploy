@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201569527,
+      "chineseName": "男式动漫二次元T恤",
+      "translatedName": "Men's anime two-dimensional T-shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201546513"
+    }
+  }
+}

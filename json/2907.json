@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2907,
+      "chineseName": "招标、投标",
+      "translatedName": "Tendering, bidding",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "69"
+    }
+  }
+}

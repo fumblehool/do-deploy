@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202030901,
+      "chineseName": "纹绣色料",
+      "translatedName": "Embroidery Color Material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202027801"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034754,
+      "chineseName": "储运容器",
+      "translatedName": "Storage and transportation container",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10414"
+    }
+  }
+}

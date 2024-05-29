@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125746001,
+      "chineseName": "女式毛衣",
+      "translatedName": "women's sweater",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10163,
+          "chineseName": "毛衣",
+          "translatedName": "Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125746001
+        },
+        {
+          "categoryId": 124160003,
+          "chineseName": "女式羊毛衫",
+          "translatedName": "Women's Wool Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125746001
+        },
+        {
+          "categoryId": 124154003,
+          "chineseName": "女式貂绒衫",
+          "translatedName": "Women's mink sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125746001
+        },
+        {
+          "categoryId": 124152004,
+          "chineseName": "女式羊绒衫",
+          "translatedName": "women's cashmere sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125746001
+        }
+      ]
+    }
+  }
+}

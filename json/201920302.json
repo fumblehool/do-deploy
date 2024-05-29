@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920302,
+      "chineseName": "平板手推车",
+      "translatedName": "Flat Cart",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032077"
+    }
+  }
+}

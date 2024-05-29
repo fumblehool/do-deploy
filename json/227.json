@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 227,
+      "chineseName": "食品储运设备",
+      "translatedName": "Food storage and transportation equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "65"
+    }
+  }
+}

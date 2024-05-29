@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10320,
+      "chineseName": "剃须刀、除毛器",
+      "translatedName": "Shaver, hair remover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

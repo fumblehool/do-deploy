@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548501,
+      "chineseName": "舞台表演服",
+      "translatedName": "stage performance clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 346,
+          "chineseName": "其它舞台表演服饰",
+          "translatedName": "Other stage costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202041801,
+          "chineseName": "女团表演服",
+          "translatedName": "Women's performance clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202041901,
+          "chineseName": "肚皮舞表演服",
+          "translatedName": "Belly Dance Performance Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202042001,
+          "chineseName": "国标舞表演服",
+          "translatedName": "Ballroom Dance Performance Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202042201,
+          "chineseName": "广场舞表演服",
+          "translatedName": "Square Dance Performance Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202042301,
+          "chineseName": "芭蕾舞表演服",
+          "translatedName": "Ballet Performance Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        },
+        {
+          "categoryId": 202043001,
+          "chineseName": "拉丁舞表演服",
+          "translatedName": "Latin Dance Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548501
+        }
+      ]
+    }
+  }
+}

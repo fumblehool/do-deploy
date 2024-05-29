@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126440004,
+      "chineseName": "气象无人机",
+      "translatedName": "Meteorological UAV",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126552001"
+    }
+  }
+}

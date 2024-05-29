@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202003904,
+      "chineseName": "罗汉果",
+      "translatedName": "Luo Han Guo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164002"
+    }
+  }
+}

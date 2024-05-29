@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1421,
+      "chineseName": "锅、炉及配件",
+      "translatedName": "Pots, stoves and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035799,
+          "chineseName": "其它工业锅炉",
+          "translatedName": "Other Industrial Boilers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035800,
+          "chineseName": "锅炉配附件",
+          "translatedName": "Boiler accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035801,
+          "chineseName": "特种锅炉",
+          "translatedName": "special boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035802,
+          "chineseName": "电热锅炉",
+          "translatedName": "electric heating boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035803,
+          "chineseName": "燃煤锅炉",
+          "translatedName": "coal-fired boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035804,
+          "chineseName": "燃油锅炉",
+          "translatedName": "oil-fired boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1035805,
+          "chineseName": "燃气锅炉",
+          "translatedName": "gas boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1036834,
+          "chineseName": "蒸汽发生器、蒸汽发生机",
+          "translatedName": "Steam generator, steam generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 1043092,
+          "chineseName": "炉排",
+          "translatedName": "Grate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 202035904,
+          "chineseName": "余热锅炉",
+          "translatedName": "Waste heat boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        },
+        {
+          "categoryId": 202029705,
+          "chineseName": "燃生物质锅炉",
+          "translatedName": "biomass-fired boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1421
+        }
+      ]
+    }
+  }
+}

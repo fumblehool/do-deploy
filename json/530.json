@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 530,
+      "chineseName": "电工电器成套设备",
+      "translatedName": "Electrical equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035907,
+          "chineseName": "其他电工电器设备",
+          "translatedName": "Other Electrical Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 530
+        },
+        {
+          "categoryId": 127754004,
+          "chineseName": "高压环网柜",
+          "translatedName": "High-voltage ring network cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 530
+        },
+        {
+          "categoryId": 127770005,
+          "chineseName": "电缆分支箱",
+          "translatedName": "Cable branch box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 530
+        },
+        {
+          "categoryId": 127772007,
+          "chineseName": "授权柜",
+          "translatedName": "Authorization cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 530
+        }
+      ]
+    }
+  }
+}

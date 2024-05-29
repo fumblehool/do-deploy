@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201340017,
+      "chineseName": "杀菌玉米灯",
+      "translatedName": "Sterilization corn lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192010"
+    }
+  }
+}

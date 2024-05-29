@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034769,
+      "chineseName": "脱毛蜡纸/脱毛膏",
+      "translatedName": "Hair removal wax paper/hair removal cream",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126182004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200524002,
+      "chineseName": "宠物检测试纸/设备",
+      "translatedName": "Pet detection test strips/equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125270017"
+    }
+  }
+}

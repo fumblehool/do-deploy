@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201351408,
+      "chineseName": "豆浆/豆奶粉",
+      "translatedName": "Soybean Milk/Soybean Milk Powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

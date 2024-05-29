@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127360010,
+      "chineseName": "女式羽绒服",
+      "translatedName": "Women's Down Jacket",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034162,
+          "chineseName": "羽绒服",
+          "translatedName": "Down jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127360010
+        },
+        {
+          "categoryId": 127374009,
+          "chineseName": "羽绒背心",
+          "translatedName": "Down vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127360010
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141903,
+      "chineseName": "轴承及附属件",
+      "translatedName": "Bearings and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032451,
+          "chineseName": "其他滑动轴承",
+          "translatedName": "Other plain bearings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 1042627,
+          "chineseName": "其他滚动轴承",
+          "translatedName": "Other rolling bearings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121190006,
+          "chineseName": "轴承座",
+          "translatedName": "Bearing seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121190010,
+          "chineseName": "其他轴承附属件",
+          "translatedName": "Other bearing accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123610004,
+          "chineseName": "滚针轴承",
+          "translatedName": "needle roller bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123620003,
+          "chineseName": "调心球轴承",
+          "translatedName": "self-aligning ball bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123616003,
+          "chineseName": "圆锥滚子轴承",
+          "translatedName": "tapered roller bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123616004,
+          "chineseName": "调心滚子轴承",
+          "translatedName": "Spherical roller bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121192006,
+          "chineseName": "紧定套",
+          "translatedName": "Tight Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123622003,
+          "chineseName": "直线轴承",
+          "translatedName": "Linear bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123622004,
+          "chineseName": "组合轴承",
+          "translatedName": "Combined bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121186004,
+          "chineseName": "退卸衬套",
+          "translatedName": "Remove and unload bushing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121186005,
+          "chineseName": "轴承保持架",
+          "translatedName": "Bearing cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 121188003,
+          "chineseName": "滚子",
+          "translatedName": "Roller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123608003,
+          "chineseName": "推力滚子轴承",
+          "translatedName": "Thrust roller bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123608004,
+          "chineseName": "深沟球轴承",
+          "translatedName": "deep groove ball bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123612001,
+          "chineseName": "圆柱滚子轴承",
+          "translatedName": "Cylindrical roller bearings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123612003,
+          "chineseName": "转盘轴承",
+          "translatedName": "slewing bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123612004,
+          "chineseName": "角接触球轴承",
+          "translatedName": "angular contact ball bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123612005,
+          "chineseName": "关节轴承",
+          "translatedName": "Joint bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        },
+        {
+          "categoryId": 123622001,
+          "chineseName": "推力球轴承",
+          "translatedName": "thrust ball bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141903
+        }
+      ]
+    }
+  }
+}

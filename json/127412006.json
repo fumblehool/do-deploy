@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127412006,
+      "chineseName": "黄金脚饰",
+      "translatedName": "Gold Foot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

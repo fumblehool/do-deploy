@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124584001,
+      "chineseName": "防辐射服",
+      "translatedName": "anti-radiation clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196004"
+    }
+  }
+}

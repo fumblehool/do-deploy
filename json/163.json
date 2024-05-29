@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 163,
+      "chineseName": "胶印机",
+      "translatedName": "Offset Press",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3403"
+    }
+  }
+}

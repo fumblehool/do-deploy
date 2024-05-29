@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046661,
+      "chineseName": "亮片",
+      "translatedName": "Sequins",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10157"
+    }
+  }
+}

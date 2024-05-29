@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308211,
+      "chineseName": "抑菌皂、粉",
+      "translatedName": "Bacteriostatic soap, powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303409"
+    }
+  }
+}

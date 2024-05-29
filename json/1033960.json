@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033960,
+      "chineseName": "其他传输、交换设备",
+      "translatedName": "Other transmission and switching equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50909"
+    }
+  }
+}

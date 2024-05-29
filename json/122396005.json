@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122396005,
+      "chineseName": "游戏摇杆",
+      "translatedName": "Game joystick",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032228"
+    }
+  }
+}

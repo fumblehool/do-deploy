@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122984007,
+      "chineseName": "婴儿理发器",
+      "translatedName": "baby hair clipper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201571222"
+    }
+  }
+}

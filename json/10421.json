@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10421,
+      "chineseName": "其他石材石料",
+      "translatedName": "Other Stone Stone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10375"
+    }
+  }
+}

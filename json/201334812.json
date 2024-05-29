@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201334812,
+      "chineseName": "念佛机/播经机",
+      "translatedName": "Buddha chanting machine/sutra seeder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330711"
+    }
+  }
+}

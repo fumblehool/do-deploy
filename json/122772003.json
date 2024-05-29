@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122772003,
+      "chineseName": "儿童书架、柜",
+      "translatedName": "Children's bookshelf, cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122794001"
+    }
+  }
+}

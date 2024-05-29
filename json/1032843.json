@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032843,
+      "chineseName": "叶菜类",
+      "translatedName": "Leaf vegetables",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10028"
+    }
+  }
+}

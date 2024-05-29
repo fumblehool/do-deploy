@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201230506,
+      "chineseName": "其它洛丽塔lolita",
+      "translatedName": "Other Lolita Lolita",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202050901"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127420001,
+      "chineseName": "女式棉衣",
+      "translatedName": "Women's cotton-padded clothes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127422001,
+          "chineseName": "棉服背心",
+          "translatedName": "cotton-padded jacket vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420001
+        },
+        {
+          "categoryId": 303,
+          "chineseName": "棉衣",
+          "translatedName": "cotton-padded clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127420001
+        }
+      ]
+    }
+  }
+}

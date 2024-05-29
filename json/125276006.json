@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125276006,
+      "chineseName": "工业机器人",
+      "translatedName": "Industrial Robots",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125278010,
+          "chineseName": "并联机器人",
+          "translatedName": "parallel robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125276006
+        },
+        {
+          "categoryId": 125294001,
+          "chineseName": "线性机器人",
+          "translatedName": "linear robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125276006
+        },
+        {
+          "categoryId": 125296001,
+          "chineseName": "协作机器人",
+          "translatedName": "collaborative robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125276006
+        },
+        {
+          "categoryId": 125264018,
+          "chineseName": "关节型机器人",
+          "translatedName": "articulated robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125276006
+        }
+      ]
+    }
+  }
+}

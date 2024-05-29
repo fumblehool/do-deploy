@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201504304,
+      "chineseName": "男式大码下装",
+      "translatedName": "Men's Plus Size Bottles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201470102"
+    }
+  }
+}

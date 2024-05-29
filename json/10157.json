@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10157,
+      "chineseName": "纺织辅料",
+      "translatedName": "Textile Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031713,
+          "chineseName": "流苏、穗",
+          "translatedName": "Tassel, panicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1031714,
+          "chineseName": "织带",
+          "translatedName": "Webbing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1031862,
+          "chineseName": "洗唛、商标",
+          "translatedName": "Washing mark, trademark",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1031863,
+          "chineseName": "肩垫",
+          "translatedName": "Shoulder Pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1031864,
+          "chineseName": "花边",
+          "translatedName": "Lace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 10159,
+          "chineseName": "拉链",
+          "translatedName": "Zipper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 10160,
+          "chineseName": "钮扣",
+          "translatedName": "Button",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 10161,
+          "chineseName": "衬布",
+          "translatedName": "interlining cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1041669,
+          "chineseName": "拉链头",
+          "translatedName": "Zipper head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1046661,
+          "chineseName": "亮片",
+          "translatedName": "Sequins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1046662,
+          "chineseName": "毛球",
+          "translatedName": "fur ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1036004,
+          "chineseName": "吊粒、吊牌",
+          "translatedName": "Hanging grain, tag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1036005,
+          "chineseName": "纺织填充物",
+          "translatedName": "Textile filler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1036810,
+          "chineseName": "烫图、烫钻",
+          "translatedName": "Hot drawing, hot drilling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1042128,
+          "chineseName": "服装饰品",
+          "translatedName": "Clothing accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1047328,
+          "chineseName": "布贴",
+          "translatedName": "Cloth Stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1037189,
+          "chineseName": "魔术贴",
+          "translatedName": "Velcro",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1042455,
+          "chineseName": "帽条",
+          "translatedName": "Hat strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 1042502,
+          "chineseName": "毛领",
+          "translatedName": "Fur collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 125374003,
+          "chineseName": "其他带子类",
+          "translatedName": "Other Tape Classes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 125316004,
+          "chineseName": "松紧带",
+          "translatedName": "elastic band",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 125312004,
+          "chineseName": "绳子类",
+          "translatedName": "Rope class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 125312005,
+          "chineseName": "线类",
+          "translatedName": "Line Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        },
+        {
+          "categoryId": 401,
+          "chineseName": "其他纺织辅料",
+          "translatedName": "Other Textile Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10157
+        }
+      ]
+    }
+  }
+}

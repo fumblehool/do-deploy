@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122228007,
+      "chineseName": "足球战术板",
+      "translatedName": "Football Tactical Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122226003"
+    }
+  }
+}

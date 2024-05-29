@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034597,
+      "chineseName": "其他热塑性弹性体",
+      "translatedName": "Other thermoplastic elastomers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034596"
+    }
+  }
+}

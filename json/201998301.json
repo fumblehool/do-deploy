@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201998301,
+      "chineseName": "酒塞",
+      "translatedName": "Wine stopper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122320004"
+    }
+  }
+}

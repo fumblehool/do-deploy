@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124262004,
+      "chineseName": "机械表",
+      "translatedName": "Mechanical watch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268003"
+    }
+  }
+}

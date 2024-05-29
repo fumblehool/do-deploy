@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123934003,
+      "chineseName": "手动螺丝批套装",
+      "translatedName": "Manual screwdriver set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924001"
+    }
+  }
+}

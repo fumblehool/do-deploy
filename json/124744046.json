@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744046,
+      "chineseName": "智能路由器",
+      "translatedName": "intelligent router",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123754001"
+    }
+  }
+}

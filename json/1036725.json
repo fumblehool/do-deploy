@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036725,
+      "chineseName": "拉拨液",
+      "translatedName": "Pull and dial fluid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031656"
+    }
+  }
+}

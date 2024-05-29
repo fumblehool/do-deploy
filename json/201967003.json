@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201967003,
+      "chineseName": "电动车尾箱",
+      "translatedName": "Electric car tail box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125066013"
+    }
+  }
+}

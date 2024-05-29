@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127902013,
+      "chineseName": "阳篷、雨篷撑杆及配件",
+      "translatedName": "Sunroof, awning struts and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1037965"
+    }
+  }
+}

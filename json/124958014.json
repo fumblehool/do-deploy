@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124958014,
+      "chineseName": "送变电工程设计",
+      "translatedName": "Power transmission and transformation engineering design",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124960005"
+    }
+  }
+}

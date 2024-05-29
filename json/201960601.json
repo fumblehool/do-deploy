@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201960601,
+      "chineseName": "运动棒球服",
+      "translatedName": "sports baseball uniform",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048021"
+    }
+  }
+}

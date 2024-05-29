@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058714,
+      "chineseName": "光伏背板",
+      "translatedName": "Photovoltaic backsheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202059611"
+    }
+  }
+}

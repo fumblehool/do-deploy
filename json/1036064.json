@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036064,
+      "chineseName": "信号电缆",
+      "translatedName": "Signal cable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10197"
+    }
+  }
+}

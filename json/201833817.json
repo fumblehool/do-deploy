@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201833817,
+      "chineseName": "头皮上药器",
+      "translatedName": "Scalp applicator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

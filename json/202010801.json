@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010801,
+      "chineseName": "电子积木元器件",
+      "translatedName": "Electronic building block components",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126574002"
+    }
+  }
+}

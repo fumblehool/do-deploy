@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036521,
+      "chineseName": "电工电气维修安装",
+      "translatedName": "Electrical maintenance and installation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2823"
+    }
+  }
+}

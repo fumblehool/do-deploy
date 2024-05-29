@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045760,
+      "chineseName": "污水处理设备配件",
+      "translatedName": "Sewage treatment equipment accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "77"
+    }
+  }
+}

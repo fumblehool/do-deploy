@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044642,
+      "chineseName": "台球用品",
+      "translatedName": "Billiards Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044644,
+          "chineseName": "台球桌",
+          "translatedName": "Billiard table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044642
+        },
+        {
+          "categoryId": 1044646,
+          "chineseName": "台球杆",
+          "translatedName": "Billiard cue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044642
+        },
+        {
+          "categoryId": 1044648,
+          "chineseName": "台球配件",
+          "translatedName": "Billiard accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044642
+        },
+        {
+          "categoryId": 2032,
+          "chineseName": "台球",
+          "translatedName": "Billiards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044642
+        }
+      ]
+    }
+  }
+}

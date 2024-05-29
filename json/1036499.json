@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036499,
+      "chineseName": "内审员培训",
+      "translatedName": "Internal Auditor Training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2815"
+    }
+  }
+}

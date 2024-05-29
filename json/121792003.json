@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121792003,
+      "chineseName": "宠物活体",
+      "translatedName": "Pet Live",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121844001,
+          "chineseName": "猫",
+          "translatedName": "Cat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121792003
+        },
+        {
+          "categoryId": 121830001,
+          "chineseName": "狗",
+          "translatedName": "Dog",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121792003
+        }
+      ]
+    }
+  }
+}

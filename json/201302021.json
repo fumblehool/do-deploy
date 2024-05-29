@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201302021,
+      "chineseName": "迎亲堵门/游戏道具",
+      "translatedName": "Welcome door blocking/game props",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194001"
+    }
+  }
+}

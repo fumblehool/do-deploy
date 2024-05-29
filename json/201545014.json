@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201545014,
+      "chineseName": "童家居服套装",
+      "translatedName": "Children's Home Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552907"
+    }
+  }
+}

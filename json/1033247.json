@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033247,
+      "chineseName": "显卡",
+      "translatedName": "Graphics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "731"
+    }
+  }
+}

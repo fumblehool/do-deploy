@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048261,
+      "chineseName": "照明变压器",
+      "translatedName": "Lighting transformer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048230"
+    }
+  }
+}

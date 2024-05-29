@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121914002,
+      "chineseName": "减震、充气鞋垫",
+      "translatedName": "Shock absorption, inflatable insole",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121900002"
+    }
+  }
+}

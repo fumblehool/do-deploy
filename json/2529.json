@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2529,
+      "chineseName": "咨询、投资、加盟",
+      "translatedName": "Consulting, investment, joining",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "75"
+    }
+  }
+}

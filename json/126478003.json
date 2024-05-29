@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126478003,
+      "chineseName": "美妆日化包装",
+      "translatedName": "Beauty makeup packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126510001,
+          "chineseName": "日化包装",
+          "translatedName": "Daily chemical packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 126484003,
+          "chineseName": "分装瓶",
+          "translatedName": "Sub-bottling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202049501,
+          "chineseName": "护肤品包材",
+          "translatedName": "Skincare packaging materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202043401,
+          "chineseName": "软管瓶",
+          "translatedName": "hose bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202043601,
+          "chineseName": "喷雾瓶",
+          "translatedName": "spray bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202043801,
+          "chineseName": "按压泵头瓶",
+          "translatedName": "Press pump head bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 2321,
+          "chineseName": "化妆品包装",
+          "translatedName": "Cosmetic Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202043201,
+          "chineseName": "彩妆包装",
+          "translatedName": "Cosmetic packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        },
+        {
+          "categoryId": 202043301,
+          "chineseName": "滴管瓶",
+          "translatedName": "Dropper bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126478003
+        }
+      ]
+    }
+  }
+}

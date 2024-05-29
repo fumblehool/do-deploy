@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034026,
+      "chineseName": "塑料表面处理",
+      "translatedName": "Plastic surface treatment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034024"
+    }
+  }
+}

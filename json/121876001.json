@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121876001,
+      "chineseName": "暴走鞋",
+      "translatedName": "Mob shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044794"
+    }
+  }
+}

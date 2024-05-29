@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201823203,
+      "chineseName": "焚火台",
+      "translatedName": "Burning Fire Table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121546006"
+    }
+  }
+}

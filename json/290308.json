@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290308,
+      "chineseName": "化工项目合作",
+      "translatedName": "Chemical project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "8"
+    }
+  }
+}

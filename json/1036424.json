@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036424,
+      "chineseName": "手刹套/档把套/套饰套装",
+      "translatedName": "Hand brake cover/gear handle cover/set decoration set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "92"
+    }
+  }
+}

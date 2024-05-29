@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036959,
+      "chineseName": "多孔材料",
+      "translatedName": "porous material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "848"
+    }
+  }
+}

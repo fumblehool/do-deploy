@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122648001,
+      "chineseName": "户外眼镜",
+      "translatedName": "Outdoor Glasses",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033461,
+          "chineseName": "滑雪镜、登山镜",
+          "translatedName": "Ski goggles, mountaineering goggles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 1044744,
+          "chineseName": "泳镜",
+          "translatedName": "Goggles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 122634002,
+          "chineseName": "钓鱼眼镜",
+          "translatedName": "Fishing Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 122652001,
+          "chineseName": "骑行眼镜、风镜",
+          "translatedName": "Cycling glasses, goggles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 122656001,
+          "chineseName": "军迷、防弹眼镜",
+          "translatedName": "Army fan, bulletproof glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 122658001,
+          "chineseName": "运动眼镜",
+          "translatedName": "sports glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        },
+        {
+          "categoryId": 122660001,
+          "chineseName": "驾驶眼镜",
+          "translatedName": "Driving glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122648001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046158,
+      "chineseName": "船用气囊",
+      "translatedName": "marine airbag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046156"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359813,
+      "chineseName": "竹编",
+      "translatedName": "Bamboo weaving",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1725"
+    }
+  }
+}

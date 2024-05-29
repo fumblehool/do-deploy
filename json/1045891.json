@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045891,
+      "chineseName": "稀土金属",
+      "translatedName": "rare earth metal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "935"
+    }
+  }
+}

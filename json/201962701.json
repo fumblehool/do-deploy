@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201962701,
+      "chineseName": "外用液体敷料（医疗器械）",
+      "translatedName": "Liquid Dressing for External Use (medical devices)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202025403,
+          "chineseName": "盐水液体敷料（械字号）",
+          "translatedName": "Saline liquid dressing (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        },
+        {
+          "categoryId": 201962902,
+          "chineseName": "水胶体类敷料",
+          "translatedName": "Hydrocolloid dressings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        },
+        {
+          "categoryId": 201964601,
+          "chineseName": "外用敷料组合装",
+          "translatedName": "External dressing combination",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        },
+        {
+          "categoryId": 201964701,
+          "chineseName": "敷料贴",
+          "translatedName": "dressing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        },
+        {
+          "categoryId": 201955803,
+          "chineseName": "液体类敷料",
+          "translatedName": "liquid dressing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        },
+        {
+          "categoryId": 202025801,
+          "chineseName": "皮肤创面喷雾&气雾剂",
+          "translatedName": "Skin Wound Spray & Aerosol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201962701
+        }
+      ]
+    }
+  }
+}

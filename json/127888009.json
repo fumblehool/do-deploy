@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127888009,
+      "chineseName": "创意摆件",
+      "translatedName": "Creative ornaments",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122320007,
+          "chineseName": "DIY家饰",
+          "translatedName": "DIY Home Decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201231203,
+          "chineseName": "装饰果盘",
+          "translatedName": "decorative fruit plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201304610,
+          "chineseName": "电视柜摆件",
+          "translatedName": "TV cabinet ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 127876018,
+          "chineseName": "空中吊饰",
+          "translatedName": "Air Chandelier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201309519,
+          "chineseName": "摆件支架/底座",
+          "translatedName": "Ornament bracket/base",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 127868020,
+          "chineseName": "照片墙",
+          "translatedName": "Photo Wall",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201222112,
+          "chineseName": "装饰托盘",
+          "translatedName": "Decorative tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201304115,
+          "chineseName": "酒吧装饰摆件",
+          "translatedName": "Bar decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201307313,
+          "chineseName": "客厅落地摆件",
+          "translatedName": "Living room floor ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        },
+        {
+          "categoryId": 201220812,
+          "chineseName": "装饰器皿",
+          "translatedName": "Decorative Utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127888009
+        }
+      ]
+    }
+  }
+}

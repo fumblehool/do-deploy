@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161305,
+      "chineseName": "亚克力片",
+      "translatedName": "acrylic tablets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160006"
+    }
+  }
+}

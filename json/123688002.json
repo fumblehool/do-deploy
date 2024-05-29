@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123688002,
+      "chineseName": "男式PU皮衣",
+      "translatedName": "Men's PU leather clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123694002"
+    }
+  }
+}

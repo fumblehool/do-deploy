@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125740002,
+      "chineseName": "婚纱/礼服/旗袍",
+      "translatedName": "Wedding dress/dress/cheongsam",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201156304,
+          "chineseName": "晚礼服",
+          "translatedName": "Evening dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 201160003,
+          "chineseName": "秀禾服",
+          "translatedName": "Xiuhe Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202027707,
+          "chineseName": "妈妈服",
+          "translatedName": "Mother clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202026804,
+          "chineseName": "新郎服",
+          "translatedName": "Groom Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 320,
+          "chineseName": "婚纱",
+          "translatedName": "Wedding dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 305,
+          "chineseName": "旗袍",
+          "translatedName": "Cheongsam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202034504,
+          "chineseName": "伴娘服",
+          "translatedName": "Bridesmaid's Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202044201,
+          "chineseName": "其它婚礼服饰",
+          "translatedName": "Other Wedding Costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202044401,
+          "chineseName": "燕尾服",
+          "translatedName": "Tuxedo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202031603,
+          "chineseName": "敬酒服",
+          "translatedName": "Toast Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202042901,
+          "chineseName": "舞会礼服",
+          "translatedName": "Prom Gown",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        },
+        {
+          "categoryId": 202043101,
+          "chineseName": "伴郎服",
+          "translatedName": "Best Man's Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740002
+        }
+      ]
+    }
+  }
+}

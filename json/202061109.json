@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061109,
+      "chineseName": "其他光伏产品",
+      "translatedName": "Other Photovoltaic Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053411"
+    }
+  }
+}

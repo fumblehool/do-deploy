@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036212,
+      "chineseName": "噪音计",
+      "translatedName": "noise meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036206"
+    }
+  }
+}

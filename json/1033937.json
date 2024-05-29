@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033937,
+      "chineseName": "库存通信器材",
+      "translatedName": "Stock communication equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "509"
+    }
+  }
+}

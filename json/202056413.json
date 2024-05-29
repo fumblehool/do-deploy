@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056413,
+      "chineseName": "洗鼻器／吸鼻器",
+      "translatedName": "Nasal Washer/Nasal Suction",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

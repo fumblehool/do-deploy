@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032133,
+      "chineseName": "燃油喷射装置",
+      "translatedName": "Fuel injection device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10110"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125374004,
+      "chineseName": "童拖鞋",
+      "translatedName": "Children's slippers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125386001"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 920,
+      "chineseName": "炉料",
+      "translatedName": "Charge",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033360,
+          "chineseName": "其他炉料",
+          "translatedName": "Other Charge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 920
+        },
+        {
+          "categoryId": 1033361,
+          "chineseName": "生铁",
+          "translatedName": "pig iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 920
+        },
+        {
+          "categoryId": 1045162,
+          "chineseName": "钢坯",
+          "translatedName": "billet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 920
+        },
+        {
+          "categoryId": 1035765,
+          "chineseName": "不锈钢坯",
+          "translatedName": "stainless steel billet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 920
+        }
+      ]
+    }
+  }
+}

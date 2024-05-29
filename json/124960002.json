@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124960002,
+      "chineseName": "电动调奶器",
+      "translatedName": "Electric milk regulator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201571222"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035985,
+      "chineseName": "多媒体教学设备",
+      "translatedName": "multimedia teaching equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2117"
+    }
+  }
+}

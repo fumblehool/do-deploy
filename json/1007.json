@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1007,
+      "chineseName": "太阳能设备",
+      "translatedName": "Solar equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033689,
+          "chineseName": "其他太阳能设备",
+          "translatedName": "Other Solar Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1007
+        },
+        {
+          "categoryId": 1033690,
+          "chineseName": "太阳灶",
+          "translatedName": "Solar cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1007
+        }
+      ]
+    }
+  }
+}

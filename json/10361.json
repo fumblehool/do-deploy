@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10361,
+      "chineseName": "胶带",
+      "translatedName": "Tape",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032987,
+          "chineseName": "其他胶带",
+          "translatedName": "Other Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 1032988,
+          "chineseName": "办公用品胶带",
+          "translatedName": "Office Supplies Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 1032991,
+          "chineseName": "工业产品胶带",
+          "translatedName": "Industrial Products Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122148002,
+          "chineseName": "特殊胶带",
+          "translatedName": "Special adhesive tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122152003,
+          "chineseName": "交通汽车胶带",
+          "translatedName": "Traffic Car Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122238006,
+          "chineseName": "电子产品胶带",
+          "translatedName": "Electronic Products Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122184002,
+          "chineseName": "医用胶带",
+          "translatedName": "Medical tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122186001,
+          "chineseName": "环保产品胶带",
+          "translatedName": "Eco-friendly product tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        },
+        {
+          "categoryId": 122188001,
+          "chineseName": "住房建筑胶带",
+          "translatedName": "Housing construction tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10361
+        }
+      ]
+    }
+  }
+}

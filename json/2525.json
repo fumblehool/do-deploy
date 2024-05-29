@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2525,
+      "chineseName": "首饰、美容、化妆品展",
+      "translatedName": "Jewelry, beauty, cosmetics exhibition",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "75"
+    }
+  }
+}

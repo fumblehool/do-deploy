@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121784005,
+      "chineseName": "仓鼠",
+      "translatedName": "Hamster",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121814002"
+    }
+  }
+}

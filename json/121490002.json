@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121490002,
+      "chineseName": "拉花、彩带、彩条",
+      "translatedName": "Flowers, ribbons, stripes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122192001"
+    }
+  }
+}

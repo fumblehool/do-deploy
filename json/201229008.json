@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201229008,
+      "chineseName": "商务礼品",
+      "translatedName": "Business Gifts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201230205,
+          "chineseName": "纪念盘",
+          "translatedName": "Commemorative Plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201228316,
+          "chineseName": "广告扇",
+          "translatedName": "advertising fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201217816,
+          "chineseName": "招财摆件",
+          "translatedName": "Fortune-making ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201218626,
+          "chineseName": "工业品牌站礼品",
+          "translatedName": "Industrial Brand Station Gifts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201338616,
+          "chineseName": "POP广告纸/爆炸贴",
+          "translatedName": "POP advertising paper/explosive stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201372626,
+          "chineseName": "广告帐篷",
+          "translatedName": "advertising tent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201232501,
+          "chineseName": "徽章",
+          "translatedName": "Badge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201332914,
+          "chineseName": "商务礼品套装",
+          "translatedName": "Business Gift Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        },
+        {
+          "categoryId": 201346311,
+          "chineseName": "会员卡",
+          "translatedName": "Membership Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229008
+        }
+      ]
+    }
+  }
+}

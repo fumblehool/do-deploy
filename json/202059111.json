@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059111,
+      "chineseName": "氢能存储",
+      "translatedName": "hydrogen energy storage",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202051614"
+    }
+  }
+}

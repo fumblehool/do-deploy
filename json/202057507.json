@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057507,
+      "chineseName": "蓝牙信标",
+      "translatedName": "Bluetooth beacon",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229709"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041280,
+      "chineseName": "火警探测",
+      "translatedName": "Fire detection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "90"
+    }
+  }
+}

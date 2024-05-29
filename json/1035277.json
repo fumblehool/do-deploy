@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035277,
+      "chineseName": "水下灯泡",
+      "translatedName": "underwater bulb",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10219"
+    }
+  }
+}

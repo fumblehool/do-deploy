@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202033906,
+      "chineseName": "路由模块",
+      "translatedName": "Routing module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202002002"
+    }
+  }
+}

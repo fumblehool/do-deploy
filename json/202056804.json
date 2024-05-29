@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056804,
+      "chineseName": "褥疮垫/护理垫（器械）",
+      "translatedName": "Bedsore pad/nursing pad (device)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058703"
+    }
+  }
+}

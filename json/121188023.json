@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121188023,
+      "chineseName": "酒店床垫、保护垫",
+      "translatedName": "Hotel mattress, protective pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186015"
+    }
+  }
+}

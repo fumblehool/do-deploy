@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033571,
+      "chineseName": "家用购物袋、篮",
+      "translatedName": "Household shopping bags, baskets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1548"
+    }
+  }
+}

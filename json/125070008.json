@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070008,
+      "chineseName": "车用钥匙扣",
+      "translatedName": "Car Keychain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492003"
+    }
+  }
+}

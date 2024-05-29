@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290309,
+      "chineseName": "冶金项目合作",
+      "translatedName": "Metallurgical project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "9"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10368,
+      "chineseName": "木质包装容器",
+      "translatedName": "Wooden packaging container",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033011,
+          "chineseName": "其他木质包装容器",
+          "translatedName": "Other Wooden Packaging Containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10368
+        },
+        {
+          "categoryId": 1033013,
+          "chineseName": "木桶",
+          "translatedName": "Barrel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10368
+        },
+        {
+          "categoryId": 1033014,
+          "chineseName": "木箱",
+          "translatedName": "Wooden box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10368
+        },
+        {
+          "categoryId": 1033015,
+          "chineseName": "木盒",
+          "translatedName": "Wooden box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10368
+        },
+        {
+          "categoryId": 201377301,
+          "chineseName": "竹制包装",
+          "translatedName": "Bamboo packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10368
+        }
+      ]
+    }
+  }
+}

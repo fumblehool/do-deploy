@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124190018,
+      "chineseName": "电棍棒、防身电筒",
+      "translatedName": "Electric stick, self-defense flashlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268005"
+    }
+  }
+}

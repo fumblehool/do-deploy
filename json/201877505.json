@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201877505,
+      "chineseName": "键帽",
+      "translatedName": "Key Cap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10262"
+    }
+  }
+}

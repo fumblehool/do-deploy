@@ -1,0 +1,415 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 652,
+      "chineseName": "生活电器",
+      "translatedName": "Living appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032809,
+          "chineseName": "干衣机",
+          "translatedName": "clothes dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 10326,
+          "chineseName": "电动皂液器",
+          "translatedName": "Electric soap dispenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 1041210,
+          "chineseName": "家用抽湿机、除湿机",
+          "translatedName": "Household dehumidifier, dehumidifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 1047977,
+          "chineseName": "挂烫机",
+          "translatedName": "ironing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 1047979,
+          "chineseName": "超声波清洁机、蒸汽清洁机",
+          "translatedName": "Ultrasonic cleaning machine, steam cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 1036626,
+          "chineseName": "其他生活电器",
+          "translatedName": "Other living appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124190009,
+          "chineseName": "香薰机",
+          "translatedName": "aromatherapy machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124188008,
+          "chineseName": "家用除螨机、除螨仪",
+          "translatedName": "Household Mite Removal Machine, Mite Removal Instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124256008,
+          "chineseName": "商用吸尘器",
+          "translatedName": "Commercial vacuum cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124936001,
+          "chineseName": "擦窗机器人",
+          "translatedName": "Window cleaning robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 121374003,
+          "chineseName": "蒸汽刷",
+          "translatedName": "steam brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 121376003,
+          "chineseName": "蒸汽拖把",
+          "translatedName": "Steam mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 121428002,
+          "chineseName": "生活电器配件、附件",
+          "translatedName": "Household electrical accessories, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124186012,
+          "chineseName": "便携、手持式吸尘器",
+          "translatedName": "Portable, hand-held vacuum cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 124954001,
+          "chineseName": "提醒器",
+          "translatedName": "Reminder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 121430001,
+          "chineseName": "家用扫地机",
+          "translatedName": "household sweeper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 123618007,
+          "chineseName": "空气净化器配件",
+          "translatedName": "Air Purifier Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201301710,
+          "chineseName": "电子产品消毒器",
+          "translatedName": "Electronic product sterilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201301808,
+          "chineseName": "家用消毒液制造机",
+          "translatedName": "Household disinfectant making machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201332404,
+          "chineseName": "智能空调伴侣",
+          "translatedName": "Intelligent air conditioning companion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201304503,
+          "chineseName": "便携饮水机",
+          "translatedName": "portable water dispenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201331605,
+          "chineseName": "扫拖吸机器人",
+          "translatedName": "Sweep, drag and suction robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201693603,
+          "chineseName": "折叠洗衣机",
+          "translatedName": "Folding washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201694001,
+          "chineseName": "智能垃圾桶",
+          "translatedName": "Intelligent trash can",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201273557,
+          "chineseName": "洗鞋机",
+          "translatedName": "Shoe washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201684113,
+          "chineseName": "电动拖把",
+          "translatedName": "Electric mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201304106,
+          "chineseName": "智能降温保暖杯",
+          "translatedName": "Intelligent cooling warm cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201331604,
+          "chineseName": "除醛机",
+          "translatedName": "Aldehyde removal machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201335506,
+          "chineseName": "电子产品降温器",
+          "translatedName": "electronic product cooler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201348202,
+          "chineseName": "家用消毒棒",
+          "translatedName": "Household disinfection stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201661701,
+          "chineseName": "衣物护理机",
+          "translatedName": "Clothing care machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 1550,
+          "chineseName": "毛球修剪器",
+          "translatedName": "Hair ball trimmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201354845,
+          "chineseName": "化妆品冰箱",
+          "translatedName": "cosmetics refrigerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201303305,
+          "chineseName": "内衣消毒器",
+          "translatedName": "Underwear sterilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201349937,
+          "chineseName": "台式净饮机",
+          "translatedName": "Desktop clean drinking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 613,
+          "chineseName": "空气净化器",
+          "translatedName": "Air Purifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 624,
+          "chineseName": "加湿器",
+          "translatedName": "Humidifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 633,
+          "chineseName": "柔巾机",
+          "translatedName": "Soft towel machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 608,
+          "chineseName": "家用吸尘器",
+          "translatedName": "Household Vacuum Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 609,
+          "chineseName": "电熨斗",
+          "translatedName": "Electric iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 610,
+          "chineseName": "饮水机、直饮机",
+          "translatedName": "Water dispenser, direct drinking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 643,
+          "chineseName": "干手机",
+          "translatedName": "hand dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 647,
+          "chineseName": "家用垃圾处理机",
+          "translatedName": "household garbage disposal machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        },
+        {
+          "categoryId": 201925601,
+          "chineseName": "沙发/布艺/地毯清洗机",
+          "translatedName": "Sofa/fabric/carpet cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 652
+        }
+      ]
+    }
+  }
+}

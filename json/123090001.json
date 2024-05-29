@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123090001,
+      "chineseName": "夏凉被",
+      "translatedName": "Summer quilted",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084002"
+    }
+  }
+}

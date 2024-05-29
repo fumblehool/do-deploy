@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200974002,
+      "chineseName": "海鲜蒸柜/蒸饭柜/蒸柜",
+      "translatedName": "Seafood Steaming Cabinet/Steaming Cabinet/Steaming Cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

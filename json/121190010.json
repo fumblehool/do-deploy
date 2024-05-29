@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190010,
+      "chineseName": "其他轴承附属件",
+      "translatedName": "Other bearing accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141903"
+    }
+  }
+}

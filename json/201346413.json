@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201346413,
+      "chineseName": "餐桌椅+餐边柜",
+      "translatedName": "Dining table and chair sideboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

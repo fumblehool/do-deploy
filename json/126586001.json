@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126586001,
+      "chineseName": "生鲜灯",
+      "translatedName": "Fresh lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034964"
+    }
+  }
+}

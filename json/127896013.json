@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127896013,
+      "chineseName": "古建筑材料",
+      "translatedName": "ancient building materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127880007,
+          "chineseName": "影壁",
+          "translatedName": "Shadow wall",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127876013,
+          "chineseName": "古建瓦",
+          "translatedName": "Gujian tile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127926011,
+          "chineseName": "门钉",
+          "translatedName": "door nail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127902012,
+          "chineseName": "匾额",
+          "translatedName": "Plaque",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127872008,
+          "chineseName": "飞檐及飞檐材料",
+          "translatedName": "Cornice and material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127874015,
+          "chineseName": "斗拱",
+          "translatedName": "bucket arch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127914013,
+          "chineseName": "雀替",
+          "translatedName": "sparrow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127924015,
+          "chineseName": "古建石",
+          "translatedName": "ancient building stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127924016,
+          "chineseName": "牌坊",
+          "translatedName": "Archway",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127890014,
+          "chineseName": "黛瓦",
+          "translatedName": "Deva.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127896014,
+          "chineseName": "假山",
+          "translatedName": "rockery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127898011,
+          "chineseName": "门楼及门楼材料",
+          "translatedName": "Gate House and Gate House Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        },
+        {
+          "categoryId": 127902011,
+          "chineseName": "古建砖",
+          "translatedName": "ancient building brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127896013
+        }
+      ]
+    }
+  }
+}

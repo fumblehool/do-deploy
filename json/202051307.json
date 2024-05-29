@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051307,
+      "chineseName": "光电管",
+      "translatedName": "photocell",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058309"
+    }
+  }
+}

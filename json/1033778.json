@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033778,
+      "chineseName": "自动售货机",
+      "translatedName": "Vending Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "511"
+    }
+  }
+}

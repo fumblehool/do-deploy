@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3421,
+      "chineseName": "无线微波设备",
+      "translatedName": "wireless microwave equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034133,
+          "chineseName": "其他无线微波设备",
+          "translatedName": "Other Wireless Microwave Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3421
+        },
+        {
+          "categoryId": 1034134,
+          "chineseName": "MMDS接收系统",
+          "translatedName": "MMDS Receiving System",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3421
+        },
+        {
+          "categoryId": 1034136,
+          "chineseName": "广播发射机",
+          "translatedName": "broadcast transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3421
+        }
+      ]
+    }
+  }
+}

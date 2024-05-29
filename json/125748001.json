@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125748001,
+      "chineseName": "女式休闲裤",
+      "translatedName": "Women's casual pants",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031871,
+          "chineseName": "休闲裤",
+          "translatedName": "Casual Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748001
+        },
+        {
+          "categoryId": 125752002,
+          "chineseName": "西装裤/正装裤",
+          "translatedName": "suit pants/dress pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748001
+        },
+        {
+          "categoryId": 1048316,
+          "chineseName": "羽绒裤/棉裤",
+          "translatedName": "Down trousers/cotton trousers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748001
+        }
+      ]
+    }
+  }
+}

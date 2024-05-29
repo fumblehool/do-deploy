@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122224002,
+      "chineseName": "窗花、窗贴",
+      "translatedName": "Window grilles, window stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122198001"
+    }
+  }
+}

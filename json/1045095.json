@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045095,
+      "chineseName": "气动工具配件",
+      "translatedName": "Pneumatic tool accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10355"
+    }
+  }
+}

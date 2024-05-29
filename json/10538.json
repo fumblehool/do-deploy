@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10538,
+      "chineseName": "库存体育运动产品",
+      "translatedName": "Stock Sports Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

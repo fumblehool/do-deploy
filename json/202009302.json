@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202009302,
+      "chineseName": "光伏并网箱",
+      "translatedName": "Photovoltaic grid-connected box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127754005"
+    }
+  }
+}

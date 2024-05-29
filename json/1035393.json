@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035393,
+      "chineseName": "其他气动元件",
+      "translatedName": "Other pneumatic components",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032471"
+    }
+  }
+}

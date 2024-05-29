@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126510005,
+      "chineseName": "室内安全检测",
+      "translatedName": "Indoor safety detection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036216,
+          "chineseName": "其他室内环保检测仪器",
+          "translatedName": "Other indoor environmental protection testing instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036217,
+          "chineseName": "氨气检测仪",
+          "translatedName": "Ammonia gas detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036218,
+          "chineseName": "苯检测仪器",
+          "translatedName": "Benzene detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036219,
+          "chineseName": "甲醛检测仪器",
+          "translatedName": "Formaldehyde detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036220,
+          "chineseName": "射线检测仪器",
+          "translatedName": "ray testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036221,
+          "chineseName": "VOC检测仪器",
+          "translatedName": "VOC detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        },
+        {
+          "categoryId": 1036223,
+          "chineseName": "消毒机",
+          "translatedName": "disinfecting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510005
+        }
+      ]
+    }
+  }
+}

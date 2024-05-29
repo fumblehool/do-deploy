@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10263,
+      "chineseName": "工具软件",
+      "translatedName": "Tools Software",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "734"
+    }
+  }
+}

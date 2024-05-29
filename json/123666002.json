@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123666002,
+      "chineseName": "花水纯露",
+      "translatedName": "Flower Water Pure Dew",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201309707"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070011,
+      "chineseName": "西药",
+      "translatedName": "western medicine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201976701,
+      "chineseName": "射频仪（器械）",
+      "translatedName": "Radio Generator (device)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

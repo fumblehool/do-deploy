@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033214,
+      "chineseName": "其他面部防护",
+      "translatedName": "Other face protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022010"
+    }
+  }
+}

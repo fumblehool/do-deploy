@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033442,
+      "chineseName": "铜丝网",
+      "translatedName": "copper wire mesh",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "903"
+    }
+  }
+}

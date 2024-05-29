@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124934001,
+      "chineseName": "桑拿浴箱",
+      "translatedName": "Sauna box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

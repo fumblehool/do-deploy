@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201179401,
+      "chineseName": "水写布",
+      "translatedName": "Waterwrite Cloth",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2127"
+    }
+  }
+}

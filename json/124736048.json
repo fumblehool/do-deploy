@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736048,
+      "chineseName": "乳头保护罩",
+      "translatedName": "Nipple protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122528003"
+    }
+  }
+}

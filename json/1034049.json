@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034049,
+      "chineseName": "电子加工",
+      "translatedName": "electronic processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805"
+    }
+  }
+}

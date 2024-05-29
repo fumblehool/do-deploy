@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061011,
+      "chineseName": "讯响器",
+      "translatedName": "Sounder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058705"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033094,
+      "chineseName": "绘图模板",
+      "translatedName": "Drawing Template",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2127"
+    }
+  }
+}

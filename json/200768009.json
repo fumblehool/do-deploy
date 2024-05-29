@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200768009,
+      "chineseName": "SCR模块",
+      "translatedName": "SCR module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200800009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160301,
+      "chineseName": "钥匙扣",
+      "translatedName": "Keychain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492003"
+    }
+  }
+}

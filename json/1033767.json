@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033767,
+      "chineseName": "柜员机设备",
+      "translatedName": "Teller Machine Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "510"
+    }
+  }
+}

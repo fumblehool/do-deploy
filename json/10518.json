@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10518,
+      "chineseName": "不锈钢型材",
+      "translatedName": "Stainless Steel Profile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033427,
+          "chineseName": "其他不锈钢型材",
+          "translatedName": "Other Stainless Steel Profiles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        },
+        {
+          "categoryId": 1044394,
+          "chineseName": "不锈钢角钢",
+          "translatedName": "stainless steel angle steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        },
+        {
+          "categoryId": 1044409,
+          "chineseName": "不锈钢槽钢",
+          "translatedName": "Stainless steel channel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        },
+        {
+          "categoryId": 1044437,
+          "chineseName": "不锈钢方钢",
+          "translatedName": "stainless steel square steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        },
+        {
+          "categoryId": 1044455,
+          "chineseName": "不锈钢扁钢",
+          "translatedName": "Stainless steel flat steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        },
+        {
+          "categoryId": 123374003,
+          "chineseName": "不锈钢异型材",
+          "translatedName": "Stainless steel profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10518
+        }
+      ]
+    }
+  }
+}

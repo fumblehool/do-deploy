@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033329,
+      "chineseName": "手术专用设备",
+      "translatedName": "Special equipment for surgery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033207,
+      "chineseName": "软梯、逃生梯",
+      "translatedName": "Ladder, escape ladder",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "70"
+    }
+  }
+}

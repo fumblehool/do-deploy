@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201368201,
+      "chineseName": "化肥饲料袋",
+      "translatedName": "Fertilizer feed bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201368001"
+    }
+  }
+}

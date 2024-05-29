@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201329921,
+      "chineseName": "美容纤体贴",
+      "translatedName": "Beauty slimming paste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126182004"
+    }
+  }
+}

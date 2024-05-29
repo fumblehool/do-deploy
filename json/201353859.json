@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201353859,
+      "chineseName": "缓冲垫、缓冲块",
+      "translatedName": "Cushion, buffer block",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373405"
+    }
+  }
+}

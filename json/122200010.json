@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122200010,
+      "chineseName": "其他衣物清洁护理",
+      "translatedName": "Other clothes cleaning care",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196011"
+    }
+  }
+}

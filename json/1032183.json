@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032183,
+      "chineseName": "车釉/车漆镀膜",
+      "translatedName": "Car glaze/paint coating",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "79"
+    }
+  }
+}

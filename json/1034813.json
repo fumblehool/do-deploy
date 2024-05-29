@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034813,
+      "chineseName": "涂料光亮剂",
+      "translatedName": "paint brightener",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10384"
+    }
+  }
+}

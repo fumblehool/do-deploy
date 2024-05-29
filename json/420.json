@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 420,
+      "chineseName": "其他纺织、皮革",
+      "translatedName": "Other textiles, leather",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "4"
+    }
+  }
+}

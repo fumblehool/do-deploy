@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031758,
+      "chineseName": "腈纶纤维",
+      "translatedName": "acrylic fiber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "41508"
+    }
+  }
+}

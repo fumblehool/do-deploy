@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045018,
+      "chineseName": "电玩设备",
+      "translatedName": "video game equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1811"
+    }
+  }
+}

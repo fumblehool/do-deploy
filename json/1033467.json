@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033467,
+      "chineseName": "组合运动户外护具",
+      "translatedName": "combination sports outdoor protective gear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2040"
+    }
+  }
+}

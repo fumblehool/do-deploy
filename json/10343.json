@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10343,
+      "chineseName": "接续设备",
+      "translatedName": "connection equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033955,
+          "chineseName": "其他接续设备",
+          "translatedName": "Other connection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10343
+        },
+        {
+          "categoryId": 1033956,
+          "chineseName": "电缆接线盒",
+          "translatedName": "Cable junction box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10343
+        },
+        {
+          "categoryId": 1033957,
+          "chineseName": "光缆接头盒",
+          "translatedName": "Optical cable splice box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10343
+        },
+        {
+          "categoryId": 1033958,
+          "chineseName": "光纤连接器",
+          "translatedName": "fiber optic connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10343
+        },
+        {
+          "categoryId": 1033959,
+          "chineseName": "光纤跳线",
+          "translatedName": "Optical fiber jumper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10343
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031862,
+      "chineseName": "洗唛、商标",
+      "translatedName": "Washing mark, trademark",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10157"
+    }
+  }
+}

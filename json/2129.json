@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2129,
+      "chineseName": "展示用品",
+      "translatedName": "Display supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033122,
+          "chineseName": "其他展示用品",
+          "translatedName": "Other Display Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 1033124,
+          "chineseName": "板擦",
+          "translatedName": "Board eraser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 1033125,
+          "chineseName": "磁性板",
+          "translatedName": "Magnetic plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 1033126,
+          "chineseName": "白板",
+          "translatedName": "Whiteboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 1033127,
+          "chineseName": "绿板",
+          "translatedName": "Green board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 1033128,
+          "chineseName": "黑板",
+          "translatedName": "Blackboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 124190005,
+          "chineseName": "撕名牌贴",
+          "translatedName": "Tear the famous brand sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 123102002,
+          "chineseName": "证件卡、挂绳",
+          "translatedName": "ID card, lanyard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 123106001,
+          "chineseName": "白板磁粒",
+          "translatedName": "Whiteboard Magnetic Granules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 121542013,
+          "chineseName": "教学演示、展示用品",
+          "translatedName": "Teaching demonstration, display supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 124734033,
+          "chineseName": "办公展示架",
+          "translatedName": "Office display rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 201160506,
+          "chineseName": "胸卡夹",
+          "translatedName": "Chest clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 201330014,
+          "chineseName": "荧光板",
+          "translatedName": "fluorescent plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        },
+        {
+          "categoryId": 201752501,
+          "chineseName": "软木板/留言板",
+          "translatedName": "Cork Board/Message Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2129
+        }
+      ]
+    }
+  }
+}

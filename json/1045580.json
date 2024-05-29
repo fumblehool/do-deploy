@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045580,
+      "chineseName": "办公沙发",
+      "translatedName": "Office Sofa",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045579"
+    }
+  }
+}

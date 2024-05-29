@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044718,
+      "chineseName": "瑜伽辅助用品",
+      "translatedName": "Yoga aids",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044713"
+    }
+  }
+}

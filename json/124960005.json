@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124960005,
+      "chineseName": "电气控制方案",
+      "translatedName": "Electrical control scheme",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125062007,
+          "chineseName": "送变电工程专业承包",
+          "translatedName": "Power transmission and transformation engineering professional contracting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124960005
+        },
+        {
+          "categoryId": 124958014,
+          "chineseName": "送变电工程设计",
+          "translatedName": "Power transmission and transformation engineering design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124960005
+        }
+      ]
+    }
+  }
+}

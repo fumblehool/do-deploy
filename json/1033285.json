@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033285,
+      "chineseName": "数码存储卡",
+      "translatedName": "Digital Memory Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032228"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962006,
+      "chineseName": "孕妇产前产后用品",
+      "translatedName": "Prenatal and Postnatal Supplies for Pregnant Women",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1501"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3018,
+      "chineseName": "其他自然灾害防护",
+      "translatedName": "Other Natural Disaster Protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330406"
+    }
+  }
+}

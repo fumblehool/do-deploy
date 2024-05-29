@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032317,
+      "chineseName": "光电开关",
+      "translatedName": "photoelectric switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1407"
+    }
+  }
+}

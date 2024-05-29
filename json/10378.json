@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10378,
+      "chineseName": "增塑剂",
+      "translatedName": "Plasticizer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10371"
+    }
+  }
+}

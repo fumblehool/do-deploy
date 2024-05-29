@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034028,
+      "chineseName": "压塑加工",
+      "translatedName": "compression molding processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034024"
+    }
+  }
+}

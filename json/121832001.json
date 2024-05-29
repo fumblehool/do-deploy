@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121832001,
+      "chineseName": "狗狗湿粮",
+      "translatedName": "dog wet food",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200550001"
+    }
+  }
+}

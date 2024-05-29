@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036258,
+      "chineseName": "其他绳索、扎带",
+      "translatedName": "Other ropes, ties",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10362"
+    }
+  }
+}

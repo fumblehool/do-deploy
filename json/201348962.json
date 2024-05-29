@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201348962,
+      "chineseName": "橡胶支座",
+      "translatedName": "Rubber bearing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373405"
+    }
+  }
+}

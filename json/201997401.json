@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201997401,
+      "chineseName": "功能小包",
+      "translatedName": "Function packet",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037379,
+          "chineseName": "证件包",
+          "translatedName": "ID Packs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201997401
+        },
+        {
+          "categoryId": 1045062,
+          "chineseName": "卡包卡套",
+          "translatedName": "Card Pack Card Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201997401
+        },
+        {
+          "categoryId": 122232001,
+          "chineseName": "钥匙包",
+          "translatedName": "Key Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201997401
+        }
+      ]
+    }
+  }
+}

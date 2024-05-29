@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127868004,
+      "chineseName": "配电箱端子",
+      "translatedName": "Distribution box terminal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "526"
+    }
+  }
+}

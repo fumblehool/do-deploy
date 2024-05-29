@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202043601,
+      "chineseName": "喷雾瓶",
+      "translatedName": "spray bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126478003"
+    }
+  }
+}

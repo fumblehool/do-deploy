@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2823,
+      "chineseName": "维修及安装服务",
+      "translatedName": "Maintenance and installation services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033295,
+          "chineseName": "其他维修及安装",
+          "translatedName": "Other maintenance and installation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1033297,
+          "chineseName": "电器维修及安装",
+          "translatedName": "Electrical maintenance and installation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1033298,
+          "chineseName": "办公设备维修及安装",
+          "translatedName": "Maintenance and installation of office equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036513,
+          "chineseName": "机械设备维修安装",
+          "translatedName": "Maintenance and installation of mechanical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036514,
+          "chineseName": "汽车及配件维修安装",
+          "translatedName": "Maintenance and installation of automobiles and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036515,
+          "chineseName": "建筑安装维修",
+          "translatedName": "Building installation and maintenance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036516,
+          "chineseName": "数码、电脑维修安装",
+          "translatedName": "Digital, computer maintenance and installation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036517,
+          "chineseName": "家具维修",
+          "translatedName": "Furniture maintenance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036518,
+          "chineseName": "通信产品维修安装",
+          "translatedName": "Maintenance and installation of communication products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036519,
+          "chineseName": "仪器、仪表维修安装",
+          "translatedName": "Maintenance and installation of instruments and meters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036520,
+          "chineseName": "五金、工具维修安装",
+          "translatedName": "Maintenance and installation of hardware and tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036521,
+          "chineseName": "电工电气维修安装",
+          "translatedName": "Electrical maintenance and installation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036522,
+          "chineseName": "包装印刷设备维修安装",
+          "translatedName": "Maintenance and installation of packaging and printing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        },
+        {
+          "categoryId": 1036523,
+          "chineseName": "电子产品维修安装",
+          "translatedName": "Maintenance and installation of electronic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2823
+        }
+      ]
+    }
+  }
+}

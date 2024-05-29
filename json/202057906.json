@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057906,
+      "chineseName": "锌/铁/硒（食品）",
+      "translatedName": "Zinc/Iron/Selenium (food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

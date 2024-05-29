@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201664803,
+      "chineseName": "保暖贴/怀炉/保暖用品",
+      "translatedName": "Warm Paste/Furnace/Warm Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047276,
+          "chineseName": "暖贴、暖宝宝、发热贴",
+          "translatedName": "Warm paste, warm baby, hot paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 1047277,
+          "chineseName": "充水热水袋",
+          "translatedName": "Water-filled hot water bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 1047278,
+          "chineseName": "杯炉、怀炉用品",
+          "translatedName": "Cup stove, hearth supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 1045061,
+          "chineseName": "USB拖鞋、暖脚宝",
+          "translatedName": "USB slippers, warm feet treasure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 121344002,
+          "chineseName": "USB手套",
+          "translatedName": "USB gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 121372001,
+          "chineseName": "暖手宝",
+          "translatedName": "Hand Warmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 201306220,
+          "chineseName": "怀炉套",
+          "translatedName": "Furnace sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 201689102,
+          "chineseName": "其他保暖贴/怀炉/保暖用品",
+          "translatedName": "Other Thermal Paste/Furnace/Warm-keeping Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        },
+        {
+          "categoryId": 202055309,
+          "chineseName": "发热暖脖圈",
+          "translatedName": "Heating warm neck ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201664803
+        }
+      ]
+    }
+  }
+}

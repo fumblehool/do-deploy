@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305130,
+      "chineseName": "挂饰挂件",
+      "translatedName": "ornament pendant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201308926"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041302,
+      "chineseName": "汉服",
+      "translatedName": "Hanfu",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202043902,
+          "chineseName": "云肩",
+          "translatedName": "cloud shoulder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202041302
+        },
+        {
+          "categoryId": 202044901,
+          "chineseName": "披帛",
+          "translatedName": "Pi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202041302
+        },
+        {
+          "categoryId": 202045301,
+          "chineseName": "汉服套装",
+          "translatedName": "Hanfu Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202041302
+        },
+        {
+          "categoryId": 202045401,
+          "chineseName": "马面裙",
+          "translatedName": "Horse face skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202041302
+        }
+      ]
+    }
+  }
+}

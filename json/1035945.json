@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035945,
+      "chineseName": "其他煤化工产品",
+      "translatedName": "Other Coal Chemical Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "843"
+    }
+  }
+}

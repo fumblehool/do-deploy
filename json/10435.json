@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10435,
+      "chineseName": "建筑、建材",
+      "translatedName": "Construction, building materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031800,
+          "chineseName": "建材代理加盟",
+          "translatedName": "Building materials agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039475,
+          "chineseName": "玻璃钢",
+          "translatedName": "glass steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039477,
+          "chineseName": "建筑用碳纤维材料",
+          "translatedName": "Carbon fiber materials for construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039478,
+          "chineseName": "建筑用抗裂添加剂",
+          "translatedName": "Anti-cracking additives for construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039480,
+          "chineseName": "盖板及沟盖",
+          "translatedName": "Cover plate and trench cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039482,
+          "chineseName": "灌浆料",
+          "translatedName": "grouting material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 10439,
+          "chineseName": "其他建筑、建材类管材",
+          "translatedName": "Other construction and building materials pipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039461,
+          "chineseName": "波音软片",
+          "translatedName": "Boeing film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039462,
+          "chineseName": "采光板及采光瓦",
+          "translatedName": "Daylighting board and lighting tile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039463,
+          "chineseName": "土工垫及垫块",
+          "translatedName": "Geotechnical cushion and cushion block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039465,
+          "chineseName": "排水网及三维网",
+          "translatedName": "Drainage network and three-dimensional network",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039466,
+          "chineseName": "钢格板",
+          "translatedName": "Steel grid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039467,
+          "chineseName": "彩钢瓦",
+          "translatedName": "color steel tile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039468,
+          "chineseName": "钢纤维",
+          "translatedName": "steel fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039469,
+          "chineseName": "收口网",
+          "translatedName": "closing net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039472,
+          "chineseName": "钢模板",
+          "translatedName": "Steel formwork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039473,
+          "chineseName": "网格板及格栅板",
+          "translatedName": "Grid plate and grid plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 10437,
+          "chineseName": "复合管",
+          "translatedName": "Composite pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039458,
+          "chineseName": "耐力板",
+          "translatedName": "Endurance plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1039459,
+          "chineseName": "排水板",
+          "translatedName": "Drainage board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1355,
+          "chineseName": "变形缝装置",
+          "translatedName": "Deformation joint device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1357,
+          "chineseName": "幕墙及材料配件",
+          "translatedName": "Curtain wall and material accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1317,
+          "chineseName": "塑料建材",
+          "translatedName": "Plastic Building Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1320,
+          "chineseName": "金属建材",
+          "translatedName": "Metal building materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1325,
+          "chineseName": "特种建材",
+          "translatedName": "Special building materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        },
+        {
+          "categoryId": 1332,
+          "chineseName": "库存建材",
+          "translatedName": "Inventory of building materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10435
+        }
+      ]
+    }
+  }
+}

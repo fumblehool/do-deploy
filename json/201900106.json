@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201900106,
+      "chineseName": "净菜/盆菜",
+      "translatedName": "Clean Vegetable/Poted Vegetable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201900804"
+    }
+  }
+}

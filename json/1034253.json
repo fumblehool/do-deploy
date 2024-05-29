@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034253,
+      "chineseName": "沉淀池",
+      "translatedName": "Sedimentation tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "77"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122482002,
+      "chineseName": "情趣内裤",
+      "translatedName": "sexy underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450002"
+    }
+  }
+}

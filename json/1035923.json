@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035923,
+      "chineseName": "元素分析仪器",
+      "translatedName": "elemental analysis instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10211"
+    }
+  }
+}

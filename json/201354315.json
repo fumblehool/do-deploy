@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201354315,
+      "chineseName": "咖啡滤纸",
+      "translatedName": "coffee filter paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162703"
+    }
+  }
+}

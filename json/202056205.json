@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056205,
+      "chineseName": "发光二极管",
+      "translatedName": "Light Emitting Diode",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061303"
+    }
+  }
+}

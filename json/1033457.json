@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033457,
+      "chineseName": "高尔夫组合球具",
+      "translatedName": "Golf combination club",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2005"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127462005,
+      "chineseName": "披肩帽/连体帽",
+      "translatedName": "Shawl/Bonnet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127464010"
+    }
+  }
+}

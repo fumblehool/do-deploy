@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124196001,
+      "chineseName": "安全带",
+      "translatedName": "Seat belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124184002"
+    }
+  }
+}

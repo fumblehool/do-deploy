@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041377,
+      "chineseName": "防雷电设备",
+      "translatedName": "Lightning protection equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041379,
+          "chineseName": "防雷箱",
+          "translatedName": "Lightning protection box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041377
+        },
+        {
+          "categoryId": 1041381,
+          "chineseName": "防雷器",
+          "translatedName": "Lightning protection device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041377
+        },
+        {
+          "categoryId": 1041382,
+          "chineseName": "防雷监测仪",
+          "translatedName": "lightning protection monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041377
+        },
+        {
+          "categoryId": 1041383,
+          "chineseName": "其他防雷电设备",
+          "translatedName": "Other lightning protection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041377
+        }
+      ]
+    }
+  }
+}

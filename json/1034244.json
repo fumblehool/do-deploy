@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034244,
+      "chineseName": "原水处理设备",
+      "translatedName": "Raw water treatment equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032563,
+          "chineseName": "泳池水处理设备",
+          "translatedName": "Swimming pool water treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1032564,
+          "chineseName": "软化水设备",
+          "translatedName": "Water softening equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1032565,
+          "chineseName": "高纯水制取设备",
+          "translatedName": "High-purity water production equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034245,
+          "chineseName": "其他原水处理设备",
+          "translatedName": "Other raw water treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034246,
+          "chineseName": "海水淡化设备",
+          "translatedName": "seawater desalination equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034247,
+          "chineseName": "水杀菌消毒设备",
+          "translatedName": "Water disinfection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034248,
+          "chineseName": "供水设备",
+          "translatedName": "Water supply equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034249,
+          "chineseName": "除氧设备",
+          "translatedName": "Deaeration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034250,
+          "chineseName": "离子交换设备",
+          "translatedName": "ion exchange equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034251,
+          "chineseName": "反渗透设备",
+          "translatedName": "Reverse osmosis equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        },
+        {
+          "categoryId": 1034252,
+          "chineseName": "电渗析设备",
+          "translatedName": "electrodialysis equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034244
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051620,
+      "chineseName": "移位机（医疗器械）",
+      "translatedName": "Displacement Machine (medical devices)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

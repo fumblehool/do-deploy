@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309116,
+      "chineseName": "动漫/明星立牌",
+      "translatedName": "Anime/Star Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303011"
+    }
+  }
+}

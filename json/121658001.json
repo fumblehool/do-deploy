@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121658001,
+      "chineseName": "男士包袋",
+      "translatedName": "Men's Bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037361,
+          "chineseName": "男士公文包",
+          "translatedName": "Men's Briefcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 124744006,
+          "chineseName": "男士手拿包",
+          "translatedName": "Men's Clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 124744007,
+          "chineseName": "男士胸包",
+          "translatedName": "Men's Chest Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 124744008,
+          "chineseName": "男士腰包",
+          "translatedName": "Men's Fanny Pack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 124736007,
+          "chineseName": "男士手提包",
+          "translatedName": "Men's Tote",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 124746002,
+          "chineseName": "男士斜挎包",
+          "translatedName": "Men's Messenger Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        },
+        {
+          "categoryId": 121660001,
+          "chineseName": "男士单肩包",
+          "translatedName": "Men's Shoulder Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121658001
+        }
+      ]
+    }
+  }
+}

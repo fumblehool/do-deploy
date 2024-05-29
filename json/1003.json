@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1003,
+      "chineseName": "天然气",
+      "translatedName": "Natural gas",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10"
+    }
+  }
+}

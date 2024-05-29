@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046532,
+      "chineseName": "其他化纤面料",
+      "translatedName": "Other chemical fiber fabrics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046526"
+    }
+  }
+}

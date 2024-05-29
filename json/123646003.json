@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123646003,
+      "chineseName": "跳跃类玩具",
+      "translatedName": "Jumping toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

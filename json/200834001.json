@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200834001,
+      "chineseName": "RF晶体管",
+      "translatedName": "RF transistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200774004"
+    }
+  }
+}

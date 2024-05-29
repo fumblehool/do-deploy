@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123758006,
+      "chineseName": "智能体温计",
+      "translatedName": "intelligent thermometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

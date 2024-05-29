@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031917,
+      "chineseName": "其他短外套",
+      "translatedName": "Other Short Coats",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

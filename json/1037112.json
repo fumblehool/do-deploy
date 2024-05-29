@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037112,
+      "chineseName": "二苯醚",
+      "translatedName": "diphenyl ether",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

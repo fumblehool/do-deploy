@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2828,
+      "chineseName": "设计服务",
+      "translatedName": "Design Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032066,
+          "chineseName": "其他设计",
+          "translatedName": "Other Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1033788,
+          "chineseName": "包装设计",
+          "translatedName": "Packaging Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1033789,
+          "chineseName": "平面设计",
+          "translatedName": "Graphic Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1033790,
+          "chineseName": "服装设计",
+          "translatedName": "Costume Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1047415,
+          "chineseName": "名片卡片设计",
+          "translatedName": "Business Card Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036528,
+          "chineseName": "企业形象设计",
+          "translatedName": "corporate image design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036529,
+          "chineseName": "宣传品设计",
+          "translatedName": "Promotional material design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036531,
+          "chineseName": "工业设计",
+          "translatedName": "Industrial Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036540,
+          "chineseName": "产品设计",
+          "translatedName": "Product Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036541,
+          "chineseName": "礼品设计",
+          "translatedName": "Gift Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 1036527,
+          "chineseName": "LOGO设计",
+          "translatedName": "LOGO Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        },
+        {
+          "categoryId": 280513,
+          "chineseName": "装潢设计",
+          "translatedName": "Decoration Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2828
+        }
+      ]
+    }
+  }
+}

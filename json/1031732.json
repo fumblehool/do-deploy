@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031732,
+      "chineseName": "被套",
+      "translatedName": "Quilt cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10132"
+    }
+  }
+}

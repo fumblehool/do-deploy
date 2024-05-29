@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127870015,
+      "chineseName": "商用地毯",
+      "translatedName": "Commercial carpet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900016"
+    }
+  }
+}

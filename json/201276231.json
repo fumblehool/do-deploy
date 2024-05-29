@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201276231,
+      "chineseName": "海带零食",
+      "translatedName": "kelp snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742010"
+    }
+  }
+}

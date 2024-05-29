@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122384004,
+      "chineseName": "卫浴洁具",
+      "translatedName": "Sanitary Ware",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046401,
+          "chineseName": "其他卫浴洁具及配件",
+          "translatedName": "Other Sanitary Ware and Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 1046402,
+          "chineseName": "浴室柜",
+          "translatedName": "Bathroom Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 1047896,
+          "chineseName": "马桶洁身器、电子盖板",
+          "translatedName": "Toilet cleaner, electronic cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122344008,
+          "chineseName": "普通马桶",
+          "translatedName": "Ordinary toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122340006,
+          "chineseName": "拖把盆",
+          "translatedName": "Mop basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122314009,
+          "chineseName": "浴室镜",
+          "translatedName": "Bathroom mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122318006,
+          "chineseName": "智能马桶盖",
+          "translatedName": "Intelligent toilet cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122318007,
+          "chineseName": "蹲便器",
+          "translatedName": "squatting pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122366006,
+          "chineseName": "台盆/面盆",
+          "translatedName": "Basin/basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122324009,
+          "chineseName": "普通马桶盖",
+          "translatedName": "Ordinary toilet lid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122324010,
+          "chineseName": "马桶水箱",
+          "translatedName": "Toilet tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122324011,
+          "chineseName": "淋浴房",
+          "translatedName": "Shower room",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122374011,
+          "chineseName": "小便器",
+          "translatedName": "Urinal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122374012,
+          "chineseName": "立柱盆",
+          "translatedName": "Pillar basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122306012,
+          "chineseName": "智能马桶",
+          "translatedName": "Intelligent toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122350007,
+          "chineseName": "浴缸",
+          "translatedName": "Bathtub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122400003,
+          "chineseName": "镜柜/镜台",
+          "translatedName": "Mirror cabinet/mirror table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 122404005,
+          "chineseName": "洗衣机组合柜",
+          "translatedName": "Washing machine combination cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 201351665,
+          "chineseName": "马桶喷枪",
+          "translatedName": "Toilet spray gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 201161208,
+          "chineseName": "浴室柜镜柜组合",
+          "translatedName": "Bathroom cabinet mirror cabinet combination",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        },
+        {
+          "categoryId": 201861302,
+          "chineseName": "移动马桶",
+          "translatedName": "Mobile Toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122384004
+        }
+      ]
+    }
+  }
+}

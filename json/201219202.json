@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201219202,
+      "chineseName": "社科生活",
+      "translatedName": "social science life",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045647"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048040,
+      "chineseName": "叠衣板、架",
+      "translatedName": "Fold board, rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122390004"
+    }
+  }
+}

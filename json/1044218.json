@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044218,
+      "chineseName": "喷雪、喷彩带",
+      "translatedName": "Spray snow, spray ribbon",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122192001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045951,
+      "chineseName": "PP塑料片",
+      "translatedName": "PP plastic sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045948"
+    }
+  }
+}

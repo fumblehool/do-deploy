@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201228337,
+      "chineseName": "变阻器",
+      "translatedName": "rheostat",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201219526,
+          "chineseName": "频敏变阻器",
+          "translatedName": "frequency sensitive rheostat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201228337
+        }
+      ]
+    }
+  }
+}

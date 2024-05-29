@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122700011,
+      "chineseName": "牙齿美白仪/美牙仪",
+      "translatedName": "Tooth whitening instrument/tooth beauty instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

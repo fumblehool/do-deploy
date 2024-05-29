@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125740007,
+      "chineseName": "脚饰脐饰及其他饰品",
+      "translatedName": "Foot ornaments navel ornaments and other accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1039848,
+          "chineseName": "库存饰品",
+          "translatedName": "Inventory jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740007
+        },
+        {
+          "categoryId": 122702003,
+          "chineseName": "脐饰",
+          "translatedName": "Umbilical Ornament",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740007
+        },
+        {
+          "categoryId": 1743,
+          "chineseName": "其他首饰",
+          "translatedName": "Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740007
+        },
+        {
+          "categoryId": 1745,
+          "chineseName": "脚饰",
+          "translatedName": "Foot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740007
+        },
+        {
+          "categoryId": 201867501,
+          "chineseName": "身体链",
+          "translatedName": "body chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125740007
+        }
+      ]
+    }
+  }
+}

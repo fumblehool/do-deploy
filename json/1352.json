@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1352,
+      "chineseName": "建材生产加工机械",
+      "translatedName": "Building materials production and processing machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "65"
+    }
+  }
+}

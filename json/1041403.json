@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041403,
+      "chineseName": "交通信号系统",
+      "translatedName": "traffic signal system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041282"
+    }
+  }
+}

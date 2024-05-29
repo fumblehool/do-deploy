@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032500,
+      "chineseName": "园林和高空作业机械",
+      "translatedName": "Garden and aerial work machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10446"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042780,
+      "chineseName": "金属软管包装",
+      "translatedName": "Metal Hose Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10366"
+    }
+  }
+}

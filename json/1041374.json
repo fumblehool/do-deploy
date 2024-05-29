@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041374,
+      "chineseName": "其他信息安全产品",
+      "translatedName": "Other Information Security Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041366"
+    }
+  }
+}

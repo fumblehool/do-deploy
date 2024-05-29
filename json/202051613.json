@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051613,
+      "chineseName": "太阳能市政/物业应用",
+      "translatedName": "Solar Municipal/Property Applications",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055610"
+    }
+  }
+}

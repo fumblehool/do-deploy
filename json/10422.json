@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10422,
+      "chineseName": "木质材料",
+      "translatedName": "Wooden materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032585,
+          "chineseName": "木皮",
+          "translatedName": "Wooden skin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 1032586,
+          "chineseName": "木质线材",
+          "translatedName": "Wooden wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 1038386,
+          "chineseName": "装饰板材",
+          "translatedName": "Decorative sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 10423,
+          "chineseName": "原木",
+          "translatedName": "Log",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 10424,
+          "chineseName": "木板材",
+          "translatedName": "Wood board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 1039483,
+          "chineseName": "木塑材料",
+          "translatedName": "wood plastic material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 10426,
+          "chineseName": "其他木质材料",
+          "translatedName": "Other Wood Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 10425,
+          "chineseName": "木质型材",
+          "translatedName": "Wood profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 201134401,
+          "chineseName": "中密度纤维板",
+          "translatedName": "medium density fiberboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 201134501,
+          "chineseName": "胶合板",
+          "translatedName": "Plywood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        },
+        {
+          "categoryId": 201134601,
+          "chineseName": "刨花板",
+          "translatedName": "particleboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10422
+        }
+      ]
+    }
+  }
+}

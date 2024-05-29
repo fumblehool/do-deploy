@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10118,
+      "chineseName": "纱线",
+      "translatedName": "Yarn",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031726,
+          "chineseName": "花式纱",
+          "translatedName": "fancy yarn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10119,
+          "chineseName": "棉纺纱",
+          "translatedName": "cotton spinning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10120,
+          "chineseName": "麻纺纱",
+          "translatedName": "hemp spinning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10121,
+          "chineseName": "毛纺纱",
+          "translatedName": "wool spinning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10123,
+          "chineseName": "绢纺纱",
+          "translatedName": "silk spinning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10124,
+          "chineseName": "化纤纱",
+          "translatedName": "chemical fiber yarn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10125,
+          "chineseName": "混纺、合股纱",
+          "translatedName": "Blended and plied yarn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 10126,
+          "chineseName": "其他纱线",
+          "translatedName": "Other Yarn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        },
+        {
+          "categoryId": 122142002,
+          "chineseName": "羊绒纱",
+          "translatedName": "Cashmere Yarn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10118
+        }
+      ]
+    }
+  }
+}

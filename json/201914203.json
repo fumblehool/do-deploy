@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201914203,
+      "chineseName": "测量工具",
+      "translatedName": "Measuring tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033847,
+          "chineseName": "卷尺",
+          "translatedName": "Tape Measure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1033907,
+          "chineseName": "高度计、高度尺",
+          "translatedName": "Altimeter, height gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036122,
+          "chineseName": "电子尺",
+          "translatedName": "Electronic ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036123,
+          "chineseName": "方箱",
+          "translatedName": "Square box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036125,
+          "chineseName": "测高仪",
+          "translatedName": "altimeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036127,
+          "chineseName": "比较仪",
+          "translatedName": "Comparator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036823,
+          "chineseName": "平板",
+          "translatedName": "Tablet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1036824,
+          "chineseName": "对弧样板",
+          "translatedName": "Arc template",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1040578,
+          "chineseName": "V型架",
+          "translatedName": "V-frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 1046920,
+          "chineseName": "水平尺",
+          "translatedName": "Level Ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 124184007,
+          "chineseName": "钢直尺",
+          "translatedName": "Steel ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201922604,
+          "chineseName": "测量台",
+          "translatedName": "Measuring table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201915103,
+          "chineseName": "光栅尺",
+          "translatedName": "Grating ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201915404,
+          "chineseName": "称量仪器",
+          "translatedName": "weighing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201923103,
+          "chineseName": "测量台架",
+          "translatedName": "Measuring bench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201923202,
+          "chineseName": "测量量具辅件",
+          "translatedName": "Measuring tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        },
+        {
+          "categoryId": 201923402,
+          "chineseName": "量块",
+          "translatedName": "Gauge block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201914203
+        }
+      ]
+    }
+  }
+}

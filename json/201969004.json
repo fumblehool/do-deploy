@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201969004,
+      "chineseName": "线材成型机",
+      "translatedName": "Wire Forming Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201958503"
+    }
+  }
+}

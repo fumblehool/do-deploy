@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2827,
+      "chineseName": "餐饮服务",
+      "translatedName": "Catering Service",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2841"
+    }
+  }
+}

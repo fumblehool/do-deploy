@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331806,
+      "chineseName": "防汛沙袋",
+      "translatedName": "Flood control sandbag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330406"
+    }
+  }
+}

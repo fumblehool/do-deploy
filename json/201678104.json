@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201678104,
+      "chineseName": "乐器工具",
+      "translatedName": "Instrument Tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

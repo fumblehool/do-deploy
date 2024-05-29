@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032415,
+      "chineseName": "门窗五金",
+      "translatedName": "Door and window hardware",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032413,
+          "chineseName": "合页、铰链",
+          "translatedName": "Hinge, hinge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1032414,
+          "chineseName": "拉手",
+          "translatedName": "handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 10354,
+          "chineseName": "门窗挂钩",
+          "translatedName": "Door and window hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035367,
+          "chineseName": "其他门窗配件",
+          "translatedName": "Other door and window accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035368,
+          "chineseName": "铁钉",
+          "translatedName": "iron nail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035370,
+          "chineseName": "窗帘配件",
+          "translatedName": "Curtain Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035371,
+          "chineseName": "门夹",
+          "translatedName": "Door clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035372,
+          "chineseName": "地弹簧",
+          "translatedName": "ground spring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035373,
+          "chineseName": "羊眼",
+          "translatedName": "sheep eye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035374,
+          "chineseName": "滑轨",
+          "translatedName": "Slide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1035375,
+          "chineseName": "门碰、门吸",
+          "translatedName": "Door knock, door suction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 124734013,
+          "chineseName": "纱窗、纱门型材",
+          "translatedName": "Screen window, screen door profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 124734015,
+          "chineseName": "门窗滑轮",
+          "translatedName": "Door and window pulleys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 124734014,
+          "chineseName": "铝隔条",
+          "translatedName": "Aluminum partition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 124742008,
+          "chineseName": "门窗密封条",
+          "translatedName": "Door and window sealing strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 124736015,
+          "chineseName": "磁贴、磁条",
+          "translatedName": "Magnetic stickers, magnetic stripes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        },
+        {
+          "categoryId": 1307,
+          "chineseName": "插销",
+          "translatedName": "Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032415
+        }
+      ]
+    }
+  }
+}

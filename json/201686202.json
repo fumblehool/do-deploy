@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201686202,
+      "chineseName": "接待桌",
+      "translatedName": "Reception Table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121562002,
+      "chineseName": "陶瓷包装容器",
+      "translatedName": "ceramic packaging container",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121572001,
+          "chineseName": "陶瓷罐",
+          "translatedName": "Ceramic cans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121562002
+        },
+        {
+          "categoryId": 121592001,
+          "chineseName": "陶瓷瓶",
+          "translatedName": "Ceramic Bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121562002
+        },
+        {
+          "categoryId": 121564002,
+          "chineseName": "其他陶瓷包装容器",
+          "translatedName": "Other Ceramic Packaging Containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121562002
+        }
+      ]
+    }
+  }
+}

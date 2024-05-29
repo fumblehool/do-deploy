@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031871,
+      "chineseName": "休闲裤",
+      "translatedName": "Casual Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125748001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190027,
+      "chineseName": "酒店桌布、台布、桌裙",
+      "translatedName": "Hotel tablecloths, tablecloths, table skirts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186015"
+    }
+  }
+}

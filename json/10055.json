@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10055,
+      "chineseName": "农药原药",
+      "translatedName": "raw pesticide",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033702,
+          "chineseName": "杀鼠剂",
+          "translatedName": "Rodenticide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        },
+        {
+          "categoryId": 1033703,
+          "chineseName": "杀螨剂",
+          "translatedName": "acaricide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        },
+        {
+          "categoryId": 10056,
+          "chineseName": "杀虫剂",
+          "translatedName": "Insecticides",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        },
+        {
+          "categoryId": 10064,
+          "chineseName": "杀菌剂",
+          "translatedName": "Bactericide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        },
+        {
+          "categoryId": 10065,
+          "chineseName": "除草剂",
+          "translatedName": "Herbicide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        },
+        {
+          "categoryId": 10066,
+          "chineseName": "其他农药原药",
+          "translatedName": "Other pesticide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10055
+        }
+      ]
+    }
+  }
+}

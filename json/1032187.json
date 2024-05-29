@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032187,
+      "chineseName": "清洗剂/养护剂",
+      "translatedName": "Cleaning/curing agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "79"
+    }
+  }
+}

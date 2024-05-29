@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126994084,
+      "chineseName": "定制箱包皮具",
+      "translatedName": "Custom bags and leather goods",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1042954"
+    }
+  }
+}

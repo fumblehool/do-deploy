@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201357743,
+      "chineseName": "吊篮/吊椅",
+      "translatedName": "Hanging Basket/Hanging Chair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122796003"
+    }
+  }
+}

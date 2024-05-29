@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034105,
+      "chineseName": "其他专业录音、放音设备",
+      "translatedName": "Other professional recording and playback equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3416"
+    }
+  }
+}

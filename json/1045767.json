@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045767,
+      "chineseName": "冶炼设备配件",
+      "translatedName": "Smelting equipment accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "914"
+    }
+  }
+}

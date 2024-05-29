@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272008,
+      "chineseName": "布艺纸巾盒",
+      "translatedName": "Fabric tissue box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127894012"
+    }
+  }
+}

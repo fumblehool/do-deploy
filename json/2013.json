@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2013,
+      "chineseName": "滑雪用品",
+      "translatedName": "Ski Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033460,
+          "chineseName": "其他滑雪用品",
+          "translatedName": "Other Ski Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 1033462,
+          "chineseName": "固定器",
+          "translatedName": "Retainer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 1033463,
+          "chineseName": "滑雪靴",
+          "translatedName": "Ski Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 1033464,
+          "chineseName": "滑雪板",
+          "translatedName": "Snowboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 1041589,
+          "chineseName": "滑雪圈",
+          "translatedName": "Ski Circle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 122234003,
+          "chineseName": "滑雪服",
+          "translatedName": "Ski Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201611702,
+          "chineseName": "滑雪手套",
+          "translatedName": "Ski Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201920701,
+          "chineseName": "滑雪衣",
+          "translatedName": "Ski Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201920801,
+          "chineseName": "滑雪衣裤套装",
+          "translatedName": "Ski Pants Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201920901,
+          "chineseName": "滑雪专用包",
+          "translatedName": "Ski special bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201921001,
+          "chineseName": "滑雪配件",
+          "translatedName": "Ski Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201921101,
+          "chineseName": "雪杖",
+          "translatedName": "Snow staff",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201919302,
+          "chineseName": "滑雪护具",
+          "translatedName": "Ski Protectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201919603,
+          "chineseName": "滑雪裤",
+          "translatedName": "Ski Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201930104,
+          "chineseName": "滑雪保养工具",
+          "translatedName": "Ski maintenance tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201913903,
+          "chineseName": "滑雪头盔/滑雪帽",
+          "translatedName": "Ski Helmet/Ski Hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201915102,
+          "chineseName": "滑雪单板",
+          "translatedName": "Snowboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201915306,
+          "chineseName": "滑雪双板",
+          "translatedName": "Ski Double Boards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        },
+        {
+          "categoryId": 201916503,
+          "chineseName": "雪橇板",
+          "translatedName": "sled board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2013
+        }
+      ]
+    }
+  }
+}

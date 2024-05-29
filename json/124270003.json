@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270003,
+      "chineseName": "电波表",
+      "translatedName": "electric wave meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268003"
+    }
+  }
+}

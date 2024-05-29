@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127186001,
+      "chineseName": "窗帘加工定制",
+      "translatedName": "Customized curtain processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "96"
+    }
+  }
+}

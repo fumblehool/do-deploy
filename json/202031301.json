@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202031301,
+      "chineseName": "班服/园服",
+      "translatedName": "Class clothing/garden clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202030801"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033322,
+      "chineseName": "通用医疗器具",
+      "translatedName": "General medical apparatus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1611"
+    }
+  }
+}

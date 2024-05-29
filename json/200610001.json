@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200610001,
+      "chineseName": "铣削刀片",
+      "translatedName": "Milling insert",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10350"
+    }
+  }
+}

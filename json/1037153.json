@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037153,
+      "chineseName": "其他电脑配件",
+      "translatedName": "Other computer accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "731"
+    }
+  }
+}

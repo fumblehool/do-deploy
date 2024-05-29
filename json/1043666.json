@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043666,
+      "chineseName": "其他柜类",
+      "translatedName": "Other cabinets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122930001"
+    }
+  }
+}

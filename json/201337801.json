@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337801,
+      "chineseName": "防汛土工布",
+      "translatedName": "Flood control geotextile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330406"
+    }
+  }
+}

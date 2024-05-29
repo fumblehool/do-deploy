@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052214,
+      "chineseName": "壁龛",
+      "translatedName": "niche",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374009"
+    }
+  }
+}

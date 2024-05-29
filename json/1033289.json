@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033289,
+      "chineseName": "笔记本电脑锁",
+      "translatedName": "Laptop Lock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "729"
+    }
+  }
+}

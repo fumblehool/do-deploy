@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035621,
+      "chineseName": "插件加工",
+      "translatedName": "Plug-in processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202002002"
+    }
+  }
+}

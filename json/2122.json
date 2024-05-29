@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2122,
+      "chineseName": "办公收纳",
+      "translatedName": "Office storage",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033054,
+          "chineseName": "文件夹",
+          "translatedName": "Folder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033055,
+          "chineseName": "文件管理架",
+          "translatedName": "file management rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033049,
+          "chineseName": "其他收纳用品",
+          "translatedName": "Other storage supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033050,
+          "chineseName": "报刊架",
+          "translatedName": "Newspaper rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033051,
+          "chineseName": "CD包、CD盒",
+          "translatedName": "CD package, CD box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033052,
+          "chineseName": "文件袋",
+          "translatedName": "File bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033053,
+          "chineseName": "名片座",
+          "translatedName": "business card holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1033080,
+          "chineseName": "集邮簿",
+          "translatedName": "philatelic book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1034111,
+          "chineseName": "相册",
+          "translatedName": "Photo Album",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1045651,
+          "chineseName": "名片夹、名片盒",
+          "translatedName": "business card holder, business card case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1045652,
+          "chineseName": "便签盒",
+          "translatedName": "Notes box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 1045067,
+          "chineseName": "名片册",
+          "translatedName": "business card book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123102001,
+          "chineseName": "资料册",
+          "translatedName": "Data Book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123104001,
+          "chineseName": "档案盒",
+          "translatedName": "File Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123104002,
+          "chineseName": "风琴包、文件包",
+          "translatedName": "Organ bag, file bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123084003,
+          "chineseName": "文件管理配件",
+          "translatedName": "Document Management Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123086002,
+          "chineseName": "文件套",
+          "translatedName": "Document Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123088002,
+          "chineseName": "桌面文件柜",
+          "translatedName": "Desktop file cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 123098001,
+          "chineseName": "档案夹",
+          "translatedName": "File folder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 201161709,
+          "chineseName": "票据夹",
+          "translatedName": "Bill folder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        },
+        {
+          "categoryId": 201161904,
+          "chineseName": "蝴蝶夹",
+          "translatedName": "Butterfly Clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2122
+        }
+      ]
+    }
+  }
+}

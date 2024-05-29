@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 157,
+      "chineseName": "消毒防腐药剂",
+      "translatedName": "Disinfection antiseptic agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

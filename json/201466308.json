@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201466308,
+      "chineseName": "五帝钱",
+      "translatedName": "Five Emperors Money",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330711"
+    }
+  }
+}

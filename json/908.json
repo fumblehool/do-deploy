@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 908,
+      "chineseName": "非金属矿产",
+      "translatedName": "non-metallic mineral",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033370,
+          "chineseName": "蛭石",
+          "translatedName": "vermiculite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033371,
+          "chineseName": "石棉",
+          "translatedName": "Asbestos",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033372,
+          "chineseName": "硫矿",
+          "translatedName": "sulfur ore",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033373,
+          "chineseName": "石墨",
+          "translatedName": "Graphite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033375,
+          "chineseName": "硅灰石",
+          "translatedName": "Wollastonite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033377,
+          "chineseName": "沸石",
+          "translatedName": "Zeolite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033378,
+          "chineseName": "萤石",
+          "translatedName": "Fluorite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033379,
+          "chineseName": "石英",
+          "translatedName": "Quartz",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033367,
+          "chineseName": "其他非金属矿产",
+          "translatedName": "Other non-metallic minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033369,
+          "chineseName": "石灰石",
+          "translatedName": "Limestone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1034149,
+          "chineseName": "水镁石",
+          "translatedName": "Brucite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1034153,
+          "chineseName": "电气石",
+          "translatedName": "Tourmaline",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1034154,
+          "chineseName": "方解石",
+          "translatedName": "calcite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1034155,
+          "chineseName": "硅藻土",
+          "translatedName": "Diatomite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1034156,
+          "chineseName": "珍珠岩",
+          "translatedName": "Perlite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033380,
+          "chineseName": "重晶石",
+          "translatedName": "barite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033381,
+          "chineseName": "麦饭石",
+          "translatedName": "Maifan Stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1033382,
+          "chineseName": "长石",
+          "translatedName": "feldspar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 1042705,
+          "chineseName": "电石",
+          "translatedName": "calcium carbide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        },
+        {
+          "categoryId": 202059106,
+          "chineseName": "覆膜砂",
+          "translatedName": "Coated sand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 908
+        }
+      ]
+    }
+  }
+}

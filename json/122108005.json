@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122108005,
+      "chineseName": "龙舟",
+      "translatedName": "Dragon Boat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044740"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036879,
+      "chineseName": "高压橡胶管、低压橡胶管",
+      "translatedName": "High pressure rubber tube, low pressure rubber tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032600"
+    }
+  }
+}

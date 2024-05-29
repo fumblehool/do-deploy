@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1325,
+      "chineseName": "特种建材",
+      "translatedName": "Special building materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10435"
+    }
+  }
+}

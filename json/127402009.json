@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127402009,
+      "chineseName": "数码相机包",
+      "translatedName": "Digital Camera Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127398006"
+    }
+  }
+}

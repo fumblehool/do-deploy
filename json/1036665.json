@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036665,
+      "chineseName": "防静电手套、腕带",
+      "translatedName": "Anti-static gloves, wrist strap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3019"
+    }
+  }
+}

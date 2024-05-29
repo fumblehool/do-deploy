@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200828004,
+      "chineseName": "场效应管(MOSFET)",
+      "translatedName": "Field Effect Transistor (MOSFET)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032243,
+          "chineseName": "其他场效应管",
+          "translatedName": "Other FET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        },
+        {
+          "categoryId": 200806006,
+          "chineseName": "N沟道MOSFET",
+          "translatedName": "N-Channel MOSFET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        },
+        {
+          "categoryId": 200782005,
+          "chineseName": "N/P沟道双路MOSFET",
+          "translatedName": "N/P-Channel Dual MOSFET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        },
+        {
+          "categoryId": 200790006,
+          "chineseName": "汽车MOSFET",
+          "translatedName": "Automotive MOSFET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        },
+        {
+          "categoryId": 200800008,
+          "chineseName": "MOSFET阵列/模块",
+          "translatedName": "MOSFET Arrays/Modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        },
+        {
+          "categoryId": 200842003,
+          "chineseName": "P沟道MOSFET",
+          "translatedName": "P-Channel MOSFET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200828004
+        }
+      ]
+    }
+  }
+}

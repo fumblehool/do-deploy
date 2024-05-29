@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121624001,
+      "chineseName": "智能手表",
+      "translatedName": "Smart Watch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123754001"
+    }
+  }
+}

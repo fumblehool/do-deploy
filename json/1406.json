@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1406,
+      "chineseName": "插头",
+      "translatedName": "Plug",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035240,
+          "chineseName": "其他插头",
+          "translatedName": "Other plugs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1406
+        },
+        {
+          "categoryId": 1035241,
+          "chineseName": "音频、视频插头",
+          "translatedName": "Audio, video plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1406
+        },
+        {
+          "categoryId": 1035243,
+          "chineseName": "电源插头",
+          "translatedName": "Power plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1406
+        },
+        {
+          "categoryId": 201228012,
+          "chineseName": "工业插头",
+          "translatedName": "Industrial plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1406
+        },
+        {
+          "categoryId": 202058709,
+          "chineseName": "Type-C插头",
+          "translatedName": "Type-C plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1406
+        }
+      ]
+    }
+  }
+}

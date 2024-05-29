@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201913003,
+      "chineseName": "活性包装",
+      "translatedName": "active packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201925101"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201356649,
+      "chineseName": "角柜",
+      "translatedName": "Corner cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

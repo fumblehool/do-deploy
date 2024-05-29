@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046693,
+      "chineseName": "苹果专用配件",
+      "translatedName": "Apple special accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046694,
+          "chineseName": "iPhone保护套",
+          "translatedName": "iPhone Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 1046695,
+          "chineseName": "iPhone贴膜",
+          "translatedName": "iPhone film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 1046696,
+          "chineseName": "其他苹果配件",
+          "translatedName": "Other Apple Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 121490007,
+          "chineseName": "Macbook保护套",
+          "translatedName": "Macbook protective sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 124270010,
+          "chineseName": "AppleWatch表带",
+          "translatedName": "AppleWatch Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 121486005,
+          "chineseName": "iPad贴膜",
+          "translatedName": "iPad film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 121504002,
+          "chineseName": "iPad保护套",
+          "translatedName": "iPad Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 124590001,
+          "chineseName": "AppleWatch贴膜",
+          "translatedName": "AppleWatch film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 124592001,
+          "chineseName": "AppleWatch护套",
+          "translatedName": "AppleWatch sheath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 121494005,
+          "chineseName": "Macbook贴膜",
+          "translatedName": "Macbook film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 201891801,
+          "chineseName": "airpods耳机壳",
+          "translatedName": "airpods earphone shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 201895701,
+          "chineseName": "airtag保护套/壳",
+          "translatedName": "Airtag protective sleeve/case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        },
+        {
+          "categoryId": 201896802,
+          "chineseName": "苹果系列套装",
+          "translatedName": "Apple series suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046693
+        }
+      ]
+    }
+  }
+}

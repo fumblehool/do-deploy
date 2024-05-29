@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036937,
+      "chineseName": "钛及钛合金材",
+      "translatedName": "Titanium and titanium alloys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10507"
+    }
+  }
+}

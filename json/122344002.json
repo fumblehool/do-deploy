@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122344002,
+      "chineseName": "其他婴幼儿寝具/服饰",
+      "translatedName": "Other infant bedding/apparel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380006"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201894801,
+      "chineseName": "abs安全帽",
+      "translatedName": "abs safety helmet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124160004"
+    }
+  }
+}

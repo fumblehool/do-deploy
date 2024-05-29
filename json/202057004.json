@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057004,
+      "chineseName": "抹茶粉",
+      "translatedName": "Matcha powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

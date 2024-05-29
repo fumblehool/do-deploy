@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034099,
+      "chineseName": "库存音像制品",
+      "translatedName": "Stock audio-visual products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82"
+    }
+  }
+}

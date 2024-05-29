@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201885306,
+      "chineseName": "电动车坐垫",
+      "translatedName": "Electric car cushion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125066013"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033773,
+      "chineseName": "扎口机",
+      "translatedName": "tie-in machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "511"
+    }
+  }
+}

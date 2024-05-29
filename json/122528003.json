@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122528003,
+      "chineseName": "胸垫、胸贴、肩带、吊袜带",
+      "translatedName": "Chest pad, chest patch, shoulder strap, garter belt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037026,
+          "chineseName": "胸垫、插片",
+          "translatedName": "Chest pad, insert",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        },
+        {
+          "categoryId": 1043807,
+          "chineseName": "防溢乳垫",
+          "translatedName": "Anti-galactorrhea pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        },
+        {
+          "categoryId": 122538004,
+          "chineseName": "吊袜带",
+          "translatedName": "Garter Belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        },
+        {
+          "categoryId": 122530002,
+          "chineseName": "胸贴、乳贴",
+          "translatedName": "Chest patch, breast patch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        },
+        {
+          "categoryId": 122566002,
+          "chineseName": "肩带、搭扣",
+          "translatedName": "Shoulder strap, buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        },
+        {
+          "categoryId": 124736048,
+          "chineseName": "乳头保护罩",
+          "translatedName": "Nipple protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122528003
+        }
+      ]
+    }
+  }
+}

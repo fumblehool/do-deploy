@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032323,
+      "chineseName": "隔离开关(刀开关)",
+      "translatedName": "Isolating switch (knife switch)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1407"
+    }
+  }
+}

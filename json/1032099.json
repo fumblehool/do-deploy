@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032099,
+      "chineseName": "车用氧吧/空气净化器",
+      "translatedName": "Car oxygen bar/air purifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3312"
+    }
+  }
+}

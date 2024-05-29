@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121694002,
+      "chineseName": "男士面部精华",
+      "translatedName": "Men's Facial Essence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121702001"
+    }
+  }
+}

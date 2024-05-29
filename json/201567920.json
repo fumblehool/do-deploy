@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201567920,
+      "chineseName": "男式加绒休闲裤",
+      "translatedName": "Men's Fleece-lined Casual Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201559512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122460002,
+      "chineseName": "连裤袜、打底袜、踩脚袜",
+      "translatedName": "Pantyhose, bottom socks, foot socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201909602"
+    }
+  }
+}

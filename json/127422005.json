@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127422005,
+      "chineseName": "广告衫外套",
+      "translatedName": "Advertising Shirt Coat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420010"
+    }
+  }
+}

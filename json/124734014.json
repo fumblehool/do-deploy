@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734014,
+      "chineseName": "铝隔条",
+      "translatedName": "Aluminum partition",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032415"
+    }
+  }
+}

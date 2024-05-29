@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201546110,
+      "chineseName": "羽绒拖鞋",
+      "translatedName": "Down slippers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125312003"
+    }
+  }
+}

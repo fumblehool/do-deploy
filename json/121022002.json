@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022002,
+      "chineseName": "硅钢",
+      "translatedName": "silicon steel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121022003,
+          "chineseName": "冷轧无取向硅钢",
+          "translatedName": "cold rolled non-oriented silicon steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022002
+        },
+        {
+          "categoryId": 121018002,
+          "chineseName": "冷轧取向硅钢",
+          "translatedName": "cold rolled grain oriented silicon steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022002
+        },
+        {
+          "categoryId": 125464002,
+          "chineseName": "其他硅钢",
+          "translatedName": "Other Silicon Steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022002
+        }
+      ]
+    }
+  }
+}

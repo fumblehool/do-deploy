@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036674,
+      "chineseName": "平衡块",
+      "translatedName": "Balance weight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3321"
+    }
+  }
+}

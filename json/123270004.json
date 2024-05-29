@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123270004,
+      "chineseName": "空调滤清器",
+      "translatedName": "Air conditioning filter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10110"
+    }
+  }
+}

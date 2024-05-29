@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037254,
+      "chineseName": "橡胶棒",
+      "translatedName": "rubber rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "55"
+    }
+  }
+}

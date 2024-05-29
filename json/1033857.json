@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033857,
+      "chineseName": "地矿、地震仪器",
+      "translatedName": "Geology and Mineral, Seismic Instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10214"
+    }
+  }
+}

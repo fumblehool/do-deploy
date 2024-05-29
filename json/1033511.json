@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033511,
+      "chineseName": "野营灯、露营灯",
+      "translatedName": "Camping lights, camping lights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "281904"
+    }
+  }
+}

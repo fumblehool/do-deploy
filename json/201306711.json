@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306711,
+      "chineseName": "粉扑清洁液",
+      "translatedName": "Powder puff cleaning liquid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

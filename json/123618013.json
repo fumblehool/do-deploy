@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123618013,
+      "chineseName": "LED日光灯模组",
+      "translatedName": "LED fluorescent lamp module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616020"
+    }
+  }
+}

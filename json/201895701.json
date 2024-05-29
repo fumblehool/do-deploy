@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201895701,
+      "chineseName": "airtag保护套/壳",
+      "translatedName": "Airtag protective sleeve/case",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046693"
+    }
+  }
+}

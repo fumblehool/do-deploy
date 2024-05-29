@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036867,
+      "chineseName": "胶管接头",
+      "translatedName": "Hose joint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032600"
+    }
+  }
+}

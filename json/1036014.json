@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036014,
+      "chineseName": "办公文教五金",
+      "translatedName": "Office culture and education hardware",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121900002,
+      "chineseName": "户外鞋",
+      "translatedName": "Outdoor shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043186,
+          "chineseName": "其他户外鞋",
+          "translatedName": "Other outdoor shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121896003,
+          "chineseName": "登山鞋",
+          "translatedName": "hiking shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 122246002,
+          "chineseName": "军靴、战术靴",
+          "translatedName": "Military boots, tactical boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121882003,
+          "chineseName": "徒步鞋",
+          "translatedName": "Hiking Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121882004,
+          "chineseName": "攀岩鞋",
+          "translatedName": "Climbing shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121882005,
+          "chineseName": "越野跑鞋",
+          "translatedName": "Trail running shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121886003,
+          "chineseName": "高海拔登山靴、攀冰鞋",
+          "translatedName": "High altitude hiking boots, skates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121914001,
+          "chineseName": "溯溪鞋",
+          "translatedName": "Tracing Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121914002,
+          "chineseName": "减震、充气鞋垫",
+          "translatedName": "Shock absorption, inflatable insole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        },
+        {
+          "categoryId": 121878002,
+          "chineseName": "营地鞋",
+          "translatedName": "Camp shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121900002
+        }
+      ]
+    }
+  }
+}

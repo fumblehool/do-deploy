@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056113,
+      "chineseName": "女装压褶加工",
+      "translatedName": "Women's folding processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056910"
+    }
+  }
+}

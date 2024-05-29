@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1002,
+      "chineseName": "原煤",
+      "translatedName": "Raw coal",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033685,
+          "chineseName": "其他原煤",
+          "translatedName": "Other Raw Coal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1002
+        },
+        {
+          "categoryId": 1033686,
+          "chineseName": "褐煤",
+          "translatedName": "lignite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1002
+        },
+        {
+          "categoryId": 1033687,
+          "chineseName": "无烟煤",
+          "translatedName": "anthracite coal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1002
+        },
+        {
+          "categoryId": 1033688,
+          "chineseName": "烟煤",
+          "translatedName": "bituminous coal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1002
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124282001,
+      "chineseName": "钟",
+      "translatedName": "Clock",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124284001,
+          "chineseName": "闹钟、台钟",
+          "translatedName": "Alarm clock, desk clock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        },
+        {
+          "categoryId": 124284002,
+          "chineseName": "座钟、立钟、落地钟",
+          "translatedName": "Clock, standing clock, floor clock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        },
+        {
+          "categoryId": 124278002,
+          "chineseName": "计时器、定时器",
+          "translatedName": "Timer, Timer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        },
+        {
+          "categoryId": 124280002,
+          "chineseName": "挂钟、壁钟、墙贴钟",
+          "translatedName": "Wall clock, wall clock, wall sticker clock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        },
+        {
+          "categoryId": 124280003,
+          "chineseName": "钟配件",
+          "translatedName": "Clock Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        },
+        {
+          "categoryId": 121314001,
+          "chineseName": "其他钟",
+          "translatedName": "Other clocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124282001
+        }
+      ]
+    }
+  }
+}

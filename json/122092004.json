@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122092004,
+      "chineseName": "骑行头盔",
+      "translatedName": "Cycling Helmet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564924"
+    }
+  }
+}

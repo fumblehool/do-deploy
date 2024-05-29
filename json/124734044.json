@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734044,
+      "chineseName": "葡萄、提子",
+      "translatedName": "Grapes, raisins",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10037"
+    }
+  }
+}

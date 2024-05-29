@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612011,
+      "chineseName": "照明工程招标",
+      "translatedName": "Bidding for lighting works",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616014"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040298,
+      "chineseName": "塑胶容器",
+      "translatedName": "plastic container",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040299,
+          "chineseName": "化工容器",
+          "translatedName": "chemical container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040315,
+          "chineseName": "橡塑垃圾容器",
+          "translatedName": "Rubber and plastic garbage container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040323,
+          "chineseName": "吹塑容器",
+          "translatedName": "blow molded container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040336,
+          "chineseName": "塑胶储物箱",
+          "translatedName": "Plastic storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040353,
+          "chineseName": "袋状塑制品",
+          "translatedName": "Bagged plastic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040354,
+          "chineseName": "杯状塑制品",
+          "translatedName": "cup-shaped plastic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040355,
+          "chineseName": "滚塑容器",
+          "translatedName": "rotomolding container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 1040359,
+          "chineseName": "其他塑胶容器",
+          "translatedName": "Other plastic containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 201156703,
+          "chineseName": "拦污浮筒",
+          "translatedName": "Dam buoy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 201160206,
+          "chineseName": "pe水箱",
+          "translatedName": "pe water tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 201156005,
+          "chineseName": "水面浮球",
+          "translatedName": "surface floating ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 201156206,
+          "chineseName": "塑料搅拌罐",
+          "translatedName": "Plastic mixing tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        },
+        {
+          "categoryId": 201156307,
+          "chineseName": "塑胶水塔",
+          "translatedName": "Plastic water tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040298
+        }
+      ]
+    }
+  }
+}

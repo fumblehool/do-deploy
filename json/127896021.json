@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127896021,
+      "chineseName": "位置传感器",
+      "translatedName": "Position sensor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126696001"
+    }
+  }
+}

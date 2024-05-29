@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034649,
+      "chineseName": "氢氧化铜",
+      "translatedName": "copper hydroxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80202"
+    }
+  }
+}

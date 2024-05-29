@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034181,
+      "chineseName": "分切机",
+      "translatedName": "slitting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032524"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157008,
+      "chineseName": "其他橡塑水带",
+      "translatedName": "Other rubber-plastic water belts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201159803"
+    }
+  }
+}

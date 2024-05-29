@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033947,
+      "chineseName": "信息面板",
+      "translatedName": "Information Panel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033273"
+    }
+  }
+}

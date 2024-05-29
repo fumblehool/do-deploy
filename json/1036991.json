@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036991,
+      "chineseName": "氢氧化铈",
+      "translatedName": "cerium hydroxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80202"
+    }
+  }
+}

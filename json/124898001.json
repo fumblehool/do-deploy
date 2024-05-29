@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124898001,
+      "chineseName": "儿童安全座椅附件",
+      "translatedName": "Child safety seat accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3311"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047452,
+      "chineseName": "检测认证",
+      "translatedName": "Testing and certification",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047454,
+          "chineseName": "认证",
+          "translatedName": "Certification",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047452
+        },
+        {
+          "categoryId": 1047459,
+          "chineseName": "检测",
+          "translatedName": "Detection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047452
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201222211,
+      "chineseName": "强化复合地板",
+      "translatedName": "laminate flooring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10428"
+    }
+  }
+}

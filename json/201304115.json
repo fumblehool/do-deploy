@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304115,
+      "chineseName": "酒吧装饰摆件",
+      "translatedName": "Bar decoration",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127888009"
+    }
+  }
+}

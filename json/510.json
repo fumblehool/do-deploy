@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 510,
+      "chineseName": "金融专用设备",
+      "translatedName": "Financial special equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033764,
+          "chineseName": "其他金融专用设备",
+          "translatedName": "Other special financial equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        },
+        {
+          "categoryId": 1033765,
+          "chineseName": "回单管理系统",
+          "translatedName": "Receipt Management System",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        },
+        {
+          "categoryId": 1033766,
+          "chineseName": "密码键盘",
+          "translatedName": "Password Keyboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        },
+        {
+          "categoryId": 1033767,
+          "chineseName": "柜员机设备",
+          "translatedName": "Teller Machine Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        },
+        {
+          "categoryId": 1033768,
+          "chineseName": "硬币清分机",
+          "translatedName": "coin sorting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        },
+        {
+          "categoryId": 1033769,
+          "chineseName": "捆钞机、扎把机",
+          "translatedName": "Banknote bundling machine, binding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 510
+        }
+      ]
+    }
+  }
+}

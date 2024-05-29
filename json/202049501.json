@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202049501,
+      "chineseName": "护肤品包材",
+      "translatedName": "Skincare packaging materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126478003"
+    }
+  }
+}

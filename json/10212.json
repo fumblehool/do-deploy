@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10212,
+      "chineseName": "量仪",
+      "translatedName": "Gauge",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10209,
+          "chineseName": "其他量仪",
+          "translatedName": "Other gauges",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1033820,
+          "chineseName": "气动量仪",
+          "translatedName": "Pneumatic gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1033821,
+          "chineseName": "三坐标测量机",
+          "translatedName": "coordinate measuring machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1033822,
+          "chineseName": "圆度仪",
+          "translatedName": "Roundness meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1036124,
+          "chineseName": "偏摆检查仪",
+          "translatedName": "deflection tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1036009,
+          "chineseName": "影像仪",
+          "translatedName": "Video camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 1036118,
+          "chineseName": "刀具预调仪",
+          "translatedName": "Tool presetter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201913104,
+          "chineseName": "混凝土检测仪",
+          "translatedName": "Concrete detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201921403,
+          "chineseName": "隧道检测仪器",
+          "translatedName": "Tunnel detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201918506,
+          "chineseName": "土工贯入仪",
+          "translatedName": "geotechnical penetration instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201922102,
+          "chineseName": "工程检测附件",
+          "translatedName": "Engineering inspection accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201922103,
+          "chineseName": "基桩检测仪器",
+          "translatedName": "testing instrument for foundation pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201922501,
+          "chineseName": "桥梁检测仪器",
+          "translatedName": "bridge testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201915503,
+          "chineseName": "对刀器",
+          "translatedName": "Tit cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        },
+        {
+          "categoryId": 201917204,
+          "chineseName": "土工击实仪",
+          "translatedName": "Geotechnical Compactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10212
+        }
+      ]
+    }
+  }
+}

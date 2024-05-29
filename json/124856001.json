@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124856001,
+      "chineseName": "存储柜",
+      "translatedName": "Storage cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1226"
+    }
+  }
+}

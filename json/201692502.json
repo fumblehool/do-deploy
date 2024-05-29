@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201692502,
+      "chineseName": "迷你冰箱",
+      "translatedName": "Mini fridge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047393"
+    }
+  }
+}

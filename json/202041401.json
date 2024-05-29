@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041401,
+      "chineseName": "孕妇衬衫/雪纺衫",
+      "translatedName": "Maternity Shirt/Chiffon Shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196004"
+    }
+  }
+}

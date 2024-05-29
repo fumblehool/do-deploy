@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124018004,
+      "chineseName": "其他液态奶",
+      "translatedName": "Other liquid milk",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047204"
+    }
+  }
+}

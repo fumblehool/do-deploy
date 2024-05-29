@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028118,
+      "chineseName": "太阳能水泵",
+      "translatedName": "solar water pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055610"
+    }
+  }
+}

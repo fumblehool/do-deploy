@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201302305,
+      "chineseName": "水具套装",
+      "translatedName": "Water Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046721"
+    }
+  }
+}

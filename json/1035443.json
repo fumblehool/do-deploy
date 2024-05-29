@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035443,
+      "chineseName": "其他弹簧",
+      "translatedName": "Other springs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032469"
+    }
+  }
+}

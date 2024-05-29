@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201345114,
+      "chineseName": "球星球队周边收藏",
+      "translatedName": "Star team surrounding collection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345914"
+    }
+  }
+}

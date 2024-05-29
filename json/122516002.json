@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122516002,
+      "chineseName": "煎锅、平底锅",
+      "translatedName": "Frying pan, pan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122548001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202063609,
+      "chineseName": "其他连接器",
+      "translatedName": "Other Connectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201549101"
+    }
+  }
+}

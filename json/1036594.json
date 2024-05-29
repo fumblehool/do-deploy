@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036594,
+      "chineseName": "电动摩托车",
+      "translatedName": "Electric motorcycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1231"
+    }
+  }
+}

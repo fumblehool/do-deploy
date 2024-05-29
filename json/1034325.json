@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034325,
+      "chineseName": "洗地机",
+      "translatedName": "Washing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126448003"
+    }
+  }
+}

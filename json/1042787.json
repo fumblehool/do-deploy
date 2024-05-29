@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042787,
+      "chineseName": "组合件及连接副",
+      "translatedName": "Assembly and connection pair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141906"
+    }
+  }
+}

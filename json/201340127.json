@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201340127,
+      "chineseName": "手持杀菌灯",
+      "translatedName": "Hand-held germicidal lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034964"
+    }
+  }
+}

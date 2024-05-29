@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032825,
+      "chineseName": "柑桔",
+      "translatedName": "Citrus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10037"
+    }
+  }
+}

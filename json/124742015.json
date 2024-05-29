@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742015,
+      "chineseName": "牛肉零食",
+      "translatedName": "Beef Snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742009"
+    }
+  }
+}

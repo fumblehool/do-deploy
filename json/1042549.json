@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042549,
+      "chineseName": "食品保水剂",
+      "translatedName": "food water retaining agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031607"
+    }
+  }
+}

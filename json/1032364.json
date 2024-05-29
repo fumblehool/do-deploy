@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032364,
+      "chineseName": "柴油发电机组",
+      "translatedName": "Diesel generator set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1008"
+    }
+  }
+}

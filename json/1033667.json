@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033667,
+      "chineseName": "军事模型",
+      "translatedName": "Military Model",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181302"
+    }
+  }
+}

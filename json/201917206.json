@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201917206,
+      "chineseName": "牵引器",
+      "translatedName": "Tractor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1227"
+    }
+  }
+}

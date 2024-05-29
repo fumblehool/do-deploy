@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051517,
+      "chineseName": "蛋白棒/能量棒/燕麦饼干",
+      "translatedName": "Protein Bars/Energy Bars/Oatmeal Cookies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734017"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035451,
+      "chineseName": "其他密封件",
+      "translatedName": "Other seals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032468"
+    }
+  }
+}

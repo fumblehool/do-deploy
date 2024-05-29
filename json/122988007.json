@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988007,
+      "chineseName": "鱼嘴袜、露趾袜",
+      "translatedName": "Fish mouth socks, toenails",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043349"
+    }
+  }
+}

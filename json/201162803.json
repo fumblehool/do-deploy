@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162803,
+      "chineseName": "仿真藤条",
+      "translatedName": "Simulation of rattan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162103"
+    }
+  }
+}

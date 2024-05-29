@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127446001,
+      "chineseName": "男式皮裤",
+      "translatedName": "men's leather pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165"
+    }
+  }
+}

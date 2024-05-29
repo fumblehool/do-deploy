@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201268067,
+      "chineseName": "其他特殊用途膳食营养补充剂",
+      "translatedName": "Other special purpose dietary supplements",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201275639"
+    }
+  }
+}

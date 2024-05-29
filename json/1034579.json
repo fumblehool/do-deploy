@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034579,
+      "chineseName": "其他库存精细化学品",
+      "translatedName": "Other stocks of fine chemicals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034578"
+    }
+  }
+}

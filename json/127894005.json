@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894005,
+      "chineseName": "变频器操作面板",
+      "translatedName": "Frequency converter operation panel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127880002"
+    }
+  }
+}

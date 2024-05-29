@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122256001,
+      "chineseName": "擦车巾",
+      "translatedName": "Wipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900015"
+    }
+  }
+}

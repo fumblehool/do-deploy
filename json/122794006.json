@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122794006,
+      "chineseName": "充气旅行枕",
+      "translatedName": "Inflatable travel pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122796003"
+    }
+  }
+}

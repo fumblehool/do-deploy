@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038378,
+      "chineseName": "鞋",
+      "translatedName": "Shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125730003,
+          "chineseName": "鞋配件",
+          "translatedName": "Shoe Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        },
+        {
+          "categoryId": 125386001,
+          "chineseName": "童鞋、婴儿鞋",
+          "translatedName": "Children's shoes, baby shoes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        },
+        {
+          "categoryId": 125372002,
+          "chineseName": "女鞋",
+          "translatedName": "Women's Shoes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        },
+        {
+          "categoryId": 125312003,
+          "chineseName": "家居鞋",
+          "translatedName": "Home Shoes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        },
+        {
+          "categoryId": 126506004,
+          "chineseName": "男鞋",
+          "translatedName": "Men's Shoes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        },
+        {
+          "categoryId": 201301601,
+          "chineseName": "鞋材",
+          "translatedName": "Shoe Material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1038378
+        }
+      ]
+    }
+  }
+}

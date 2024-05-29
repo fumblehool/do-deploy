@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033075,
+      "chineseName": "订书机、起钉器",
+      "translatedName": "Stapler, stapler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2113"
+    }
+  }
+}

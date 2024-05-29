@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035965,
+      "chineseName": "丙酸",
+      "translatedName": "propionic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80312"
+    }
+  }
+}

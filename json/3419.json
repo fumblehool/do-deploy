@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3419,
+      "chineseName": "播出、前端设备",
+      "translatedName": "Broadcast, front-end equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034123,
+          "chineseName": "其他播出、前端设备",
+          "translatedName": "Other broadcast, front-end equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1034124,
+          "chineseName": "广电信号分配器",
+          "translatedName": "radio and television signal distributor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1034125,
+          "chineseName": "频道转换器",
+          "translatedName": "Channel Changer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1034126,
+          "chineseName": "广电信号滤波器",
+          "translatedName": "radio and television signal filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1034128,
+          "chineseName": "广电信号解调器",
+          "translatedName": "radio and television signal demodulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1034129,
+          "chineseName": "广电信号调制器",
+          "translatedName": "radio and television signal modulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        },
+        {
+          "categoryId": 1036819,
+          "chineseName": "视频服务器",
+          "translatedName": "Video Server",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3419
+        }
+      ]
+    }
+  }
+}

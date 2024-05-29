@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033807,
+      "chineseName": "职业培训",
+      "translatedName": "vocational training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2815"
+    }
+  }
+}

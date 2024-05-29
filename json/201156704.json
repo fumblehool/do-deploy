@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156704,
+      "chineseName": "亚克力管",
+      "translatedName": "acrylic tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160006"
+    }
+  }
+}

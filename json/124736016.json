@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736016,
+      "chineseName": "糕点点心",
+      "translatedName": "Pastry snacks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124734024,
+          "chineseName": "传统糕点",
+          "translatedName": "Traditional Pastry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124736016
+        },
+        {
+          "categoryId": 124744024,
+          "chineseName": "月饼",
+          "translatedName": "Moon Cake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124736016
+        },
+        {
+          "categoryId": 124742018,
+          "chineseName": "西式糕点",
+          "translatedName": "western pastry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124736016
+        },
+        {
+          "categoryId": 218,
+          "chineseName": "其他小点心",
+          "translatedName": "Other Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124736016
+        },
+        {
+          "categoryId": 202059006,
+          "chineseName": "粽子",
+          "translatedName": "Zongzi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124736016
+        }
+      ]
+    }
+  }
+}

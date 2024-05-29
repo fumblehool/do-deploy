@@ -1,0 +1,532 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201164002,
+      "chineseName": "药食同源",
+      "translatedName": "medicine and food homology",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124744002,
+          "chineseName": "其他药食同源",
+          "translatedName": "Other medicines and food homologous",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201158011,
+          "chineseName": "藏红花",
+          "translatedName": "Saffron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201301807,
+          "chineseName": "陈皮",
+          "translatedName": "tangerin peel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201309007,
+          "chineseName": "淫羊藿",
+          "translatedName": "Epimedium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201309106,
+          "chineseName": "黄芪",
+          "translatedName": "Astragalus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466701,
+          "chineseName": "百合",
+          "translatedName": "Lily",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466601,
+          "chineseName": "甘草",
+          "translatedName": "Licorice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466801,
+          "chineseName": "桑叶",
+          "translatedName": "Mulberry leaves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201160513,
+          "chineseName": "当归",
+          "translatedName": "Angelica sinensis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201163904,
+          "chineseName": "胖大海",
+          "translatedName": "Chubby Sea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201159206,
+          "chineseName": "沙棘",
+          "translatedName": "Seabuckthorn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201465802,
+          "chineseName": "黄精",
+          "translatedName": "Polychinensis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466101,
+          "chineseName": "鸡内金",
+          "translatedName": "Chicken gold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466301,
+          "chineseName": "茯苓",
+          "translatedName": "Poria cocos",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466302,
+          "chineseName": "决明子",
+          "translatedName": "cassia seed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201466401,
+          "chineseName": "荷叶",
+          "translatedName": "lotus leaf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201158208,
+          "chineseName": "风流果",
+          "translatedName": "wind-flowing fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201301909,
+          "chineseName": "芡实",
+          "translatedName": "Gorgon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201463802,
+          "chineseName": "金银花",
+          "translatedName": "Honeysuckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201464202,
+          "chineseName": "葛根",
+          "translatedName": "kudzu root",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201156110,
+          "chineseName": "鱼腥草",
+          "translatedName": "Houttuynia cordata Thunb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201156212,
+          "chineseName": "桑椹",
+          "translatedName": "Mulberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202009604,
+          "chineseName": "乌梅及其制品",
+          "translatedName": "Mume and its products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202010307,
+          "chineseName": "橘皮",
+          "translatedName": "Orange peel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202010603,
+          "chineseName": "白扁豆",
+          "translatedName": "White Lentils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202010803,
+          "chineseName": "苍术",
+          "translatedName": "Atractylodes lancea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202008506,
+          "chineseName": "杜仲",
+          "translatedName": "Eucommia ulmoides",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202008605,
+          "chineseName": "白果",
+          "translatedName": "ginkgo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202008703,
+          "chineseName": "川贝",
+          "translatedName": "Fritillariae Fritillariae",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202003704,
+          "chineseName": "银杏",
+          "translatedName": "Ginkgo biloba",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202003804,
+          "chineseName": "牛蒡",
+          "translatedName": "burdock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202003904,
+          "chineseName": "罗汉果",
+          "translatedName": "Luo Han Guo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202004002,
+          "chineseName": "花生衣",
+          "translatedName": "Peanut coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202004003,
+          "chineseName": "紫苏",
+          "translatedName": "Perilla frutescens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202011504,
+          "chineseName": "肉桂",
+          "translatedName": "Cinnamon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202012202,
+          "chineseName": "蒲公英",
+          "translatedName": "Dandelion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202013303,
+          "chineseName": "核桃仁",
+          "translatedName": "walnut kernel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202013304,
+          "chineseName": "栀子",
+          "translatedName": "Gardenia",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202013603,
+          "chineseName": "天门冬",
+          "translatedName": "asparagus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202013704,
+          "chineseName": "姜黄",
+          "translatedName": "Turmeric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202014203,
+          "chineseName": "砂仁",
+          "translatedName": "Amomum villosum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202014204,
+          "chineseName": "酸枣仁",
+          "translatedName": "Semen Ziziphi Spinosae",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202014302,
+          "chineseName": "干姜片",
+          "translatedName": "Dried Ginger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 201999703,
+          "chineseName": "肉苁蓉",
+          "translatedName": "Cistanche deserticola",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202000003,
+          "chineseName": "玫瑰茄",
+          "translatedName": "roselle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202000102,
+          "chineseName": "地黄类",
+          "translatedName": "Rehmannia glutinosa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202000204,
+          "chineseName": "五味子",
+          "translatedName": "Schisandra chinensis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202000206,
+          "chineseName": "莲子类",
+          "translatedName": "Lotus Seed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202014502,
+          "chineseName": "桂圆肉/龙眼肉",
+          "translatedName": "Longan Meat/Longan Meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202015001,
+          "chineseName": "贝母",
+          "translatedName": "Fritillaria",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202015802,
+          "chineseName": "白芷",
+          "translatedName": "Angelica dahurica",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202016901,
+          "chineseName": "化橘红",
+          "translatedName": "orange red",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202008505,
+          "chineseName": "玉米须",
+          "translatedName": "Corn silk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202001303,
+          "chineseName": "山楂",
+          "translatedName": "Hawthorn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202002304,
+          "chineseName": "何首乌",
+          "translatedName": "Polygonum multiflorum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202002405,
+          "chineseName": "佛手",
+          "translatedName": "Bergamot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        },
+        {
+          "categoryId": 202002807,
+          "chineseName": "桔梗",
+          "translatedName": "Platycodon grandiflorum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164002
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035811,
+      "chineseName": "电源线",
+      "translatedName": "Power Cord",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10197"
+    }
+  }
+}

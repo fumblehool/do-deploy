@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041284,
+      "chineseName": "其他交通控制管理设备",
+      "translatedName": "Other traffic control management equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041282"
+    }
+  }
+}

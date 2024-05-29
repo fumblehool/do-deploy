@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122990007,
+      "chineseName": "摇铃床铃",
+      "translatedName": "Rattle the bed bell",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122984013"
+    }
+  }
+}

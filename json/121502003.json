@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121502003,
+      "chineseName": "血液及体液分析仪器",
+      "translatedName": "Blood and Body Fluid Analysis Instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036185"
+    }
+  }
+}

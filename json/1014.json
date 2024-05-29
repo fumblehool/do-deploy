@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1014,
+      "chineseName": "煤矿设备",
+      "translatedName": "coal mine equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10"
+    }
+  }
+}

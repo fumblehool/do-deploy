@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044093,
+      "chineseName": "钢地板",
+      "translatedName": "Steel floor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10428"
+    }
+  }
+}

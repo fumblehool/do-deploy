@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034327,
+      "chineseName": "抛丸清理机",
+      "translatedName": "Shot blasting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126448003"
+    }
+  }
+}

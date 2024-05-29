@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122452001,
+      "chineseName": "男士平角裤/平脚裤",
+      "translatedName": "Men's boxers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201835213"
+    }
+  }
+}

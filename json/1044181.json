@@ -1,0 +1,325 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044181,
+      "chineseName": "工艺品",
+      "translatedName": "Crafts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032034,
+          "chineseName": "漆器工艺品",
+          "translatedName": "Lacquer Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 10339,
+          "chineseName": "石膏、石料工艺品",
+          "translatedName": "Gypsum and stone crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1032014,
+          "chineseName": "骨雕/牙雕工艺品",
+          "translatedName": "Bone Carving/Tooth Carving Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1032016,
+          "chineseName": "玉器工艺品",
+          "translatedName": "Jade Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1032018,
+          "chineseName": "竹质工艺品",
+          "translatedName": "Bamboo Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1038370,
+          "chineseName": "工艺品代理加盟",
+          "translatedName": "Crafts agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1044184,
+          "chineseName": "木质工艺品",
+          "translatedName": "Wood Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 121566001,
+          "chineseName": "琉璃工艺品",
+          "translatedName": "Glaze Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 121558002,
+          "chineseName": "仿玉工艺品",
+          "translatedName": "Imitation jade crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 121562001,
+          "chineseName": "紫砂工艺品",
+          "translatedName": "Purple Sand Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 121564001,
+          "chineseName": "绒沙金工艺品",
+          "translatedName": "Cashmere Sands Gold Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 10544,
+          "chineseName": "工艺礼品项目合作",
+          "translatedName": "Craft gift project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 124514001,
+          "chineseName": "皮毛工艺品",
+          "translatedName": "Fur Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 124736043,
+          "chineseName": "塑料工艺品",
+          "translatedName": "Plastic Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 122564004,
+          "chineseName": "香炉",
+          "translatedName": "incense burner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201403003,
+          "chineseName": "铜雕工艺品",
+          "translatedName": "bronze carving crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201412601,
+          "chineseName": "标本",
+          "translatedName": "Specimen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1756,
+          "chineseName": "景泰蓝(珐琅器)",
+          "translatedName": "Cloisonne (enamel)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1757,
+          "chineseName": "植物工艺品",
+          "translatedName": "Plant Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1758,
+          "chineseName": "软陶工艺品",
+          "translatedName": "Soft Pottery Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1718,
+          "chineseName": "泥塑工艺品",
+          "translatedName": "Clay Sculpture Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1729,
+          "chineseName": "其他材质工艺品",
+          "translatedName": "Other Materials Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201469905,
+          "chineseName": "香篆/香印",
+          "translatedName": "Fragrant seal/seal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1742,
+          "chineseName": "炭雕工艺品",
+          "translatedName": "Charcoal Carving Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1755,
+          "chineseName": "陶瓷工艺品",
+          "translatedName": "Ceramic Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201309327,
+          "chineseName": "装饰刀剑",
+          "translatedName": "Decorative Sword",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201302432,
+          "chineseName": "刺绣织绣工艺品",
+          "translatedName": "Embroidery Weaving and Embroidery Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 201309922,
+          "chineseName": "铁皮画",
+          "translatedName": "tin painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1711,
+          "chineseName": "宝石工艺品",
+          "translatedName": "Gem Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1713,
+          "chineseName": "玻璃工艺品",
+          "translatedName": "Glass Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1714,
+          "chineseName": "水晶工艺品",
+          "translatedName": "Crystal Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1715,
+          "chineseName": "纸质工艺品",
+          "translatedName": "Paper Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1716,
+          "chineseName": "金属工艺品",
+          "translatedName": "Metal Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        },
+        {
+          "categoryId": 1717,
+          "chineseName": "树脂工艺品",
+          "translatedName": "Resin Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044181
+        }
+      ]
+    }
+  }
+}

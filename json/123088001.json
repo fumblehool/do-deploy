@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123088001,
+      "chineseName": "床垫床褥",
+      "translatedName": "Mattress Mattress",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10307,
+          "chineseName": "其他床垫",
+          "translatedName": "Other Mattresses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122228003,
+          "chineseName": "海绵床垫",
+          "translatedName": "Sponge mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122390005,
+          "chineseName": "羊毛/羊羔绒床垫",
+          "translatedName": "Wool/lambswool mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122310008,
+          "chineseName": "羽绒/羽毛床垫",
+          "translatedName": "Down/feather mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122410002,
+          "chineseName": "记忆床垫",
+          "translatedName": "Memory mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122252002,
+          "chineseName": "皮毛一体床垫",
+          "translatedName": "Fur Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122254001,
+          "chineseName": "乳胶床垫",
+          "translatedName": "latex mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122224005,
+          "chineseName": "功能床垫",
+          "translatedName": "Functional Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122332002,
+          "chineseName": "棉毯",
+          "translatedName": "Cotton Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 122406003,
+          "chineseName": "化纤床垫",
+          "translatedName": "chemical fiber mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 127882017,
+          "chineseName": "珊瑚绒床垫",
+          "translatedName": "Coral Fleece Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 127868022,
+          "chineseName": "竹炭床垫",
+          "translatedName": "Bamboo charcoal mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 201306505,
+          "chineseName": "榻榻米床垫",
+          "translatedName": "Tatami mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        },
+        {
+          "categoryId": 127888010,
+          "chineseName": "法兰绒床垫",
+          "translatedName": "Flannel mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123088001
+        }
+      ]
+    }
+  }
+}

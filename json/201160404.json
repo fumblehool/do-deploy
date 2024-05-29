@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160404,
+      "chineseName": "沥水篮、盆",
+      "translatedName": "Draining basket, basin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10295"
+    }
+  }
+}

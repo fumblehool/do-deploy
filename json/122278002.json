@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122278002,
+      "chineseName": "地板清洁护理",
+      "translatedName": "Floor cleaning care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122280004,
+          "chineseName": "地毯干洗剂",
+          "translatedName": "carpet dry cleaning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122278002
+        },
+        {
+          "categoryId": 122248004,
+          "chineseName": "地板清洁剂",
+          "translatedName": "Floor Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122278002
+        },
+        {
+          "categoryId": 122240008,
+          "chineseName": "其他地板清洁护理",
+          "translatedName": "Other Floor Cleaning Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122278002
+        },
+        {
+          "categoryId": 122286001,
+          "chineseName": "地板蜡",
+          "translatedName": "Floor wax",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122278002
+        },
+        {
+          "categoryId": 201306421,
+          "chineseName": "地毯清洁剂",
+          "translatedName": "Carpet Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122278002
+        }
+      ]
+    }
+  }
+}

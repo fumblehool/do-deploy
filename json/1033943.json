@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033943,
+      "chineseName": "RF/射频模块",
+      "translatedName": "RF/RF Modules",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50916"
+    }
+  }
+}

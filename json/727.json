@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 727,
+      "chineseName": "数码产品",
+      "translatedName": "Digital Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032781,
+          "chineseName": "录音笔",
+          "translatedName": "Recording pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1032782,
+          "chineseName": "其他数码产品",
+          "translatedName": "Other Digital Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1032783,
+          "chineseName": "便携式DVD",
+          "translatedName": "Portable DVD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1033286,
+          "chineseName": "U盘",
+          "translatedName": "U disk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1033287,
+          "chineseName": "移动硬盘",
+          "translatedName": "mobile hard disk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1032230,
+          "chineseName": "数码摄像头",
+          "translatedName": "Digital Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 1032233,
+          "chineseName": "MP3",
+          "translatedName": "MP3",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 122396003,
+          "chineseName": "体感游戏机",
+          "translatedName": "somatosensory game machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 122312006,
+          "chineseName": "家用游戏机",
+          "translatedName": "home game console",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 122314006,
+          "chineseName": "掌上游戏机",
+          "translatedName": "handheld game machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 124000001,
+          "chineseName": "3D数码眼镜",
+          "translatedName": "3D digital glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 201367402,
+          "chineseName": "飞行器",
+          "translatedName": "Aircraft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 201208902,
+          "chineseName": "数码视频盒子",
+          "translatedName": "Digital Video Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 3414,
+          "chineseName": "电子书",
+          "translatedName": "eBook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 201877207,
+          "chineseName": "模拟器游戏机",
+          "translatedName": "Simulator game machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 201897101,
+          "chineseName": "VR/AR一体游戏机",
+          "translatedName": "VR/AR integrated game console",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 704,
+          "chineseName": "PDA",
+          "translatedName": "PDA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 720,
+          "chineseName": "MP4",
+          "translatedName": "MP4",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 724,
+          "chineseName": "网络播放器",
+          "translatedName": "Network Player",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        },
+        {
+          "categoryId": 725,
+          "chineseName": "数码相框",
+          "translatedName": "Digital Photo Frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 727
+        }
+      ]
+    }
+  }
+}

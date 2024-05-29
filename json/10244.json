@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10244,
+      "chineseName": "机械硬盘",
+      "translatedName": "Mechanical Hard Disk",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "731"
+    }
+  }
+}

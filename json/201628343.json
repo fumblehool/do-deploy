@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201628343,
+      "chineseName": "水泥管",
+      "translatedName": "Cement pipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201605608"
+    }
+  }
+}

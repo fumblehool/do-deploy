@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610015,
+      "chineseName": "LED汽车尾灯",
+      "translatedName": "LED car taillights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620015"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201977004,
+      "chineseName": "一次性烧烤炉",
+      "translatedName": "Disposable barbecue oven",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121546006"
+    }
+  }
+}

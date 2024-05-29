@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201898703,
+      "chineseName": "臂力器",
+      "translatedName": "Arm force device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

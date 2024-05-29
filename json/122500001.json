@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122500001,
+      "chineseName": "睡衣、家居服、睡袍、浴袍",
+      "translatedName": "Pajamas, home clothes, nightgowns, bathrobes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037924,
+          "chineseName": "女士家居服",
+          "translatedName": "Ladies Home Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 122454002,
+          "chineseName": "睡袍、浴袍",
+          "translatedName": "Dressing gowns, bathrobes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 122460003,
+          "chineseName": "睡裙",
+          "translatedName": "Nightdress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201205206,
+          "chineseName": "男士家居服",
+          "translatedName": "Men's Home Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201205207,
+          "chineseName": "情侣家居服",
+          "translatedName": "Couple's Home Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201554415,
+          "chineseName": "亲子家居服",
+          "translatedName": "Parent-child home clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 127462002,
+          "chineseName": "月子服/哺乳装",
+          "translatedName": "Luna/Lactation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201894901,
+          "chineseName": "家居裤、睡裤",
+          "translatedName": "Home Pants, Pajama Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201895203,
+          "chineseName": "桑拿服、汗蒸服",
+          "translatedName": "Sauna clothes, sweat clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        },
+        {
+          "categoryId": 201895601,
+          "chineseName": "晨袍",
+          "translatedName": "Morning robe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122500001
+        }
+      ]
+    }
+  }
+}

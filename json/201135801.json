@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201135801,
+      "chineseName": "办公室装修服务",
+      "translatedName": "Office decoration services",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201135601"
+    }
+  }
+}

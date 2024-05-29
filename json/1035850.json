@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035850,
+      "chineseName": "铝合金粉",
+      "translatedName": "aluminum alloy powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10522"
+    }
+  }
+}

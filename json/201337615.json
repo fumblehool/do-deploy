@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337615,
+      "chineseName": "无花果干",
+      "translatedName": "dried figs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744016"
+    }
+  }
+}

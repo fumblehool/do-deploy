@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036103,
+      "chineseName": "物流仓储人员招聘",
+      "translatedName": "Logistics and warehousing personnel recruitment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2816"
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047104,
+      "chineseName": "影音电器",
+      "translatedName": "audio-visual appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10331,
+          "chineseName": "收音、录音机",
+          "translatedName": "Radio, tape recorder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 1047105,
+          "chineseName": "其他音响/设备",
+          "translatedName": "Other Audio/Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 1047133,
+          "chineseName": "碟机",
+          "translatedName": "Disc drive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 1047144,
+          "chineseName": "影音电器配件",
+          "translatedName": "Audio and video electrical accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 1036631,
+          "chineseName": "其他影音电器",
+          "translatedName": "Other audio-visual appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122668004,
+          "chineseName": "黑胶唱片机",
+          "translatedName": "vinyl record player",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122704008,
+          "chineseName": "回音壁音箱",
+          "translatedName": "Echo wall speaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122704009,
+          "chineseName": "其他音箱",
+          "translatedName": "Other Speakers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 124952002,
+          "chineseName": "智能音箱",
+          "translatedName": "Smart speaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 121378004,
+          "chineseName": "电视机顶盒",
+          "translatedName": "TV set-top box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122708008,
+          "chineseName": "蓝牙音箱",
+          "translatedName": "bluetooth speaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122702009,
+          "chineseName": "组合音响",
+          "translatedName": "Combination sound",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 121432002,
+          "chineseName": "CD机",
+          "translatedName": "CD player",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122710004,
+          "chineseName": "麦克风/话筒",
+          "translatedName": "Microphone/Microphone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 124736040,
+          "chineseName": "功放机",
+          "translatedName": "power amplifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 122700010,
+          "chineseName": "插卡音箱",
+          "translatedName": "Card speaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 124734038,
+          "chineseName": "电器连接线",
+          "translatedName": "Electrical connection line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 124744032,
+          "chineseName": "视频机",
+          "translatedName": "Video machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 201566425,
+          "chineseName": "唱戏机",
+          "translatedName": "Singing Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 201275550,
+          "chineseName": "扩音器",
+          "translatedName": "Loudspeaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 201335604,
+          "chineseName": "智能翻译机",
+          "translatedName": "intelligent translation machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 201671401,
+          "chineseName": "K歌宝",
+          "translatedName": "karaoke treasure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 201873001,
+          "chineseName": "点歌机",
+          "translatedName": "Singer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        },
+        {
+          "categoryId": 645,
+          "chineseName": "家庭影院",
+          "translatedName": "Home Theater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047104
+        }
+      ]
+    }
+  }
+}

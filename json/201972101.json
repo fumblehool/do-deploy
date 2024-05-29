@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201972101,
+      "chineseName": "家用医疗电器（器械）",
+      "translatedName": "Household medical appliances (appliances)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201976301,
+          "chineseName": "康养仪（器械）",
+          "translatedName": "Health care instrument (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201976701,
+          "chineseName": "射频仪（器械）",
+          "translatedName": "Radio Generator (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201976801,
+          "chineseName": "智能康复垫（器械）",
+          "translatedName": "Intelligent rehabilitation pad (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973601,
+          "chineseName": "加热蒸熏仪（器械）",
+          "translatedName": "Heated steamer (instrument)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973701,
+          "chineseName": "睡眠仪（器械）",
+          "translatedName": "Sleep instrument (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201975701,
+          "chineseName": "电子理疗贴（器械）",
+          "translatedName": "Electronic physiotherapy patch (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201972602,
+          "chineseName": "护颈仪（器械）",
+          "translatedName": "Neck protection apparatus (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201972701,
+          "chineseName": "家用美牙仪（器械）",
+          "translatedName": "Household Dental Apparatus (Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201960703,
+          "chineseName": "丰胸仪（器械）",
+          "translatedName": "Breast enhancement apparatus (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201980101,
+          "chineseName": "电动刮痧仪（器械）",
+          "translatedName": "Electric scraping instrument (equipment)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201963802,
+          "chineseName": "电动配药器（器械）",
+          "translatedName": "Electric dispenser (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201956504,
+          "chineseName": "助听器（器械）",
+          "translatedName": "Hearing aids (devices)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973001,
+          "chineseName": "家用雾化器（器械）",
+          "translatedName": "Household nebulizer (appliance)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973101,
+          "chineseName": "助讲器（器械）",
+          "translatedName": "speech aid (instrument)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973201,
+          "chineseName": "激光理疗仪（器械）",
+          "translatedName": "Laser physiotherapy (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973202,
+          "chineseName": "头/腰/颈/腿按摩器（器械）",
+          "translatedName": "Head/Waist/Neck/Leg Massager (Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973203,
+          "chineseName": "生发仪（器械）",
+          "translatedName": "Hair growth apparatus (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973301,
+          "chineseName": "洁牙仪（器械）",
+          "translatedName": "Tooth cleaner (instrument)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973401,
+          "chineseName": "电疗仪（器械）",
+          "translatedName": "Electrotherapy apparatus (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201973501,
+          "chineseName": "氧疗仪（器械）",
+          "translatedName": "Oxygen Therapy Apparatus (Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        },
+        {
+          "categoryId": 201967802,
+          "chineseName": "强脉冲脱毛仪（器械）",
+          "translatedName": "intense pulse hair removal apparatus (apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201972101
+        }
+      ]
+    }
+  }
+}

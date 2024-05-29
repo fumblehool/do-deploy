@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201379423,
+      "chineseName": "养殖网",
+      "translatedName": "breeding net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201382304"
+    }
+  }
+}

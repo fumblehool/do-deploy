@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201549101,
+      "chineseName": "连接器/互联器件",
+      "translatedName": "Connectors/Interconnects",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1039427,
+          "chineseName": "连接器",
+          "translatedName": "Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202057011,
+          "chineseName": "音频与视频连接器",
+          "translatedName": "Audio and Video Connectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202057210,
+          "chineseName": "电源连接器",
+          "translatedName": "Power connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202026813,
+          "chineseName": "板对线连接器",
+          "translatedName": "Board-to-wire connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202063308,
+          "chineseName": "网络通信连接器",
+          "translatedName": "Network Communication Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202063609,
+          "chineseName": "其他连接器",
+          "translatedName": "Other Connectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202064006,
+          "chineseName": "板对板连接器",
+          "translatedName": "Board-to-board connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202058310,
+          "chineseName": "RF同轴连接器",
+          "translatedName": "RF Coaxial Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202058407,
+          "chineseName": "IC器件连接器",
+          "translatedName": "IC Device Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202058906,
+          "chineseName": "防水连接器",
+          "translatedName": "Waterproof connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202051417,
+          "chineseName": "PCB连接器",
+          "translatedName": "PCB Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202051712,
+          "chineseName": "电子连接器",
+          "translatedName": "Electronic connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202052312,
+          "chineseName": "针座/插针",
+          "translatedName": "Needle holder/pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202059315,
+          "chineseName": "排针排母",
+          "translatedName": "Pin row mother",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202059509,
+          "chineseName": "线对线/线对板连接器",
+          "translatedName": "Wire-to-wire/wire-to-board connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202059906,
+          "chineseName": "储能连接器",
+          "translatedName": "Energy storage connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202053511,
+          "chineseName": "汽车连接器",
+          "translatedName": "Automotive Connectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202060810,
+          "chineseName": "接插件",
+          "translatedName": "Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202055409,
+          "chineseName": "FFC/FPC连接器",
+          "translatedName": "FFC/FPC Connectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202053706,
+          "chineseName": "接线连接器",
+          "translatedName": "Wiring Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202054412,
+          "chineseName": "USB连接器",
+          "translatedName": "USB connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202062107,
+          "chineseName": "存储连接器",
+          "translatedName": "Storage Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        },
+        {
+          "categoryId": 202062310,
+          "chineseName": "圆形连接器",
+          "translatedName": "Circular connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201549101
+        }
+      ]
+    }
+  }
+}

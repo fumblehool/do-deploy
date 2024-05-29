@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10048,
+      "chineseName": "饲料",
+      "translatedName": "Feed",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10049,
+          "chineseName": "植物性饲料",
+          "translatedName": "plant feed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10048
+        },
+        {
+          "categoryId": 10050,
+          "chineseName": "动物性饲料",
+          "translatedName": "animal feed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10048
+        },
+        {
+          "categoryId": 10051,
+          "chineseName": "其他饲料",
+          "translatedName": "Other feed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10048
+        }
+      ]
+    }
+  }
+}

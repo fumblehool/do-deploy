@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290332,
+      "chineseName": "旅游项目合作",
+      "translatedName": "tourism project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "69"
+    }
+  }
+}

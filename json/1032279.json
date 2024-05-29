@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032279,
+      "chineseName": "卤钨灯泡",
+      "translatedName": "tungsten halogen bulb",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10219"
+    }
+  }
+}

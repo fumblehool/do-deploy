@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033585,
+      "chineseName": "反光镜",
+      "translatedName": "Reflectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122098001"
+    }
+  }
+}

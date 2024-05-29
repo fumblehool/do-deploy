@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043399,
+      "chineseName": "熔喷无纺布",
+      "translatedName": "meltblown non-woven fabric",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031700"
+    }
+  }
+}

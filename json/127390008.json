@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127390008,
+      "chineseName": "广告衫棒球服",
+      "translatedName": "Advertising shirt baseball uniform",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420010"
+    }
+  }
+}

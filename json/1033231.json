@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033231,
+      "chineseName": "交通安全标识",
+      "translatedName": "Traffic Safety Signs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124158001"
+    }
+  }
+}

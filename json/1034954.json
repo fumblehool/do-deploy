@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034954,
+      "chineseName": "橡胶贴合机",
+      "translatedName": "rubber bonding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10410"
+    }
+  }
+}

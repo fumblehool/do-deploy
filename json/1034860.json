@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034860,
+      "chineseName": "其他天然胶粘剂",
+      "translatedName": "Other Natural Adhesives",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031622"
+    }
+  }
+}

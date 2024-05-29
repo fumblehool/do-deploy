@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202000204,
+      "chineseName": "五味子",
+      "translatedName": "Schisandra chinensis",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164002"
+    }
+  }
+}

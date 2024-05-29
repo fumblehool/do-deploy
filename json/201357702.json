@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201357702,
+      "chineseName": "汽车玻璃除雾剂",
+      "translatedName": "automotive glass defogging agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "79"
+    }
+  }
+}

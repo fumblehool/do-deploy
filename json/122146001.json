@@ -1,0 +1,775 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122146001,
+      "chineseName": "厨房工具",
+      "translatedName": "Kitchen Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031741,
+          "chineseName": "冰袋、冰包、野餐包",
+          "translatedName": "Ice pack, ice pack, picnic pack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 10299,
+          "chineseName": "砧板、菜板",
+          "translatedName": "Chopping board, chopping board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1032719,
+          "chineseName": "烹饪勺铲",
+          "translatedName": "Cooking Spoon Shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1032725,
+          "chineseName": "蒸笼、蒸格",
+          "translatedName": "Steamer, steamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1043777,
+          "chineseName": "其他厨房小工具",
+          "translatedName": "Other Kitchen Gadgets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1043778,
+          "chineseName": "厨房用品配件",
+          "translatedName": "Kitchen Supplies Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1035991,
+          "chineseName": "食物罩",
+          "translatedName": "Food hood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1043773,
+          "chineseName": "保鲜膜",
+          "translatedName": "cling film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 1038547,
+          "chineseName": "牙签筒",
+          "translatedName": "Toothpick tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 125728003,
+          "chineseName": "防烫碗碟夹",
+          "translatedName": "Anti-scald bowl dish clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122164001,
+          "chineseName": "多功能切菜器",
+          "translatedName": "Multi-function vegetable cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122164002,
+          "chineseName": "剥蒜器、蒜泥器",
+          "translatedName": "Garlic peeler, garlic peeler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122170001,
+          "chineseName": "手动榨汁器",
+          "translatedName": "Manual Juicer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 125748003,
+          "chineseName": "包饺子用具",
+          "translatedName": "Dumpling Making Utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122630002,
+          "chineseName": "洗米筛",
+          "translatedName": "washing rice sieve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 124746023,
+          "chineseName": "喂药器",
+          "translatedName": "Drug feeder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122148001,
+          "chineseName": "开瓶器、开罐器",
+          "translatedName": "Bottle opener, can opener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122150002,
+          "chineseName": "食物夹",
+          "translatedName": "Food clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122158001,
+          "chineseName": "刨子、削皮器",
+          "translatedName": "Plane, peeler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122358004,
+          "chineseName": "冰格",
+          "translatedName": "Ice Crate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122322006,
+          "chineseName": "擀面杖",
+          "translatedName": "Rolling pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122596002,
+          "chineseName": "一次性家用铝箔",
+          "translatedName": "Disposable household aluminum foil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122620004,
+          "chineseName": "网漏、油格",
+          "translatedName": "Net leakage, oil grid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122384003,
+          "chineseName": "杯架、酒杯架",
+          "translatedName": "Cup holder, wine cup holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122656002,
+          "chineseName": "厨房定时器",
+          "translatedName": "Kitchen timer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 124736042,
+          "chineseName": "其他哺育喂养用品",
+          "translatedName": "Other feeding supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 122348007,
+          "chineseName": "杯架",
+          "translatedName": "Cup holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 124734032,
+          "chineseName": "食物研磨器",
+          "translatedName": "Food grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201309725,
+          "chineseName": "黄油盒",
+          "translatedName": "butter box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201640948,
+          "chineseName": "手动扯蛋器",
+          "translatedName": "Manual egg-pulling device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 127746003,
+          "chineseName": "酒漏、油漏",
+          "translatedName": "Alcohol leakage, oil leakage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201229108,
+          "chineseName": "饭团模具",
+          "translatedName": "Rice ball mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201637455,
+          "chineseName": "手动开椰器",
+          "translatedName": "Manual coconut opening device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201638557,
+          "chineseName": "水槽过滤网",
+          "translatedName": "Sink filter screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201638656,
+          "chineseName": "松肉针",
+          "translatedName": "pine needle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201222008,
+          "chineseName": "雪糕模具",
+          "translatedName": "Ice Cream Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201515402,
+          "chineseName": "防油挡板",
+          "translatedName": "Oil-proof baffle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201623902,
+          "chineseName": "开橙器剥橙器",
+          "translatedName": "Orange opener orange peeler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201625202,
+          "chineseName": "瓜子钳",
+          "translatedName": "melon forceps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201625801,
+          "chineseName": "揉面垫",
+          "translatedName": "Kneading Mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201626001,
+          "chineseName": "手动搅拌棒",
+          "translatedName": "Manual stir bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201220210,
+          "chineseName": "冰块桶",
+          "translatedName": "Ice Bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201305703,
+          "chineseName": "寿司套件",
+          "translatedName": "Sushi Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 127740004,
+          "chineseName": "切果器",
+          "translatedName": "Fruit Cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201227511,
+          "chineseName": "虾蟹工具",
+          "translatedName": "Shrimp and Crab Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201632952,
+          "chineseName": "撕肉器",
+          "translatedName": "Meat Ripper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201688401,
+          "chineseName": "多功能蔬菜脱水器",
+          "translatedName": "Multi-functional vegetable dehydrator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201312701,
+          "chineseName": "解冻板",
+          "translatedName": "Thawing plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201681513,
+          "chineseName": "厨房小工具套装",
+          "translatedName": "Kitchen Gadget Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 127772002,
+          "chineseName": "核桃夹",
+          "translatedName": "Walnut clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201649301,
+          "chineseName": "阿胶糕模具",
+          "translatedName": "donkey-hide gelatin cake mould",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201656402,
+          "chineseName": "煎蛋模具",
+          "translatedName": "Fried Egg Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201339413,
+          "chineseName": "保鲜袋",
+          "translatedName": "Fresh-keeping bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201614305,
+          "chineseName": "敲肉锤",
+          "translatedName": "Hammer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201615702,
+          "chineseName": "切蛋器",
+          "translatedName": "egg cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201615903,
+          "chineseName": "肉丸制作器",
+          "translatedName": "Meatball maker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201618903,
+          "chineseName": "揉面袋",
+          "translatedName": "kneading bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201619002,
+          "chineseName": "剥壳去核器",
+          "translatedName": "shell remover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201976606,
+          "chineseName": "微波炉架/烤箱架",
+          "translatedName": "microwave oven rack/oven rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202050001,
+          "chineseName": "按压式饮水器",
+          "translatedName": "Press type drinking fountain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202050101,
+          "chineseName": "野餐篮",
+          "translatedName": "picnic basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202050201,
+          "chineseName": "转蛋器",
+          "translatedName": "egg-turning device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201975703,
+          "chineseName": "蒸笼屉布/垫/纸",
+          "translatedName": "Steamer drawer cloth/pad/paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201975704,
+          "chineseName": "水龙头延伸器",
+          "translatedName": "faucet extender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202048302,
+          "chineseName": "厨房护甲器",
+          "translatedName": "Kitchen Armor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201902801,
+          "chineseName": "调料器皿",
+          "translatedName": "Seasoning vessel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201955006,
+          "chineseName": "厨房除冰铲/除霜铲",
+          "translatedName": "Kitchen ice removal shovel/defrost shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201972303,
+          "chineseName": "厨房压嘴/泵头",
+          "translatedName": "Galley Nozzle/Pump Head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201972905,
+          "chineseName": "桶装水支架",
+          "translatedName": "Barreled water support",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201834302,
+          "chineseName": "保鲜膜切割器",
+          "translatedName": "cling film cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201897001,
+          "chineseName": "家用水池挡水板",
+          "translatedName": "Household pool water baffle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201979805,
+          "chineseName": "炉罩",
+          "translatedName": "Hood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201835201,
+          "chineseName": "手动灌肠器",
+          "translatedName": "manual enemator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201997202,
+          "chineseName": "水槽沥水架",
+          "translatedName": "Drain rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201841605,
+          "chineseName": "调味球",
+          "translatedName": "seasoning ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201997702,
+          "chineseName": "饭勺",
+          "translatedName": "Rice spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201998401,
+          "chineseName": "和面板",
+          "translatedName": "and panels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201804005,
+          "chineseName": "猪毛夹",
+          "translatedName": "Pig hair clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201866001,
+          "chineseName": "调料注射器/火鸡针",
+          "translatedName": "Seasoning syringe/turkey needle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201956009,
+          "chineseName": "按压嘴",
+          "translatedName": "Press mouth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201973104,
+          "chineseName": "水舀/水瓢",
+          "translatedName": "Water scoop/water scoop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202045403,
+          "chineseName": "锅刷、碗刷",
+          "translatedName": "Pot brush, bowl brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 201901502,
+          "chineseName": "虾线刀",
+          "translatedName": "shrimp line knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        },
+        {
+          "categoryId": 202043102,
+          "chineseName": "挂肉勾",
+          "translatedName": "Hanging meat hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122146001
+        }
+      ]
+    }
+  }
+}

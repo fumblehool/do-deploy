@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032382,
+      "chineseName": "电子测量仪器",
+      "translatedName": "electronic measuring instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033859,
+          "chineseName": "其他电子测量仪器",
+          "translatedName": "Other electronic measuring instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1033860,
+          "chineseName": "频谱分析仪",
+          "translatedName": "spectrum analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1033861,
+          "chineseName": "LCR测量仪",
+          "translatedName": "LCR measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1033862,
+          "chineseName": "示波器",
+          "translatedName": "Oscilloscope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1033863,
+          "chineseName": "场强仪",
+          "translatedName": "field strength meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1033864,
+          "chineseName": "信号发生器",
+          "translatedName": "signal generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1035932,
+          "chineseName": "图示仪",
+          "translatedName": "plotter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1036150,
+          "chineseName": "元件测试仪",
+          "translatedName": "Component tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 1036151,
+          "chineseName": "参数测量仪",
+          "translatedName": "Parameter measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        },
+        {
+          "categoryId": 201896701,
+          "chineseName": "医用电子测量仪器",
+          "translatedName": "medical electronic measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032382
+        }
+      ]
+    }
+  }
+}

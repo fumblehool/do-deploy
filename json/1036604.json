@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036604,
+      "chineseName": "污水处理",
+      "translatedName": "Sewage treatment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2841"
+    }
+  }
+}

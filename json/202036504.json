@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202036504,
+      "chineseName": "接收器",
+      "translatedName": "Receiver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50909"
+    }
+  }
+}

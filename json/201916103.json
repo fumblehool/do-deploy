@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201916103,
+      "chineseName": "洗车水管",
+      "translatedName": "Car wash hose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121500003"
+    }
+  }
+}

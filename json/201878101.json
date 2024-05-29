@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201878101,
+      "chineseName": "扶手箱垫",
+      "translatedName": "Armrest box pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "92"
+    }
+  }
+}

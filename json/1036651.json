@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036651,
+      "chineseName": "电池修复机",
+      "translatedName": "Battery repair machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032384"
+    }
+  }
+}

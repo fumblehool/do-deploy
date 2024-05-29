@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159708,
+      "chineseName": "咖啡粉",
+      "translatedName": "Coffee powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330404"
+    }
+  }
+}

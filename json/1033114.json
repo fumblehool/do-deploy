@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033114,
+      "chineseName": "碳粉",
+      "translatedName": "Toner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10260"
+    }
+  }
+}

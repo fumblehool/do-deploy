@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156206,
+      "chineseName": "塑料搅拌罐",
+      "translatedName": "Plastic mixing tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1040298"
+    }
+  }
+}

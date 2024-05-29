@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10233,
+      "chineseName": "电热设备",
+      "translatedName": "Electric heating equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035031,
+          "chineseName": "电热板",
+          "translatedName": "electric heating plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035033,
+          "chineseName": "电热管、发热管",
+          "translatedName": "Electric heating tube, heating tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035032,
+          "chineseName": "电热盘、发热盘",
+          "translatedName": "Electric heating plate, heating plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035016,
+          "chineseName": "其他电热设备",
+          "translatedName": "Other Electric Heating Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035017,
+          "chineseName": "硅碳棒",
+          "translatedName": "silicon carbon rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035018,
+          "chineseName": "工业烤箱",
+          "translatedName": "Industrial Oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035019,
+          "chineseName": "电热线",
+          "translatedName": "electric hot line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035020,
+          "chineseName": "电热片",
+          "translatedName": "Electric heating sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035021,
+          "chineseName": "发热芯",
+          "translatedName": "Heating core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035022,
+          "chineseName": "伴热设备",
+          "translatedName": "Heat tracing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035023,
+          "chineseName": "实验电炉",
+          "translatedName": "experimental electric furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035024,
+          "chineseName": "熔锡炉",
+          "translatedName": "tin melting furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035025,
+          "chineseName": "工业电炉",
+          "translatedName": "industrial electric furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035026,
+          "chineseName": "电热圈",
+          "translatedName": "Electric heating ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035028,
+          "chineseName": "电热膜",
+          "translatedName": "electric heating film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035027,
+          "chineseName": "电热器",
+          "translatedName": "electric heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035029,
+          "chineseName": "电热带",
+          "translatedName": "Electric belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        },
+        {
+          "categoryId": 1035030,
+          "chineseName": "电热丝",
+          "translatedName": "electric heating wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10233
+        }
+      ]
+    }
+  }
+}

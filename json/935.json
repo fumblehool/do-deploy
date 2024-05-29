@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 935,
+      "chineseName": "有色金属",
+      "translatedName": "Nonferrous Metals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033396,
+          "chineseName": "钴",
+          "translatedName": "Cobalt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1033397,
+          "chineseName": "镍",
+          "translatedName": "Nickel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1033398,
+          "chineseName": "铅",
+          "translatedName": "Lead",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1033399,
+          "chineseName": "锡",
+          "translatedName": "Tin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1033401,
+          "chineseName": "碲",
+          "translatedName": "Tellurium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1033402,
+          "chineseName": "硅",
+          "translatedName": "Silicon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035876,
+          "chineseName": "其他有色金属",
+          "translatedName": "Other non-ferrous metals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035878,
+          "chineseName": "钙",
+          "translatedName": "Calcium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035882,
+          "chineseName": "铌",
+          "translatedName": "Niobium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035883,
+          "chineseName": "钽",
+          "translatedName": "Tantalum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035885,
+          "chineseName": "铪",
+          "translatedName": "hafnium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035886,
+          "chineseName": "铋",
+          "translatedName": "Bismuth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1045891,
+          "chineseName": "稀土金属",
+          "translatedName": "rare earth metal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035889,
+          "chineseName": "钒",
+          "translatedName": "Vanadium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035890,
+          "chineseName": "铟",
+          "translatedName": "Indium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035891,
+          "chineseName": "锗",
+          "translatedName": "Germanium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035892,
+          "chineseName": "钼",
+          "translatedName": "Molybdenum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035893,
+          "chineseName": "锑",
+          "translatedName": "Antimony",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035894,
+          "chineseName": "锆",
+          "translatedName": "Zirconium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035895,
+          "chineseName": "钛",
+          "translatedName": "Titanium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035833,
+          "chineseName": "钯",
+          "translatedName": "Palladium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1035834,
+          "chineseName": "铂",
+          "translatedName": "Platinum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 1048321,
+          "chineseName": "银",
+          "translatedName": "Silver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 10502,
+          "chineseName": "铜",
+          "translatedName": "Copper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 10503,
+          "chineseName": "铝",
+          "translatedName": "Aluminum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 10504,
+          "chineseName": "镁",
+          "translatedName": "Magnesium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        },
+        {
+          "categoryId": 10505,
+          "chineseName": "锌",
+          "translatedName": "Zinc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 935
+        }
+      ]
+    }
+  }
+}

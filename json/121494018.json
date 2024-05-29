@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494018,
+      "chineseName": "洗车水枪",
+      "translatedName": "Car wash water gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121500003"
+    }
+  }
+}

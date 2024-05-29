@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036648,
+      "chineseName": "服务员招聘",
+      "translatedName": "Waiter Recruitment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2816"
+    }
+  }
+}

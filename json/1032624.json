@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032624,
+      "chineseName": "瓷砖胶",
+      "translatedName": "Ceramic tile adhesive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1348"
+    }
+  }
+}

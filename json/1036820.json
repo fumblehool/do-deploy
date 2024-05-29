@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036820,
+      "chineseName": "混凝土泵车",
+      "translatedName": "Concrete pump truck",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10446"
+    }
+  }
+}

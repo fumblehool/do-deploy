@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124958001,
+      "chineseName": "防撞条",
+      "translatedName": "Anti-collision strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10440"
+    }
+  }
+}

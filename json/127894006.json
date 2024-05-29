@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894006,
+      "chineseName": "伺服电机",
+      "translatedName": "Servo motor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "504"
+    }
+  }
+}

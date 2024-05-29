@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122208006,
+      "chineseName": "篮球战术板",
+      "translatedName": "Basketball Tactical Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044810"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201690503,
+      "chineseName": "纱窗刷",
+      "translatedName": "Screen window brush",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1514"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032284,
+      "chineseName": "信号灯",
+      "translatedName": "Signal lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034967"
+    }
+  }
+}

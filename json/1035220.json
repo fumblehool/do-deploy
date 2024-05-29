@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035220,
+      "chineseName": "通信天线",
+      "translatedName": "communication antenna",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10235"
+    }
+  }
+}

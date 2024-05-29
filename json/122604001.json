@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122604001,
+      "chineseName": "成人纸尿裤",
+      "translatedName": "Adult diapers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231505"
+    }
+  }
+}

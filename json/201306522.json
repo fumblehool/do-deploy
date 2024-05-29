@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306522,
+      "chineseName": "彩妆加工定制",
+      "translatedName": "Cosmetic processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125070013"
+    }
+  }
+}

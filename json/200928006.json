@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200928006,
+      "chineseName": "披萨柜/沙拉柜/三明治工作台",
+      "translatedName": "Pizza Cabinet/Salad Cabinet/Sandwich Workbench",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

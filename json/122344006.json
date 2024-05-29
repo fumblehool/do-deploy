@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122344006,
+      "chineseName": "沙漏",
+      "translatedName": "Hourglass",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305307"
+    }
+  }
+}

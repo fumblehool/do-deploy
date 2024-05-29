@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125068002,
+      "chineseName": "水产海鲜",
+      "translatedName": "Aquatic Seafood",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10005,
+          "chineseName": "其他鲜活水产品",
+          "translatedName": "Other fresh aquatic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 10006,
+          "chineseName": "海藻类",
+          "translatedName": "seaweed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1032833,
+          "chineseName": "龟鳖类",
+          "translatedName": "Turtle class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1032880,
+          "chineseName": "其他粗加工水产品（废弃）",
+          "translatedName": "Other rough processed aquatic products (abandoned)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1032881,
+          "chineseName": "腌制水产品",
+          "translatedName": "pickled aquatic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1032882,
+          "chineseName": "水产干货类",
+          "translatedName": "Aquatic dry goods",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1032883,
+          "chineseName": "其他加工水产品",
+          "translatedName": "Other processed aquatic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 1046349,
+          "chineseName": "软体类",
+          "translatedName": "soft body class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 125086007,
+          "chineseName": "鱼类",
+          "translatedName": "Fish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 125066004,
+          "chineseName": "海参",
+          "translatedName": "sea cucumber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 125066008,
+          "chineseName": "贝类",
+          "translatedName": "Shellfish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 125070010,
+          "chineseName": "蟹类",
+          "translatedName": "Crabs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 125064005,
+          "chineseName": "虾类",
+          "translatedName": "Shrimp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 201163204,
+          "chineseName": "水产礼盒类",
+          "translatedName": "Aquatic gift box class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 201163302,
+          "chineseName": "大闸蟹",
+          "translatedName": "hairy crab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 201157010,
+          "chineseName": "海带",
+          "translatedName": "kelp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 201158203,
+          "chineseName": "紫菜",
+          "translatedName": "Laver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        },
+        {
+          "categoryId": 201156107,
+          "chineseName": "小龙虾",
+          "translatedName": "Crayfish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125068002
+        }
+      ]
+    }
+  }
+}

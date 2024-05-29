@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1225,
+      "chineseName": "航道设施",
+      "translatedName": "Channel facilities",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "12"
+    }
+  }
+}

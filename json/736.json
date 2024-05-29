@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 736,
+      "chineseName": "数码电脑加工",
+      "translatedName": "digital computer processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031825,
+          "chineseName": "电脑产品加工",
+          "translatedName": "Computer product processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 736
+        },
+        {
+          "categoryId": 1031801,
+          "chineseName": "电脑产品代理加盟",
+          "translatedName": "Computer products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 736
+        }
+      ]
+    }
+  }
+}

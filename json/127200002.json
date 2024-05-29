@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127200002,
+      "chineseName": "速度继电器（转速继电器）",
+      "translatedName": "Speed relay (speed relay)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127170001"
+    }
+  }
+}

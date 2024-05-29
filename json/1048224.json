@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048224,
+      "chineseName": "传统滋补品",
+      "translatedName": "Traditional Tonic",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048286,
+          "chineseName": "其他传统滋补品",
+          "translatedName": "Other Traditional Tonic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124740002,
+          "chineseName": "鹿产品",
+          "translatedName": "Deer Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124740003,
+          "chineseName": "雪蛤/林蛙油",
+          "translatedName": "Snow Clam/Rana Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124744005,
+          "chineseName": "鱼胶/花胶",
+          "translatedName": "Fish Gum/Flower Gum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124736004,
+          "chineseName": "芦荟",
+          "translatedName": "Aloe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124736005,
+          "chineseName": "石斛/枫斗",
+          "translatedName": "Dendrobium/Fengdou",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124736006,
+          "chineseName": "燕窝",
+          "translatedName": "Bird's Nest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124742002,
+          "chineseName": "冬虫夏草",
+          "translatedName": "Cordyceps sinensis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124742003,
+          "chineseName": "非处方滋补膏",
+          "translatedName": "over-the-counter tonic cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124742025,
+          "chineseName": "阿胶",
+          "translatedName": "donkey-hide gelatin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 125372001,
+          "chineseName": "玛咖",
+          "translatedName": "Maca",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 125374001,
+          "chineseName": "黑糖",
+          "translatedName": "Black Sugar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124734003,
+          "chineseName": "灵芝",
+          "translatedName": "Ganoderma lucidum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124744003,
+          "chineseName": "三七",
+          "translatedName": "Panax notoginseng",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 124744004,
+          "chineseName": "参类滋补品",
+          "translatedName": "ginseng tonic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 125272009,
+          "chineseName": "枸杞及其制品",
+          "translatedName": "Chinese wolfberry and its products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201336221,
+          "chineseName": "桃胶",
+          "translatedName": "peach gum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201466501,
+          "chineseName": "养生丸",
+          "translatedName": "Health Pills",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201466901,
+          "chineseName": "天麻",
+          "translatedName": "Gastrodia elata",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201467001,
+          "chineseName": "药膳养生汤料",
+          "translatedName": "Medicinal Diet Health Soup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201466001,
+          "chineseName": "山药及其制品",
+          "translatedName": "Yam and its products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201337818,
+          "chineseName": "雪燕",
+          "translatedName": "Xueyan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201464302,
+          "chineseName": "益母草",
+          "translatedName": "motherwort",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 202012002,
+          "chineseName": "刺梨/刺梨原浆",
+          "translatedName": "Rosa roxburghii/prickly pear puree",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 201837722,
+          "chineseName": "即食传统滋补",
+          "translatedName": "Instant Traditional Nourishing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 202014702,
+          "chineseName": "干品/即食海参",
+          "translatedName": "Dried/Instant Sea Cucumber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        },
+        {
+          "categoryId": 202020202,
+          "chineseName": "滋补养生饮品/炖品",
+          "translatedName": "Nourishing health drink/stew",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048224
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740008,
+      "chineseName": "成人奶粉",
+      "translatedName": "Adult milk powder",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122698003,
+          "chineseName": "其他成人奶粉",
+          "translatedName": "Other adult milk powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740008
+        },
+        {
+          "categoryId": 124734009,
+          "chineseName": "牛奶粉",
+          "translatedName": "milk powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740008
+        },
+        {
+          "categoryId": 124734010,
+          "chineseName": "牛初乳粉",
+          "translatedName": "Bovine Colostral Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740008
+        },
+        {
+          "categoryId": 124746006,
+          "chineseName": "羊奶粉",
+          "translatedName": "goat milk powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740008
+        },
+        {
+          "categoryId": 201545701,
+          "chineseName": "骆驼奶粉",
+          "translatedName": "camel milk powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740008
+        }
+      ]
+    }
+  }
+}

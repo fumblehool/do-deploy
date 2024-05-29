@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032835,
+      "chineseName": "菌菇种苗",
+      "translatedName": "mushroom seedling",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046204"
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1904,
+      "chineseName": "光学仪器",
+      "translatedName": "optical instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033156,
+          "chineseName": "其他光学仪器",
+          "translatedName": "Other Optical Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033157,
+          "chineseName": "折射仪",
+          "translatedName": "refractometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033158,
+          "chineseName": "光谱仪",
+          "translatedName": "Spectrometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033160,
+          "chineseName": "放大镜",
+          "translatedName": "Magnifying glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033810,
+          "chineseName": "色差计",
+          "translatedName": "color difference meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033811,
+          "chineseName": "分光仪",
+          "translatedName": "spectrometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033812,
+          "chineseName": "棱镜、透镜",
+          "translatedName": "Prism, lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1033813,
+          "chineseName": "滤光片、滤色片",
+          "translatedName": "Filter, color filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1035911,
+          "chineseName": "干涉仪",
+          "translatedName": "interferometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1035912,
+          "chineseName": "熔点仪",
+          "translatedName": "melting point instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1036120,
+          "chineseName": "照度计",
+          "translatedName": "illuminometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1036008,
+          "chineseName": "投影仪",
+          "translatedName": "Projector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1036117,
+          "chineseName": "目镜、物镜",
+          "translatedName": "Eyepiece, objective lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1036119,
+          "chineseName": "紫外辐照计",
+          "translatedName": "ultraviolet irradiometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1035646,
+          "chineseName": "夜视仪",
+          "translatedName": "Night vision",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121490008,
+          "chineseName": "光栅光幕",
+          "translatedName": "grating light curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121490009,
+          "chineseName": "光学机具及配件",
+          "translatedName": "Optical machines and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121494009,
+          "chineseName": "工业扫描仪",
+          "translatedName": "Industrial Scanner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121496007,
+          "chineseName": "工业相机",
+          "translatedName": "Industrial Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121502004,
+          "chineseName": "反射镜",
+          "translatedName": "Mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121504004,
+          "chineseName": "偏振镜、UV镜",
+          "translatedName": "Polarizer, UV mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121504005,
+          "chineseName": "分光光度计",
+          "translatedName": "spectrophotometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 121494008,
+          "chineseName": "光学检测仪",
+          "translatedName": "Optical detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1911,
+          "chineseName": "望远镜",
+          "translatedName": "Telescope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 1912,
+          "chineseName": "显微镜",
+          "translatedName": "Microscope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        },
+        {
+          "categoryId": 126144001,
+          "chineseName": "投影仪配件",
+          "translatedName": "Projector Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1904
+        }
+      ]
+    }
+  }
+}

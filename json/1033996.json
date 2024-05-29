@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033996,
+      "chineseName": "电话答录机",
+      "translatedName": "answering machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50915"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3407,
+      "chineseName": "印刷机械专用配件",
+      "translatedName": "Special accessories for printing machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "72",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034088,
+          "chineseName": "其他印刷机械专用配件",
+          "translatedName": "Other printing machinery special accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034089,
+          "chineseName": "搅墨棒",
+          "translatedName": "Stir ink stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034090,
+          "chineseName": "电晕笔",
+          "translatedName": "corona pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034091,
+          "chineseName": "压纸轮",
+          "translatedName": "paper pressing wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034092,
+          "chineseName": "刮墨刀",
+          "translatedName": "scraping knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034093,
+          "chineseName": "水辊",
+          "translatedName": "water roller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        },
+        {
+          "categoryId": 1034094,
+          "chineseName": "胶辊",
+          "translatedName": "Rubber roller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3407
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038416,
+      "chineseName": "保温、隔热材料",
+      "translatedName": "Heat preservation and heat insulation materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1038387"
+    }
+  }
+}

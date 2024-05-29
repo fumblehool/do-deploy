@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127174001,
+      "chineseName": "磁保持继电器",
+      "translatedName": "magnetic latching relay",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127170001"
+    }
+  }
+}

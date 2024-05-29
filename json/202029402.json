@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029402,
+      "chineseName": "电动钻夹头",
+      "translatedName": "Electric drill chuck",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032336"
+    }
+  }
+}

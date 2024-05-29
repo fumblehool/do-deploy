@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10448,
+      "chineseName": "压实机械",
+      "translatedName": "Compaction machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10446"
+    }
+  }
+}

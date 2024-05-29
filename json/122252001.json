@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122252001,
+      "chineseName": "竹纤维毯",
+      "translatedName": "Bamboo fiber blanket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127870016"
+    }
+  }
+}

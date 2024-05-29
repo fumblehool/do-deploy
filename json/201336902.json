@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201336902,
+      "chineseName": "挡水板",
+      "translatedName": "Water deflector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330406"
+    }
+  }
+}

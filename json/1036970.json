@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036970,
+      "chineseName": "干扰素",
+      "translatedName": "Interferon",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "832"
+    }
+  }
+}

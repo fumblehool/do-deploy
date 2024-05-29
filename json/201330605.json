@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330605,
+      "chineseName": "头发免洗喷雾",
+      "translatedName": "Hair Wash-Free Spray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10313"
+    }
+  }
+}

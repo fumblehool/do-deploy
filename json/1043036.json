@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043036,
+      "chineseName": "沥青",
+      "translatedName": "Bitumen",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 100105,
+          "chineseName": "石油沥青",
+          "translatedName": "petroleum asphalt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043036
+        },
+        {
+          "categoryId": 1035950,
+          "chineseName": "煤沥青",
+          "translatedName": "coal tar pitch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043036
+        }
+      ]
+    }
+  }
+}

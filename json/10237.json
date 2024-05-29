@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10237,
+      "chineseName": "纺织废料",
+      "translatedName": "Textile waste",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034269,
+          "chineseName": "其他纺织废料",
+          "translatedName": "Other Textile Waste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10237
+        },
+        {
+          "categoryId": 1034273,
+          "chineseName": "废布",
+          "translatedName": "waste cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10237
+        },
+        {
+          "categoryId": 1034271,
+          "chineseName": "废化纤",
+          "translatedName": "waste chemical fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10237
+        },
+        {
+          "categoryId": 1034274,
+          "chineseName": "废棉",
+          "translatedName": "waste cotton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10237
+        }
+      ]
+    }
+  }
+}

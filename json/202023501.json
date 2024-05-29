@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202023501,
+      "chineseName": "年货礼品包装",
+      "translatedName": "New Year gift packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202021701"
+    }
+  }
+}

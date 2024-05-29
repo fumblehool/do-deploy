@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 17,
+      "chineseName": "工艺品、礼品",
+      "translatedName": "Arts and crafts, gifts",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0"
+    }
+  }
+}

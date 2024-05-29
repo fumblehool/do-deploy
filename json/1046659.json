@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046659,
+      "chineseName": "色织、提花布",
+      "translatedName": "Yarn-dyed, jacquard cloth",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "4"
+    }
+  }
+}

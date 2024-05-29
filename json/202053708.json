@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053708,
+      "chineseName": "谐振器",
+      "translatedName": "resonator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053613"
+    }
+  }
+}

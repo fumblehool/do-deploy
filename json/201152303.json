@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201152303,
+      "chineseName": "固定锁",
+      "translatedName": "Fixed lock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127278005"
+    }
+  }
+}

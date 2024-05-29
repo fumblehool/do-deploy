@@ -1,0 +1,361 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1514,
+      "chineseName": "家务清洁用具",
+      "translatedName": "Household cleaning utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032739,
+          "chineseName": "其他家务清洁用具",
+          "translatedName": "Other household cleaning appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1032749,
+          "chineseName": "垃圾桶",
+          "translatedName": "trash can",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1032750,
+          "chineseName": "拖把、拖布桶",
+          "translatedName": "Mop, mop bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1032751,
+          "chineseName": "扫把、簸箕",
+          "translatedName": "Broom, dustpan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1043955,
+          "chineseName": "擦地拖鞋",
+          "translatedName": "floor-wiping slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1048038,
+          "chineseName": "水桶、水缸",
+          "translatedName": "Bucket, water tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1035992,
+          "chineseName": "家务手套",
+          "translatedName": "Household Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1043974,
+          "chineseName": "家用盆",
+          "translatedName": "household basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1035635,
+          "chineseName": "垃圾袋",
+          "translatedName": "Garbage bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1037306,
+          "chineseName": "玻璃清洁器",
+          "translatedName": "Glass Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1037307,
+          "chineseName": "马桶吸、管道疏通器",
+          "translatedName": "Toilet suction and pipe dredge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1037309,
+          "chineseName": "除尘掸、桌面扫",
+          "translatedName": "Dust duster, desktop sweep",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1039274,
+          "chineseName": "清洁刷、钢丝球",
+          "translatedName": "Cleaning brush, steel wire ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 1048275,
+          "chineseName": "海绵擦",
+          "translatedName": "Sponge wipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 122344007,
+          "chineseName": "拖把配件",
+          "translatedName": "Mop Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 122268006,
+          "chineseName": "家务/地板清洁用具",
+          "translatedName": "Housework/floor cleaning appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 122388005,
+          "chineseName": "垃圾架",
+          "translatedName": "Garbage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 121498001,
+          "chineseName": "马桶清洁贴、垫、套",
+          "translatedName": "Toilet cleaning paste, pad and sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 121378001,
+          "chineseName": "抹布、百洁布、洗碗巾",
+          "translatedName": "Rag, scouring pad, dish towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 124186006,
+          "chineseName": "家务围裙、袖套",
+          "translatedName": "Household apron, sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 122410003,
+          "chineseName": "痰盂",
+          "translatedName": "Spittoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 124262002,
+          "chineseName": "一次性围裙、袖套",
+          "translatedName": "Disposable apron, sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 124742031,
+          "chineseName": "除尘刷、扫床刷",
+          "translatedName": "Dust removal brush and bed sweeping brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201634547,
+          "chineseName": "平板拖把",
+          "translatedName": "Flat Mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201219909,
+          "chineseName": "分类垃圾桶",
+          "translatedName": "Classified trash can",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201309306,
+          "chineseName": "婴儿尿布桶",
+          "translatedName": "Baby diaper pail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201560113,
+          "chineseName": "马桶刷",
+          "translatedName": "Toilet brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201628049,
+          "chineseName": "刮刮乐拖把",
+          "translatedName": "Scratch Mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201690503,
+          "chineseName": "纱窗刷",
+          "translatedName": "Screen window brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201310314,
+          "chineseName": "垃圾夹",
+          "translatedName": "Garbage clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201354814,
+          "chineseName": "懒人抹布",
+          "translatedName": "Lazy Rag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201308705,
+          "chineseName": "奶瓶刷/奶嘴刷",
+          "translatedName": "Milk bottle brush/nipple brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201828601,
+          "chineseName": "水槽沥水袋",
+          "translatedName": "Sink Drain Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201694403,
+          "chineseName": "地刮",
+          "translatedName": "Scraping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201710401,
+          "chineseName": "静电除尘拖把",
+          "translatedName": "Electrostatic dust removal mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201802001,
+          "chineseName": "茶水桶",
+          "translatedName": "Tea bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201766401,
+          "chineseName": "静电除尘刷",
+          "translatedName": "Electrostatic dust removal brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        },
+        {
+          "categoryId": 201767402,
+          "chineseName": "一次性马桶刷",
+          "translatedName": "Disposable toilet brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1514
+        }
+      ]
+    }
+  }
+}

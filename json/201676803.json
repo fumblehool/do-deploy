@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201676803,
+      "chineseName": "滑棒/指套",
+      "translatedName": "Slipper/Finger",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

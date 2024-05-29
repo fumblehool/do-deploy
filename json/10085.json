@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10085,
+      "chineseName": "其他调味品",
+      "translatedName": "Other condiments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10082"
+    }
+  }
+}

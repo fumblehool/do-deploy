@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052112,
+      "chineseName": "PLC编程控制器",
+      "translatedName": "PLC programming controller",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "504"
+    }
+  }
+}

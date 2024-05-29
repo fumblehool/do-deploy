@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 814,
+      "chineseName": "其他有机颜料",
+      "translatedName": "Other Organic Pigments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031630"
+    }
+  }
+}

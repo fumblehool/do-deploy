@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1604,
+      "chineseName": "医药中间体",
+      "translatedName": "pharmaceutical intermediates",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "844"
+    }
+  }
+}

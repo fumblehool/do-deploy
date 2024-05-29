@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920202,
+      "chineseName": "真空吊装",
+      "translatedName": "Vacuum lifting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1227"
+    }
+  }
+}

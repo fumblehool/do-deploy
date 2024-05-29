@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125278009,
+      "chineseName": "海绵砂",
+      "translatedName": "sponge sand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921802"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035856,
+      "chineseName": "钒铁",
+      "translatedName": "FeV",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "933"
+    }
+  }
+}

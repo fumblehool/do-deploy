@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306109,
+      "chineseName": "面膜粉",
+      "translatedName": "facial mask powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201308710"
+    }
+  }
+}

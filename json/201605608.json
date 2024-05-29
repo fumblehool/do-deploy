@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201605608,
+      "chineseName": "水泥制品",
+      "translatedName": "Cement Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201634147,
+          "chineseName": "EPS构件",
+          "translatedName": "EPS components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605608
+        },
+        {
+          "categoryId": 201628343,
+          "chineseName": "水泥管",
+          "translatedName": "Cement pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605608
+        }
+      ]
+    }
+  }
+}

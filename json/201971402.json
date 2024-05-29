@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201971402,
+      "chineseName": "隔热板",
+      "translatedName": "Heat shield",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121548001"
+    }
+  }
+}

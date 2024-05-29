@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033768,
+      "chineseName": "硬币清分机",
+      "translatedName": "coin sorting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "510"
+    }
+  }
+}

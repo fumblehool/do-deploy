@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035246,
+      "chineseName": "音频、视频插座",
+      "translatedName": "Audio, video socket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "528"
+    }
+  }
+}

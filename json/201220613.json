@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201220613,
+      "chineseName": "流水摆件",
+      "translatedName": "Running water ornaments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232601"
+    }
+  }
+}

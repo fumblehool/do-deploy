@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033879,
+      "chineseName": "非金属材料试验机",
+      "translatedName": "Non-metallic material testing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10210"
+    }
+  }
+}

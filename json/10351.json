@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10351,
+      "chineseName": "其他钳工工具",
+      "translatedName": "Other fitter tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032403,
+          "chineseName": "其他类型钳工工具",
+          "translatedName": "Other types of fitter tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        },
+        {
+          "categoryId": 1035488,
+          "chineseName": "手动拉铆枪",
+          "translatedName": "Manual rivet gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        },
+        {
+          "categoryId": 1035489,
+          "chineseName": "刮刀",
+          "translatedName": "Scraper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        },
+        {
+          "categoryId": 1035490,
+          "chineseName": "管子割刀",
+          "translatedName": "pipe cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        },
+        {
+          "categoryId": 1035491,
+          "chineseName": "钢号码",
+          "translatedName": "Steel Number",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        },
+        {
+          "categoryId": 1035493,
+          "chineseName": "划线器",
+          "translatedName": "Scriber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10351
+        }
+      ]
+    }
+  }
+}

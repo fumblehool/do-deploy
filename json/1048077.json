@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048077,
+      "chineseName": "其他户外服装",
+      "translatedName": "Other Outdoor Clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048070"
+    }
+  }
+}

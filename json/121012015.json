@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012015,
+      "chineseName": "热轧板卷",
+      "translatedName": "hot rolled coil",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018009,
+          "chineseName": "普通热轧板",
+          "translatedName": "ordinary hot rolled plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121046007,
+          "chineseName": "冷轧基料",
+          "translatedName": "cold rolled base material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121046008,
+          "chineseName": "热轧酸洗卷",
+          "translatedName": "hot-rolled pickling coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121046009,
+          "chineseName": "其他热轧",
+          "translatedName": "Other hot rolling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121012016,
+          "chineseName": "普通热轧卷",
+          "translatedName": "Ordinary hot rolled coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121012017,
+          "chineseName": "花纹板",
+          "translatedName": "diamond plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 125460002,
+          "chineseName": "花纹卷",
+          "translatedName": "diamond roll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 125464001,
+          "chineseName": "低合金卷",
+          "translatedName": "low alloy coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 125470003,
+          "chineseName": "热轧酸洗板",
+          "translatedName": "hot rolled pickling plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        },
+        {
+          "categoryId": 121022017,
+          "chineseName": "低合金板",
+          "translatedName": "low alloy plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012015
+        }
+      ]
+    }
+  }
+}

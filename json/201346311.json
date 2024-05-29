@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201346311,
+      "chineseName": "会员卡",
+      "translatedName": "Membership Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229008"
+    }
+  }
+}

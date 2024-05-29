@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309004,
+      "chineseName": "脚掌滋润/护理",
+      "translatedName": "Foot Moisturizing/Care",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121850001"
+    }
+  }
+}

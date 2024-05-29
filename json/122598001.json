@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122598001,
+      "chineseName": "酒精炉、酒精锅",
+      "translatedName": "Alcohol stove, alcohol pot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122548001"
+    }
+  }
+}

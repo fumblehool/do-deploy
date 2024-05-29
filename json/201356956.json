@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201356956,
+      "chineseName": "冷链物流包装",
+      "translatedName": "cold chain logistics packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186001"
+    }
+  }
+}

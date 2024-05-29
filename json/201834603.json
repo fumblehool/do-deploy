@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201834603,
+      "chineseName": "水晶/水钻鞋",
+      "translatedName": "Crystal/rhinone shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125386001"
+    }
+  }
+}

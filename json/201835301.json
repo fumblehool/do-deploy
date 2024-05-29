@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201835301,
+      "chineseName": "烟熏盒、烟熏篮、烟熏管",
+      "translatedName": "Smoke box, smoke basket, smoke pipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121546006"
+    }
+  }
+}

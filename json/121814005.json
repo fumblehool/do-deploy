@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121814005,
+      "chineseName": "鱼缸清洁用具",
+      "translatedName": "Fish tank cleaning appliance",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121786003"
+    }
+  }
+}

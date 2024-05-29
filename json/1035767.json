@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035767,
+      "chineseName": "不锈钢圆棒",
+      "translatedName": "Stainless steel round bar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123374001"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3307,
+      "chineseName": "座垫脚垫",
+      "translatedName": "seat mat foot mat",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032120,
+          "chineseName": "座垫、座套",
+          "translatedName": "Seat cushion, seat cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 1036428,
+          "chineseName": "地胶、脚垫",
+          "translatedName": "Ground glue, foot pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 1041519,
+          "chineseName": "汽车地毯",
+          "translatedName": "Car Carpet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123278006,
+          "chineseName": "专车专用座套",
+          "translatedName": "Special seat cover for special car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123286004,
+          "chineseName": "毛垫",
+          "translatedName": "wool pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123294001,
+          "chineseName": "四季垫",
+          "translatedName": "Four Seasons Pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123308001,
+          "chineseName": "通用脚垫",
+          "translatedName": "Universal Foot Pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123312001,
+          "chineseName": "后备箱垫",
+          "translatedName": "Trunk Mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123290002,
+          "chineseName": "通用座套",
+          "translatedName": "Universal seat cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123290003,
+          "chineseName": "多功能垫",
+          "translatedName": "Multi-function pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123292001,
+          "chineseName": "凉垫",
+          "translatedName": "Cool pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        },
+        {
+          "categoryId": 123282006,
+          "chineseName": "专车专用脚垫",
+          "translatedName": "Special foot mat for special car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3307
+        }
+      ]
+    }
+  }
+}

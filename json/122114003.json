@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122114003,
+      "chineseName": "滑翔用品",
+      "translatedName": "Gliding Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "74"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201360039,
+      "chineseName": "头盔生产线",
+      "translatedName": "Helmet production line",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201356551"
+    }
+  }
+}

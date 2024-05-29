@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036124,
+      "chineseName": "偏摆检查仪",
+      "translatedName": "deflection tester",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10212"
+    }
+  }
+}

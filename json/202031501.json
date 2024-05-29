@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202031501,
+      "chineseName": "学生军训服",
+      "translatedName": "Student military training uniform",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202030801"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201212701,
+      "chineseName": "少女文胸",
+      "translatedName": "Girly Bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124188007"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201228407,
+      "chineseName": "背饰",
+      "translatedName": "Back Headwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "54"
+    }
+  }
+}

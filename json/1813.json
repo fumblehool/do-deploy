@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1813,
+      "chineseName": "玩具",
+      "translatedName": "Toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031836,
+          "chineseName": "玩具项目合作",
+          "translatedName": "Toy project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 1031795,
+          "chineseName": "玩具代理加盟",
+          "translatedName": "Toy agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 1045593,
+          "chineseName": "其他类玩具",
+          "translatedName": "Other toys",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 1043076,
+          "chineseName": "玩具配件",
+          "translatedName": "Toy Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 1045520,
+          "chineseName": "运动、休闲、传统玩具",
+          "translatedName": "Sports, leisure, traditional toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122984013,
+          "chineseName": "婴儿玩具",
+          "translatedName": "Baby Toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 124022002,
+          "chineseName": "电子/发光玩具",
+          "translatedName": "Electronic/luminous toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 1048131,
+          "chineseName": "充气玩具",
+          "translatedName": "Inflatable toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122962001,
+          "chineseName": "电动/遥控玩具",
+          "translatedName": "Electric/remote control toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122990003,
+          "chineseName": "新奇特玩具",
+          "translatedName": "New Strange Toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122962004,
+          "chineseName": "童车、背带",
+          "translatedName": "Baby carriage, harness",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122962011,
+          "chineseName": "过家家玩具",
+          "translatedName": "Play house toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 124736019,
+          "chineseName": "正版动漫形象",
+          "translatedName": "Genuine cartoon image",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 122988002,
+          "chineseName": "公仔、玩偶、娃娃",
+          "translatedName": "Doll, doll, doll",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 181302,
+          "chineseName": "模型玩具",
+          "translatedName": "Model Toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 181309,
+          "chineseName": "益智、科教玩具",
+          "translatedName": "Puzzle, science and education toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 181312,
+          "chineseName": "库存玩具",
+          "translatedName": "Stock toys",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 126482002,
+          "chineseName": "玩具加工定制",
+          "translatedName": "Toy processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 127000088,
+          "chineseName": "游戏玩具",
+          "translatedName": "Game Toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 127002083,
+          "chineseName": "积木拼插类玩具",
+          "translatedName": "Building block patchwork toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 201565322,
+          "chineseName": "儿童音乐玩具",
+          "translatedName": "children's musical toys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 201161304,
+          "chineseName": "毛绒/布艺公仔玩具",
+          "translatedName": "Plush/Fabric Doll Toy",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        },
+        {
+          "categoryId": 201160102,
+          "chineseName": "娃娃及娃娃配件",
+          "translatedName": "Dolls and doll accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1813
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744016,
+      "chineseName": "果干蜜饯",
+      "translatedName": "Dried fruit preserves",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032912,
+          "chineseName": "其他果干蜜饯",
+          "translatedName": "Other dried fruit preserves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124734026,
+          "chineseName": "薯干类",
+          "translatedName": "Dried Potato",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124734027,
+          "chineseName": "橄榄",
+          "translatedName": "Olive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124734028,
+          "chineseName": "蓝莓干",
+          "translatedName": "Dried blueberries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124744025,
+          "chineseName": "芒果干",
+          "translatedName": "Dried Mango",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736025,
+          "chineseName": "鲜花脯",
+          "translatedName": "Preserved flowers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736026,
+          "chineseName": "猕猴桃干",
+          "translatedName": "Dried Kiwi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736027,
+          "chineseName": "李子干",
+          "translatedName": "Dried plums",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736028,
+          "chineseName": "芋类",
+          "translatedName": "taro",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736029,
+          "chineseName": "樱桃干/车厘子干",
+          "translatedName": "Dried Cherry/Cherry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742021,
+          "chineseName": "香蕉干",
+          "translatedName": "Dried Banana",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742022,
+          "chineseName": "哈密瓜干",
+          "translatedName": "Dried Hami Melon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742023,
+          "chineseName": "综合蔬果干",
+          "translatedName": "Integrated dried fruits and vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742024,
+          "chineseName": "即食柠檬片",
+          "translatedName": "Ready-to-eat lemon slices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124736024,
+          "chineseName": "梅类",
+          "translatedName": "Plum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742019,
+          "chineseName": "蔓越莓干",
+          "translatedName": "Dried Cranberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124742020,
+          "chineseName": "杨梅干",
+          "translatedName": "Dried red bayberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124746016,
+          "chineseName": "葡萄干",
+          "translatedName": "Raisins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124746017,
+          "chineseName": "榴莲干",
+          "translatedName": "Dried durian",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124746018,
+          "chineseName": "菠萝干",
+          "translatedName": "Dried pineapple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124746019,
+          "chineseName": "槟榔",
+          "translatedName": "betel nut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124746020,
+          "chineseName": "桃干",
+          "translatedName": "Dried Peach",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124740023,
+          "chineseName": "红枣干",
+          "translatedName": "Dried red dates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124740024,
+          "chineseName": "苹果干",
+          "translatedName": "Dried Apple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124740025,
+          "chineseName": "木瓜干",
+          "translatedName": "Dried papaya",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124740026,
+          "chineseName": "椰类果干",
+          "translatedName": "Dried coconut fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124744026,
+          "chineseName": "草莓干",
+          "translatedName": "Dried Strawberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124744027,
+          "chineseName": "柿饼",
+          "translatedName": "Persimmon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 124744028,
+          "chineseName": "山楂制品",
+          "translatedName": "Hawthorn products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 201331226,
+          "chineseName": "陈皮果脯",
+          "translatedName": "dried tangerine peel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 201555608,
+          "chineseName": "金桔类制品",
+          "translatedName": "Kumquat products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 201337615,
+          "chineseName": "无花果干",
+          "translatedName": "dried figs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        },
+        {
+          "categoryId": 202052316,
+          "chineseName": "杏干",
+          "translatedName": "Dried apricots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744016
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047019,
+      "chineseName": "电风扇",
+      "translatedName": "electric fan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3313,
+      "chineseName": "减震系统",
+      "translatedName": "damping system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3321"
+    }
+  }
+}

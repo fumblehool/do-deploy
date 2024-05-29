@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202023801,
+      "chineseName": "礼品袋",
+      "translatedName": "Gift Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202021701"
+    }
+  }
+}

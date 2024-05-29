@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122990004,
+      "chineseName": "大型充气玩具",
+      "translatedName": "Large inflatable toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048131"
+    }
+  }
+}

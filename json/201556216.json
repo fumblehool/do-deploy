@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201556216,
+      "chineseName": "男式毛衫假两件",
+      "translatedName": "Men's sweater fake two-piece",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650006"
+    }
+  }
+}

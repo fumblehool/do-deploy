@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201919302,
+      "chineseName": "滑雪护具",
+      "translatedName": "Ski Protectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2013"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121776006,
+      "chineseName": "其他宠物用品",
+      "translatedName": "Other Pet Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121852002,
+          "chineseName": "其他宠物周边用品",
+          "translatedName": "Other Pet Peripheral Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        },
+        {
+          "categoryId": 123290004,
+          "chineseName": "训练用品",
+          "translatedName": "Training Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        },
+        {
+          "categoryId": 124264003,
+          "chineseName": "宠物定位器",
+          "translatedName": "Pet Locator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        },
+        {
+          "categoryId": 124744030,
+          "chineseName": "宠物门栏",
+          "translatedName": "Pet door rail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        },
+        {
+          "categoryId": 201304913,
+          "chineseName": "宠物殡葬用品",
+          "translatedName": "Pet Funeral Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        },
+        {
+          "categoryId": 201159805,
+          "chineseName": "宠物医疗用品",
+          "translatedName": "Pet Medical Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121776006
+        }
+      ]
+    }
+  }
+}

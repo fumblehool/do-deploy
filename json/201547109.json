@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201547109,
+      "chineseName": "女士卫裤",
+      "translatedName": "Ladies Sweat Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

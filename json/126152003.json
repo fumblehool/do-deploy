@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126152003,
+      "chineseName": "后庭用品",
+      "translatedName": "Back Court Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126178001"
+    }
+  }
+}

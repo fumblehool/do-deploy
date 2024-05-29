@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034770,
+      "chineseName": "剃须膏、须后水",
+      "translatedName": "Shaving cream, aftershave",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121702001"
+    }
+  }
+}

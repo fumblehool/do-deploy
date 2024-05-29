@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042704,
+      "chineseName": "咖啡豆",
+      "translatedName": "Coffee Beans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330404"
+    }
+  }
+}

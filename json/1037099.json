@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037099,
+      "chineseName": "甲醛",
+      "translatedName": "Formaldehyde",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80309"
+    }
+  }
+}

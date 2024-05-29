@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044748,
+      "chineseName": "漂流船、皮划艇、充气艇",
+      "translatedName": "Drifting boat, kayak, inflatable boat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044740"
+    }
+  }
+}

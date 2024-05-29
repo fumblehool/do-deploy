@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2116,
+      "chineseName": "实验室专用设备",
+      "translatedName": "Special laboratory equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045707"
+    }
+  }
+}

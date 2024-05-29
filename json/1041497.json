@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041497,
+      "chineseName": "防抱死制动系统(ABS)",
+      "translatedName": "Anti-lock braking system (ABS)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10106"
+    }
+  }
+}

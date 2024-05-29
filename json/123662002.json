@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123662002,
+      "chineseName": "惯性/回力玩具",
+      "translatedName": "Inertia/Reeling Toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962001"
+    }
+  }
+}

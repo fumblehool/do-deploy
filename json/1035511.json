@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035511,
+      "chineseName": "观赏刀具",
+      "translatedName": "ornamental cutter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10352"
+    }
+  }
+}

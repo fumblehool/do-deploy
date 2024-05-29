@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988013,
+      "chineseName": "室内攀爬/游戏屋/球池",
+      "translatedName": "Indoor climbing/game house/ball pool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122984013"
+    }
+  }
+}

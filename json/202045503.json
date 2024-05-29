@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202045503,
+      "chineseName": "气罐套/包",
+      "translatedName": "Gas tank set/bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121546006"
+    }
+  }
+}

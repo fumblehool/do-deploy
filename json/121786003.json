@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121786003,
+      "chineseName": "水族世界",
+      "translatedName": "Aquarium World",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121850004,
+          "chineseName": "其它水族宠物",
+          "translatedName": "Other Aquarium Pets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121860002,
+          "chineseName": "宠物蟹、观赏蟹",
+          "translatedName": "Pet crab, ornamental crab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121862001,
+          "chineseName": "其他水族宠物饲料",
+          "translatedName": "Other Aquarium Pet Feed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121862002,
+          "chineseName": "水草及肥料",
+          "translatedName": "Water grass and fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121846003,
+          "chineseName": "造景石",
+          "translatedName": "landscape stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121846004,
+          "chineseName": "其它水族用品",
+          "translatedName": "Other Aquarium Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121850003,
+          "chineseName": "宠物螺、观赏螺",
+          "translatedName": "Pet snail, ornamental snail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 122532002,
+          "chineseName": "鱼缸",
+          "translatedName": "Fish tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 122534002,
+          "chineseName": "水族过滤设备",
+          "translatedName": "Aquarium filtration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125274010,
+          "chineseName": "水族照明设备",
+          "translatedName": "Aquarium lighting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125274011,
+          "chineseName": "温控设备",
+          "translatedName": "Temperature control equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125274012,
+          "chineseName": "定时器/自控系统",
+          "translatedName": "Timer/automatic control system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125276005,
+          "chineseName": "杀毒灭菌设备",
+          "translatedName": "Antivirus sterilization equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125494001,
+          "chineseName": "鱼捞及配件",
+          "translatedName": "Fishing and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121786004,
+          "chineseName": "宠物虾、观赏虾",
+          "translatedName": "Pet Shrimp, Ornamental Shrimp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 122592001,
+          "chineseName": "水族增氧泵",
+          "translatedName": "Aquarium oxygen increasing pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121814005,
+          "chineseName": "鱼缸清洁用具",
+          "translatedName": "Fish tank cleaning appliance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121830002,
+          "chineseName": "喂食器",
+          "translatedName": "Feeder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121774006,
+          "chineseName": "观赏龟、鳖",
+          "translatedName": "Ornamental turtle, turtle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121800002,
+          "chineseName": "观赏鱼",
+          "translatedName": "ornamental fish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125264017,
+          "chineseName": "水族PH计",
+          "translatedName": "Aquarium PH meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125270018,
+          "chineseName": "造景/装饰",
+          "translatedName": "Landscape/Decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125270019,
+          "chineseName": "孵化器",
+          "translatedName": "Incubator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125270020,
+          "chineseName": "潜水泵",
+          "translatedName": "submersible pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 125272008,
+          "chineseName": "水温计",
+          "translatedName": "water thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121772002,
+          "chineseName": "观赏鱼饲料",
+          "translatedName": "ornamental fish feed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        },
+        {
+          "categoryId": 121862003,
+          "chineseName": "水族箱",
+          "translatedName": "Aquarium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121786003
+        }
+      ]
+    }
+  }
+}

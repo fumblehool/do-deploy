@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 41503,
+      "chineseName": "羽毛、羽绒",
+      "translatedName": "Feather, Down",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "415"
+    }
+  }
+}

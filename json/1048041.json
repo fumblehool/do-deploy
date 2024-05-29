@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048041,
+      "chineseName": "棉签、棉棒、棉包",
+      "translatedName": "Cotton swab, cotton swab, cotton bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124774007,
+      "chineseName": "毛巾、巾类加工",
+      "translatedName": "Towel and towel processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124806004"
+    }
+  }
+}

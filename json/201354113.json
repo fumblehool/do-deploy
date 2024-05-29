@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201354113,
+      "chineseName": "车载HUD",
+      "translatedName": "Vehicle HUD",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1212"
+    }
+  }
+}

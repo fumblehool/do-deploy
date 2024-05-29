@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201560705,
+      "chineseName": "女士牛仔外套",
+      "translatedName": "Women's denim jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

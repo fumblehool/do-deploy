@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036981,
+      "chineseName": "碘酸",
+      "translatedName": "iodic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80201"
+    }
+  }
+}

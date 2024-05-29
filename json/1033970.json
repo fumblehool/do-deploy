@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033970,
+      "chineseName": "触摸屏电话机",
+      "translatedName": "touch screen telephone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50902"
+    }
+  }
+}

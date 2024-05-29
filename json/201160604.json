@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160604,
+      "chineseName": "动漫角色扮演服",
+      "translatedName": "Anime Role Playing Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201217707"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201227806,
+      "chineseName": "宠物浴池/浴盆",
+      "translatedName": "Pet bath/tub",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121850001"
+    }
+  }
+}

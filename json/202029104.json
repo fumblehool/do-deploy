@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029104,
+      "chineseName": "示警墩",
+      "translatedName": "Warning pier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3015"
+    }
+  }
+}

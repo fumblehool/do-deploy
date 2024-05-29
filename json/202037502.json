@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202037502,
+      "chineseName": "拣选台",
+      "translatedName": "Picking table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1226"
+    }
+  }
+}

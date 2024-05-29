@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10388,
+      "chineseName": "塑料薄膜",
+      "translatedName": "Plastic film",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034917,
+          "chineseName": "其他塑料薄膜",
+          "translatedName": "Other Plastic Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1034918,
+          "chineseName": "分离薄膜",
+          "translatedName": "separation film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1034919,
+          "chineseName": "降解薄膜",
+          "translatedName": "degradation film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1034920,
+          "chineseName": "功能薄膜",
+          "translatedName": "functional film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1034921,
+          "chineseName": "农用薄膜",
+          "translatedName": "agricultural film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1034922,
+          "chineseName": "包装薄膜",
+          "translatedName": "Packaging film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1046277,
+          "chineseName": "聚酯薄膜",
+          "translatedName": "Polyester film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1036890,
+          "chineseName": "离型膜",
+          "translatedName": "release film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1036853,
+          "chineseName": "建筑膜",
+          "translatedName": "Architectural membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        },
+        {
+          "categoryId": 1036854,
+          "chineseName": "安全膜",
+          "translatedName": "Safety film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10388
+        }
+      ]
+    }
+  }
+}

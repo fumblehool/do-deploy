@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048156,
+      "chineseName": "其他塑料合金",
+      "translatedName": "Other plastic alloys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048138"
+    }
+  }
+}

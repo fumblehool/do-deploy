@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031790,
+      "chineseName": "农产品代理加盟",
+      "translatedName": "Agricultural products agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1"
+    }
+  }
+}

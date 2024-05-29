@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037090,
+      "chineseName": "壬醛",
+      "translatedName": "nonanal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80309"
+    }
+  }
+}

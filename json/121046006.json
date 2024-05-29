@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046006,
+      "chineseName": "建筑圆钢",
+      "translatedName": "Building round steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012014"
+    }
+  }
+}

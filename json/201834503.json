@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201834503,
+      "chineseName": "学生皮鞋",
+      "translatedName": "Student shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125386001"
+    }
+  }
+}

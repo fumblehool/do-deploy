@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121430004,
+      "chineseName": "其他个人护理电器",
+      "translatedName": "Other Personal Care Appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

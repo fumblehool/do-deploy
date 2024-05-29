@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036110,
+      "chineseName": "外贸人员招聘",
+      "translatedName": "Foreign trade personnel recruitment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2816"
+    }
+  }
+}

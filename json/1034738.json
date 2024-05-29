@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034738,
+      "chineseName": "其他反应设备",
+      "translatedName": "Other reaction equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10415"
+    }
+  }
+}

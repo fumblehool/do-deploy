@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201691602,
+      "chineseName": "电磁炉餐桌",
+      "translatedName": "Induction Cooker Table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610020"
+    }
+  }
+}

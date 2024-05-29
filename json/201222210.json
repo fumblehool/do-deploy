@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201222210,
+      "chineseName": "素描本",
+      "translatedName": "Sketthere",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2127"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10405,
+      "chineseName": "瓷砖",
+      "translatedName": "Tile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032593,
+          "chineseName": "外墙砖",
+          "translatedName": "Exterior wall brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        },
+        {
+          "categoryId": 1038126,
+          "chineseName": "地面砖",
+          "translatedName": "Floor tile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        },
+        {
+          "categoryId": 10407,
+          "chineseName": "其他瓷砖",
+          "translatedName": "Other tiles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        },
+        {
+          "categoryId": 1046083,
+          "chineseName": "内墙砖",
+          "translatedName": "Interior wall brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        },
+        {
+          "categoryId": 201607706,
+          "chineseName": "瓷砖附件",
+          "translatedName": "Tile Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        },
+        {
+          "categoryId": 201608505,
+          "chineseName": "岩板",
+          "translatedName": "Rock slab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10405
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612008,
+      "chineseName": "LED显示屏",
+      "translatedName": "LED display",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122278001,
+          "chineseName": "LED幕墙屏",
+          "translatedName": "LED curtain wall screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 123610007,
+          "chineseName": "LED异型屏",
+          "translatedName": "LED special-shaped screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 123610008,
+          "chineseName": "LED显示屏电源",
+          "translatedName": "LED display power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 122274001,
+          "chineseName": "LED显示屏模组",
+          "translatedName": "LED display module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 122258003,
+          "chineseName": "LED显示屏控制卡",
+          "translatedName": "LED display control card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 122240007,
+          "chineseName": "LED显示屏控制软件",
+          "translatedName": "LED display control software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 123622009,
+          "chineseName": "LED室内显示屏",
+          "translatedName": "LED indoor display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 123622010,
+          "chineseName": "LED广告机",
+          "translatedName": "LED advertising machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 122218012,
+          "chineseName": "其他LED显示屏",
+          "translatedName": "Other LED displays",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 122268002,
+          "chineseName": "LED点阵",
+          "translatedName": "LED dot matrix",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        },
+        {
+          "categoryId": 123618005,
+          "chineseName": "LED户外显示屏",
+          "translatedName": "LED outdoor display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612008
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122774002,
+      "chineseName": "儿童用餐椅",
+      "translatedName": "Children's dining chair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122794001"
+    }
+  }
+}

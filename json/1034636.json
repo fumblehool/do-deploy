@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034636,
+      "chineseName": "锑氧化物",
+      "translatedName": "antimony oxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80204"
+    }
+  }
+}

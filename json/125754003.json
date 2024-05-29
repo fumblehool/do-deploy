@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125754003,
+      "chineseName": "光伏支架",
+      "translatedName": "Photovoltaic bracket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202054307"
+    }
+  }
+}

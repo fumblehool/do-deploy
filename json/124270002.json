@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270002,
+      "chineseName": "尖嘴钳",
+      "translatedName": "needle-nose pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123928001"
+    }
+  }
+}

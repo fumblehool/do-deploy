@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036462,
+      "chineseName": "富马酸",
+      "translatedName": "fumaric acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "832"
+    }
+  }
+}

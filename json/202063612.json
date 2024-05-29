@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202063612,
+      "chineseName": "童装钉珠、钉扣加工",
+      "translatedName": "Children's clothing nail bead, nail buckle processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202057212"
+    }
+  }
+}

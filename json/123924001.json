@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924001,
+      "chineseName": "手动螺丝刀",
+      "translatedName": "Manual screwdriver",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035537,
+          "chineseName": "其他手动螺丝刀",
+          "translatedName": "Other manual screwdrivers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123924010,
+          "chineseName": "米字螺丝刀",
+          "translatedName": "Mega-blade screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123926001,
+          "chineseName": "一字螺丝刀",
+          "translatedName": "Flat-blade screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123934002,
+          "chineseName": "六角螺丝刀",
+          "translatedName": "Hexagon screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123934003,
+          "chineseName": "手动螺丝批套装",
+          "translatedName": "Manual screwdriver set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123936003,
+          "chineseName": "星型螺丝刀",
+          "translatedName": "Star screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123930004,
+          "chineseName": "梅花螺丝刀",
+          "translatedName": "Torx screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 123932006,
+          "chineseName": "十字螺丝刀",
+          "translatedName": "Phillips screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 201894902,
+          "chineseName": "棘轮螺丝刀",
+          "translatedName": "Ratchet screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        },
+        {
+          "categoryId": 201912905,
+          "chineseName": "三角螺丝刀",
+          "translatedName": "Triangular screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308319,
+      "chineseName": "洗碗洗涤剂",
+      "translatedName": "dishwashing detergent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122212003"
+    }
+  }
+}

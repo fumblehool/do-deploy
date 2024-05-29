@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045274,
+      "chineseName": "酒店服务车",
+      "translatedName": "Hotel service car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045268"
+    }
+  }
+}

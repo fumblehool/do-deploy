@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042491,
+      "chineseName": "防火胶",
+      "translatedName": "Fireproof glue",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031620"
+    }
+  }
+}

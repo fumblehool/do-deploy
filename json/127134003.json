@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127134003,
+      "chineseName": "包装印刷加工",
+      "translatedName": "Packaging Printing Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "68"
+    }
+  }
+}

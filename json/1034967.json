@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034967,
+      "chineseName": "指示灯具",
+      "translatedName": "INDICATING LIGHTING",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032284,
+          "chineseName": "信号灯",
+          "translatedName": "Signal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034967
+        },
+        {
+          "categoryId": 10223,
+          "chineseName": "应急指示灯具",
+          "translatedName": "Emergency indicator lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034967
+        },
+        {
+          "categoryId": 10226,
+          "chineseName": "其他指示灯具",
+          "translatedName": "Other indicating lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034967
+        },
+        {
+          "categoryId": 1032298,
+          "chineseName": "航空障碍灯",
+          "translatedName": "Aviation obstruction light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034967
+        },
+        {
+          "categoryId": 1034968,
+          "chineseName": "设备指示灯",
+          "translatedName": "Device indicator light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034967
+        }
+      ]
+    }
+  }
+}

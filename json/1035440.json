@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035440,
+      "chineseName": "五金工具代理加盟",
+      "translatedName": "Hardware tools agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046007,
+      "chineseName": "冷轧基料",
+      "translatedName": "cold rolled base material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012015"
+    }
+  }
+}

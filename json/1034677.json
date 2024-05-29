@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034677,
+      "chineseName": "吡啶",
+      "translatedName": "Pyridine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80317"
+    }
+  }
+}

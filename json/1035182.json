@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035182,
+      "chineseName": "电子元件成型机",
+      "translatedName": "Electronic component forming machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10236"
+    }
+  }
+}

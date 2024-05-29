@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033279,
+      "chineseName": "转换器、切换器",
+      "translatedName": "Converter, switcher",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "705"
+    }
+  }
+}

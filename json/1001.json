@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1001,
+      "chineseName": "石油燃料",
+      "translatedName": "petroleum fuel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10",
+      "fromCache": true,
+      "children": [
+        {
+          "categoryId": 100101,
+          "chineseName": "燃料油",
+          "translatedName": "fuel oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100111,
+          "chineseName": "其他石油燃料",
+          "translatedName": "Other petroleum fuels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100112,
+          "chineseName": "灯用煤油",
+          "translatedName": "Lamp kerosene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100113,
+          "chineseName": "航空煤油",
+          "translatedName": "aviation kerosene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100114,
+          "chineseName": "柴油",
+          "translatedName": "Diesel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100115,
+          "chineseName": "汽油",
+          "translatedName": "Gasoline",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 100116,
+          "chineseName": "渣油",
+          "translatedName": "Residue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        },
+        {
+          "categoryId": 10528,
+          "chineseName": "液化石油气",
+          "translatedName": "Liquefied petroleum gas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1001
+        }
+      ]
+    }
+  }
+}

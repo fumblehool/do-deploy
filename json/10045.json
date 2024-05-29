@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10045,
+      "chineseName": "代用/养生茶",
+      "translatedName": "Substitute/Health Tea",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10041"
+    }
+  }
+}

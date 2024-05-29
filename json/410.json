@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 410,
+      "chineseName": "毛纺面料",
+      "translatedName": "wool fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031768,
+          "chineseName": "其他毛纺面料",
+          "translatedName": "Other Woolen Fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 410
+        },
+        {
+          "categoryId": 1031769,
+          "chineseName": "毛呢",
+          "translatedName": "Woolen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 410
+        },
+        {
+          "categoryId": 1031771,
+          "chineseName": "全毛",
+          "translatedName": "whole hair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 410
+        },
+        {
+          "categoryId": 1046642,
+          "chineseName": "呢绒",
+          "translatedName": "Woolen cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 410
+        }
+      ]
+    }
+  }
+}

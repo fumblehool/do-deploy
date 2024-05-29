@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201179101,
+      "chineseName": "防晒衣",
+      "translatedName": "Sun-protective clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127508004"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126376002,
+      "chineseName": "工业包装",
+      "translatedName": "Industrial Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121552003,
+          "chineseName": "化工包装",
+          "translatedName": "Chemical Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126376002
+        },
+        {
+          "categoryId": 124256014,
+          "chineseName": "零件盒",
+          "translatedName": "Parts box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126376002
+        },
+        {
+          "categoryId": 2329,
+          "chineseName": "电子元器件包装",
+          "translatedName": "Electronic components packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126376002
+        },
+        {
+          "categoryId": 2330,
+          "chineseName": "五金配件包装",
+          "translatedName": "hardware accessories packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126376002
+        }
+      ]
+    }
+  }
+}

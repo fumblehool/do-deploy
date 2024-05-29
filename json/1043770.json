@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043770,
+      "chineseName": "餐垫、杯垫",
+      "translatedName": "Placemats, coasters",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10287"
+    }
+  }
+}

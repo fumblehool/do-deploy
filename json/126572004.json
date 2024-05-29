@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126572004,
+      "chineseName": "奶粉储存盒/奶粉盒",
+      "translatedName": "Milk powder storage box/milk powder box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10295"
+    }
+  }
+}

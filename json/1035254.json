@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035254,
+      "chineseName": "荧光粉、电子粉",
+      "translatedName": "Fluorescent powder, electronic powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1035250"
+    }
+  }
+}

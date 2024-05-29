@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201353806,
+      "chineseName": "宠物饮品",
+      "translatedName": "Pet Drinks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200550001"
+    }
+  }
+}

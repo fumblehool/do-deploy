@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016006,
+      "chineseName": "方便米饭类",
+      "translatedName": "Instant rice class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124000009"
+    }
+  }
+}

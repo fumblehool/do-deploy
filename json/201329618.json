@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201329618,
+      "chineseName": "金箔花",
+      "translatedName": "gold leaf flower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305307"
+    }
+  }
+}

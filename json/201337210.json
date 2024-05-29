@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337210,
+      "chineseName": "金石篆刻",
+      "translatedName": "Stone Seal Engraving",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345914"
+    }
+  }
+}

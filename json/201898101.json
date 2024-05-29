@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201898101,
+      "chineseName": "猫抓板",
+      "translatedName": "Cat Scratching Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121828001"
+    }
+  }
+}

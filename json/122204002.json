@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122204002,
+      "chineseName": "马术服",
+      "translatedName": "Equestrian Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048021"
+    }
+  }
+}

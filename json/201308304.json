@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308304,
+      "chineseName": "脸部按摩仪",
+      "translatedName": "Facial Massager",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

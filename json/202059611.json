@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059611,
+      "chineseName": "光伏组件原材料",
+      "translatedName": "Photovoltaic module raw materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202058714,
+          "chineseName": "光伏背板",
+          "translatedName": "Photovoltaic backsheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        },
+        {
+          "categoryId": 202053614,
+          "chineseName": "太阳能电池片",
+          "translatedName": "solar cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        },
+        {
+          "categoryId": 202061909,
+          "chineseName": "光伏密封胶",
+          "translatedName": "Photovoltaic sealant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        },
+        {
+          "categoryId": 202055812,
+          "chineseName": "光伏焊带",
+          "translatedName": "Photovoltaic welding ribbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        },
+        {
+          "categoryId": 202054814,
+          "chineseName": "光伏边框",
+          "translatedName": "Photovoltaic frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        },
+        {
+          "categoryId": 202062713,
+          "chineseName": "光伏玻璃",
+          "translatedName": "Photovoltaic glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059611
+        }
+      ]
+    }
+  }
+}

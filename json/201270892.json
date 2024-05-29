@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201270892,
+      "chineseName": "焖烧杯",
+      "translatedName": "braised beaker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046721"
+    }
+  }
+}

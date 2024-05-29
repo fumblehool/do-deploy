@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033452,
+      "chineseName": "库存娱乐休闲产品",
+      "translatedName": "Inventory of entertainment and leisure products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

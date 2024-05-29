@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121910004,
+      "chineseName": "其它运动鞋",
+      "translatedName": "Other sports shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121876002"
+    }
+  }
+}

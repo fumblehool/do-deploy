@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192032,
+      "chineseName": "LED反光杯",
+      "translatedName": "LED reflective cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10227"
+    }
+  }
+}

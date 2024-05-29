@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124000006,
+      "chineseName": "调味椒盐",
+      "translatedName": "Salt and pepper to taste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10082"
+    }
+  }
+}

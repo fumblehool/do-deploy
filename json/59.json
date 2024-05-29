@@ -1,0 +1,604 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 59,
+      "chineseName": "五金、工具",
+      "translatedName": "Hardware, tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10212,
+          "chineseName": "量仪",
+          "translatedName": "Gauge",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032077,
+          "chineseName": "运输搬运设备",
+          "translatedName": "Transportation and handling equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032474,
+          "chineseName": "农用工具",
+          "translatedName": "Agricultural tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 10351,
+          "chineseName": "其他钳工工具",
+          "translatedName": "Other fitter tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035183,
+          "chineseName": "喷涂工具",
+          "translatedName": "Spray Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1031748,
+          "chineseName": "工具箱包",
+          "translatedName": "Tool bags",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032399,
+          "chineseName": "打气筒",
+          "translatedName": "pump",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 10352,
+          "chineseName": "刀",
+          "translatedName": "Knife",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032402,
+          "chineseName": "金刚石工具",
+          "translatedName": "diamond tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032409,
+          "chineseName": "锯",
+          "translatedName": "saw",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032410,
+          "chineseName": "锤子",
+          "translatedName": "Hammer",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032336,
+          "chineseName": "电动工具",
+          "translatedName": "Electric tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 10350,
+          "chineseName": "刀具",
+          "translatedName": "Cutter",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032366,
+          "chineseName": "气焊、气割器材",
+          "translatedName": "Gas welding and gas cutting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032470,
+          "chineseName": "脚轮",
+          "translatedName": "Caster",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1032472,
+          "chineseName": "匠作工具",
+          "translatedName": "Craftsman Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1033590,
+          "chineseName": "船用五金配件",
+          "translatedName": "Marine hardware accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035442,
+          "chineseName": "库存五金、工具",
+          "translatedName": "Inventory hardware, tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1036013,
+          "chineseName": "服饰箱包五金",
+          "translatedName": "Clothing luggage hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1036014,
+          "chineseName": "办公文教五金",
+          "translatedName": "Office culture and education hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1036015,
+          "chineseName": "工艺礼品五金",
+          "translatedName": "Craft Gift Hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1036018,
+          "chineseName": "日用五金",
+          "translatedName": "Daily Hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035297,
+          "chineseName": "防爆工具",
+          "translatedName": "Explosion-proof tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035298,
+          "chineseName": "撬棍、起钉器",
+          "translatedName": "Crowbar, nail puller",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 10353,
+          "chineseName": "通用五金配件",
+          "translatedName": "General hardware accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035308,
+          "chineseName": "斧子",
+          "translatedName": "Axe",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 10355,
+          "chineseName": "气动工具",
+          "translatedName": "Pneumatic tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1036673,
+          "chineseName": "镊子",
+          "translatedName": "Tweezers",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1045749,
+          "chineseName": "工具柜",
+          "translatedName": "Tool cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1047258,
+          "chineseName": "园林五金工具",
+          "translatedName": "Garden hardware tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035526,
+          "chineseName": "工具刷",
+          "translatedName": "Tool brush",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035440,
+          "chineseName": "五金工具代理加盟",
+          "translatedName": "Hardware tools agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035441,
+          "chineseName": "五金工具项目合作",
+          "translatedName": "Hardware tool project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1042817,
+          "chineseName": "工具耗材",
+          "translatedName": "Tool Consumables",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035288,
+          "chineseName": "其他五金工具",
+          "translatedName": "Other hardware tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035295,
+          "chineseName": "锉",
+          "translatedName": "File",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1035296,
+          "chineseName": "凿",
+          "translatedName": "Chisel",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1046977,
+          "chineseName": "组合工具",
+          "translatedName": "Combination tool",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1227,
+          "chineseName": "起重装卸设备",
+          "translatedName": "Lifting and handling equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 123928001,
+          "chineseName": "钳类工具",
+          "translatedName": "Pliers tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 121488001,
+          "chineseName": "工程测绘仪器",
+          "translatedName": "engineering surveying and mapping instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 123926004,
+          "chineseName": "手动扳手",
+          "translatedName": "Manual wrench",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 124270007,
+          "chineseName": "管道工具",
+          "translatedName": "Pipe Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 121500003,
+          "chineseName": "洗车工具",
+          "translatedName": "Car wash tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1048205,
+          "chineseName": "3D打印机",
+          "translatedName": "3D printer",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1226,
+          "chineseName": "仓储设备",
+          "translatedName": "Storage equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 124262001,
+          "chineseName": "锉刨",
+          "translatedName": "File",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 123924001,
+          "chineseName": "手动螺丝刀",
+          "translatedName": "Manual screwdriver",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 123924007,
+          "chineseName": "剪刀",
+          "translatedName": "Scissors",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 121192003,
+          "chineseName": "索具",
+          "translatedName": "rigging",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 124194006,
+          "chineseName": "液压工具",
+          "translatedName": "Hydraulic tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1535,
+          "chineseName": "量具",
+          "translatedName": "Gauges",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1453,
+          "chineseName": "磨具",
+          "translatedName": "Abrasives",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1456,
+          "chineseName": "电焊、切割设备",
+          "translatedName": "Welding and cutting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1457,
+          "chineseName": "涂装设备",
+          "translatedName": "Painting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1427,
+          "chineseName": "焊接材料与附件",
+          "translatedName": "Welding materials and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 1428,
+          "chineseName": "磨料",
+          "translatedName": "Abrasive",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201921406,
+          "chineseName": "钳工工具",
+          "translatedName": "Fitter tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201921802,
+          "chineseName": "磨具磨料",
+          "translatedName": "Abrasive Abrasive",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201921901,
+          "chineseName": "钳工工作台",
+          "translatedName": "Fitter workbench",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201912704,
+          "chineseName": "作业平台",
+          "translatedName": "Operation platform",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201914203,
+          "chineseName": "测量工具",
+          "translatedName": "Measuring tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 3303,
+          "chineseName": "维修设备",
+          "translatedName": "Maintenance equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 3305,
+          "chineseName": "维护工具",
+          "translatedName": "Maintenance Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        },
+        {
+          "categoryId": 201924501,
+          "chineseName": "电子焊接工具",
+          "translatedName": "Electronic welding tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 59
+        }
+      ]
+    }
+  }
+}

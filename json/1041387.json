@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041387,
+      "chineseName": "痕迹（签字）记录装置",
+      "translatedName": "Trace (signature) recording device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041385"
+    }
+  }
+}

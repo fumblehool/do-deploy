@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10209,
+      "chineseName": "其他量仪",
+      "translatedName": "Other gauges",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10212"
+    }
+  }
+}

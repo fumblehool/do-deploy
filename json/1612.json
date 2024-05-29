@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1612,
+      "chineseName": "医疗护理（器械）",
+      "translatedName": "Medical Care (Devices)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033324,
+          "chineseName": "其它未分类",
+          "translatedName": "Other unclassified",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033325,
+          "chineseName": "医用车、床、台",
+          "translatedName": "Medical vehicle, bed, table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033326,
+          "chineseName": "康复理疗设备",
+          "translatedName": "Rehabilitation Physiotherapy Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033327,
+          "chineseName": "牵引、矫正设备",
+          "translatedName": "Traction and straightening equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033328,
+          "chineseName": "消毒灭菌设备",
+          "translatedName": "Disinfection and sterilization equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033329,
+          "chineseName": "手术专用设备",
+          "translatedName": "Special equipment for surgery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033330,
+          "chineseName": "检验分析设备",
+          "translatedName": "Inspection and analysis equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033331,
+          "chineseName": "治疗设备",
+          "translatedName": "Therapeutic Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1033332,
+          "chineseName": "监护设备",
+          "translatedName": "Monitoring equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1044995,
+          "chineseName": "血糖及治疗器具",
+          "translatedName": "Blood sugar and treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 123758006,
+          "chineseName": "智能体温计",
+          "translatedName": "intelligent thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 122708007,
+          "chineseName": "家用氧吧/氧气机",
+          "translatedName": "Home oxygen bar/oxygen machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 123660001,
+          "chineseName": "电子体温计",
+          "translatedName": "electronic thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 124906002,
+          "chineseName": "经络治疗仪",
+          "translatedName": "Meridian therapeutic apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 124906003,
+          "chineseName": "康复辅助器械",
+          "translatedName": "Rehabilitation aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 123648003,
+          "chineseName": "家用血压计",
+          "translatedName": "home sphygmomanometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 124954006,
+          "chineseName": "智能胎心仪",
+          "translatedName": "Intelligent Fetal Heart Meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 121430004,
+          "chineseName": "其他个人护理电器",
+          "translatedName": "Other Personal Care Appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 124960003,
+          "chineseName": "智能血压仪",
+          "translatedName": "intelligent blood pressure meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 126594002,
+          "chineseName": "宝宝体温/水温计",
+          "translatedName": "Baby temperature/water thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 1607,
+          "chineseName": "医护辅助设备",
+          "translatedName": "Medical Aid Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 200898002,
+          "chineseName": "医用润滑剂",
+          "translatedName": "Medical Lubricant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202062210,
+          "chineseName": "轮椅/拐杖、助行器械",
+          "translatedName": "Wheelchair/crutches, walking aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202055613,
+          "chineseName": "血氧仪",
+          "translatedName": "Oximeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202056312,
+          "chineseName": "便厕用具（器械）",
+          "translatedName": "toilet appliance (appliance)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202051314,
+          "chineseName": "呼吸机/止鼾器/呼吸训练",
+          "translatedName": "Ventilator/snoring device/breathing training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202056413,
+          "chineseName": "洗鼻器／吸鼻器",
+          "translatedName": "Nasal Washer/Nasal Suction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202053616,
+          "chineseName": "医用护具",
+          "translatedName": "Medical protective gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202063907,
+          "chineseName": "造口袋",
+          "translatedName": "Ostomy bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        },
+        {
+          "categoryId": 202051620,
+          "chineseName": "移位机（医疗器械）",
+          "translatedName": "Displacement Machine (medical devices)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1612
+        }
+      ]
+    }
+  }
+}

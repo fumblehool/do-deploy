@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80217,
+      "chineseName": "硫酸盐",
+      "translatedName": "Sulphate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "802"
+    }
+  }
+}

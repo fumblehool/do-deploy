@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121498003,
+      "chineseName": "动植物实验仪器",
+      "translatedName": "animal and plant experimental instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036185"
+    }
+  }
+}

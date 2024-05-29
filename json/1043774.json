@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043774,
+      "chineseName": "冰桶、冰夹",
+      "translatedName": "Ice bucket, ice clip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122320004"
+    }
+  }
+}

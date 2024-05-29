@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303211,
+      "chineseName": "舞台演出魔术道具",
+      "translatedName": "stage performance magic props",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304320"
+    }
+  }
+}

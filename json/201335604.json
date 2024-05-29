@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335604,
+      "chineseName": "智能翻译机",
+      "translatedName": "intelligent translation machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047104"
+    }
+  }
+}

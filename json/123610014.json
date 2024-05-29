@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610014,
+      "chineseName": "大功率LED灯珠",
+      "translatedName": "High power LED lamp beads",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610013"
+    }
+  }
+}

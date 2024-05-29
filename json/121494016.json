@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494016,
+      "chineseName": "酒吧椅",
+      "translatedName": "Bar Chair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045579"
+    }
+  }
+}

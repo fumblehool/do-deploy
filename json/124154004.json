@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124154004,
+      "chineseName": "眼部防护",
+      "translatedName": "Eye Protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033216,
+          "chineseName": "其他眼部防护",
+          "translatedName": "Other eye protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124162002,
+          "chineseName": "防雾眼镜",
+          "translatedName": "Anti-fog glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124152006,
+          "chineseName": "防化学眼镜",
+          "translatedName": "Chemical-resistant glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124152007,
+          "chineseName": "防紫外线眼镜",
+          "translatedName": "UV-resistant glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124154006,
+          "chineseName": "防光辐射眼镜",
+          "translatedName": "Anti-light radiation glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124154007,
+          "chineseName": "防护眼罩",
+          "translatedName": "Protective eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 125744002,
+          "chineseName": "综合防护眼镜",
+          "translatedName": "Comprehensive protective glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124162003,
+          "chineseName": "防尘眼镜",
+          "translatedName": "dust-proof glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 124150003,
+          "chineseName": "防冲击眼镜",
+          "translatedName": "Anti-impact glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        },
+        {
+          "categoryId": 201577117,
+          "chineseName": "医用护目镜",
+          "translatedName": "Medical goggles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124154004
+        }
+      ]
+    }
+  }
+}

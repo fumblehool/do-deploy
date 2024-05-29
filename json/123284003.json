@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123284003,
+      "chineseName": "天然气滤清器",
+      "translatedName": "Natural gas filter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10110"
+    }
+  }
+}

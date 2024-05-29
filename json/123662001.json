@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123662001,
+      "chineseName": "电热护膝、护腰、护肩带",
+      "translatedName": "Electric heating knee pads, waist pads, shoulder pads",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

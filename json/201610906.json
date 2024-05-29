@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201610906,
+      "chineseName": "电热暖宫带",
+      "translatedName": "Electric heating warm palace belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

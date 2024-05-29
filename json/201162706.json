@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162706,
+      "chineseName": "面盆龙头",
+      "translatedName": "Basin faucet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032416"
+    }
+  }
+}

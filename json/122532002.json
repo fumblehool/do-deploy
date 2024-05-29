@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122532002,
+      "chineseName": "鱼缸",
+      "translatedName": "Fish tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121786003"
+    }
+  }
+}

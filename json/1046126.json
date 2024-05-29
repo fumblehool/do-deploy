@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046126,
+      "chineseName": "耐油胶板",
+      "translatedName": "Oil resistant rubber sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046105"
+    }
+  }
+}

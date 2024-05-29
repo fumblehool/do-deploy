@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124514002,
+      "chineseName": "手臂包",
+      "translatedName": "arm bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545602"
+    }
+  }
+}

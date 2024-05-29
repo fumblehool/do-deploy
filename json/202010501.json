@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010501,
+      "chineseName": "行业专用电源模块",
+      "translatedName": "Industry specific power module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126594004"
+    }
+  }
+}

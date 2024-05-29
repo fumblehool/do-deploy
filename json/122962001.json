@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962001,
+      "chineseName": "电动/遥控玩具",
+      "translatedName": "Electric/remote control toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122984001,
+          "chineseName": "玩具电动车",
+          "translatedName": "Electric toy car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122984002,
+          "chineseName": "电动公仔",
+          "translatedName": "Electric Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122992003,
+          "chineseName": "其它电动玩具",
+          "translatedName": "Other electric toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122980001,
+          "chineseName": "遥控坦克",
+          "translatedName": "Remote control tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122980002,
+          "chineseName": "玩具枪",
+          "translatedName": "toy gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122982001,
+          "chineseName": "遥控船",
+          "translatedName": "remote control ship",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 123662002,
+          "chineseName": "惯性/回力玩具",
+          "translatedName": "Inertia/Reeling Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122990001,
+          "chineseName": "电动轨道车",
+          "translatedName": "Electric rail car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122992002,
+          "chineseName": "电子宠物",
+          "translatedName": "electronic pet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122962002,
+          "chineseName": "遥控车",
+          "translatedName": "remote control car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122962003,
+          "chineseName": "遥控飞机",
+          "translatedName": "remote control aircraft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 122988009,
+          "chineseName": "发条玩具",
+          "translatedName": "Coil Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        },
+        {
+          "categoryId": 201372303,
+          "chineseName": "飞行器玩具",
+          "translatedName": "Aircraft toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201678801,
+      "chineseName": "竖琴",
+      "translatedName": "Harp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649001"
+    }
+  }
+}

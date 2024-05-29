@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10256,
+      "chineseName": "上网本、超极本",
+      "translatedName": "Netbook, Ultrabook",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "730"
+    }
+  }
+}

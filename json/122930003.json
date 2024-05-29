@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122930003,
+      "chineseName": "定制衣柜",
+      "translatedName": "Custom wardrobe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032256,
+      "chineseName": "高压成套电器",
+      "translatedName": "High-voltage complete electrical apparatus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "525"
+    }
+  }
+}

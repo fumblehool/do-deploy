@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10133,
+      "chineseName": "其他毛毯、绒毯",
+      "translatedName": "Other blankets, fleece blankets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127870016"
+    }
+  }
+}

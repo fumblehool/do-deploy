@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337103,
+      "chineseName": "色谱耗材",
+      "translatedName": "Chromatography Consumables",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332403"
+    }
+  }
+}

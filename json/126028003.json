@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126028003,
+      "chineseName": "男士丁字裤",
+      "translatedName": "Men's thong",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201835213"
+    }
+  }
+}

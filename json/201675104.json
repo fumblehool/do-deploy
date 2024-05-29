@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201675104,
+      "chineseName": "短笛",
+      "translatedName": "Piccolo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649001"
+    }
+  }
+}

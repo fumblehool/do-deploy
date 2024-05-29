@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022009,
+      "chineseName": "方便粥类",
+      "translatedName": "Convenient porridge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124000009"
+    }
+  }
+}

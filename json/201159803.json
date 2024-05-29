@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159803,
+      "chineseName": "橡塑水带",
+      "translatedName": "Rubber plastic water belt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201161105,
+          "chineseName": "合成橡胶水带",
+          "translatedName": "Synthetic rubber hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201159803
+        },
+        {
+          "categoryId": 201157606,
+          "chineseName": "聚氨酯水带",
+          "translatedName": "Polyurethane tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201159803
+        },
+        {
+          "categoryId": 201156604,
+          "chineseName": "农业用PVC水带",
+          "translatedName": "PVC hose for agriculture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201159803
+        },
+        {
+          "categoryId": 201160304,
+          "chineseName": "工业用PVC水带",
+          "translatedName": "PVC hose for industrial use",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201159803
+        },
+        {
+          "categoryId": 201157008,
+          "chineseName": "其他橡塑水带",
+          "translatedName": "Other rubber-plastic water belts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201159803
+        }
+      ]
+    }
+  }
+}

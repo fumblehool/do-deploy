@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124186002,
+      "chineseName": "电圆锯",
+      "translatedName": "electric circular saw",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032336"
+    }
+  }
+}

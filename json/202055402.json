@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055402,
+      "chineseName": "诊所工作服",
+      "translatedName": "Clinic Work Clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548401"
+    }
+  }
+}

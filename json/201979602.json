@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201979602,
+      "chineseName": "车载桌板",
+      "translatedName": "Car table board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "92"
+    }
+  }
+}

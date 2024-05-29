@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036332,
+      "chineseName": "光绘机",
+      "translatedName": "light plotter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3406"
+    }
+  }
+}

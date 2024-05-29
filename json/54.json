@@ -1,0 +1,361 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 54,
+      "chineseName": "服饰配件、饰品",
+      "translatedName": "Clothing accessories, accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033987,
+          "chineseName": "饰品保养鉴定",
+          "translatedName": "Jewelry maintenance appraisal",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1034448,
+          "chineseName": "服饰项目合作",
+          "translatedName": "Costume project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1045423,
+          "chineseName": "服饰配件",
+          "translatedName": "Apparel Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1044138,
+          "chineseName": "饰品展示架",
+          "translatedName": "Jewelry display rack",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 122704002,
+          "chineseName": "耳饰",
+          "translatedName": "Earrings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 125748005,
+          "chineseName": "代理加盟",
+          "translatedName": "Agent to join",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 122322004,
+          "chineseName": "衣饰",
+          "translatedName": "Clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 122322005,
+          "chineseName": "项饰",
+          "translatedName": "Necklace",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 122706003,
+          "chineseName": "手饰",
+          "translatedName": "Bracelet",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 124268003,
+          "chineseName": "表",
+          "translatedName": "Table",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 125740007,
+          "chineseName": "脚饰脐饰及其他饰品",
+          "translatedName": "Foot ornaments navel ornaments and other accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201231105,
+          "chineseName": "穿刺饰品",
+          "translatedName": "Piercing Jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201648701,
+          "chineseName": "天然半宝晶石饰品",
+          "translatedName": "Natural semi-precious stone jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201149004,
+          "chineseName": "儿童饰品",
+          "translatedName": "Children's jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201564422,
+          "chineseName": "儿童帽子/围巾/手套/配件",
+          "translatedName": "Children's hat/scarf/gloves/accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127290004,
+          "chineseName": "珠宝饰品",
+          "translatedName": "Jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127496008,
+          "chineseName": "围巾/帽子/手套 多件套",
+          "translatedName": "Scarf/hat/gloves multi-piece set",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201308926,
+          "chineseName": "饰品挂饰",
+          "translatedName": "Jewelry Hanging Ornaments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201335221,
+          "chineseName": "佛珠/念珠",
+          "translatedName": "Buddha beads/rosary beads",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127174002,
+          "chineseName": "饰品定制",
+          "translatedName": "Jewelry customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127464010,
+          "chineseName": "帽子/头巾",
+          "translatedName": "Hat/Turban",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127484008,
+          "chineseName": "手套/袖套",
+          "translatedName": "Gloves/Sleeve",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201220505,
+          "chineseName": "胸饰",
+          "translatedName": "Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127508004,
+          "chineseName": "围巾/丝巾/防晒衣",
+          "translatedName": "Scarf/Silk Scarf/Sunscreen",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1746,
+          "chineseName": "首饰套装",
+          "translatedName": "Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1752,
+          "chineseName": "发饰、头饰",
+          "translatedName": "Hair Accessories, Headwear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 1753,
+          "chineseName": "饰品配件",
+          "translatedName": "Jewelry Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201228407,
+          "chineseName": "背饰",
+          "translatedName": "Back Headwear",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127162001,
+          "chineseName": "服饰配件定制",
+          "translatedName": "Clothing accessories customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127462007,
+          "chineseName": "腰带/腰链/腰封",
+          "translatedName": "Belt/waist chain/waist seal",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 127462009,
+          "chineseName": "领部配件",
+          "translatedName": "Collar fittings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201152912,
+          "chineseName": "生活口罩、耳罩",
+          "translatedName": "Life masks, earmuffs",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201233908,
+          "chineseName": "半成品饰品配件",
+          "translatedName": "Semi-finished jewelry accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201221212,
+          "chineseName": "腰部饰品",
+          "translatedName": "Waist jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201885405,
+          "chineseName": "合成/人工珠宝玉石饰品",
+          "translatedName": "Synthetic/artificial jewelry jade jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 80,
+          "chineseName": "眼镜及配件",
+          "translatedName": "Glasses and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 345,
+          "chineseName": "服装展示道具",
+          "translatedName": "Costume display props",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        },
+        {
+          "categoryId": 201545715,
+          "chineseName": "古风饰品",
+          "translatedName": "Antique Jewelry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 54
+        }
+      ]
+    }
+  }
+}

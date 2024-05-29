@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123646001,
+      "chineseName": "其他LED车灯",
+      "translatedName": "Other LED lights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620015"
+    }
+  }
+}

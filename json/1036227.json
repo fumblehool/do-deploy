@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036227,
+      "chineseName": "风速风向仪",
+      "translatedName": "Anemometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033858"
+    }
+  }
+}

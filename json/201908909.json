@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201908909,
+      "chineseName": "倒立机",
+      "translatedName": "Inverted machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

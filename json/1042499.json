@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042499,
+      "chineseName": "纸品用胶",
+      "translatedName": "Adhesive for paper products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031620"
+    }
+  }
+}

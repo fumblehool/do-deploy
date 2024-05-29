@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612009,
+      "chineseName": "LED老化设备",
+      "translatedName": "LED Aging Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620013"
+    }
+  }
+}

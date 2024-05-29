@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122258006,
+      "chineseName": "马桶洁厕剂",
+      "translatedName": "Toilet toilet cleaner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122212003"
+    }
+  }
+}

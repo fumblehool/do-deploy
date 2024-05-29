@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034578,
+      "chineseName": "库存精细化学品",
+      "translatedName": "Inventory of fine chemicals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034579,
+          "chineseName": "其他库存精细化学品",
+          "translatedName": "Other stocks of fine chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034580,
+          "chineseName": "库存农用化学品",
+          "translatedName": "Stock of agrochemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034581,
+          "chineseName": "库存油墨",
+          "translatedName": "Stock ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034582,
+          "chineseName": "库存颜料",
+          "translatedName": "Inventory pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034583,
+          "chineseName": "库存染料",
+          "translatedName": "Stock dye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034585,
+          "chineseName": "库存化工助剂",
+          "translatedName": "Stock chemical additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034584,
+          "chineseName": "库存涂料",
+          "translatedName": "Stock paint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        },
+        {
+          "categoryId": 1034586,
+          "chineseName": "库存日用化学品",
+          "translatedName": "Inventory of daily chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034578
+        }
+      ]
+    }
+  }
+}

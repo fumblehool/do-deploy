@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894010,
+      "chineseName": "儿童框架镜",
+      "translatedName": "Children's frame mirror",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80"
+    }
+  }
+}

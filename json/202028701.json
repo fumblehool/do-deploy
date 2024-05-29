@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028701,
+      "chineseName": "超声波传感器",
+      "translatedName": "Ultrasonic sensor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126696001"
+    }
+  }
+}

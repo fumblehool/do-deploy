@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123284005,
+      "chineseName": "车用烟灰缸",
+      "translatedName": "Car ashtray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "92"
+    }
+  }
+}

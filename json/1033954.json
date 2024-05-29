@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033954,
+      "chineseName": "线卡、线扣",
+      "translatedName": "Line card, line buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033273"
+    }
+  }
+}

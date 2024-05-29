@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036177,
+      "chineseName": "检漏仪",
+      "translatedName": "Leak detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033877"
+    }
+  }
+}

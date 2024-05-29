@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2816,
+      "chineseName": "招聘职位",
+      "translatedName": "Recruitment Position",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033797,
+          "chineseName": "其他招聘",
+          "translatedName": "Other Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1033799,
+          "chineseName": "技术人员招聘",
+          "translatedName": "Technical staff recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1033800,
+          "chineseName": "销售人员招聘",
+          "translatedName": "Sales staff recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1033801,
+          "chineseName": "管理人员招聘",
+          "translatedName": "Management Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036100,
+          "chineseName": "工人招聘",
+          "translatedName": "Recruitment of workers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036101,
+          "chineseName": "网络管理人员招聘",
+          "translatedName": "Network Management Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036102,
+          "chineseName": "品质管理人员招聘",
+          "translatedName": "Quality management personnel recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036103,
+          "chineseName": "物流仓储人员招聘",
+          "translatedName": "Logistics and warehousing personnel recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036104,
+          "chineseName": "采购后勤人员招聘",
+          "translatedName": "Procurement logistics personnel recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036105,
+          "chineseName": "财务会计人员招聘",
+          "translatedName": "Financial Accounting Staff Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036106,
+          "chineseName": "行政人事人员招聘",
+          "translatedName": "Administrative personnel recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036107,
+          "chineseName": "设计人员招聘",
+          "translatedName": "Design staff recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036108,
+          "chineseName": "翻译人员招聘",
+          "translatedName": "Translator Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036109,
+          "chineseName": "咨询顾问招聘",
+          "translatedName": "Consultant Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036110,
+          "chineseName": "外贸人员招聘",
+          "translatedName": "Foreign trade personnel recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036498,
+          "chineseName": "兼职职位",
+          "translatedName": "Part-time position",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036647,
+          "chineseName": "客户服务人员招聘",
+          "translatedName": "Customer Service Staff Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        },
+        {
+          "categoryId": 1036648,
+          "chineseName": "服务员招聘",
+          "translatedName": "Waiter Recruitment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2816
+        }
+      ]
+    }
+  }
+}

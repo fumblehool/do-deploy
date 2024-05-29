@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1733,
+      "chineseName": "墨砚、文房四宝套件",
+      "translatedName": "Ink stone, four treasures of study kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2127"
+    }
+  }
+}

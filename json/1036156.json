@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036156,
+      "chineseName": "气压表",
+      "translatedName": "barometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10109"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033478,
+      "chineseName": "运动跑道、人造草坪",
+      "translatedName": "Sports track, artificial turf",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044639"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202025201,
+      "chineseName": "院线护理凝胶",
+      "translatedName": "Hospital line care gel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201774702,
+      "chineseName": "针线盒",
+      "translatedName": "sewing box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1556"
+    }
+  }
+}

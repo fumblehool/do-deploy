@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037281,
+      "chineseName": "化妆服饰道具",
+      "translatedName": "Makeup Costume Props",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122192001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200800002,
+      "chineseName": "IGBT晶体管",
+      "translatedName": "IGBT transistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200774004"
+    }
+  }
+}

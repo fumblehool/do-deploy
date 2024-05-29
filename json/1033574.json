@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033574,
+      "chineseName": "其他非机动车",
+      "translatedName": "Other Non-Motor Vehicles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1222"
+    }
+  }
+}

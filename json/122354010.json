@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122354010,
+      "chineseName": "游戏方向盘",
+      "translatedName": "Game steering wheel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032228"
+    }
+  }
+}

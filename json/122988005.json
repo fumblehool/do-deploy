@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988005,
+      "chineseName": "婴幼儿洗护用品",
+      "translatedName": "Baby Care Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1501"
+    }
+  }
+}

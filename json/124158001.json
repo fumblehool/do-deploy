@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124158001,
+      "chineseName": "安全标识",
+      "translatedName": "Safety identification",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033218,
+          "chineseName": "消防安全标识",
+          "translatedName": "Fire safety signs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124158001
+        },
+        {
+          "categoryId": 1033231,
+          "chineseName": "交通安全标识",
+          "translatedName": "Traffic Safety Signs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124158001
+        },
+        {
+          "categoryId": 124154002,
+          "chineseName": "其他安全标识",
+          "translatedName": "Other safety signs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124158001
+        },
+        {
+          "categoryId": 124152002,
+          "chineseName": "安全生产标识",
+          "translatedName": "Safety production identification",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124158001
+        }
+      ]
+    }
+  }
+}

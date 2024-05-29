@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033692,
+      "chineseName": "洗选煤",
+      "translatedName": "coal washing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1005"
+    }
+  }
+}

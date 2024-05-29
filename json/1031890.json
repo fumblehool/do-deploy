@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031890,
+      "chineseName": "男式休闲裤",
+      "translatedName": "men's casual pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165"
+    }
+  }
+}

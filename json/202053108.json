@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053108,
+      "chineseName": "风力发电逆变器",
+      "translatedName": "wind power inverter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202060416"
+    }
+  }
+}

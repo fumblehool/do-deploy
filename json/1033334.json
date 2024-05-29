@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033334,
+      "chineseName": "其他医用材料",
+      "translatedName": "Other Medical Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1613"
+    }
+  }
+}

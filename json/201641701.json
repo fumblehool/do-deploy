@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201641701,
+      "chineseName": "奇亚籽",
+      "translatedName": "Chia Seeds",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10020"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122430004,
+      "chineseName": "塑身裤",
+      "translatedName": "Sculpting Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122484001"
+    }
+  }
+}

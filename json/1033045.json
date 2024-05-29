@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033045,
+      "chineseName": "算盘",
+      "translatedName": "abacus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2121"
+    }
+  }
+}

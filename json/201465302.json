@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201465302,
+      "chineseName": "男式卫裤",
+      "translatedName": "Men's Sweat Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10165"
+    }
+  }
+}

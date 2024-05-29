@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043966,
+      "chineseName": "衣夹、裤夹、收纳夹子",
+      "translatedName": "Clothes clip, trouser clip, storage clip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374002"
+    }
+  }
+}

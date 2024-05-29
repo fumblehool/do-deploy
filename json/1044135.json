@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044135,
+      "chineseName": "粉碎设备配件",
+      "translatedName": "Crushing equipment accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031669"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123760007,
+      "chineseName": "编程开发软件",
+      "translatedName": "Programming development software",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "734"
+    }
+  }
+}

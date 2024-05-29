@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121486005,
+      "chineseName": "iPad贴膜",
+      "translatedName": "iPad film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046693"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121832004,
+      "chineseName": "拾便器",
+      "translatedName": "Toilet pickup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121850001"
+    }
+  }
+}

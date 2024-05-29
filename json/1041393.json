@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041393,
+      "chineseName": "智能交通",
+      "translatedName": "intelligent transportation",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041394,
+          "chineseName": "交通收费设备",
+          "translatedName": "Traffic toll equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041393
+        },
+        {
+          "categoryId": 1041395,
+          "chineseName": "其他智能交通设备",
+          "translatedName": "Other Intelligent Transportation Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041393
+        }
+      ]
+    }
+  }
+}

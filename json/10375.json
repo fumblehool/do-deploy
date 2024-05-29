@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10375,
+      "chineseName": "石材石料",
+      "translatedName": "Stone Stone",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032587,
+          "chineseName": "板岩、文化石",
+          "translatedName": "Slate, culture stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 1032588,
+          "chineseName": "人造石",
+          "translatedName": "artificial stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 1032589,
+          "chineseName": "石材养护用品",
+          "translatedName": "Stone Maintenance Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 10400,
+          "chineseName": "花岗岩",
+          "translatedName": "Granite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 10419,
+          "chineseName": "砂岩",
+          "translatedName": "Sandstone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 10420,
+          "chineseName": "沙石、砾石、卵石",
+          "translatedName": "Sand, gravel and pebble",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 10421,
+          "chineseName": "其他石材石料",
+          "translatedName": "Other Stone Stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 10404,
+          "chineseName": "大理石",
+          "translatedName": "Marble",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        },
+        {
+          "categoryId": 1309,
+          "chineseName": "石灰、石膏",
+          "translatedName": "Lime, gypsum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10375
+        }
+      ]
+    }
+  }
+}

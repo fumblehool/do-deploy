@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122356004,
+      "chineseName": "平板电脑数据线",
+      "translatedName": "Tablet PC data cable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046688"
+    }
+  }
+}

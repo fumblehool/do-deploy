@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033110,
+      "chineseName": "钢笔",
+      "translatedName": "Pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "81"
+    }
+  }
+}

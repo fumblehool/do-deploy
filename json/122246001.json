@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122246001,
+      "chineseName": "蚕丝毯、真丝毯",
+      "translatedName": "Silk blanket, silk blanket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127870016"
+    }
+  }
+}

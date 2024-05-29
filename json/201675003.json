@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201675003,
+      "chineseName": "低音胡",
+      "translatedName": "bass beard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649201"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033151,
+      "chineseName": "眼镜盒、眼镜袋、眼镜包",
+      "translatedName": "Glasses case, glasses bag, glasses bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80"
+    }
+  }
+}

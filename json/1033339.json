@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033339,
+      "chineseName": "敷料、护创材料",
+      "translatedName": "Dressings, wound protection materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1613"
+    }
+  }
+}

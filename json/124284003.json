@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124284003,
+      "chineseName": "秤",
+      "translatedName": "Scale",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043951,
+          "chineseName": "其他秤",
+          "translatedName": "Other scales",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 124282003,
+          "chineseName": "手提秤",
+          "translatedName": "portable scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 124282002,
+          "chineseName": "珠宝秤",
+          "translatedName": "Jewelry Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 124286001,
+          "chineseName": "厨房秤",
+          "translatedName": "Kitchen Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 123758005,
+          "chineseName": "智能体重秤",
+          "translatedName": "Smart Weighing Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 124278003,
+          "chineseName": "体重秤",
+          "translatedName": "Weighing Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        },
+        {
+          "categoryId": 124734001,
+          "chineseName": "健康秤",
+          "translatedName": "Health Scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124284003
+        }
+      ]
+    }
+  }
+}

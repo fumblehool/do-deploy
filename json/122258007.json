@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122258007,
+      "chineseName": "空调清洁剂",
+      "translatedName": "Air conditioning cleaner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122262003"
+    }
+  }
+}

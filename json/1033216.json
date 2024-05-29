@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033216,
+      "chineseName": "其他眼部防护",
+      "translatedName": "Other eye protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124154004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035422,
+      "chineseName": "天然磨料",
+      "translatedName": "natural abrasive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921802"
+    }
+  }
+}

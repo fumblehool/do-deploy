@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201730511,
+      "chineseName": "驱虫用品",
+      "translatedName": "Insect Repellent Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548001"
+    }
+  }
+}

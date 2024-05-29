@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157015,
+      "chineseName": "挂耳咖啡",
+      "translatedName": "Hanging Ear Coffee",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330404"
+    }
+  }
+}

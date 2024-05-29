@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127116002,
+      "chineseName": "家具拉手",
+      "translatedName": "Furniture handle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1346"
+    }
+  }
+}

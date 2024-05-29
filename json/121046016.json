@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046016,
+      "chineseName": "盘螺",
+      "translatedName": "Pan snail",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012029"
+    }
+  }
+}

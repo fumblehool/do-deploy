@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80311,
+      "chineseName": "胺",
+      "translatedName": "Amine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037234,
+          "chineseName": "间苯二胺",
+          "translatedName": "m-Phenylenediamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037070,
+          "chineseName": "三乙醇胺",
+          "translatedName": "Triethanolamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037071,
+          "chineseName": "二乙醇胺",
+          "translatedName": "diethanolamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037072,
+          "chineseName": "一乙醇胺",
+          "translatedName": "Monoethanolamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037073,
+          "chineseName": "环己胺",
+          "translatedName": "Cyclohexylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037074,
+          "chineseName": "联苯胺",
+          "translatedName": "Benzidine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037075,
+          "chineseName": "苯胺",
+          "translatedName": "Aniline",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037076,
+          "chineseName": "辛胺",
+          "translatedName": "octylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037077,
+          "chineseName": "戊胺",
+          "translatedName": "pentylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037078,
+          "chineseName": "丁胺",
+          "translatedName": "Butylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037079,
+          "chineseName": "丙胺",
+          "translatedName": "Propylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037081,
+          "chineseName": "乙胺",
+          "translatedName": "Ethylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037387,
+          "chineseName": "对苯二胺",
+          "translatedName": "p-phenylenediamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037058,
+          "chineseName": "羟乙基乙二胺",
+          "translatedName": "hydroxyethylethylenediamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037060,
+          "chineseName": "三聚氰胺",
+          "translatedName": "Melamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037061,
+          "chineseName": "双氰胺",
+          "translatedName": "dicyandiamide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037062,
+          "chineseName": "单氰胺",
+          "translatedName": "Cyanamide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037063,
+          "chineseName": "苄胺",
+          "translatedName": "Benzylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037064,
+          "chineseName": "羟胺",
+          "translatedName": "hydroxylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037065,
+          "chineseName": "水合肼",
+          "translatedName": "Hydrazine hydrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037066,
+          "chineseName": "十六胺",
+          "translatedName": "Hexadecylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037067,
+          "chineseName": "三乙胺",
+          "translatedName": "Triethylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037068,
+          "chineseName": "二甲基胺",
+          "translatedName": "Dimethyl amine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037069,
+          "chineseName": "二异丙胺",
+          "translatedName": "Diisopropylamine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037056,
+          "chineseName": "其他胺",
+          "translatedName": "Other amines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        },
+        {
+          "categoryId": 1037057,
+          "chineseName": "叔胺",
+          "translatedName": "tertiary amine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80311
+        }
+      ]
+    }
+  }
+}

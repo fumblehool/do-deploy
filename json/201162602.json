@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162602,
+      "chineseName": "毛绒公仔椅",
+      "translatedName": "Plush Doll Chair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201161304"
+    }
+  }
+}

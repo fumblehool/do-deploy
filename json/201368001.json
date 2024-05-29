@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201368001,
+      "chineseName": "农业包装",
+      "translatedName": "Agricultural Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201364302,
+          "chineseName": "水果套袋",
+          "translatedName": "Fruit bagging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201365402,
+          "chineseName": "种植包装",
+          "translatedName": "Planting packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201366602,
+          "chineseName": "养殖包装",
+          "translatedName": "Breeding packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201368002,
+          "chineseName": "防虫网袋",
+          "translatedName": "Insect Mesh Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201368101,
+          "chineseName": "其它农业包装",
+          "translatedName": "Other agricultural packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201368201,
+          "chineseName": "化肥饲料袋",
+          "translatedName": "Fertilizer feed bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        },
+        {
+          "categoryId": 201368601,
+          "chineseName": "农产品包装",
+          "translatedName": "agricultural product packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201368001
+        }
+      ]
+    }
+  }
+}

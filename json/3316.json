@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3316,
+      "chineseName": "转向系统",
+      "translatedName": "Steering system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032159,
+          "chineseName": "转向机总成",
+          "translatedName": "Steering gear assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1032154,
+          "chineseName": "其他转向系统",
+          "translatedName": "Other steering systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1032155,
+          "chineseName": "转向拉杆",
+          "translatedName": "Steering rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1032156,
+          "chineseName": "转向节",
+          "translatedName": "steering knuckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1032157,
+          "chineseName": "助力器、助力泵",
+          "translatedName": "Booster, booster pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1032158,
+          "chineseName": "转向盘",
+          "translatedName": "Steering wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 1041528,
+          "chineseName": "转向节主销、球头销",
+          "translatedName": "Steering knuckle king pin, ball pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        },
+        {
+          "categoryId": 123280002,
+          "chineseName": "转向机",
+          "translatedName": "Steering gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3316
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032468,
+      "chineseName": "密封件",
+      "translatedName": "Seal",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035451,
+          "chineseName": "其他密封件",
+          "translatedName": "Other seals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035452,
+          "chineseName": "盘根",
+          "translatedName": "packing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035453,
+          "chineseName": "机械密封件",
+          "translatedName": "Mechanical seals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035454,
+          "chineseName": "密封垫",
+          "translatedName": "Gasket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035455,
+          "chineseName": "密封条",
+          "translatedName": "Sealing strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035456,
+          "chineseName": "密封垫圈",
+          "translatedName": "Sealing washer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        },
+        {
+          "categoryId": 1035457,
+          "chineseName": "密封垫片",
+          "translatedName": "Sealing gasket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032468
+        }
+      ]
+    }
+  }
+}

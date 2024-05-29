@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10105,
+      "chineseName": "传动系统",
+      "translatedName": "Drive system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032170,
+          "chineseName": "汽摩离合器",
+          "translatedName": "Auto-Friction Clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032160,
+          "chineseName": "其他传动系统",
+          "translatedName": "Other drive systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032161,
+          "chineseName": "传动轴",
+          "translatedName": "drive shaft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032162,
+          "chineseName": "变速器齿轮及轴",
+          "translatedName": "Transmission gear and shaft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032163,
+          "chineseName": "差速器总成",
+          "translatedName": "Differential assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032164,
+          "chineseName": "同步器",
+          "translatedName": "synchronizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032165,
+          "chineseName": "取力器",
+          "translatedName": "Power take-off",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032166,
+          "chineseName": "万向节",
+          "translatedName": "Universal Joint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032167,
+          "chineseName": "变速器",
+          "translatedName": "Transmission",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1032169,
+          "chineseName": "减速器总成",
+          "translatedName": "Reducer assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1041495,
+          "chineseName": "驱动桥",
+          "translatedName": "Drive axle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 1041496,
+          "chineseName": "分动器",
+          "translatedName": "Transfer case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123278001,
+          "chineseName": "离合器从动盘",
+          "translatedName": "clutch disc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123278002,
+          "chineseName": "离合器片",
+          "translatedName": "Clutch plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123280001,
+          "chineseName": "离合器压盘",
+          "translatedName": "Clutch pressure plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123270002,
+          "chineseName": "离合器盖",
+          "translatedName": "Clutch cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123272002,
+          "chineseName": "减速器壳",
+          "translatedName": "Reducer shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        },
+        {
+          "categoryId": 123284002,
+          "chineseName": "差速器壳",
+          "translatedName": "Differential housing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10105
+        }
+      ]
+    }
+  }
+}

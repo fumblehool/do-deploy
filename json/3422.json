@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3422,
+      "chineseName": "有线线缆设备",
+      "translatedName": "Wired cable equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034143,
+          "chineseName": "其他有线线缆设备",
+          "translatedName": "Other Wired Cable Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3422
+        },
+        {
+          "categoryId": 1034145,
+          "chineseName": "分支器",
+          "translatedName": "Branch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3422
+        },
+        {
+          "categoryId": 1034146,
+          "chineseName": "分配系统放大器",
+          "translatedName": "Distribution system amplifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3422
+        }
+      ]
+    }
+  }
+}

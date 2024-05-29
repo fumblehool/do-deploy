@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157013,
+      "chineseName": "浴缸、淋浴龙头",
+      "translatedName": "Bathtub, shower faucet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032416"
+    }
+  }
+}

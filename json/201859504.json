@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201859504,
+      "chineseName": "猫猫零食罐头",
+      "translatedName": "Canned cat snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200550001"
+    }
+  }
+}

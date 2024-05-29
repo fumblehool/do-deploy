@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122262003,
+      "chineseName": "家居清洁护理",
+      "translatedName": "Home cleaning care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122280003,
+          "chineseName": "墙体除霉剂",
+          "translatedName": "Wall mildew removal agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 122270002,
+          "chineseName": "其他家居清洁护理",
+          "translatedName": "Other Home Cleaning Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 122258007,
+          "chineseName": "空调清洁剂",
+          "translatedName": "Air conditioning cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 122262005,
+          "chineseName": "布艺用品清洁剂",
+          "translatedName": "Cloth Products Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 122234006,
+          "chineseName": "皮革家具护理品",
+          "translatedName": "Leather Furniture Care Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 201548101,
+          "chineseName": "鞋油",
+          "translatedName": "Shoe polish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 201730604,
+          "chineseName": "家电清洁剂",
+          "translatedName": "Appliance Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        },
+        {
+          "categoryId": 201732004,
+          "chineseName": "墙面清洁剂",
+          "translatedName": "Wall Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122262003
+        }
+      ]
+    }
+  }
+}

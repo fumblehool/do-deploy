@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122992007,
+      "chineseName": "城堡别墅玩具",
+      "translatedName": "Castle Villa Toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962011"
+    }
+  }
+}

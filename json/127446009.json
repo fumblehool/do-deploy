@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127446009,
+      "chineseName": "2件套",
+      "translatedName": "2-piece set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127496008"
+    }
+  }
+}

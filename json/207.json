@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 207,
+      "chineseName": "豆制品",
+      "translatedName": "Bean products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "130822002"
+    }
+  }
+}

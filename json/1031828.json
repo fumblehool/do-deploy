@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031828,
+      "chineseName": "安全、防护用品加工",
+      "translatedName": "Processing of safety and protective articles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041441"
+    }
+  }
+}

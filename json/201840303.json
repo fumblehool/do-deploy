@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201840303,
+      "chineseName": "耳机清洁笔",
+      "translatedName": "Headset cleaning pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032228"
+    }
+  }
+}

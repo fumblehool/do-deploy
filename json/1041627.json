@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041627,
+      "chineseName": "液压系统",
+      "translatedName": "Hydraulic system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041628,
+          "chineseName": "液压马达",
+          "translatedName": "Hydraulic motor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 1041629,
+          "chineseName": "液压泵",
+          "translatedName": "Hydraulic pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141910,
+          "chineseName": "其他液压元件",
+          "translatedName": "Other hydraulic components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141911,
+          "chineseName": "成套液压系统",
+          "translatedName": "Complete hydraulic system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141912,
+          "chineseName": "液压控制元件",
+          "translatedName": "Hydraulic control element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141913,
+          "chineseName": "液压阀",
+          "translatedName": "Hydraulic valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141914,
+          "chineseName": "液压缸",
+          "translatedName": "Hydraulic cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141915,
+          "chineseName": "液压管件",
+          "translatedName": "Hydraulic pipe fittings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        },
+        {
+          "categoryId": 141916,
+          "chineseName": "液压接头",
+          "translatedName": "Hydraulic connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041627
+        }
+      ]
+    }
+  }
+}

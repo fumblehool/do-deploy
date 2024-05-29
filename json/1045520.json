@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045520,
+      "chineseName": "运动、休闲、传统玩具",
+      "translatedName": "Sports, leisure, traditional toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032031,
+          "chineseName": "风筝",
+          "translatedName": "Kite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 1045531,
+          "chineseName": "传统怀旧类玩具",
+          "translatedName": "Traditional nostalgic toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 1045532,
+          "chineseName": "陀螺",
+          "translatedName": "gyro",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 1045521,
+          "chineseName": "球类",
+          "translatedName": "Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 1045529,
+          "chineseName": "跳跳马/跳跳球",
+          "translatedName": "Jumping Horse/Jumping Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 1045530,
+          "chineseName": "飞碟、飞盘、竹蜻蜓",
+          "translatedName": "flying saucer, frisbee, bamboo dragonfly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 123650002,
+          "chineseName": "沙包/呼啦圈/投掷套圈",
+          "translatedName": "Sandbag/Hula Hoop/Throwing Ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 123864001,
+          "chineseName": "婴儿游泳池",
+          "translatedName": "Baby swimming pool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 124740032,
+          "chineseName": "滑行玩具",
+          "translatedName": "Sliding Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 123646003,
+          "chineseName": "跳跃类玩具",
+          "translatedName": "Jumping toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 123648006,
+          "chineseName": "泡泡玩具",
+          "translatedName": "Bubble Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 123648007,
+          "chineseName": "戏水玩具",
+          "translatedName": "water toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 124734035,
+          "chineseName": "游艺设备",
+          "translatedName": "Recream Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 124744034,
+          "chineseName": "棋牌、桌游玩具",
+          "translatedName": "Chess, board games toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201161110,
+          "chineseName": "手掌拍/拍手器",
+          "translatedName": "Palm clapper/clapper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201228317,
+          "chineseName": "储蓄罐",
+          "translatedName": "piggy bank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201340412,
+          "chineseName": "其他运动/休闲玩具",
+          "translatedName": "Other Sports/Leisure Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201307405,
+          "chineseName": "音乐盒",
+          "translatedName": "Music Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201330313,
+          "chineseName": "风车",
+          "translatedName": "Windmill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201350501,
+          "chineseName": "悠悠(溜溜)球",
+          "translatedName": "Yoyo (yo) ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201376401,
+          "chineseName": "海洋球",
+          "translatedName": "ocean ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        },
+        {
+          "categoryId": 201376501,
+          "chineseName": "儿童游戏围栏",
+          "translatedName": "Children's play fence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045520
+        }
+      ]
+    }
+  }
+}

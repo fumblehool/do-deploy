@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192003,
+      "chineseName": "索具",
+      "translatedName": "rigging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035629,
+          "chineseName": "其他索具",
+          "translatedName": "Other rigging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121190007,
+          "chineseName": "起重滑车",
+          "translatedName": "Lifting tackle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121190008,
+          "chineseName": "吊装绳带",
+          "translatedName": "Lifting rope belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121190009,
+          "chineseName": "收紧器",
+          "translatedName": "Tightener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121192007,
+          "chineseName": "花篮螺丝",
+          "translatedName": "flower basket screw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121192008,
+          "chineseName": "吊带",
+          "translatedName": "Sling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121192009,
+          "chineseName": "吊梁",
+          "translatedName": "Lifting beam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121186006,
+          "chineseName": "套环",
+          "translatedName": "Collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121186007,
+          "chineseName": "起重链条",
+          "translatedName": "Lifting chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121188008,
+          "chineseName": "旋转环",
+          "translatedName": "rotating ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 121188009,
+          "chineseName": "连接环",
+          "translatedName": "Connecting ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 201918202,
+          "chineseName": "钢丝绳索具",
+          "translatedName": "Wire rope rigging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        },
+        {
+          "categoryId": 202029001,
+          "chineseName": "卡头",
+          "translatedName": "chuck head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192003
+        }
+      ]
+    }
+  }
+}

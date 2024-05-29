@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046086,
+      "chineseName": "工业用篷布",
+      "translatedName": "Industrial tarpaulin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046084"
+    }
+  }
+}

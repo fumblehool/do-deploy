@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036910,
+      "chineseName": "连续供墨系统",
+      "translatedName": "continuous ink supply system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10260"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036748,
+      "chineseName": "刹车及离合系统用油",
+      "translatedName": "Oil for brake and clutch system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032190"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040140,
+      "chineseName": "工业皮带",
+      "translatedName": "Industrial belt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040197,
+          "chineseName": "输送带",
+          "translatedName": "Conveyor belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040140
+        },
+        {
+          "categoryId": 1040201,
+          "chineseName": "网带",
+          "translatedName": "Mesh belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040140
+        },
+        {
+          "categoryId": 1040211,
+          "chineseName": "其他工业皮带",
+          "translatedName": "Other industrial belts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040140
+        },
+        {
+          "categoryId": 141904,
+          "chineseName": "传动带",
+          "translatedName": "Drive belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1040140
+        }
+      ]
+    }
+  }
+}

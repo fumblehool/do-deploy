@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048289,
+      "chineseName": "裱花嘴、裱花袋、裱花枪",
+      "translatedName": "decorating nozzle, decorating bag, decorating gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10297"
+    }
+  }
+}

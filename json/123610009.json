@@ -1,0 +1,496 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610009,
+      "chineseName": "个护电器",
+      "translatedName": "A protective appliance",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047996,
+          "chineseName": "脱毛/剃毛器",
+          "translatedName": "Hair removal/shaving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1043187,
+          "chineseName": "其他美容仪器",
+          "translatedName": "Other beauty instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1043146,
+          "chineseName": "卷发器、直发器",
+          "translatedName": "Curling iron, hair straightener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1043147,
+          "chineseName": "理发器",
+          "translatedName": "hair clipper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1043518,
+          "chineseName": "加热帽、焗油帽",
+          "translatedName": "Heating cap, oil baked cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1047903,
+          "chineseName": "电动剃须刀",
+          "translatedName": "Electric shaver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1047904,
+          "chineseName": "电动牙刷",
+          "translatedName": "Electric toothbrush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 1047905,
+          "chineseName": "冲牙器",
+          "translatedName": "Dental irrigator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122698010,
+          "chineseName": "毛孔清洁器/黑头仪",
+          "translatedName": "Pore cleaner/blackhead instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122698012,
+          "chineseName": "形体矫正器/矫姿用品",
+          "translatedName": "Body orthosis/posture orthosis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122668001,
+          "chineseName": "洁面仪、洁面刷",
+          "translatedName": "Cleanser, Cleansing Brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 123696003,
+          "chineseName": "美眼仪",
+          "translatedName": "Eye instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 123698002,
+          "chineseName": "美容导入仪",
+          "translatedName": "Beauty Introduction Instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124188009,
+          "chineseName": "鼻毛修剪器",
+          "translatedName": "nose hair trimmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124188010,
+          "chineseName": "袪痘仪、袪斑仪",
+          "translatedName": "anti-acne instrument, spot instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124196011,
+          "chineseName": "磨脚器",
+          "translatedName": "Foot grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124908003,
+          "chineseName": "电动丰胸仪",
+          "translatedName": "Electric breast enhancement instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 121378005,
+          "chineseName": "其他美体瘦身",
+          "translatedName": "Other Body Slimming",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122702010,
+          "chineseName": "电子美容仪",
+          "translatedName": "electronic beauty instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122702011,
+          "chineseName": "喷雾仪、蒸脸仪、补水仪",
+          "translatedName": "Spray instrument, steam face instrument, hydrating instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122708001,
+          "chineseName": "洁面仪",
+          "translatedName": "Cleanser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124184005,
+          "chineseName": "个护电器配件",
+          "translatedName": "A protective electrical accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122710005,
+          "chineseName": "瘦脸机/瘦脸工具",
+          "translatedName": "Face-lifting machine/face-lifting tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 124186017,
+          "chineseName": "面膜机",
+          "translatedName": "facial mask machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 122700011,
+          "chineseName": "牙齿美白仪/美牙仪",
+          "translatedName": "Tooth whitening instrument/tooth beauty instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201301708,
+          "chineseName": "电动修眉刀",
+          "translatedName": "Electric eyebrow trimming knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201332107,
+          "chineseName": "美眼笔",
+          "translatedName": "Eye Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201643601,
+          "chineseName": "注氧仪",
+          "translatedName": "oxygen injection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201353465,
+          "chineseName": "电动编发器",
+          "translatedName": "electric hair braid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201306209,
+          "chineseName": "护肤美妆镜",
+          "translatedName": "Skin care beauty mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201276345,
+          "chineseName": "生发仪、护发仪",
+          "translatedName": "Hair growth instrument, hair care instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201352854,
+          "chineseName": "电动搓澡仪",
+          "translatedName": "Electric scrub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201627952,
+          "chineseName": "面罩美容仪",
+          "translatedName": "Mask beauty instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201673001,
+          "chineseName": "电动磨甲器",
+          "translatedName": "Electric nail grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201689503,
+          "chineseName": "美颈仪",
+          "translatedName": "Neck instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201308207,
+          "chineseName": "电动美发梳",
+          "translatedName": "Electric hair comb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201308304,
+          "chineseName": "脸部按摩仪",
+          "translatedName": "Facial Massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201310305,
+          "chineseName": "光子嫩肤仪",
+          "translatedName": "Photon skin rejuvenation instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201307705,
+          "chineseName": "牙刷消毒器",
+          "translatedName": "Toothbrush sterilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201268187,
+          "chineseName": "商用美容仪（非医疗器械）",
+          "translatedName": "Commercial beauty instrument (non-medical device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201614301,
+          "chineseName": "家用点痣仪",
+          "translatedName": "Household Dot Mole Apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201682509,
+          "chineseName": "铲皮机",
+          "translatedName": "Shovel machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201700201,
+          "chineseName": "电动睫毛卷翘器",
+          "translatedName": "Electric eyelash curler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201707502,
+          "chineseName": "润眼仪",
+          "translatedName": "Eye moistening instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 617,
+          "chineseName": "电吹风",
+          "translatedName": "Hair dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201863905,
+          "chineseName": "射频仪（非医疗器械）",
+          "translatedName": "Radio Frequency (Non-Medical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201710303,
+          "chineseName": "冰敷仪",
+          "translatedName": "Ice applicator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201833817,
+          "chineseName": "头皮上药器",
+          "translatedName": "Scalp applicator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201838405,
+          "chineseName": "蜡疗机/手蜡机",
+          "translatedName": "Wax therapy machine/hand wax machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201879603,
+          "chineseName": "电动止痒仪",
+          "translatedName": "Electric antipruritic instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201775701,
+          "chineseName": "洁牙仪",
+          "translatedName": "Tooth cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201791401,
+          "chineseName": "电子口腔喷雾器",
+          "translatedName": "Electronic oral sprayer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        },
+        {
+          "categoryId": 201768402,
+          "chineseName": "肌肤测试仪",
+          "translatedName": "Skin tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610009
+        }
+      ]
+    }
+  }
+}

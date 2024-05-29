@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043041,
+      "chineseName": "气动钳子",
+      "translatedName": "Pneumatic pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10355"
+    }
+  }
+}

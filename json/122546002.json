@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122546002,
+      "chineseName": "收纳层架",
+      "translatedName": "Storage shelf",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1548"
+    }
+  }
+}

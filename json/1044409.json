@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044409,
+      "chineseName": "不锈钢槽钢",
+      "translatedName": "Stainless steel channel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10518"
+    }
+  }
+}

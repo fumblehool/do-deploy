@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194006,
+      "chineseName": "液压工具",
+      "translatedName": "Hydraulic tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036783,
+          "chineseName": "其他液压工具",
+          "translatedName": "Other Hydraulic Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 124196003,
+          "chineseName": "液压压线钳",
+          "translatedName": "Hydraulic crimping pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 124196004,
+          "chineseName": "液压拉马",
+          "translatedName": "Hydraulic pular",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201912603,
+          "chineseName": "螺母破切器",
+          "translatedName": "Nut breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201918505,
+          "chineseName": "智能扭矩套筒",
+          "translatedName": "Intelligent torque sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201914103,
+          "chineseName": "液压断线钳",
+          "translatedName": "Hydraulic bolt cutters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201920102,
+          "chineseName": "液压钻孔机",
+          "translatedName": "hydraulic drilling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201920502,
+          "chineseName": "液压剪",
+          "translatedName": "Hydraulic shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201917002,
+          "chineseName": "液压拉伸器",
+          "translatedName": "Hydraulic Tensioner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        },
+        {
+          "categoryId": 201917203,
+          "chineseName": "液压扳手",
+          "translatedName": "Hydraulic wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124194006
+        }
+      ]
+    }
+  }
+}

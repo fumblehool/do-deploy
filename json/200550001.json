@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200550001,
+      "chineseName": "宠物食品",
+      "translatedName": "Pet Food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121846001,
+          "chineseName": "猫猫湿粮",
+          "translatedName": "Cat wet food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 121780002,
+          "chineseName": "狗狗干粮",
+          "translatedName": "Dogs dry food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 121824002,
+          "chineseName": "猫猫干粮",
+          "translatedName": "cat dry food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 121812002,
+          "chineseName": "狗狗罐头、零食",
+          "translatedName": "Canned dogs, snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 121832001,
+          "chineseName": "狗狗湿粮",
+          "translatedName": "dog wet food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 121832002,
+          "chineseName": "猫猫零食",
+          "translatedName": "Cat Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 201353806,
+          "chineseName": "宠物饮品",
+          "translatedName": "Pet Drinks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 201872901,
+          "chineseName": "猫猫主食罐头",
+          "translatedName": "Canned cat staple food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 201859003,
+          "chineseName": "狗咬胶/磨牙棒",
+          "translatedName": "Dog Bite/Grinding Stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        },
+        {
+          "categoryId": 201859504,
+          "chineseName": "猫猫零食罐头",
+          "translatedName": "Canned cat snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200550001
+        }
+      ]
+    }
+  }
+}

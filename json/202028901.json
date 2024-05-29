@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028901,
+      "chineseName": "纹绣手工笔",
+      "translatedName": "Embroidery Handmade Pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202027801"
+    }
+  }
+}

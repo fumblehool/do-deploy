@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032880,
+      "chineseName": "其他粗加工水产品（废弃）",
+      "translatedName": "Other rough processed aquatic products (abandoned)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125068002"
+    }
+  }
+}

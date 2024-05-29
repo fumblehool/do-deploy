@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033815,
+      "chineseName": "计数器",
+      "translatedName": "Counter",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10208"
+    }
+  }
+}

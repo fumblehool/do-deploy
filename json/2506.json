@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2506,
+      "chineseName": "机械、工业、设备展",
+      "translatedName": "Machinery, Industry, Equipment Exhibition",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "75"
+    }
+  }
+}

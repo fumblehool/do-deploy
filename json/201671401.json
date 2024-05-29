@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201671401,
+      "chineseName": "K歌宝",
+      "translatedName": "karaoke treasure",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047104"
+    }
+  }
+}

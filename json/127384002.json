@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127384002,
+      "chineseName": "大码半身裙",
+      "translatedName": "Plus Size Skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127372010"
+    }
+  }
+}

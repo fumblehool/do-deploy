@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046799,
+      "chineseName": "大码连衣裙",
+      "translatedName": "Plus Size Dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127372010"
+    }
+  }
+}

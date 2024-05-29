@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125390001,
+      "chineseName": "果酱",
+      "translatedName": "Jam",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10039,
+          "chineseName": "其他果酱",
+          "translatedName": "Other Jams",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125392001,
+          "chineseName": "椰果椰浆",
+          "translatedName": "coconut coconut milk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125394001,
+          "chineseName": "草莓酱",
+          "translatedName": "Strawberry jam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125396001,
+          "chineseName": "蓝莓酱",
+          "translatedName": "Blueberry Sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125398001,
+          "chineseName": "蔓越莓酱",
+          "translatedName": "Cranberry Sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125400001,
+          "chineseName": "榴莲酱",
+          "translatedName": "durian sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        },
+        {
+          "categoryId": 125400002,
+          "chineseName": "浓缩果汁",
+          "translatedName": "juice concentrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125390001
+        }
+      ]
+    }
+  }
+}

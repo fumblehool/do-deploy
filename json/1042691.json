@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042691,
+      "chineseName": "成型油（成形油）",
+      "translatedName": "Forming oil (forming oil)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031656"
+    }
+  }
+}

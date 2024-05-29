@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201158006,
+      "chineseName": "仿真玫瑰",
+      "translatedName": "Simulation Rose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162103"
+    }
+  }
+}

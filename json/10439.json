@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10439,
+      "chineseName": "其他建筑、建材类管材",
+      "translatedName": "Other construction and building materials pipes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10435"
+    }
+  }
+}

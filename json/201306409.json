@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306409,
+      "chineseName": "唇部精华、啫喱",
+      "translatedName": "Lip Essence, Gel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043498"
+    }
+  }
+}

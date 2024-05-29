@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123646004,
+      "chineseName": "仪器可导入原液",
+      "translatedName": "Instrument can be introduced into the stock solution",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127354007,
+      "chineseName": "大码羽绒服",
+      "translatedName": "Large-size Down Jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127372010"
+    }
+  }
+}

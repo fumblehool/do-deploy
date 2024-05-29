@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124000009,
+      "chineseName": "方便速食",
+      "translatedName": "convenient fast food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10084,
+          "chineseName": "酱腌菜",
+          "translatedName": "Pickles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 1032900,
+          "chineseName": "其他方便食品",
+          "translatedName": "Other Convenience Foods",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 124022009,
+          "chineseName": "方便粥类",
+          "translatedName": "Convenient porridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 124018007,
+          "chineseName": "速食汤料类",
+          "translatedName": "Instant Soup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 124016006,
+          "chineseName": "方便米饭类",
+          "translatedName": "Instant rice class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 124016007,
+          "chineseName": "方便面类",
+          "translatedName": "Instant noodles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 201163106,
+          "chineseName": "螺蛳粉",
+          "translatedName": "snail powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 201159107,
+          "chineseName": "自热火锅",
+          "translatedName": "Self-heating hot pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 201,
+          "chineseName": "待煮面条",
+          "translatedName": "Noodles to be boiled",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        },
+        {
+          "categoryId": 201156108,
+          "chineseName": "方便粉丝类",
+          "translatedName": "Convenient fan class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124000009
+        }
+      ]
+    }
+  }
+}

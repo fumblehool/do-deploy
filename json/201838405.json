@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201838405,
+      "chineseName": "蜡疗机/手蜡机",
+      "translatedName": "Wax therapy machine/hand wax machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

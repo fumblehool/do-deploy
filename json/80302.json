@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80302,
+      "chineseName": "烯烃",
+      "translatedName": "Olefins",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "803"
+    }
+  }
+}

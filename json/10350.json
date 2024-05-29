@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10350,
+      "chineseName": "刀具",
+      "translatedName": "Cutter",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035407,
+          "chineseName": "齿轮刀具",
+          "translatedName": "gear cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035409,
+          "chineseName": "滚刀",
+          "translatedName": "Hob",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035410,
+          "chineseName": "切刀",
+          "translatedName": "Cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035411,
+          "chineseName": "拉刀",
+          "translatedName": "Broach",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035412,
+          "chineseName": "镗刀",
+          "translatedName": "boring cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035413,
+          "chineseName": "刀带",
+          "translatedName": "knife belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035414,
+          "chineseName": "刨刀",
+          "translatedName": "planer knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035415,
+          "chineseName": "铰刀",
+          "translatedName": "Reamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035417,
+          "chineseName": "铣刀",
+          "translatedName": "milling cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035418,
+          "chineseName": "车刀",
+          "translatedName": "Turning tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1039499,
+          "chineseName": "刀具配附件",
+          "translatedName": "Tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035397,
+          "chineseName": "其他刀具",
+          "translatedName": "Other Knives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035399,
+          "chineseName": "冲头",
+          "translatedName": "Punch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035403,
+          "chineseName": "数控刀具",
+          "translatedName": "nc cutting tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035404,
+          "chineseName": "机用锯片",
+          "translatedName": "Machine saw blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035405,
+          "chineseName": "机用刀片",
+          "translatedName": "Machine blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 1035406,
+          "chineseName": "螺纹刀具",
+          "translatedName": "thread cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 121184001,
+          "chineseName": "滚压刀",
+          "translatedName": "rolling knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 200608001,
+          "chineseName": "钻削刀片",
+          "translatedName": "drilling insert",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 200610001,
+          "chineseName": "铣削刀片",
+          "translatedName": "Milling insert",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 200526006,
+          "chineseName": "铣削刀具",
+          "translatedName": "milling tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        },
+        {
+          "categoryId": 200548002,
+          "chineseName": "车削刀具",
+          "translatedName": "turning tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10350
+        }
+      ]
+    }
+  }
+}

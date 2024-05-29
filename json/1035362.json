@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035362,
+      "chineseName": "暖气片、散热器",
+      "translatedName": "Radiator, radiator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032416"
+    }
+  }
+}

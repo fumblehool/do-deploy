@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122986003,
+      "chineseName": "儿童三轮车",
+      "translatedName": "Children's tricycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032626,
+      "chineseName": "其他装饰线板",
+      "translatedName": "Other decorative wire board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1349"
+    }
+  }
+}

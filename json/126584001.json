@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126584001,
+      "chineseName": "LOGO灯/图案灯",
+      "translatedName": "LOGO light/pattern light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123618004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308705,
+      "chineseName": "奶瓶刷/奶嘴刷",
+      "translatedName": "Milk bottle brush/nipple brush",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1514"
+    }
+  }
+}

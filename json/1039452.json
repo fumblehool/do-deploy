@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039452,
+      "chineseName": "工地网及筛网",
+      "translatedName": "Site net and screen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032653"
+    }
+  }
+}

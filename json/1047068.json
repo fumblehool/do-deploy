@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047068,
+      "chineseName": "发膜、倒膜",
+      "translatedName": "Hair membrane, inverted membrane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10313"
+    }
+  }
+}

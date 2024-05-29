@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033206,
+      "chineseName": "其他作业保护",
+      "translatedName": "Other job protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "70"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1453,
+      "chineseName": "磨具",
+      "translatedName": "Abrasives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

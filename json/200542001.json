@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200542001,
+      "chineseName": "兽用卵磷脂",
+      "translatedName": "veterinary lecithin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125278008"
+    }
+  }
+}

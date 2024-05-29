@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734016,
+      "chineseName": "坚果炒货",
+      "translatedName": "Fried Nuts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032911,
+          "chineseName": "其他坚果炒货",
+          "translatedName": "Other Nuts Roasted",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124734020,
+          "chineseName": "扁桃仁（巴旦木）",
+          "translatedName": "almond (almond)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124734021,
+          "chineseName": "豆类零食",
+          "translatedName": "Bean Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124740015,
+          "chineseName": "核桃",
+          "translatedName": "Walnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124744017,
+          "chineseName": "松子",
+          "translatedName": "Pine nuts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124744018,
+          "chineseName": "腰果",
+          "translatedName": "Cashew",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124744019,
+          "chineseName": "开心果",
+          "translatedName": "Pistachio",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124734019,
+          "chineseName": "瓜子",
+          "translatedName": "Melon seeds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124736017,
+          "chineseName": "山核桃",
+          "translatedName": "Pecan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124736018,
+          "chineseName": "碧根果",
+          "translatedName": "Bigroot Fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124736020,
+          "chineseName": "花生",
+          "translatedName": "Peanut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124742012,
+          "chineseName": "杏仁",
+          "translatedName": "Almond",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124746012,
+          "chineseName": "栗子",
+          "translatedName": "Chestnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124740016,
+          "chineseName": "香榧",
+          "translatedName": "Torreya grandis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124740017,
+          "chineseName": "榛子",
+          "translatedName": "Hazelnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 124740022,
+          "chineseName": "夏威夷果",
+          "translatedName": "macadamia nut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 201337301,
+          "chineseName": "混合坚果",
+          "translatedName": "Mixed nuts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        },
+        {
+          "categoryId": 201452428,
+          "chineseName": "鲍鱼果",
+          "translatedName": "abalone fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734016
+        }
+      ]
+    }
+  }
+}

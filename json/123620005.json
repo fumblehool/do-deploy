@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620005,
+      "chineseName": "LED衬底",
+      "translatedName": "LED substrate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620004"
+    }
+  }
+}

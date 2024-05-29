@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059509,
+      "chineseName": "线对线/线对板连接器",
+      "translatedName": "Wire-to-wire/wire-to-board connector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201549101"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121496009,
+      "chineseName": "焊接变位机",
+      "translatedName": "welding displacement machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121494014"
+    }
+  }
+}

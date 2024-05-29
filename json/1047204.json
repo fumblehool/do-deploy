@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047204,
+      "chineseName": "液体乳",
+      "translatedName": "liquid milk",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047208,
+          "chineseName": "牛奶",
+          "translatedName": "Milk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047204
+        },
+        {
+          "categoryId": 124022007,
+          "chineseName": "酸奶",
+          "translatedName": "Yogurt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047204
+        },
+        {
+          "categoryId": 124744011,
+          "chineseName": "羊奶",
+          "translatedName": "goat milk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047204
+        },
+        {
+          "categoryId": 124018004,
+          "chineseName": "其他液态奶",
+          "translatedName": "Other liquid milk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047204
+        }
+      ]
+    }
+  }
+}

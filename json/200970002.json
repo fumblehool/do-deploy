@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200970002,
+      "chineseName": "蛋糕柜/饼盘柜/风幕柜",
+      "translatedName": "Cake cabinet/cake cabinet/air curtain cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

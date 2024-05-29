@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036442,
+      "chineseName": "固色剂",
+      "translatedName": "color fixing agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10377"
+    }
+  }
+}

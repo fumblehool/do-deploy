@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202044001,
+      "chineseName": "非洲服饰",
+      "translatedName": "African Clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201158403"
+    }
+  }
+}

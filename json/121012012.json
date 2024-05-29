@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012012,
+      "chineseName": "建筑结构钢板",
+      "translatedName": "building structural steel plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022004"
+    }
+  }
+}

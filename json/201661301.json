@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201661301,
+      "chineseName": "鸡蛋仔模具",
+      "translatedName": "Egg Mold",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10297"
+    }
+  }
+}

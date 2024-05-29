@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121552004,
+      "chineseName": "台历印刷",
+      "translatedName": "calendar printing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121504010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121862001,
+      "chineseName": "其他水族宠物饲料",
+      "translatedName": "Other Aquarium Pet Feed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121786003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201673203,
+      "chineseName": "吉他背包/琴盒",
+      "translatedName": "Guitar backpack/case",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

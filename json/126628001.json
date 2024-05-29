@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126628001,
+      "chineseName": "半导体IC/芯片",
+      "translatedName": "Semiconductor IC/Chip",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043726,
+          "chineseName": "集成电路(IC)",
+          "translatedName": "Integrated Circuit (IC)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202057609,
+          "chineseName": "逻辑IC",
+          "translatedName": "Logic IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202055509,
+          "chineseName": "电源IC",
+          "translatedName": "Power IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202056708,
+          "chineseName": "稳压器IC",
+          "translatedName": "Voltage regulator IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202054512,
+          "chineseName": "放大器IC",
+          "translatedName": "Amplifier IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202063608,
+          "chineseName": "模拟IC",
+          "translatedName": "Analog IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202051113,
+          "chineseName": "MCU/单片机",
+          "translatedName": "MCU/MCU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202051512,
+          "chineseName": "光耦合器/光电耦合器",
+          "translatedName": "Optocouplers/Photocouplers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202060209,
+          "chineseName": "驱动IC",
+          "translatedName": "Driver IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202053010,
+          "chineseName": "嵌入式IC",
+          "translatedName": "Embedded IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202053106,
+          "chineseName": "数据转换器",
+          "translatedName": "Data Converter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202053410,
+          "chineseName": "通信IC",
+          "translatedName": "Communication IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202055110,
+          "chineseName": "其他IC",
+          "translatedName": "Other IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202055209,
+          "chineseName": "无线及射频IC",
+          "translatedName": "Wireless and RF IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202053911,
+          "chineseName": "接口IC",
+          "translatedName": "Interface IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202054009,
+          "chineseName": "存储IC",
+          "translatedName": "Storage IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202054209,
+          "chineseName": "仿真器IC",
+          "translatedName": "Emulator IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        },
+        {
+          "categoryId": 202061907,
+          "chineseName": "时钟/定时IC",
+          "translatedName": "Clock/Timing IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126628001
+        }
+      ]
+    }
+  }
+}

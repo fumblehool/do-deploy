@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122194001,
+      "chineseName": "婚庆用品",
+      "translatedName": "Wedding Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037280,
+          "chineseName": "红包/利是封",
+          "translatedName": "Red envelope/profit is a seal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122398001,
+          "chineseName": "婚车装饰用品",
+          "translatedName": "Wedding Car Decoration Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122540004,
+          "chineseName": "喜糖盒",
+          "translatedName": "candy box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122396001,
+          "chineseName": "子孙桶",
+          "translatedName": "grandchild bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122212001,
+          "chineseName": "婚庆回礼",
+          "translatedName": "Wedding return",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122214001,
+          "chineseName": "手捧花",
+          "translatedName": "Holding flowers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122214002,
+          "chineseName": "婚礼拱形门",
+          "translatedName": "Wedding Arched Door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 121346001,
+          "chineseName": "喜字",
+          "translatedName": "Happy words",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 122218001,
+          "chineseName": "其他婚庆用品",
+          "translatedName": "Other Wedding Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201304606,
+          "chineseName": "纱幔/帷幔",
+          "translatedName": "gauze/valance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201307214,
+          "chineseName": "婚礼胸花",
+          "translatedName": "Wedding Corsage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201304314,
+          "chineseName": "喜碗/敬茶杯",
+          "translatedName": "Happy bowl/toast cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201302021,
+          "chineseName": "迎亲堵门/游戏道具",
+          "translatedName": "Welcome door blocking/game props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201304917,
+          "chineseName": "婚房压床布置",
+          "translatedName": "Wedding room press bed arrangement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        },
+        {
+          "categoryId": 201306112,
+          "chineseName": "手腕花",
+          "translatedName": "wrist flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194001
+        }
+      ]
+    }
+  }
+}

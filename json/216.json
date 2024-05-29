@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 216,
+      "chineseName": "速冻食品",
+      "translatedName": "quick-frozen food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10030,
+          "chineseName": "冷冻蔬菜",
+          "translatedName": "frozen vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 216
+        },
+        {
+          "categoryId": 1032904,
+          "chineseName": "速冻肉类丸饺类",
+          "translatedName": "Quick-frozen meat balls dumplings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 216
+        },
+        {
+          "categoryId": 1046315,
+          "chineseName": "速冻果蔬类",
+          "translatedName": "Quick-frozen fruits and vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 216
+        },
+        {
+          "categoryId": 124018006,
+          "chineseName": "速冻西点类",
+          "translatedName": "Frozen West Point Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 216
+        },
+        {
+          "categoryId": 213,
+          "chineseName": "速冻中式米面包点类",
+          "translatedName": "Quick-Frozen Chinese Rice Noodles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 216
+        }
+      ]
+    }
+  }
+}

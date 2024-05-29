@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034312,
+      "chineseName": "尾气处理装置",
+      "translatedName": "Tail gas treatment unit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1103"
+    }
+  }
+}

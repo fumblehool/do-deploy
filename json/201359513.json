@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359513,
+      "chineseName": "寿衣/鞋/帽",
+      "translatedName": "Shroud/Shoes/Hat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044217"
+    }
+  }
+}

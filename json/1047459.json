@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047459,
+      "chineseName": "检测",
+      "translatedName": "Detection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047452"
+    }
+  }
+}

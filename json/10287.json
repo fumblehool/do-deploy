@@ -1,0 +1,451 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10287,
+      "chineseName": "餐具",
+      "translatedName": "Tableware",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10294,
+          "chineseName": "其他餐饮用品",
+          "translatedName": "Other Catering Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1045276,
+          "chineseName": "其他酒店餐厨用具",
+          "translatedName": "Other Hotel Kitchenware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1048037,
+          "chineseName": "果盘、果篮",
+          "translatedName": "Fruit plate, fruit basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1043767,
+          "chineseName": "碗",
+          "translatedName": "Bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1043768,
+          "chineseName": "西餐刀、叉、勺",
+          "translatedName": "Western food knife, fork, spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1043769,
+          "chineseName": "保鲜盒、饭盒",
+          "translatedName": "Fresh-keeping box, lunch box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1043770,
+          "chineseName": "餐垫、杯垫",
+          "translatedName": "Placemats, coasters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 1037297,
+          "chineseName": "碗碟盘套装",
+          "translatedName": "Bowl and Dish Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 122532003,
+          "chineseName": "一次性手套",
+          "translatedName": "Disposable gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 122214006,
+          "chineseName": "喂养餐具",
+          "translatedName": "Feeding cutlery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 121536009,
+          "chineseName": "酒店摆台",
+          "translatedName": "Hotel table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 123608001,
+          "chineseName": "一次性桌布",
+          "translatedName": "Disposable tablecloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 124262015,
+          "chineseName": "保鲜盖",
+          "translatedName": "fresh-keeping cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 125086004,
+          "chineseName": "一次性餐具套装",
+          "translatedName": "disposable tableware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 122574003,
+          "chineseName": "一次性碗、碟、盘",
+          "translatedName": "Disposable bowls, plates, plates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 125742003,
+          "chineseName": "水果叉",
+          "translatedName": "fruit fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 122320008,
+          "chineseName": "刀叉勺套装",
+          "translatedName": "Knife, fork and spoon set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 121548007,
+          "chineseName": "后厨陶瓷",
+          "translatedName": "Back Kitchen Ceramics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 125740004,
+          "chineseName": "筷子",
+          "translatedName": "Chopsticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201332413,
+          "chineseName": "一次性餐盒",
+          "translatedName": "Disposable lunch box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201301309,
+          "chineseName": "扭曲勺",
+          "translatedName": "Twist spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201331711,
+          "chineseName": "一次性筷子",
+          "translatedName": "disposable chopsticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201353412,
+          "chineseName": "碟",
+          "translatedName": "dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201306211,
+          "chineseName": "玻璃餐具套装",
+          "translatedName": "glass tableware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201306305,
+          "chineseName": "可降解餐具/环保餐具",
+          "translatedName": "Degradable tableware/environmental protection tableware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201302809,
+          "chineseName": "保温桶/保温提锅",
+          "translatedName": "Insulation bucket/insulation pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201305910,
+          "chineseName": "酒店餐具",
+          "translatedName": "Hotel Tableware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201339013,
+          "chineseName": "一次性刀、叉、勺",
+          "translatedName": "Disposable knife, fork, spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201304309,
+          "chineseName": "陶瓷餐具套装",
+          "translatedName": "ceramic tableware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201302213,
+          "chineseName": "定制餐具",
+          "translatedName": "Custom Tableware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201302011,
+          "chineseName": "可折叠餐具/便携餐具",
+          "translatedName": "Foldable tableware/portable tableware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 125752001,
+          "chineseName": "勺、调羹",
+          "translatedName": "Spoon, spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201308708,
+          "chineseName": "西餐餐具套装",
+          "translatedName": "western tableware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201356611,
+          "chineseName": "盘",
+          "translatedName": "Disc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201979303,
+          "chineseName": "配菜/备菜盘",
+          "translatedName": "side dish/preparation dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 202049801,
+          "chineseName": "户外餐具套装",
+          "translatedName": "outdoor tableware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 202049901,
+          "chineseName": "保鲜碗",
+          "translatedName": "Fresh Bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201829809,
+          "chineseName": "餐用托盘",
+          "translatedName": "Meal tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201979304,
+          "chineseName": "点心盘",
+          "translatedName": "Dispels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201979804,
+          "chineseName": "筷笼架",
+          "translatedName": "Chopsticks cage holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201979902,
+          "chineseName": "筷子盒",
+          "translatedName": "Chopsticks Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201960407,
+          "chineseName": "手指筷/筷夹",
+          "translatedName": "Finger chopsticks/chopstick holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201960904,
+          "chineseName": "餐盆",
+          "translatedName": "table basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201981403,
+          "chineseName": "一次性餐桌用品套装",
+          "translatedName": "Disposable Table Supplies Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201982205,
+          "chineseName": "蒸饭木桶",
+          "translatedName": "Steamed rice barrel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201986204,
+          "chineseName": "一次性餐垫",
+          "translatedName": "Disposable Placemat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201900105,
+          "chineseName": "厨房吸油纸",
+          "translatedName": "Kitchen Oil Absorbing Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        },
+        {
+          "categoryId": 201964603,
+          "chineseName": "餐具笼/架",
+          "translatedName": "Tableware cage/rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10287
+        }
+      ]
+    }
+  }
+}

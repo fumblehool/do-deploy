@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123696002,
+      "chineseName": "瘦脸工具",
+      "translatedName": "Face-lift tool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201307015"
+    }
+  }
+}

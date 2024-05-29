@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032384,
+      "chineseName": "电工仪器仪表",
+      "translatedName": "Electrical instrumentation",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033823,
+          "chineseName": "其他电工仪器仪表",
+          "translatedName": "Other Electrical Instrumentation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033826,
+          "chineseName": "电阻箱",
+          "translatedName": "Resistance box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033827,
+          "chineseName": "电位差计",
+          "translatedName": "potentiometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033828,
+          "chineseName": "电桥",
+          "translatedName": "electric bridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033829,
+          "chineseName": "钳型表",
+          "translatedName": "clamp type meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033830,
+          "chineseName": "万用表",
+          "translatedName": "Multimeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033831,
+          "chineseName": "频率测量仪表",
+          "translatedName": "Frequency measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033832,
+          "chineseName": "电阻测量仪表",
+          "translatedName": "resistance measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033833,
+          "chineseName": "功率测量仪表",
+          "translatedName": "Power measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033834,
+          "chineseName": "电流测量仪表",
+          "translatedName": "current measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033835,
+          "chineseName": "电压测量仪表",
+          "translatedName": "voltage measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1033836,
+          "chineseName": "电能仪表",
+          "translatedName": "electric energy meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1043134,
+          "chineseName": "电池测试仪",
+          "translatedName": "Battery Tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1036651,
+          "chineseName": "电池修复机",
+          "translatedName": "Battery repair machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 1035931,
+          "chineseName": "参数测试仪器",
+          "translatedName": "Parameter test instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 121190003,
+          "chineseName": "测电笔",
+          "translatedName": "Measuring pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        },
+        {
+          "categoryId": 201204304,
+          "chineseName": "功率因数控制器",
+          "translatedName": "power factor controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032384
+        }
+      ]
+    }
+  }
+}

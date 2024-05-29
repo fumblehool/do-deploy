@@ -1,0 +1,451 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126696001,
+      "chineseName": "传感器",
+      "translatedName": "Sensor",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1039960,
+          "chineseName": "其他传感器",
+          "translatedName": "Other Sensors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127880017,
+          "chineseName": "加速度传感器",
+          "translatedName": "acceleration sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127882018,
+          "chineseName": "角速度传感器（陀螺仪）",
+          "translatedName": "Angular velocity sensor (gyroscope)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127878011,
+          "chineseName": "气体传感器",
+          "translatedName": "Gas sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127878012,
+          "chineseName": "湿度传感器",
+          "translatedName": "Humidity sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127878013,
+          "chineseName": "运动传感器",
+          "translatedName": "Motion sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127924023,
+          "chineseName": "传感器开发工具",
+          "translatedName": "Sensor Development Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127926018,
+          "chineseName": "传感器模块与配件",
+          "translatedName": "Sensor Modules & Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127868024,
+          "chineseName": "压力传感器",
+          "translatedName": "Pressure sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127868025,
+          "chineseName": "接近传感器 ",
+          "translatedName": "Proximity Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127902022,
+          "chineseName": "位移传感器",
+          "translatedName": "displacement sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127902023,
+          "chineseName": "姿态传感器",
+          "translatedName": "Attitude sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127902024,
+          "chineseName": "灰尘传感器 ",
+          "translatedName": "Dust sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127894013,
+          "chineseName": "集成传感器",
+          "translatedName": "Integrated Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127894014,
+          "chineseName": "颜色传感器 ",
+          "translatedName": "Color Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126698001,
+          "chineseName": "力传感器",
+          "translatedName": "force sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126698002,
+          "chineseName": "电压传感器",
+          "translatedName": "Voltage sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126712002,
+          "chineseName": "光学传感器",
+          "translatedName": "Optical sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126722001,
+          "chineseName": "称重传感器",
+          "translatedName": "Load cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126724001,
+          "chineseName": "磁性传感器",
+          "translatedName": "Magnetic sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126730002,
+          "chineseName": "光电传感器",
+          "translatedName": "Photoelectric sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 126734001,
+          "chineseName": "霍尔传感器",
+          "translatedName": "Hall sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127870019,
+          "chineseName": "生物传感器",
+          "translatedName": "biosensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127874020,
+          "chineseName": "电量传感器",
+          "translatedName": "Power sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127914018,
+          "chineseName": "振动传感器",
+          "translatedName": "Vibration sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127914019,
+          "chineseName": "声音传感器",
+          "translatedName": "Sound sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127888011,
+          "chineseName": "流量传感器",
+          "translatedName": "Flow sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127890020,
+          "chineseName": "环境传感器",
+          "translatedName": "Environmental sensors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127884014,
+          "chineseName": "电流传感器",
+          "translatedName": "Current sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127886022,
+          "chineseName": "能耗传感器",
+          "translatedName": "Energy consumption sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127886023,
+          "chineseName": "图像传感器",
+          "translatedName": "Image Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127886024,
+          "chineseName": "温度传感器",
+          "translatedName": "Temperature sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127864017,
+          "chineseName": "电容触摸传感器",
+          "translatedName": "Capacitive touch sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127866025,
+          "chineseName": "液位传感器",
+          "translatedName": "Liquid level sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127866026,
+          "chineseName": "角度传感器",
+          "translatedName": "Angle sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127896021,
+          "chineseName": "位置传感器",
+          "translatedName": "Position sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 127898015,
+          "chineseName": "测距传感器",
+          "translatedName": "distance measuring sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202027903,
+          "chineseName": "红外传感器",
+          "translatedName": "Infrared Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202038301,
+          "chineseName": "探头",
+          "translatedName": "Probe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202057406,
+          "chineseName": "MEMS传感器",
+          "translatedName": "MEMS sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202026809,
+          "chineseName": "心率传感器",
+          "translatedName": "Heart rate sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202036501,
+          "chineseName": "视觉传感器",
+          "translatedName": "Vision Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202033802,
+          "chineseName": "指纹传感器",
+          "translatedName": "Fingerprint Sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202028110,
+          "chineseName": "雷达传感器",
+          "translatedName": "radar sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202028701,
+          "chineseName": "超声波传感器",
+          "translatedName": "Ultrasonic sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202034802,
+          "chineseName": "地面传感器",
+          "translatedName": "Ground sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202031204,
+          "chineseName": "色标传感器",
+          "translatedName": "color code sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        },
+        {
+          "categoryId": 202063303,
+          "chineseName": "温湿度传感器",
+          "translatedName": "Temperature and humidity sensor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126696001
+        }
+      ]
+    }
+  }
+}

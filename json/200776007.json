@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200776007,
+      "chineseName": "双向晶闸管(TRIAC)",
+      "translatedName": "Bidirectional thyristor (TRIAC)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200800009"
+    }
+  }
+}

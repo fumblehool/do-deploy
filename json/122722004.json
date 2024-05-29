@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122722004,
+      "chineseName": "其他夏季电器",
+      "translatedName": "Other Summer Appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

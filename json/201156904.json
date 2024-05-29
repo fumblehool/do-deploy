@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156904,
+      "chineseName": "塑料件",
+      "translatedName": "Plastic parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160507"
+    }
+  }
+}

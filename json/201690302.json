@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201690302,
+      "chineseName": "灭蟑用品",
+      "translatedName": "Cockroach Killing Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548001"
+    }
+  }
+}

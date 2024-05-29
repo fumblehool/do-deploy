@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046965,
+      "chineseName": "沙发垫/沙发套/沙发巾",
+      "translatedName": "Sofa cushion/sofa cover/sofa towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127894012"
+    }
+  }
+}

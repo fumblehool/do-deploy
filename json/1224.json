@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1224,
+      "chineseName": "船舶专用配件",
+      "translatedName": "Special accessories for ships",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "12",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033589,
+          "chineseName": "其他船舶专用配件",
+          "translatedName": "Other Special Accessories for Ships",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1224
+        },
+        {
+          "categoryId": 1033591,
+          "chineseName": "船用发动机配件",
+          "translatedName": "Marine Engine Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1224
+        },
+        {
+          "categoryId": 1033592,
+          "chineseName": "缆绳、锚绳",
+          "translatedName": "Cable, anchor rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1224
+        },
+        {
+          "categoryId": 1033593,
+          "chineseName": "船锚、锚链",
+          "translatedName": "Ship anchor, anchor chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1224
+        }
+      ]
+    }
+  }
+}

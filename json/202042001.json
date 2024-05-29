@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202042001,
+      "chineseName": "国标舞表演服",
+      "translatedName": "Ballroom Dance Performance Dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548501"
+    }
+  }
+}

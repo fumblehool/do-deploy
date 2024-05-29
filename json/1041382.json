@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041382,
+      "chineseName": "防雷监测仪",
+      "translatedName": "lightning protection monitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041377"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 164,
+      "chineseName": "复合包装制品",
+      "translatedName": "composite packaging products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "68"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034295,
+      "chineseName": "粉粒物料运输车",
+      "translatedName": "Powder material transport vehicle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1209"
+    }
+  }
+}

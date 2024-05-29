@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 725,
+      "chineseName": "数码相框",
+      "translatedName": "Digital Photo Frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "727"
+    }
+  }
+}

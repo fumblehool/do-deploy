@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201836001,
+      "chineseName": "碳纤维",
+      "translatedName": "carbon fiber",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201230103,
+          "chineseName": "其他碳纤维材料",
+          "translatedName": "Other Carbon Fiber Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201836001
+        },
+        {
+          "categoryId": 201823803,
+          "chineseName": "碳纤维板",
+          "translatedName": "carbon fiber board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201836001
+        },
+        {
+          "categoryId": 201821604,
+          "chineseName": "碳纤维棒",
+          "translatedName": "carbon fiber rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201836001
+        }
+      ]
+    }
+  }
+}

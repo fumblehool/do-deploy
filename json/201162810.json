@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162810,
+      "chineseName": "干辣椒",
+      "translatedName": "dried chili",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10082"
+    }
+  }
+}

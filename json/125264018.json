@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125264018,
+      "chineseName": "关节型机器人",
+      "translatedName": "articulated robot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125276006"
+    }
+  }
+}

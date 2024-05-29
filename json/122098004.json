@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122098004,
+      "chineseName": "野营折叠桌椅",
+      "translatedName": "Camping folding tables and chairs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "281904"
+    }
+  }
+}

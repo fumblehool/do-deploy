@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012014,
+      "chineseName": "圆钢",
+      "translatedName": "Round steel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018017,
+          "chineseName": "工业圆钢",
+          "translatedName": "Industrial round steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012014
+        },
+        {
+          "categoryId": 121046006,
+          "chineseName": "建筑圆钢",
+          "translatedName": "Building round steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012014
+        },
+        {
+          "categoryId": 121022022,
+          "chineseName": "其他圆钢",
+          "translatedName": "Other round steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012014
+        }
+      ]
+    }
+  }
+}

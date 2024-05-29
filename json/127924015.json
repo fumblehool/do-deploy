@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127924015,
+      "chineseName": "古建石",
+      "translatedName": "ancient building stone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127896013"
+    }
+  }
+}

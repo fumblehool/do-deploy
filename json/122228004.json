@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122228004,
+      "chineseName": "其他巾类",
+      "translatedName": "Other towel classes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127864016"
+    }
+  }
+}

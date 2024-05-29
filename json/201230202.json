@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201230202,
+      "chineseName": "儿童发饰",
+      "translatedName": "Children's hair accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201149004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035651,
+      "chineseName": "碳刷、电刷",
+      "translatedName": "Carbon brush, brush",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10228"
+    }
+  }
+}

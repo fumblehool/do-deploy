@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122108004,
+      "chineseName": "袖、腿套、束管带",
+      "translatedName": "Sleeve, leg sleeve, tube strap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564924"
+    }
+  }
+}

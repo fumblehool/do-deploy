@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036415,
+      "chineseName": "玻璃升降器",
+      "translatedName": "Glass lifter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10104"
+    }
+  }
+}

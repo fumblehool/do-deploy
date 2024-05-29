@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201913206,
+      "chineseName": "VOID/DR.LF等防伪标",
+      "translatedName": "VOID/DR.LF and other anti-counterfeiting labels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201925101"
+    }
+  }
+}

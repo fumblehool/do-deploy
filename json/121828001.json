@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121828001,
+      "chineseName": "猫狗用品",
+      "translatedName": "Cat and Dog Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121846002,
+          "chineseName": "猫猫窝/笼/垫",
+          "translatedName": "Cat litter/cage/mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121780003,
+          "chineseName": "猫猫牵引",
+          "translatedName": "Cat Traction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121784003,
+          "chineseName": "狗狗食具",
+          "translatedName": "Dog utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121784004,
+          "chineseName": "猫猫玩具",
+          "translatedName": "Cat Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 122584001,
+          "chineseName": "猫砂",
+          "translatedName": "Cat litter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121778004,
+          "chineseName": "猫猫食具",
+          "translatedName": "Cat utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121802003,
+          "chineseName": "狗狗牵引",
+          "translatedName": "Dog Traction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121810003,
+          "chineseName": "猫猫包、箱",
+          "translatedName": "Cat bag, box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121836002,
+          "chineseName": "狗狗玩具",
+          "translatedName": "Dog toys.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121840001,
+          "chineseName": "狗狗窝/笼/垫",
+          "translatedName": "Dog kennel/cage/mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 121842001,
+          "chineseName": "狗狗包、箱",
+          "translatedName": "Dog bag, box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201229809,
+          "chineseName": "储粮桶",
+          "translatedName": "grain storage bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201309806,
+          "chineseName": "宠物推车",
+          "translatedName": "Pet Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201304507,
+          "chineseName": "止吠器",
+          "translatedName": "Barking stop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201220511,
+          "chineseName": "嘴套",
+          "translatedName": "Mouth sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201897301,
+          "chineseName": "猫爬架",
+          "translatedName": "Cat climbing frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        },
+        {
+          "categoryId": 201898101,
+          "chineseName": "猫抓板",
+          "translatedName": "Cat Scratching Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121828001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045948,
+      "chineseName": "塑料片",
+      "translatedName": "Plastic sheet",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045949,
+          "chineseName": "PVC塑料片",
+          "translatedName": "PVC plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045950,
+          "chineseName": "PET塑料片",
+          "translatedName": "PET plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045951,
+          "chineseName": "PP塑料片",
+          "translatedName": "PP plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045952,
+          "chineseName": "PC塑料片",
+          "translatedName": "PC plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045953,
+          "chineseName": "ABS塑料片",
+          "translatedName": "ABS plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045954,
+          "chineseName": "PE塑料片",
+          "translatedName": "PE plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045955,
+          "chineseName": "PMMA塑料片",
+          "translatedName": "PMMA plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045956,
+          "chineseName": "PS塑料片",
+          "translatedName": "PS plastic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        },
+        {
+          "categoryId": 1045957,
+          "chineseName": "其他塑料片",
+          "translatedName": "Other plastic sheets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045948
+        }
+      ]
+    }
+  }
+}

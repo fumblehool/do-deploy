@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201155004,
+      "chineseName": "一次性洗脸巾",
+      "translatedName": "Disposable face towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201148907"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159503,
+      "chineseName": "唐装套装",
+      "translatedName": "Tang Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202050801"
+    }
+  }
+}

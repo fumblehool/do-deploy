@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124000011,
+      "chineseName": "防尘口罩",
+      "translatedName": "Dust mask",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124014010"
+    }
+  }
+}

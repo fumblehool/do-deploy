@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375302,
+      "chineseName": "敲琴",
+      "translatedName": "Knock the piano",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201565322"
+    }
+  }
+}

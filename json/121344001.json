@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121344001,
+      "chineseName": "席位卡",
+      "translatedName": "Seat card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124904001"
+    }
+  }
+}

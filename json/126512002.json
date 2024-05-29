@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126512002,
+      "chineseName": "线条灯/灯条",
+      "translatedName": "Line lamp/light bar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10217"
+    }
+  }
+}

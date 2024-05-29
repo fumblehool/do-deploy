@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058407,
+      "chineseName": "IC器件连接器",
+      "translatedName": "IC Device Connector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201549101"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301126,
+      "chineseName": "冰箱除味剂",
+      "translatedName": "Refrigerator deodorant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194007"
+    }
+  }
+}

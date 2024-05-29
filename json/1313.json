@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1313,
+      "chineseName": "砖瓦及砌块",
+      "translatedName": "Brick, tile and block",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1038388"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80321,
+      "chineseName": "硝基化合物",
+      "translatedName": "nitro compound",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "803"
+    }
+  }
+}

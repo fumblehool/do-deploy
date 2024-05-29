@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201373319,
+      "chineseName": "救生器材",
+      "translatedName": "Life-saving equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201383616,
+          "chineseName": "救生艇",
+          "translatedName": "Lifeboat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 201375322,
+          "chineseName": "救生圈",
+          "translatedName": "life buoy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 201379515,
+          "chineseName": "救生绳",
+          "translatedName": "Lifting Rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 201380823,
+          "chineseName": "救生浮标",
+          "translatedName": "lifesaving buoy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 201372917,
+          "chineseName": "救生衣",
+          "translatedName": "life jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 202036103,
+          "chineseName": "救援担架",
+          "translatedName": "rescue stretcher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        },
+        {
+          "categoryId": 3006,
+          "chineseName": "其他救生器材",
+          "translatedName": "Other lifesaving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373319
+        }
+      ]
+    }
+  }
+}

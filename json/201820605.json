@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201820605,
+      "chineseName": "法式文胸",
+      "translatedName": "French Bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124188007"
+    }
+  }
+}

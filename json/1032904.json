@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032904,
+      "chineseName": "速冻肉类丸饺类",
+      "translatedName": "Quick-frozen meat balls dumplings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "216"
+    }
+  }
+}

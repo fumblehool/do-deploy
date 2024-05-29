@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202030701,
+      "chineseName": "纹绣辅助剂",
+      "translatedName": "tattoo auxiliary agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202027801"
+    }
+  }
+}

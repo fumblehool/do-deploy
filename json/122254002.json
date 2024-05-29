@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122254002,
+      "chineseName": "中巾",
+      "translatedName": "Medium towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "96"
+    }
+  }
+}

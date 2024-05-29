@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032282,
+      "chineseName": "霓虹灯管",
+      "translatedName": "neon tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "527"
+    }
+  }
+}

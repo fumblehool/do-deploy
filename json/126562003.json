@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126562003,
+      "chineseName": "菜谱",
+      "translatedName": "Recipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121504010"
+    }
+  }
+}

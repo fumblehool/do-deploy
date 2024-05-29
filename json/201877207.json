@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201877207,
+      "chineseName": "模拟器游戏机",
+      "translatedName": "Simulator game machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "727"
+    }
+  }
+}

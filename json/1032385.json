@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032385,
+      "chineseName": "其他仪器仪表配附件",
+      "translatedName": "Other instruments and meters with accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032380"
+    }
+  }
+}

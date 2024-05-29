@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122444002,
+      "chineseName": "裹胸、抹胸",
+      "translatedName": "Chest Wrapping, Strapless",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122478003"
+    }
+  }
+}

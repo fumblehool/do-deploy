@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 7,
+      "chineseName": "数码、电脑",
+      "translatedName": "Digital, Computer",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033238,
+          "chineseName": "电脑项目合作",
+          "translatedName": "Computer project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 10262,
+          "chineseName": "电脑外设产品",
+          "translatedName": "Computer Peripheral Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 1032228,
+          "chineseName": "数码配件",
+          "translatedName": "Digital Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 1046688,
+          "chineseName": "平板电脑配件",
+          "translatedName": "Tablet Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 1046693,
+          "chineseName": "苹果专用配件",
+          "translatedName": "Apple special accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 1044130,
+          "chineseName": "手机饰品",
+          "translatedName": "Mobile phone accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 124776003,
+          "chineseName": "摄影摄像及配件",
+          "translatedName": "Photography and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 123754001,
+          "chineseName": "智能设备",
+          "translatedName": "Smart Devices",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 201626003,
+          "chineseName": "直播设备及配件",
+          "translatedName": "Live broadcast equipment and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 735,
+          "chineseName": "库存/二手电脑",
+          "translatedName": "Stock/Used Computers",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 705,
+          "chineseName": "网络设备",
+          "translatedName": "Network Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 50911,
+          "chineseName": "手机配件",
+          "translatedName": "Mobile phone accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 727,
+          "chineseName": "数码产品",
+          "translatedName": "Digital Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 728,
+          "chineseName": "手机通讯",
+          "translatedName": "Mobile Communication",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 729,
+          "chineseName": "笔记本电脑配件",
+          "translatedName": "Laptop Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 730,
+          "chineseName": "电脑整机",
+          "translatedName": "The whole computer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 731,
+          "chineseName": "电脑硬件及配件",
+          "translatedName": "Computer Hardware & Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 202047604,
+          "chineseName": "AR / VR 头显设备配件",
+          "translatedName": "AR / VR Headset Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        },
+        {
+          "categoryId": 202062910,
+          "chineseName": "手机号码/套餐/增值业务",
+          "translatedName": "Mobile phone number/package/value-added service",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 7
+        }
+      ]
+    }
+  }
+}

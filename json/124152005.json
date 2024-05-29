@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124152005,
+      "chineseName": "其他头部防护",
+      "translatedName": "Other head protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124160004"
+    }
+  }
+}

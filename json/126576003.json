@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126576003,
+      "chineseName": "窗台灯",
+      "translatedName": "Window sill lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201270263"
+    }
+  }
+}

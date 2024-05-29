@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160106,
+      "chineseName": "台卡",
+      "translatedName": "Taiwan Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160006"
+    }
+  }
+}

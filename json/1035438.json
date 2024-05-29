@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035438,
+      "chineseName": "塑焊机",
+      "translatedName": "plastic welding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1456"
+    }
+  }
+}

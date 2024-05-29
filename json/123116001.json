@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123116001,
+      "chineseName": "健身套装",
+      "translatedName": "Fitness Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013"
+    }
+  }
+}

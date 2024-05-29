@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125464004,
+      "chineseName": "钣喷维修",
+      "translatedName": "Sheet Metal Spray Repair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "79"
+    }
+  }
+}

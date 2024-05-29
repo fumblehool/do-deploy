@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042661,
+      "chineseName": "发电机及配件",
+      "translatedName": "Generators and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10107"
+    }
+  }
+}

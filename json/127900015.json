@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127900015,
+      "chineseName": "功能毛巾",
+      "translatedName": "Functional towel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043475,
+          "chineseName": "手巾/手帕",
+          "translatedName": "Hand towel/handkerchief",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 1043476,
+          "chineseName": "枕巾",
+          "translatedName": "Pillow towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 1043477,
+          "chineseName": "干发巾、干发帽",
+          "translatedName": "Dry hair towel, dry hair hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 122228005,
+          "chineseName": "运动巾",
+          "translatedName": "Sports Towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 122214005,
+          "chineseName": "美容美发用巾",
+          "translatedName": "Hairdressing towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 124736012,
+          "chineseName": "冰凉巾",
+          "translatedName": "Ice towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 122220005,
+          "chineseName": "擦手巾",
+          "translatedName": "Towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 122214004,
+          "chineseName": "茶巾",
+          "translatedName": "Tea towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 122256001,
+          "chineseName": "擦车巾",
+          "translatedName": "Wipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 127924021,
+          "chineseName": "胸套毛巾",
+          "translatedName": "Chest set towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        },
+        {
+          "categoryId": 127884013,
+          "chineseName": "抗菌毛巾",
+          "translatedName": "antibacterial towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900015
+        }
+      ]
+    }
+  }
+}

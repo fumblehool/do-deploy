@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046621,
+      "chineseName": "棉类面料",
+      "translatedName": "cotton fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046630,
+          "chineseName": "牛仔面料",
+          "translatedName": "denim fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046623,
+          "chineseName": "纱卡",
+          "translatedName": "yarn card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046624,
+          "chineseName": "帆布",
+          "translatedName": "Canvas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046625,
+          "chineseName": "灯芯绒",
+          "translatedName": "corduroy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046626,
+          "chineseName": "府绸",
+          "translatedName": "Poplin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046627,
+          "chineseName": "贡缎",
+          "translatedName": "Satin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046628,
+          "chineseName": "平布",
+          "translatedName": "Plain Cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        },
+        {
+          "categoryId": 1046629,
+          "chineseName": "其他棉类面料",
+          "translatedName": "Other Cotton Fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046621
+        }
+      ]
+    }
+  }
+}

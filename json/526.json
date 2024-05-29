@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 526,
+      "chineseName": "配电输电设备",
+      "translatedName": "Power distribution and transmission equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10216,
+          "chineseName": "桥架",
+          "translatedName": "Bridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1032263,
+          "chineseName": "补偿装置",
+          "translatedName": "compensation device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1034996,
+          "chineseName": "配电柜",
+          "translatedName": "Power distribution cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1034997,
+          "chineseName": "配电器",
+          "translatedName": "Distributor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1034998,
+          "chineseName": "配电屏",
+          "translatedName": "Power distribution panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1034999,
+          "chineseName": "配电盘",
+          "translatedName": "Switchboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1035001,
+          "chineseName": "箱式变电站",
+          "translatedName": "box-type substation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1032261,
+          "chineseName": "其他配电输电设备",
+          "translatedName": "Other power distribution and transmission equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1032262,
+          "chineseName": "电源柜",
+          "translatedName": "Power cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 127302003,
+          "chineseName": "接线盒",
+          "translatedName": "Junction box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 127868004,
+          "chineseName": "配电箱端子",
+          "translatedName": "Distribution box terminal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 1412,
+          "chineseName": "配电箱",
+          "translatedName": "Distribution box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 202051414,
+          "chineseName": "工业机柜",
+          "translatedName": "Industrial Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        },
+        {
+          "categoryId": 202036011,
+          "chineseName": "冷压端子",
+          "translatedName": "cold-pressed terminal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 526
+        }
+      ]
+    }
+  }
+}

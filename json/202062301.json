@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202062301,
+      "chineseName": "藏族服饰",
+      "translatedName": "Tibetan Clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202052806"
+    }
+  }
+}

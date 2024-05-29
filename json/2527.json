@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2527,
+      "chineseName": "教育、培训、艺术展",
+      "translatedName": "Education, Training, Art Exhibition",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "75"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035765,
+      "chineseName": "不锈钢坯",
+      "translatedName": "stainless steel billet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "920"
+    }
+  }
+}

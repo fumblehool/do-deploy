@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034126,
+      "chineseName": "广电信号滤波器",
+      "translatedName": "radio and television signal filter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3419"
+    }
+  }
+}

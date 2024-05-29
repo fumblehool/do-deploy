@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123102002,
+      "chineseName": "证件卡、挂绳",
+      "translatedName": "ID card, lanyard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2129"
+    }
+  }
+}

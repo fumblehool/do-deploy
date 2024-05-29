@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123648008,
+      "chineseName": "女式布鞋",
+      "translatedName": "women's cloth shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125372002"
+    }
+  }
+}

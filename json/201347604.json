@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201347604,
+      "chineseName": "汽车充电桩",
+      "translatedName": "Car charging pile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332918"
+    }
+  }
+}

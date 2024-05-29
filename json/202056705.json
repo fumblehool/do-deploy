@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056705,
+      "chineseName": "艾灸/艾草/艾条/艾制品",
+      "translatedName": "Moxibustion/wormwood/moxa sticks/moxa products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1608"
+    }
+  }
+}

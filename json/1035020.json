@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035020,
+      "chineseName": "电热片",
+      "translatedName": "Electric heating sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10233"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041101,
+      "chineseName": "哺乳衣",
+      "translatedName": "Lactation clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196004"
+    }
+  }
+}

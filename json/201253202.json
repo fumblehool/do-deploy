@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201253202,
+      "chineseName": "大盘纸",
+      "translatedName": "Large tray paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

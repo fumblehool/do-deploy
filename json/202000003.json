@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202000003,
+      "chineseName": "玫瑰茄",
+      "translatedName": "roselle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164002"
+    }
+  }
+}

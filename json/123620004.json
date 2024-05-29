@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620004,
+      "chineseName": "LED原料与辅料",
+      "translatedName": "LED raw materials and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122280001,
+          "chineseName": "LED支架",
+          "translatedName": "LED bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123620005,
+          "chineseName": "LED衬底",
+          "translatedName": "LED substrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123608016,
+          "chineseName": "LED基板",
+          "translatedName": "LED substrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123616023,
+          "chineseName": "LED金线",
+          "translatedName": "LED gold wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123622005,
+          "chineseName": "其他LED原料与辅料",
+          "translatedName": "Other LED raw materials and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123622006,
+          "chineseName": "LED红光芯片",
+          "translatedName": "LED red chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123616006,
+          "chineseName": "MO源",
+          "translatedName": "Source of MO",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 122196010,
+          "chineseName": "LED外延片",
+          "translatedName": "LED epitaxial wafer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 122222005,
+          "chineseName": "LED透镜",
+          "translatedName": "LED lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123608014,
+          "chineseName": "LED荧光粉",
+          "translatedName": "LED fluorescent powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123608015,
+          "chineseName": "LED固晶胶",
+          "translatedName": "LED crystal fixing adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        },
+        {
+          "categoryId": 123610019,
+          "chineseName": "LED填充胶",
+          "translatedName": "LED filling glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620004
+        }
+      ]
+    }
+  }
+}

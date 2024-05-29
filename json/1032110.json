@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032110,
+      "chineseName": "车用灭火器",
+      "translatedName": "Vehicle fire extinguisher",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3311"
+    }
+  }
+}

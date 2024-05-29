@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10384,
+      "chineseName": "涂料助剂",
+      "translatedName": "Coating additives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034808,
+          "chineseName": "其他涂料助剂",
+          "translatedName": "Other Coating Additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1034809,
+          "chineseName": "流平剂",
+          "translatedName": "leveling agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1034810,
+          "chineseName": "催干剂",
+          "translatedName": "drier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1034811,
+          "chineseName": "除味剂",
+          "translatedName": "Deodorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1034812,
+          "chineseName": "润湿剂",
+          "translatedName": "wetting agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1034813,
+          "chineseName": "涂料光亮剂",
+          "translatedName": "paint brightener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036469,
+          "chineseName": "防沉剂",
+          "translatedName": "anti-settling agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036570,
+          "chineseName": "涂料稀释剂",
+          "translatedName": "paint thinner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036470,
+          "chineseName": "成膜助剂",
+          "translatedName": "Film-forming additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036471,
+          "chineseName": "导电剂",
+          "translatedName": "conductive agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036472,
+          "chineseName": "涂料分散剂",
+          "translatedName": "coating dispersant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036473,
+          "chineseName": "涂料消泡剂",
+          "translatedName": "coating defoamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036474,
+          "chineseName": "防结皮剂",
+          "translatedName": "anti-skinning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036475,
+          "chineseName": "涂料增稠剂",
+          "translatedName": "paint thickener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036476,
+          "chineseName": "固化剂",
+          "translatedName": "Curing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1036477,
+          "chineseName": "锤纹助剂",
+          "translatedName": "Hammer Auxiliary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        },
+        {
+          "categoryId": 1037134,
+          "chineseName": "消光粉",
+          "translatedName": "Extinction powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10384
+        }
+      ]
+    }
+  }
+}

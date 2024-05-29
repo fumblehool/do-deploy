@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201923601,
+      "chineseName": "智能移动机器人",
+      "translatedName": "intelligent mobile robot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032077"
+    }
+  }
+}

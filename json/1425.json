@@ -1,0 +1,298 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1425,
+      "chineseName": "泵",
+      "translatedName": "Pump",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032456,
+          "chineseName": "其他泵",
+          "translatedName": "Other Pumps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032458,
+          "chineseName": "往复泵",
+          "translatedName": "reciprocating pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032459,
+          "chineseName": "真空泵",
+          "translatedName": "Vacuum pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032460,
+          "chineseName": "转子泵",
+          "translatedName": "rotor pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032461,
+          "chineseName": "混流泵",
+          "translatedName": "mixed flow pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032462,
+          "chineseName": "旋涡泵",
+          "translatedName": "vortex pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1032467,
+          "chineseName": "离心泵",
+          "translatedName": "Centrifugal pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1035324,
+          "chineseName": "轴流泵",
+          "translatedName": "axial flow pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1035325,
+          "chineseName": "自吸泵",
+          "translatedName": "self-priming pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1035326,
+          "chineseName": "屏蔽泵",
+          "translatedName": "Shielding pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 1035657,
+          "chineseName": "泵配件",
+          "translatedName": "Pump accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 124000010,
+          "chineseName": "喷射泵",
+          "translatedName": "jet pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958408,
+          "chineseName": "排污泵",
+          "translatedName": "sewage pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958508,
+          "chineseName": "计量泵",
+          "translatedName": "Metering pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958509,
+          "chineseName": "磁力泵",
+          "translatedName": "magnetic pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958510,
+          "chineseName": "渣浆泵、灰渣泵",
+          "translatedName": "Slurry pump, ash pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958511,
+          "chineseName": "油泵",
+          "translatedName": "Oil pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 202027906,
+          "chineseName": "转向助力泵",
+          "translatedName": "Power steering pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958108,
+          "chineseName": "油气混输泵",
+          "translatedName": "Oil-gas mixed transportation pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958406,
+          "chineseName": "空调泵",
+          "translatedName": "Air conditioning pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958407,
+          "chineseName": "循环水泵",
+          "translatedName": "Circulating water pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 202036305,
+          "chineseName": "养殖泵",
+          "translatedName": "aquaculture pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958605,
+          "chineseName": "隔膜泵",
+          "translatedName": "diaphragm pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958606,
+          "chineseName": "卫生泵",
+          "translatedName": "sanitary pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958703,
+          "chineseName": "化工泵",
+          "translatedName": "chemical pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 202039201,
+          "chineseName": "灌溉水泵",
+          "translatedName": "Irrigation pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958803,
+          "chineseName": "柱塞泵",
+          "translatedName": "plunger pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958804,
+          "chineseName": "混凝土输送泵",
+          "translatedName": "Concrete pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 202029503,
+          "chineseName": "花园泵",
+          "translatedName": "Garden Pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 202030402,
+          "chineseName": "螺杆泵",
+          "translatedName": "screw pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        },
+        {
+          "categoryId": 201958101,
+          "chineseName": "增压泵",
+          "translatedName": "booster pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1425
+        }
+      ]
+    }
+  }
+}

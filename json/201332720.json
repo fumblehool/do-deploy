@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201332720,
+      "chineseName": "生日报",
+      "translatedName": "Daily Life",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305307"
+    }
+  }
+}

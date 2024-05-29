@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122468001,
+      "chineseName": "船袜、隐形袜",
+      "translatedName": "Boat socks, invisible socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043349"
+    }
+  }
+}

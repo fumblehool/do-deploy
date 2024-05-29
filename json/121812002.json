@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121812002,
+      "chineseName": "狗狗罐头、零食",
+      "translatedName": "Canned dogs, snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200550001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202036501,
+      "chineseName": "视觉传感器",
+      "translatedName": "Vision Sensor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126696001"
+    }
+  }
+}

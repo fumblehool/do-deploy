@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127500008,
+      "chineseName": "腰封",
+      "translatedName": "Waist seal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127462007"
+    }
+  }
+}

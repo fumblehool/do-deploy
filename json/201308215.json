@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308215,
+      "chineseName": "礼宾牌",
+      "translatedName": "Concierge Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045268"
+    }
+  }
+}

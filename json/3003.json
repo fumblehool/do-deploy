@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3003,
+      "chineseName": "防身护具",
+      "translatedName": "Armor",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "70"
+    }
+  }
+}

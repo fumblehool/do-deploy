@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044717,
+      "chineseName": "象棋、围棋",
+      "translatedName": "Chess, Go",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1809"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201679301,
+      "chineseName": "低音提琴/倍大提琴",
+      "translatedName": "Double bass/double cello",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649001"
+    }
+  }
+}

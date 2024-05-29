@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201148907,
+      "chineseName": "一次性巾类",
+      "translatedName": "Disposable towel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122258001,
+          "chineseName": "压缩毛巾",
+          "translatedName": "Compressed towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201148907
+        },
+        {
+          "categoryId": 201153906,
+          "chineseName": "一次性浴巾",
+          "translatedName": "Disposable bath towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201148907
+        },
+        {
+          "categoryId": 201155004,
+          "chineseName": "一次性洗脸巾",
+          "translatedName": "Disposable face towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201148907
+        }
+      ]
+    }
+  }
+}

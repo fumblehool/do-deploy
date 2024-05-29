@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610008,
+      "chineseName": "LED显示屏电源",
+      "translatedName": "LED display power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612008"
+    }
+  }
+}

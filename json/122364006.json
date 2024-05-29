@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122364006,
+      "chineseName": "男士身体护理",
+      "translatedName": "Men's Body Care",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121702001"
+    }
+  }
+}

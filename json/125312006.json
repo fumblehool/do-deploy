@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125312006,
+      "chineseName": "空气层",
+      "translatedName": "air layer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031696"
+    }
+  }
+}

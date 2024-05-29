@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032125,
+      "chineseName": "车身贴",
+      "translatedName": "body sticker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3308"
+    }
+  }
+}

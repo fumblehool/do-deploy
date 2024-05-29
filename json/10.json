@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10,
+      "chineseName": "能源",
+      "translatedName": "Energy",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": true,
+      "children": [
+        {
+          "categoryId": 1001,
+          "chineseName": "石油燃料",
+          "translatedName": "petroleum fuel",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 100107,
+          "chineseName": "石油焦",
+          "translatedName": "petroleum coke",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1002,
+          "chineseName": "原煤",
+          "translatedName": "Raw coal",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1011,
+          "chineseName": "其他能源",
+          "translatedName": "Other Energy",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1003,
+          "chineseName": "天然气",
+          "translatedName": "Natural gas",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1012,
+          "chineseName": "生物能源",
+          "translatedName": "Bioenergy",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1013,
+          "chineseName": "废油",
+          "translatedName": "waste oil",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1005,
+          "chineseName": "煤制品",
+          "translatedName": "Coal Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1014,
+          "chineseName": "煤矿设备",
+          "translatedName": "coal mine equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1032533,
+          "chineseName": "燃气设备",
+          "translatedName": "Gas equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1032357,
+          "chineseName": "沼气设备",
+          "translatedName": "Biogas equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1031812,
+          "chineseName": "能源产品代理加盟",
+          "translatedName": "Energy products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 1043036,
+          "chineseName": "沥青",
+          "translatedName": "Bitumen",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10
+        },
+        {
+          "categoryId": 290310,
+          "chineseName": "能源项目合作",
+          "translatedName": "Energy Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10
+        }
+      ]
+    }
+  }
+}

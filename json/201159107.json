@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159107,
+      "chineseName": "自热火锅",
+      "translatedName": "Self-heating hot pot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124000009"
+    }
+  }
+}

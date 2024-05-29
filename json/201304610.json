@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304610,
+      "chineseName": "电视柜摆件",
+      "translatedName": "TV cabinet ornaments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127888009"
+    }
+  }
+}

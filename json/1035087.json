@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035087,
+      "chineseName": "冷光源",
+      "translatedName": "cold light source",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035255,
+          "chineseName": "其他冷光源",
+          "translatedName": "Other cold light sources",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035087
+        },
+        {
+          "categoryId": 1035256,
+          "chineseName": "EL冷光片",
+          "translatedName": "EL cold light sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1035087
+        }
+      ]
+    }
+  }
+}

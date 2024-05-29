@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3308,
+      "chineseName": "外饰/改装/配件",
+      "translatedName": "Exterior Trims/Modifications/Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032107,
+          "chineseName": "防撞胶条/防刮条",
+          "translatedName": "Anti-collision strip/anti-scratch strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1032122,
+          "chineseName": "其他汽车外饰用品",
+          "translatedName": "Other Automotive Exterior Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1032124,
+          "chineseName": "晴雨挡",
+          "translatedName": "Rain shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1032125,
+          "chineseName": "车身贴",
+          "translatedName": "body sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1032126,
+          "chineseName": "汽车膜",
+          "translatedName": "Automotive Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1032127,
+          "chineseName": "汽车车衣",
+          "translatedName": "Car clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041523,
+          "chineseName": "油箱盖",
+          "translatedName": "Tank cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041524,
+          "chineseName": "轮毂盖",
+          "translatedName": "Hub cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041525,
+          "chineseName": "车窗饰条",
+          "translatedName": "Window trim",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041526,
+          "chineseName": "门腕",
+          "translatedName": "Portal Wrist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041529,
+          "chineseName": "其他汽车改装件",
+          "translatedName": "Other Car Modifications",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1042651,
+          "chineseName": "安定器",
+          "translatedName": "Bits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1036028,
+          "chineseName": "轮眉",
+          "translatedName": "Wheel eyebrow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1036029,
+          "chineseName": "挡泥板",
+          "translatedName": "Mudguard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041521,
+          "chineseName": "灯框",
+          "translatedName": "Light frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041522,
+          "chineseName": "灯眉",
+          "translatedName": "Lamp eyebrow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1036419,
+          "chineseName": "大包围",
+          "translatedName": "Big Surrounded",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1036420,
+          "chineseName": "定风翼",
+          "translatedName": "fixed wind wing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1036421,
+          "chineseName": "冷光片",
+          "translatedName": "cold light sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041504,
+          "chineseName": "天窗及配件",
+          "translatedName": "Sunroof and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 1041506,
+          "chineseName": "扰流板",
+          "translatedName": "Spoiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 125290002,
+          "chineseName": "汽车吸音棉",
+          "translatedName": "Car sound-absorbing cotton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 125068003,
+          "chineseName": "备胎罩",
+          "translatedName": "Spare wheel cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 125062014,
+          "chineseName": "大视野后视辅助镜",
+          "translatedName": "Large field of view rear view auxiliary mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201356003,
+          "chineseName": "后视镜防雨贴",
+          "translatedName": "Rearview mirror rainproof sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201891202,
+          "chineseName": "汽车遮雪挡",
+          "translatedName": "Car snow shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201886006,
+          "chineseName": "刹车卡钳罩",
+          "translatedName": "Brake caliper cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201876009,
+          "chineseName": "汽车车标",
+          "translatedName": "Car logo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201878206,
+          "chineseName": "汽车防虫网",
+          "translatedName": "Automobile anti-insect net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        },
+        {
+          "categoryId": 201882407,
+          "chineseName": "车载自行车架",
+          "translatedName": "Car bike rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3308
+        }
+      ]
+    }
+  }
+}

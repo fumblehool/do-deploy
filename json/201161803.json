@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161803,
+      "chineseName": "仿真枝叶和树",
+      "translatedName": "Simulation of branches and leaves and trees",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162103"
+    }
+  }
+}

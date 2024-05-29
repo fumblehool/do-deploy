@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036195,
+      "chineseName": "生化分析仪",
+      "translatedName": "biochemical analyzer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036185"
+    }
+  }
+}

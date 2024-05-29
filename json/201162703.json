@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162703,
+      "chineseName": "咖啡具",
+      "translatedName": "Coffee set",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122636002,
+          "chineseName": "手摇咖啡机",
+          "translatedName": "Hand-cranked coffee machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 122362006,
+          "chineseName": "咖啡壶",
+          "translatedName": "Coffee pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 122320009,
+          "chineseName": "咖啡杯",
+          "translatedName": "Coffee Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 122402005,
+          "chineseName": "咖啡具套装",
+          "translatedName": "Coffee set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201354315,
+          "chineseName": "咖啡滤纸",
+          "translatedName": "coffee filter paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201309605,
+          "chineseName": "奶罐",
+          "translatedName": "milk tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201156804,
+          "chineseName": "咖啡研磨器、压粉器",
+          "translatedName": "Coffee grinder, powder press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201162104,
+          "chineseName": "拉花杯/拉花缸/打奶缸",
+          "translatedName": "Flower cup/flower cylinder/milk tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201302411,
+          "chineseName": "糖缸",
+          "translatedName": "sugar cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201304914,
+          "chineseName": "咖啡勺",
+          "translatedName": "Coffee spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201162403,
+          "chineseName": "咖啡过滤器",
+          "translatedName": "Coffee filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201308707,
+          "chineseName": "配套器具",
+          "translatedName": "supporting apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 202049303,
+          "chineseName": "咖啡电子秤",
+          "translatedName": "Coffee electronic scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201955005,
+          "chineseName": "手冲壶",
+          "translatedName": "Hand pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201972105,
+          "chineseName": "法压壶/滤压壶",
+          "translatedName": "French press/filter press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 202042102,
+          "chineseName": "打奶器",
+          "translatedName": "Milk beat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        },
+        {
+          "categoryId": 201955607,
+          "chineseName": "摩卡壶",
+          "translatedName": "Mocha pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201162703
+        }
+      ]
+    }
+  }
+}

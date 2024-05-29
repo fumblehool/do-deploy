@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10339,
+      "chineseName": "石膏、石料工艺品",
+      "translatedName": "Gypsum and stone crafts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044181"
+    }
+  }
+}

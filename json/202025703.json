@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202025703,
+      "chineseName": "中老年女装",
+      "translatedName": "Middle-aged and elderly women's clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046800,
+          "chineseName": "中老年休闲套装",
+          "translatedName": "Middle-aged and elderly leisure suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055801,
+          "chineseName": "中老年蕾丝衫、雪纺衫",
+          "translatedName": "Middle-aged and elderly lace shirt, chiffon shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202056001,
+          "chineseName": "中老年半身裙",
+          "translatedName": "Middle-aged and elderly skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202054601,
+          "chineseName": "中老年衬衫",
+          "translatedName": "Middle-aged shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202054701,
+          "chineseName": "中老年牛仔裤",
+          "translatedName": "Middle-aged jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202054702,
+          "chineseName": "中老年毛衣、针织衫",
+          "translatedName": "Middle-aged and elderly sweaters, knitwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055101,
+          "chineseName": "中老年羽绒服",
+          "translatedName": "Down jacket for middle-aged and elderly people",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202051301,
+          "chineseName": "中老年休闲裤",
+          "translatedName": "Middle-aged casual pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202052702,
+          "chineseName": "中老年马甲",
+          "translatedName": "Middle-aged and elderly waistcoat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202060802,
+          "chineseName": "中老年连衣裙",
+          "translatedName": "Middle-aged dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055201,
+          "chineseName": "中老年T恤",
+          "translatedName": "Middle-aged T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055202,
+          "chineseName": "中老年棉服",
+          "translatedName": "Middle-aged and old cotton-padded jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055301,
+          "chineseName": "中老年外套",
+          "translatedName": "Middle-aged coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        },
+        {
+          "categoryId": 202055501,
+          "chineseName": "中老年其他女式上装",
+          "translatedName": "Middle-aged and elderly other women's top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202025703
+        }
+      ]
+    }
+  }
+}

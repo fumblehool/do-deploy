@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028103,
+      "chineseName": "消防清洗烘干设备",
+      "translatedName": "Fire-fighting cleaning and drying equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "90"
+    }
+  }
+}

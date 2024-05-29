@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201605802,
+      "chineseName": "主令电器",
+      "translatedName": "Master Electric Appliance",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032249,
+          "chineseName": "其他主令电器",
+          "translatedName": "Other master electrical appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605802
+        },
+        {
+          "categoryId": 127878002,
+          "chineseName": "遥感式按钮",
+          "translatedName": "Remote sensing button",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605802
+        },
+        {
+          "categoryId": 127878003,
+          "chineseName": "传感器开关",
+          "translatedName": "Sensor switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605802
+        },
+        {
+          "categoryId": 127864002,
+          "chineseName": "ID钥匙开关",
+          "translatedName": "ID key switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605802
+        },
+        {
+          "categoryId": 127884002,
+          "chineseName": "声控按钮",
+          "translatedName": "Voice button",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201605802
+        }
+      ]
+    }
+  }
+}

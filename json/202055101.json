@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055101,
+      "chineseName": "中老年羽绒服",
+      "translatedName": "Down jacket for middle-aged and elderly people",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

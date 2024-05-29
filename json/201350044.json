@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201350044,
+      "chineseName": "儿童洗浴护肤礼盒",
+      "translatedName": "Children's bath skin care gift box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043058"
+    }
+  }
+}

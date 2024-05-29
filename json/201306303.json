@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306303,
+      "chineseName": "学步带",
+      "translatedName": "Toddler belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962004"
+    }
+  }
+}

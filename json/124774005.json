@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124774005,
+      "chineseName": "被芯加工",
+      "translatedName": "Quilt core processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124806004"
+    }
+  }
+}

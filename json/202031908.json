@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202031908,
+      "chineseName": "智能水杯",
+      "translatedName": "Smart water cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046721"
+    }
+  }
+}

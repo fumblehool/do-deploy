@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123278001,
+      "chineseName": "离合器从动盘",
+      "translatedName": "clutch disc",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10105"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1350,
+      "chineseName": "管道系统",
+      "translatedName": "Piping system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032631,
+          "chineseName": "其他管道系统",
+          "translatedName": "Other Piping Systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1032632,
+          "chineseName": "管道辅助材料",
+          "translatedName": "Pipe Auxiliary Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1032633,
+          "chineseName": "排水系统",
+          "translatedName": "Drainage system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1032634,
+          "chineseName": "燃气系统",
+          "translatedName": "Gas system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1032635,
+          "chineseName": "上水系统",
+          "translatedName": "Sheung Shui System",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1032636,
+          "chineseName": "冷热水系统",
+          "translatedName": "Hot and cold water system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        },
+        {
+          "categoryId": 1036633,
+          "chineseName": "通风系统",
+          "translatedName": "Ventilation system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1350
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10454,
+      "chineseName": "不干胶标签",
+      "translatedName": "adhesive label",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "84"
+    }
+  }
+}

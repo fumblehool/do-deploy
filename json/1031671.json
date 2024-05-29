@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031671,
+      "chineseName": "混合设备",
+      "translatedName": "Mixing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034704,
+          "chineseName": "其他混合设备",
+          "translatedName": "Other mixing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034705,
+          "chineseName": "乳化机",
+          "translatedName": "Emulsion machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034706,
+          "chineseName": "分散机",
+          "translatedName": "Disperser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034707,
+          "chineseName": "捏合机",
+          "translatedName": "Kneader",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034708,
+          "chineseName": "混合机",
+          "translatedName": "Mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034709,
+          "chineseName": "搅拌机",
+          "translatedName": "Mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1034710,
+          "chineseName": "均质设备",
+          "translatedName": "Homogenizing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        },
+        {
+          "categoryId": 1045771,
+          "chineseName": "混合设备配件",
+          "translatedName": "Mixing Equipment Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031671
+        }
+      ]
+    }
+  }
+}

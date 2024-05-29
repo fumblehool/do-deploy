@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1346,
+      "chineseName": "家具五金、配件",
+      "translatedName": "Furniture hardware, accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10309,
+          "chineseName": "家具配件",
+          "translatedName": "FURNITURE ACCESSORIES",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1346
+        },
+        {
+          "categoryId": 1036016,
+          "chineseName": "家具五金",
+          "translatedName": "Furniture Hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1346
+        },
+        {
+          "categoryId": 127102002,
+          "chineseName": "家具滑轨",
+          "translatedName": "Furniture slide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1346
+        },
+        {
+          "categoryId": 127116002,
+          "chineseName": "家具拉手",
+          "translatedName": "Furniture handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1346
+        },
+        {
+          "categoryId": 127126002,
+          "chineseName": "家具合页、铰链",
+          "translatedName": "Furniture Hinges, Hinges",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1346
+        }
+      ]
+    }
+  }
+}

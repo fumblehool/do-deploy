@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031605,
+      "chineseName": "脲醛树脂",
+      "translatedName": "urea-formaldehyde resin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031672"
+    }
+  }
+}

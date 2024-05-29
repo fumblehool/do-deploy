@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122242005,
+      "chineseName": "OLED材料",
+      "translatedName": "OLED materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612012"
+    }
+  }
+}

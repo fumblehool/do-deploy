@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290315,
+      "chineseName": "家居用品项目合作",
+      "translatedName": "Home Furnishing Products Project Cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "96"
+    }
+  }
+}

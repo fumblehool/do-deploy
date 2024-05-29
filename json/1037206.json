@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037206,
+      "chineseName": "软膜天花",
+      "translatedName": "soft film smallpox",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1314"
+    }
+  }
+}

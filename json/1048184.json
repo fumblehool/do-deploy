@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048184,
+      "chineseName": "职业女裙套装",
+      "translatedName": "Professional women's skirt suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548801"
+    }
+  }
+}

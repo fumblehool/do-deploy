@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122092002,
+      "chineseName": "更多自行车",
+      "translatedName": "More bicycles.",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564618"
+    }
+  }
+}

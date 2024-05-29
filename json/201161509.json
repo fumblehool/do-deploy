@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161509,
+      "chineseName": "酱卤类",
+      "translatedName": "Sauce and halogen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10086"
+    }
+  }
+}

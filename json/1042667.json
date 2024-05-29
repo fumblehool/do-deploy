@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042667,
+      "chineseName": "光伏组件",
+      "translatedName": "Photovoltaic modules",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127754005"
+    }
+  }
+}

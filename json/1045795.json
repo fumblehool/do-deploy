@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045795,
+      "chineseName": "复合材印刷",
+      "translatedName": "composite material printing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045787"
+    }
+  }
+}

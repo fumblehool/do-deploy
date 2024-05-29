@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2052,
+      "chineseName": "蹦极用品",
+      "translatedName": "Bungee supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "74"
+    }
+  }
+}

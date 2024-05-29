@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121188008,
+      "chineseName": "旋转环",
+      "translatedName": "rotating ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192003"
+    }
+  }
+}

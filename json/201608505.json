@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201608505,
+      "chineseName": "岩板",
+      "translatedName": "Rock slab",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10405"
+    }
+  }
+}

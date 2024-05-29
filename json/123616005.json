@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616005,
+      "chineseName": "LED外延及芯片",
+      "translatedName": "LED epitaxial and chip",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123620006,
+          "chineseName": "LED橙光芯片",
+          "translatedName": "LED orange light chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123620007,
+          "chineseName": "LED绿光芯片",
+          "translatedName": "LED green chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123620008,
+          "chineseName": "LED红外芯片",
+          "translatedName": "LED infrared chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 122276002,
+          "chineseName": "其他LED芯片",
+          "translatedName": "Other LED chips",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123622007,
+          "chineseName": "LED黄绿光芯片",
+          "translatedName": "LED yellow green light chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123616007,
+          "chineseName": "LED蓝光芯片",
+          "translatedName": "LED blue chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123616008,
+          "chineseName": "LED黄光芯片",
+          "translatedName": "LED yellow light chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123616009,
+          "chineseName": "LED紫光芯片",
+          "translatedName": "LED purple light chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        },
+        {
+          "categoryId": 123608005,
+          "chineseName": "LED紫外芯片",
+          "translatedName": "LED UV chip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616005
+        }
+      ]
+    }
+  }
+}

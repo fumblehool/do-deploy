@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157010,
+      "chineseName": "海带",
+      "translatedName": "kelp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125068002"
+    }
+  }
+}

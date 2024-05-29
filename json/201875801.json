@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201875801,
+      "chineseName": "手账周边素材",
+      "translatedName": "Hand account surrounding materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201857705"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301125,
+      "chineseName": "动漫海报",
+      "translatedName": "Anime Poster",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064004"
+    }
+  }
+}

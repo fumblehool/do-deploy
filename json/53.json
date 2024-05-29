@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 53,
+      "chineseName": "传媒、广电",
+      "translatedName": "Media, Radio and Television",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036607,
+          "chineseName": "传媒、广电项目合作",
+          "translatedName": "Media, radio and television project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 10457,
+          "chineseName": "其他传媒、广电设备",
+          "translatedName": "Other media, radio and television equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 1035620,
+          "chineseName": "公共广播系统",
+          "translatedName": "public address system",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 19,
+          "chineseName": "光学摄像器材",
+          "translatedName": "optical camera equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 2131,
+          "chineseName": "电影放映设备",
+          "translatedName": "Film projection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3416,
+          "chineseName": "专业音响、录音设备",
+          "translatedName": "Professional audio, recording equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3417,
+          "chineseName": "光学摄影器材",
+          "translatedName": "optical photographic equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3418,
+          "chineseName": "编辑制作设备",
+          "translatedName": "Edit Production Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3419,
+          "chineseName": "播出、前端设备",
+          "translatedName": "Broadcast, front-end equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3421,
+          "chineseName": "无线微波设备",
+          "translatedName": "wireless microwave equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3422,
+          "chineseName": "有线线缆设备",
+          "translatedName": "Wired cable equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 3423,
+          "chineseName": "IP设备",
+          "translatedName": "IP Device",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 94,
+          "chineseName": "舞台设备",
+          "translatedName": "Stage Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 2415,
+          "chineseName": "广告、展览器材",
+          "translatedName": "Advertising, exhibition equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        },
+        {
+          "categoryId": 503,
+          "chineseName": "有线光缆设备",
+          "translatedName": "Cable and optical cable equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 53
+        }
+      ]
+    }
+  }
+}

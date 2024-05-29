@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10005,
+      "chineseName": "其他鲜活水产品",
+      "translatedName": "Other fresh aquatic products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125068002"
+    }
+  }
+}

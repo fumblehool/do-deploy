@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035284,
+      "chineseName": "离子风棒",
+      "translatedName": "Ion wind rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3019"
+    }
+  }
+}

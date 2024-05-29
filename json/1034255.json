@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034255,
+      "chineseName": "其他废纸",
+      "translatedName": "Other Waste Paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10240"
+    }
+  }
+}

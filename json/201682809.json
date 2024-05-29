@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201682809,
+      "chineseName": "童鞋量脚器",
+      "translatedName": "Children's shoes foot measuring device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125386001"
+    }
+  }
+}

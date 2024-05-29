@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125742005,
+      "chineseName": "手串",
+      "translatedName": "Bracelet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122706003"
+    }
+  }
+}

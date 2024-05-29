@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033444,
+      "chineseName": "铁丝网",
+      "translatedName": "Barbed wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "903"
+    }
+  }
+}

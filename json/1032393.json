@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032393,
+      "chineseName": "显示仪表",
+      "translatedName": "Display instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10208"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060403,
+      "chineseName": "私处&痔疮护理（械字号）",
+      "translatedName": "Private Parts & Hemorrhoids Care (Mechanical Font Size)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058703"
+    }
+  }
+}

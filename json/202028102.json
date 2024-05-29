@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202028102,
+      "chineseName": "蔗渣浆",
+      "translatedName": "bagasse pulp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "83"
+    }
+  }
+}

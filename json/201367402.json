@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201367402,
+      "chineseName": "飞行器",
+      "translatedName": "Aircraft",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "727"
+    }
+  }
+}

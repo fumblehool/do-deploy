@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045061,
+      "chineseName": "USB拖鞋、暖脚宝",
+      "translatedName": "USB slippers, warm feet treasure",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201664803"
+    }
+  }
+}

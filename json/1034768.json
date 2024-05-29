@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034768,
+      "chineseName": "其他美发产品",
+      "translatedName": "Other Hair Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10313"
+    }
+  }
+}

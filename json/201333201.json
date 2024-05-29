@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201333201,
+      "chineseName": "咖啡伴侣辅料",
+      "translatedName": "Coffee companion accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201330404"
+    }
+  }
+}

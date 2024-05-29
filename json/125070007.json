@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070007,
+      "chineseName": "智能后视镜导航",
+      "translatedName": "Intelligent rearview mirror navigation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1212"
+    }
+  }
+}

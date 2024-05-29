@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032439,
+      "chineseName": "快速经济模具",
+      "translatedName": "Rapid economic mold",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141905"
+    }
+  }
+}

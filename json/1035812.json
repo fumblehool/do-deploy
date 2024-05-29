@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035812,
+      "chineseName": "电子线",
+      "translatedName": "electronic wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10197"
+    }
+  }
+}

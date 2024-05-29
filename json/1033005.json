@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033005,
+      "chineseName": "纸筒、纸管",
+      "translatedName": "Paper tube, paper tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10364"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042529,
+      "chineseName": "冷镦模",
+      "translatedName": "cold heading die",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141905"
+    }
+  }
+}

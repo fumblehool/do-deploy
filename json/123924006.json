@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924006,
+      "chineseName": "水泵钳",
+      "translatedName": "Water pump pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123928001"
+    }
+  }
+}

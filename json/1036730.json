@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036730,
+      "chineseName": "填、堵漏剂",
+      "translatedName": "Filling and plugging agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036571"
+    }
+  }
+}

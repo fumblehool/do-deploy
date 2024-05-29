@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035269,
+      "chineseName": "雾灯",
+      "translatedName": "Fog lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10108"
+    }
+  }
+}

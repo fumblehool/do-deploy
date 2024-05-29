@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060419,
+      "chineseName": "成衣亮片加工",
+      "translatedName": "Garment sequins processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056512"
+    }
+  }
+}

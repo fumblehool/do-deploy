@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033594,
+      "chineseName": "国内陆运",
+      "translatedName": "Domestic land transportation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "89"
+    }
+  }
+}

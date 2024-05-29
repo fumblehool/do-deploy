@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034644,
+      "chineseName": "镁氧化物",
+      "translatedName": "magnesium oxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80204"
+    }
+  }
+}

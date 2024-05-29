@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125264017,
+      "chineseName": "水族PH计",
+      "translatedName": "Aquarium PH meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121786003"
+    }
+  }
+}

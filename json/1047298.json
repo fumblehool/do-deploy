@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047298,
+      "chineseName": "牛津布袋",
+      "translatedName": "Oxford cloth bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047293"
+    }
+  }
+}

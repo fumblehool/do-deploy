@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036799,
+      "chineseName": "防老剂",
+      "translatedName": "Anti-aging agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10371"
+    }
+  }
+}

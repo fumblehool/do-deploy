@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034036,
+      "chineseName": "橡胶成型加工",
+      "translatedName": "Rubber molding processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034033"
+    }
+  }
+}

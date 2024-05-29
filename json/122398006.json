@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122398006,
+      "chineseName": "抽纸",
+      "translatedName": "Pumping paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

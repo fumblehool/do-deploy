@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036617,
+      "chineseName": "女式马甲",
+      "translatedName": "Women's Vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

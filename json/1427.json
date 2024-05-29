@@ -1,0 +1,271 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1427,
+      "chineseName": "焊接材料与附件",
+      "translatedName": "Welding materials and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032368,
+          "chineseName": "焊条",
+          "translatedName": "Welding rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1032365,
+          "chineseName": "其他焊接材料与附件",
+          "translatedName": "Other welding materials and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1042992,
+          "chineseName": "焊头",
+          "translatedName": "Welding head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1035346,
+          "chineseName": "烙铁头、烙铁咀",
+          "translatedName": "soldering iron tip, soldering iron tip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1035347,
+          "chineseName": "电焊钳",
+          "translatedName": "welding tongs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1035348,
+          "chineseName": "焊丝",
+          "translatedName": "Welding wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1045397,
+          "chineseName": "焊片",
+          "translatedName": "Solder piece",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1036038,
+          "chineseName": "焊膏",
+          "translatedName": "Solder paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1036039,
+          "chineseName": "助焊笔",
+          "translatedName": "soldering aid pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1036040,
+          "chineseName": "吸锡器",
+          "translatedName": "tin absorber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 1036041,
+          "chineseName": "焊粉",
+          "translatedName": "Welding powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201912803,
+          "chineseName": "保护咀",
+          "translatedName": "Protective Tsui",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201913105,
+          "chineseName": "送丝软管",
+          "translatedName": "Wire feeding hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201921405,
+          "chineseName": "防静电手腕带",
+          "translatedName": "Anti-static wrist strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201921702,
+          "chineseName": "防飞溅液",
+          "translatedName": "Anti-splash fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201921703,
+          "chineseName": "短尾帽",
+          "translatedName": "short tail cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201912705,
+          "chineseName": "防堵膏",
+          "translatedName": "anti-plugging cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201920902,
+          "chineseName": "瓷嘴保护套",
+          "translatedName": "Porcelain mouth protection sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201919702,
+          "chineseName": "钨极",
+          "translatedName": "Tungsten pole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201913804,
+          "chineseName": "焊枪总成",
+          "translatedName": "Welding gun assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201914104,
+          "chineseName": "电极夹",
+          "translatedName": "Electrode holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201914303,
+          "chineseName": "枪体",
+          "translatedName": "Gun body",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 202039101,
+          "chineseName": "焊锡丝",
+          "translatedName": "solder wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201916703,
+          "chineseName": "导电咀",
+          "translatedName": "conductive nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201924201,
+          "chineseName": "导丝轮",
+          "translatedName": "wire guide wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201920604,
+          "chineseName": "碳棒",
+          "translatedName": "Carbon Rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201920605,
+          "chineseName": "导流器",
+          "translatedName": "deflector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        },
+        {
+          "categoryId": 201917304,
+          "chineseName": "长尾帽",
+          "translatedName": "long tail cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1427
+        }
+      ]
+    }
+  }
+}

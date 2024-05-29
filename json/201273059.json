@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201273059,
+      "chineseName": "特殊医学用途食品",
+      "translatedName": "Food for special medical purposes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201275639"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046187,
+      "chineseName": "橡胶密封圈",
+      "translatedName": "Rubber seal ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046186"
+    }
+  }
+}

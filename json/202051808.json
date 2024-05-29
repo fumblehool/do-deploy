@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051808,
+      "chineseName": "太阳能工业应用",
+      "translatedName": "Industrial Applications of Solar Energy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055610"
+    }
+  }
+}

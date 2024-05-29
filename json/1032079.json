@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032079,
+      "chineseName": "仓储与配送",
+      "translatedName": "Warehousing and Distribution",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "89"
+    }
+  }
+}

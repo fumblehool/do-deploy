@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032315,
+      "chineseName": "墙壁开关",
+      "translatedName": "Wall switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1407"
+    }
+  }
+}

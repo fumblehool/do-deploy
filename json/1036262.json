@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036262,
+      "chineseName": "捆绑带",
+      "translatedName": "Bundling Strap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10362"
+    }
+  }
+}

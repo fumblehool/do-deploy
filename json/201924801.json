@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201924801,
+      "chineseName": "负重装备",
+      "translatedName": "Weight-bearing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

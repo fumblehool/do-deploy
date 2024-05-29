@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033383,
+      "chineseName": "云母",
+      "translatedName": "Mica",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031632"
+    }
+  }
+}

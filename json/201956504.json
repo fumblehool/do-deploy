@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201956504,
+      "chineseName": "助听器（器械）",
+      "translatedName": "Hearing aids (devices)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

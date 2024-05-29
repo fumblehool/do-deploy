@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125086005,
+      "chineseName": "车用钥匙包",
+      "translatedName": "Car key bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "92"
+    }
+  }
+}

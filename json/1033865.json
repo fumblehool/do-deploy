@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033865,
+      "chineseName": "其他实验仪器装置",
+      "translatedName": "Other experimental apparatus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032383"
+    }
+  }
+}

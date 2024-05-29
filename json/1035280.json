@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035280,
+      "chineseName": "普通照明白炽灯",
+      "translatedName": "General lighting incandescent lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10219"
+    }
+  }
+}

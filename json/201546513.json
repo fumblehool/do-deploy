@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201546513,
+      "chineseName": "动漫二次元服装",
+      "translatedName": "Anime Secondary Costume",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201569527,
+          "chineseName": "男式动漫二次元T恤",
+          "translatedName": "Men's anime two-dimensional T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201546513
+        },
+        {
+          "categoryId": 201566520,
+          "chineseName": "男式cosplay表演服",
+          "translatedName": "Men's cosplay Showsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201546513
+        },
+        {
+          "categoryId": 201566822,
+          "chineseName": "动漫二次元卫衣",
+          "translatedName": "Animation two-dimensional sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201546513
+        }
+      ]
+    }
+  }
+}

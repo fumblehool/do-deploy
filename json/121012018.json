@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012018,
+      "chineseName": "优质线材",
+      "translatedName": "High quality wire rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "927"
+    }
+  }
+}

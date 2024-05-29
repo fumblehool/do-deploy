@@ -1,0 +1,298 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740001,
+      "chineseName": "普通膳食营养补充剂",
+      "translatedName": "General dietary supplements",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124736003,
+          "chineseName": "复合功能型保健产品",
+          "translatedName": "complex functional health care products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 124742001,
+          "chineseName": "海洋生物类补充剂（食品）",
+          "translatedName": "Marine supplement (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 122092001,
+          "chineseName": "其他膳食补充食品",
+          "translatedName": "Other dietary supplements",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 124736002,
+          "chineseName": "动物精华/提取物（食品）",
+          "translatedName": "Animal Essence/Extract (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 124746001,
+          "chineseName": "蛋白粉/氨基酸/胶原蛋白",
+          "translatedName": "Protein Powder/Amino Acids/Collagen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 124734002,
+          "chineseName": "菌/菇/微生物发酵（食品）",
+          "translatedName": "Mushroom/Mushroom/Microbial Fermentation (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 124744001,
+          "chineseName": "膳食纤维/碳水化合物（食品）",
+          "translatedName": "Dietary Fiber/Carbohydrates (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 201275640,
+          "chineseName": "维生素/矿物质（食品）",
+          "translatedName": "Vitamins/Minerals (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 201275932,
+          "chineseName": "植物精华/提取物（食品）",
+          "translatedName": "Plant Essence/Extract (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 201308507,
+          "chineseName": "酵素",
+          "translatedName": "Enzyme",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202031916,
+          "chineseName": "功能/电解质补充剂（食品）",
+          "translatedName": "Function/electrolyte supplement (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202058206,
+          "chineseName": "葡萄糖补充剂（食品）",
+          "translatedName": "Glucose supplements (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057906,
+          "chineseName": "锌/铁/硒（食品）",
+          "translatedName": "Zinc/Iron/Selenium (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202058004,
+          "chineseName": "益生元/益生菌（食品）",
+          "translatedName": "Prebiotics/Probiotics (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202059104,
+          "chineseName": "大豆异黄酮（食品）",
+          "translatedName": "Soy Isoflavones (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202064001,
+          "chineseName": "烟酰胺（食品）",
+          "translatedName": "Niacinamide (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202063904,
+          "chineseName": "白芸豆提取物（食品）",
+          "translatedName": "White Kidney Bean Extract (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202054204,
+          "chineseName": "叶酸（食品）",
+          "translatedName": "Folic acid (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057405,
+          "chineseName": "槲皮素（食品）",
+          "translatedName": "Quercetin (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057407,
+          "chineseName": "胶原蛋白肽（食品）",
+          "translatedName": "collagen peptide (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202061012,
+          "chineseName": "果蔬膳食纤维（食品）",
+          "translatedName": "fruit and vegetable dietary fiber (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057408,
+          "chineseName": "左旋肉碱（食品）",
+          "translatedName": "L-Carnitine (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057708,
+          "chineseName": "胡萝卜素（食品）",
+          "translatedName": "Carotene (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202063606,
+          "chineseName": "氨基酸（食品）",
+          "translatedName": "Amino Acids (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202063404,
+          "chineseName": "叶黄素（食品）",
+          "translatedName": "Lutein (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202060409,
+          "chineseName": "虾青素（食品）",
+          "translatedName": "Astaxanthin (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202059506,
+          "chineseName": "番茄红素（食品）",
+          "translatedName": "Lycopene (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202052504,
+          "chineseName": "鱼油/深海鱼油（食品）",
+          "translatedName": "Fish Oil/Deep Sea Fish Oil (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202060205,
+          "chineseName": "姜黄素（食品）",
+          "translatedName": "Curcumin (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202056103,
+          "chineseName": "钙铁锌/钙镁（食品）",
+          "translatedName": "Calcium Iron Zinc/Calcium Magnesium (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        },
+        {
+          "categoryId": 202057707,
+          "chineseName": "褪黑素（食品）",
+          "translatedName": "Melatonin (food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124740001
+        }
+      ]
+    }
+  }
+}

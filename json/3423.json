@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3423,
+      "chineseName": "IP设备",
+      "translatedName": "IP Device",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034158,
+          "chineseName": "其他IP设备",
+          "translatedName": "Other IP Devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3423
+        }
+      ]
+    }
+  }
+}

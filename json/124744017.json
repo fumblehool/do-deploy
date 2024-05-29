@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744017,
+      "chineseName": "松子",
+      "translatedName": "Pine nuts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734016"
+    }
+  }
+}

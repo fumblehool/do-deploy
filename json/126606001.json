@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126606001,
+      "chineseName": "仿真器/烧录器",
+      "translatedName": "Emulator/Burner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126574002"
+    }
+  }
+}

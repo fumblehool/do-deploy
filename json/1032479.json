@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032479,
+      "chineseName": "剪板、折弯",
+      "translatedName": "Shear plate, bend",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1426"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032993,
+      "chineseName": "其他托盘",
+      "translatedName": "Other Pallets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10363"
+    }
+  }
+}

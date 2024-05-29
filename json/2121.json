@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2121,
+      "chineseName": "财务用品",
+      "translatedName": "Financial Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033043,
+          "chineseName": "其他会计用品",
+          "translatedName": "Other Accounting Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1033044,
+          "chineseName": "提款箱",
+          "translatedName": "Cash box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1033045,
+          "chineseName": "算盘",
+          "translatedName": "abacus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1033046,
+          "chineseName": "凭证、报表、单据",
+          "translatedName": "Voucher, report, document",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1033047,
+          "chineseName": "帐簿",
+          "translatedName": "account book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1033048,
+          "chineseName": "印章用品",
+          "translatedName": "Stamp Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1032978,
+          "chineseName": "复写纸",
+          "translatedName": "copy paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        },
+        {
+          "categoryId": 1036808,
+          "chineseName": "练功券",
+          "translatedName": "Training Voucher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2121
+        }
+      ]
+    }
+  }
+}

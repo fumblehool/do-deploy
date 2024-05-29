@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201564618,
+      "chineseName": "骑行整车",
+      "translatedName": "Ride vehicle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122112002,
+          "chineseName": "旅行自行车",
+          "translatedName": "Travel Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122114001,
+          "chineseName": "BMX小轮车",
+          "translatedName": "BMX BMX",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122116001,
+          "chineseName": "儿童自行车",
+          "translatedName": "Children's Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122118001,
+          "chineseName": "母子车、亲子车",
+          "translatedName": "Mother-child car, parent-child car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122120001,
+          "chineseName": "普通、通勤自行车",
+          "translatedName": "Ordinary, commuter bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122102002,
+          "chineseName": "死飞自行车",
+          "translatedName": "Dead Flying Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122108003,
+          "chineseName": "独轮车",
+          "translatedName": "unicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122082002,
+          "chineseName": "公路自行车",
+          "translatedName": "road bike",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122082003,
+          "chineseName": "平衡车",
+          "translatedName": "Balance car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 1204,
+          "chineseName": "自行车",
+          "translatedName": "Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122092002,
+          "chineseName": "更多自行车",
+          "translatedName": "More bicycles.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122094003,
+          "chineseName": "双人、三人自行车",
+          "translatedName": "Bicycles for two and three",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122098002,
+          "chineseName": "山地自行车",
+          "translatedName": "Mountain bike",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        },
+        {
+          "categoryId": 122122001,
+          "chineseName": "折叠自行车",
+          "translatedName": "Folding Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201564618
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035234,
+      "chineseName": "其他工控系统及装备",
+      "translatedName": "Other industrial control systems and equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "504"
+    }
+  }
+}

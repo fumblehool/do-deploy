@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10528,
+      "chineseName": "液化石油气",
+      "translatedName": "Liquefied petroleum gas",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1001",
+      "fromCache": true
+    }
+  }
+}

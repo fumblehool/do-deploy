@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335403,
+      "chineseName": "蛋白质研究",
+      "translatedName": "protein research",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332403"
+    }
+  }
+}

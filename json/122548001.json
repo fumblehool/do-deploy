@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122548001,
+      "chineseName": "锅、煲",
+      "translatedName": "Pot, pot",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043771,
+          "chineseName": "其他锅具",
+          "translatedName": "Other cookware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122548002,
+          "chineseName": "汤锅",
+          "translatedName": "Soup pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122536002,
+          "chineseName": "蒸锅",
+          "translatedName": "Steamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122568001,
+          "chineseName": "煎蛋锅、迷你锅",
+          "translatedName": "Fried egg pan, mini pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122570001,
+          "chineseName": "火锅",
+          "translatedName": "Hot pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122574002,
+          "chineseName": "野营锅具",
+          "translatedName": "Camping cookware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 125742004,
+          "chineseName": "焖烧锅、焖烧壶",
+          "translatedName": "Braised pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122596001,
+          "chineseName": "锅具套装",
+          "translatedName": "Pot Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122598001,
+          "chineseName": "酒精炉、酒精锅",
+          "translatedName": "Alcohol stove, alcohol pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122600001,
+          "chineseName": "砂锅/石锅",
+          "translatedName": "Casserole/Stone Pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122600002,
+          "chineseName": "锅盖",
+          "translatedName": "Pot cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122602001,
+          "chineseName": "奶锅",
+          "translatedName": "milk pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122512004,
+          "chineseName": "压力锅",
+          "translatedName": "pressure cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122512005,
+          "chineseName": "多功能锅",
+          "translatedName": "Multi-function pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122516002,
+          "chineseName": "煎锅、平底锅",
+          "translatedName": "Frying pan, pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122516004,
+          "chineseName": "陶瓷煲",
+          "translatedName": "ceramic pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 122566001,
+          "chineseName": "炒锅",
+          "translatedName": "Wok",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 201305704,
+          "chineseName": "汽锅",
+          "translatedName": "Steamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 201619402,
+          "chineseName": "卡式炉",
+          "translatedName": "card-type furnace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 202049302,
+          "chineseName": "泡面锅",
+          "translatedName": "Noodles Pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 201980004,
+          "chineseName": "珐琅锅",
+          "translatedName": "Enamel Pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 201981903,
+          "chineseName": "锅具可拆卸把手",
+          "translatedName": "Removable pan handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        },
+        {
+          "categoryId": 202042903,
+          "chineseName": "学生厨具套装",
+          "translatedName": "student kitchenware set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122548001
+        }
+      ]
+    }
+  }
+}

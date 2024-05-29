@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160403,
+      "chineseName": "烘焙转台",
+      "translatedName": "Baking turntable",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10297"
+    }
+  }
+}

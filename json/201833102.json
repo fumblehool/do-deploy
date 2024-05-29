@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201833102,
+      "chineseName": "许愿瓶/幸运星瓶",
+      "translatedName": "Wishing Bottle/Lucky Star Bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305307"
+    }
+  }
+}

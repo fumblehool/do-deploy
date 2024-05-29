@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1820,
+      "chineseName": "体操用品",
+      "translatedName": "Gymnastics Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10396,
+      "chineseName": "天然橡胶",
+      "translatedName": "Natural rubber",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034927,
+          "chineseName": "其他天然橡胶",
+          "translatedName": "Other Natural Rubber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10396
+        },
+        {
+          "categoryId": 1034928,
+          "chineseName": "标胶",
+          "translatedName": "Standard glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10396
+        },
+        {
+          "categoryId": 1034929,
+          "chineseName": "乳胶",
+          "translatedName": "Latex",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10396
+        },
+        {
+          "categoryId": 1034930,
+          "chineseName": "烟胶",
+          "translatedName": "smoke glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10396
+        },
+        {
+          "categoryId": 201160703,
+          "chineseName": "橡皮筋、橡皮管",
+          "translatedName": "Rubber band, rubber tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10396
+        }
+      ]
+    }
+  }
+}

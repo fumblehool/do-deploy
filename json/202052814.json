@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052814,
+      "chineseName": "新能源",
+      "translatedName": "new energy",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1007,
+          "chineseName": "太阳能设备",
+          "translatedName": "Solar equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 127754005,
+          "chineseName": "太阳能发电系统",
+          "translatedName": "solar power generation system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202054307,
+          "chineseName": "光伏零配件",
+          "translatedName": "Photovoltaic spare parts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202059611,
+          "chineseName": "光伏组件原材料",
+          "translatedName": "Photovoltaic module raw materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202053411,
+          "chineseName": "光伏产品及核心组件",
+          "translatedName": "Photovoltaic products and core components",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202055610,
+          "chineseName": "太阳能应用",
+          "translatedName": "solar energy application",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202055111,
+          "chineseName": "水力能源",
+          "translatedName": "Hydraulic energy",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202052911,
+          "chineseName": "光伏配套设备",
+          "translatedName": "Photovoltaic equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202060416,
+          "chineseName": "风电产品",
+          "translatedName": "Wind Power Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202051614,
+          "chineseName": "氢能源",
+          "translatedName": "hydrogen energy",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        },
+        {
+          "categoryId": 202053313,
+          "chineseName": "储能系统",
+          "translatedName": "energy storage system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 202052814
+        }
+      ]
+    }
+  }
+}

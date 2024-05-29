@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031670,
+      "chineseName": "分离设备",
+      "translatedName": "Separation equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034711,
+          "chineseName": "其他分离设备",
+          "translatedName": "Other separation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034712,
+          "chineseName": "空分设备",
+          "translatedName": "Air separation plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034713,
+          "chineseName": "除沫器",
+          "translatedName": "Demister",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034714,
+          "chineseName": "离心机",
+          "translatedName": "Centrifuge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034715,
+          "chineseName": "萃取设备",
+          "translatedName": "Extraction equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034716,
+          "chineseName": "蒸馏设备",
+          "translatedName": "distillation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        },
+        {
+          "categoryId": 1034717,
+          "chineseName": "筛选设备",
+          "translatedName": "Screening equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031670
+        }
+      ]
+    }
+  }
+}

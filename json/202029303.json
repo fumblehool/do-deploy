@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029303,
+      "chineseName": "竹浆",
+      "translatedName": "bamboo pulp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "83"
+    }
+  }
+}

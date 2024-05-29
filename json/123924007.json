@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924007,
+      "chineseName": "剪刀",
+      "translatedName": "Scissors",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035507,
+          "chineseName": "其他剪刀",
+          "translatedName": "Other Scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924007
+        },
+        {
+          "categoryId": 123930003,
+          "chineseName": "医用剪刀",
+          "translatedName": "Medical scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924007
+        },
+        {
+          "categoryId": 123932002,
+          "chineseName": "铁皮剪",
+          "translatedName": "tin shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924007
+        },
+        {
+          "categoryId": 123932003,
+          "chineseName": "纱剪",
+          "translatedName": "Yarn scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924007
+        },
+        {
+          "categoryId": 123934001,
+          "chineseName": "裁缝剪",
+          "translatedName": "Tailor scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123924007
+        }
+      ]
+    }
+  }
+}

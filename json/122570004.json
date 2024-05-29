@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122570004,
+      "chineseName": "红酒储藏架",
+      "translatedName": "Red Wine Storage Rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122512002"
+    }
+  }
+}

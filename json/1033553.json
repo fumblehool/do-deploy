@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033553,
+      "chineseName": "攀登架",
+      "translatedName": "Climbing frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1811"
+    }
+  }
+}

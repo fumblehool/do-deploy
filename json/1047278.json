@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047278,
+      "chineseName": "杯炉、怀炉用品",
+      "translatedName": "Cup stove, hearth supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201664803"
+    }
+  }
+}

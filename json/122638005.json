@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122638005,
+      "chineseName": "礼品笔",
+      "translatedName": "Gift Pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "81"
+    }
+  }
+}

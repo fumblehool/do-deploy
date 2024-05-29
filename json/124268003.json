@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124268003,
+      "chineseName": "表",
+      "translatedName": "Table",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124190014,
+          "chineseName": "其他表",
+          "translatedName": "Other tables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124190015,
+          "chineseName": "调表器",
+          "translatedName": "meter regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124190016,
+          "chineseName": "表盒",
+          "translatedName": "Watch box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124272002,
+          "chineseName": "电子表",
+          "translatedName": "Electronic watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124272003,
+          "chineseName": "光波表",
+          "translatedName": "lightwave meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124272004,
+          "chineseName": "表针",
+          "translatedName": "Watch needle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124270003,
+          "chineseName": "电波表",
+          "translatedName": "electric wave meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124270004,
+          "chineseName": "机芯",
+          "translatedName": "Movement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124270005,
+          "chineseName": "表把",
+          "translatedName": "Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124262007,
+          "chineseName": "其他表配件",
+          "translatedName": "Other watch accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124262004,
+          "chineseName": "机械表",
+          "translatedName": "Mechanical watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124262005,
+          "chineseName": "表面",
+          "translatedName": "Surface",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124262006,
+          "chineseName": "表后盖",
+          "translatedName": "Table back cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124264005,
+          "chineseName": "石英表",
+          "translatedName": "quartz watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124268004,
+          "chineseName": "表壳",
+          "translatedName": "Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124272005,
+          "chineseName": "表带",
+          "translatedName": "Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 124274001,
+          "chineseName": "表盘",
+          "translatedName": "Dial",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 127864011,
+          "chineseName": "儿童表",
+          "translatedName": "Children's table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 127924013,
+          "chineseName": "表及配件加工定制",
+          "translatedName": "Table and accessories processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        },
+        {
+          "categoryId": 201256126,
+          "chineseName": "怀表",
+          "translatedName": "pocket watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268003
+        }
+      ]
+    }
+  }
+}

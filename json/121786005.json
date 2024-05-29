@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121786005,
+      "chineseName": "消毒杀菌",
+      "translatedName": "Disinfection and sterilization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125270017"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 51,
+      "chineseName": "代理",
+      "translatedName": "Agent",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0"
+    }
+  }
+}

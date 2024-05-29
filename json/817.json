@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 817,
+      "chineseName": "化学试剂",
+      "translatedName": "Chemical reagent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034882,
+          "chineseName": "其他化学试剂",
+          "translatedName": "Other chemical reagents",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 1034883,
+          "chineseName": "分析试剂",
+          "translatedName": "analytical reagent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 1034884,
+          "chineseName": "生化试剂",
+          "translatedName": "biochemical reagent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 1034885,
+          "chineseName": "通用有机试剂",
+          "translatedName": "Universal Organic Reagent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 1034886,
+          "chineseName": "通用无机试剂",
+          "translatedName": "General inorganic reagent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 201340404,
+          "chineseName": "材料试剂",
+          "translatedName": "Material Reagent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        },
+        {
+          "categoryId": 201333406,
+          "chineseName": "实验室清洗剂",
+          "translatedName": "Laboratory cleaning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 817
+        }
+      ]
+    }
+  }
+}

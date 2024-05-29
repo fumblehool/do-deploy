@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036311,
+      "chineseName": "茶叶包装",
+      "translatedName": "tea packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202021701"
+    }
+  }
+}

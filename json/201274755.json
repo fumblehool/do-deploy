@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201274755,
+      "chineseName": "贝类即食",
+      "translatedName": "Ready to eat shellfish",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742010"
+    }
+  }
+}

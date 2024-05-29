@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033755,
+      "chineseName": "其他园林资材",
+      "translatedName": "Other Garden Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125"
+    }
+  }
+}

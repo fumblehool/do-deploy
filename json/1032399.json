@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032399,
+      "chineseName": "打气筒",
+      "translatedName": "pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59"
+    }
+  }
+}

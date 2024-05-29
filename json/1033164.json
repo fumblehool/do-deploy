@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033164,
+      "chineseName": "指纹锁",
+      "translatedName": "Fingerprint lock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122636002,
+      "chineseName": "手摇咖啡机",
+      "translatedName": "Hand-cranked coffee machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201162703"
+    }
+  }
+}

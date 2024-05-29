@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201573824,
+      "chineseName": "男式牛仔短裤",
+      "translatedName": "men's denim shorts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201561908"
+    }
+  }
+}

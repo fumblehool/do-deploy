@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126180001,
+      "chineseName": "飞机杯",
+      "translatedName": "aircraft cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126150002"
+    }
+  }
+}

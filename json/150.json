@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 150,
+      "chineseName": "废电子电器",
+      "translatedName": "Waste electronic and electrical appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "64"
+    }
+  }
+}

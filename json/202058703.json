@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058703,
+      "chineseName": "个人护理（医疗器械）",
+      "translatedName": "Personal Care (Medical Devices)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202056804,
+          "chineseName": "褥疮垫/护理垫（器械）",
+          "translatedName": "Bedsore pad/nursing pad (device)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202060403,
+          "chineseName": "私处&痔疮护理（械字号）",
+          "translatedName": "Private Parts & Hemorrhoids Care (Mechanical Font Size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202052317,
+          "chineseName": "静脉曲张护理（械字号）",
+          "translatedName": "Varicose vein nursing (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202058208,
+          "chineseName": "鼻腔清洁护理（械字号）",
+          "translatedName": "Nasal cavity cleaning care (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202058614,
+          "chineseName": "妊娠检测试纸（验孕试纸）",
+          "translatedName": "Pregnancy test strips (pregnancy test strips)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202057709,
+          "chineseName": "针灸器械（械字号）",
+          "translatedName": "Acupuncture instrument (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202058108,
+          "chineseName": "孕产康复护理（械字号）",
+          "translatedName": "Maternity rehabilitation nursing (mechanical number)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202061609,
+          "chineseName": "皮肤外用敷料/伤口敷料",
+          "translatedName": "Skin external dressing/wound dressing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202051114,
+          "chineseName": "膏药贴（械字号）",
+          "translatedName": "Plaster (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202051718,
+          "chineseName": "物理降温类（械字号）",
+          "translatedName": "Physical Cooling Class (Mechanical Font Size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202060912,
+          "chineseName": "排卵检测试纸",
+          "translatedName": "Ovulation test paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202058313,
+          "chineseName": "磁疗贴/晕车贴（械字号）",
+          "translatedName": "Magnetic therapy stickers/carsickness stickers (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202060212,
+          "chineseName": "关节护理（械字号）",
+          "translatedName": "Joint care (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        },
+        {
+          "categoryId": 202063614,
+          "chineseName": "口腔护理（械字号）",
+          "translatedName": "Oral care (mechanical size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058703
+        }
+      ]
+    }
+  }
+}

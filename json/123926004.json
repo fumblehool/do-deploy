@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123926004,
+      "chineseName": "手动扳手",
+      "translatedName": "Manual wrench",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035574,
+          "chineseName": "其他手动扳手",
+          "translatedName": "Other manual wrenches",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123926005,
+          "chineseName": "扭力扳手",
+          "translatedName": "Torque wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123926006,
+          "chineseName": "两用扳手",
+          "translatedName": "dual-purpose wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123928004,
+          "chineseName": "活扳手",
+          "translatedName": "live wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123924013,
+          "chineseName": "套筒扳手附件",
+          "translatedName": "Socket wrench accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123924012,
+          "chineseName": "套筒扳手",
+          "translatedName": "Socket wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123924014,
+          "chineseName": "管子扳手",
+          "translatedName": "Pipe wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123934004,
+          "chineseName": "梅花扳手",
+          "translatedName": "Torx wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123936004,
+          "chineseName": "棘轮扳手",
+          "translatedName": "ratchet wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123936005,
+          "chineseName": "内六角扳手",
+          "translatedName": "Allen wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 123932007,
+          "chineseName": "手动扳手套装",
+          "translatedName": "Manual wrench set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 201354651,
+          "chineseName": "呆扳手",
+          "translatedName": "Spanner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        },
+        {
+          "categoryId": 201352855,
+          "chineseName": "钩形扳手",
+          "translatedName": "hook wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926004
+        }
+      ]
+    }
+  }
+}

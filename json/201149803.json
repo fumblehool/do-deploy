@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201149803,
+      "chineseName": "底座配件",
+      "translatedName": "Base fittings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127278005"
+    }
+  }
+}

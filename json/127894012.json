@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894012,
+      "chineseName": "居家布艺",
+      "translatedName": "Home Fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031729,
+          "chineseName": "靠垫/抱枕/抱枕被",
+          "translatedName": "Cushion/pillow/pillow quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1031734,
+          "chineseName": "家用防尘罩",
+          "translatedName": "Household dust cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1031735,
+          "chineseName": "餐桌布艺/桌布/椅套",
+          "translatedName": "Table fabric/tablecloth/chair cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 10140,
+          "chineseName": "装饰布",
+          "translatedName": "Decorative cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 10143,
+          "chineseName": "其他布艺软装",
+          "translatedName": "Other fabric soft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1047274,
+          "chineseName": "餐垫、餐巾",
+          "translatedName": "Placemats, napkins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1046965,
+          "chineseName": "沙发垫/沙发套/沙发巾",
+          "translatedName": "Sofa cushion/sofa cover/sofa towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1044183,
+          "chineseName": "布艺工艺品",
+          "translatedName": "Fabric Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 1046964,
+          "chineseName": "坐垫/椅垫/美臀垫",
+          "translatedName": "Cushion/Chair cushion/Hip cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122172001,
+          "chineseName": "开关套",
+          "translatedName": "Switch sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122176001,
+          "chineseName": "挂毯/壁毯",
+          "translatedName": "Tapestry/Tapestry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122486001,
+          "chineseName": "野餐垫、防潮垫",
+          "translatedName": "picnic mat, moisture-proof mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122154002,
+          "chineseName": "遥控器套",
+          "translatedName": "Remote control sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 121192037,
+          "chineseName": "桌旗",
+          "translatedName": "Table Flag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122374003,
+          "chineseName": "飘窗垫",
+          "translatedName": "Bay window mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 122374004,
+          "chineseName": "布艺绣品",
+          "translatedName": "Fabric Embroidery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 124272008,
+          "chineseName": "布艺纸巾盒",
+          "translatedName": "Fabric tissue box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 127880014,
+          "chineseName": "抱枕套",
+          "translatedName": "Pillowcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 201395201,
+          "chineseName": "香包/香囊",
+          "translatedName": "Sachet/sachet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 201301608,
+          "chineseName": "十字绣及工具配件",
+          "translatedName": "Cross stitch and tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 201308825,
+          "chineseName": "万能盖巾",
+          "translatedName": "Universal Cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 201304132,
+          "chineseName": "刺绣套件",
+          "translatedName": "embroidery kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        },
+        {
+          "categoryId": 201358947,
+          "chineseName": "午睡枕",
+          "translatedName": "Nap Pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127894012
+        }
+      ]
+    }
+  }
+}

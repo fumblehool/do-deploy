@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740003,
+      "chineseName": "雪蛤/林蛙油",
+      "translatedName": "Snow Clam/Rana Oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048224"
+    }
+  }
+}

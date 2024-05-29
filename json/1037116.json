@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037116,
+      "chineseName": "石油醚",
+      "translatedName": "petroleum ether",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

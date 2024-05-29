@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031793,
+      "chineseName": "纺织、皮革制品代理加盟",
+      "translatedName": "Textile, leather products agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "4"
+    }
+  }
+}

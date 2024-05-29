@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046156,
+      "chineseName": "橡胶气囊",
+      "translatedName": "rubber airbag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046160,
+          "chineseName": "液体容储气囊",
+          "translatedName": "Liquid-containing airbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046161,
+          "chineseName": "建筑用气囊",
+          "translatedName": "Airbags for construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046162,
+          "chineseName": "汽车用气囊",
+          "translatedName": "Air bag for automobile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046163,
+          "chineseName": "充气芯膜",
+          "translatedName": "Inflatable core membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046164,
+          "chineseName": "其他橡胶气囊",
+          "translatedName": "Other rubber airbags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046157,
+          "chineseName": "医用气囊",
+          "translatedName": "medical airbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046158,
+          "chineseName": "船用气囊",
+          "translatedName": "marine airbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        },
+        {
+          "categoryId": 1046159,
+          "chineseName": "管道封堵气囊",
+          "translatedName": "Pipeline plugging airbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046156
+        }
+      ]
+    }
+  }
+}

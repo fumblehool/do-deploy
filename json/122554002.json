@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122554002,
+      "chineseName": "多层置物架",
+      "translatedName": "Multi-layer storage rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122390004"
+    }
+  }
+}

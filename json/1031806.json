@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031806,
+      "chineseName": "汽摩及配件代理加盟",
+      "translatedName": "Auto and accessories agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "71"
+    }
+  }
+}

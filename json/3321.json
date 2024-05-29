@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3321,
+      "chineseName": "行走系统",
+      "translatedName": "Walking system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036020,
+          "chineseName": "轮毂",
+          "translatedName": "Hub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1036674,
+          "chineseName": "平衡块",
+          "translatedName": "Balance weight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1036916,
+          "chineseName": "其他行走系统",
+          "translatedName": "Other walking systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1036917,
+          "chineseName": "缓冲器",
+          "translatedName": "Buffer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1036918,
+          "chineseName": "悬挂系统",
+          "translatedName": "Suspension system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1036919,
+          "chineseName": "前桥",
+          "translatedName": "Front axle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1041498,
+          "chineseName": "桥壳",
+          "translatedName": "axle housing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1041499,
+          "chineseName": "车架总成",
+          "translatedName": "Frame Assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1041500,
+          "chineseName": "半轴",
+          "translatedName": "half shaft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 1041501,
+          "chineseName": "后桥",
+          "translatedName": "Rear axle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        },
+        {
+          "categoryId": 3313,
+          "chineseName": "减震系统",
+          "translatedName": "damping system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3321
+        }
+      ]
+    }
+  }
+}

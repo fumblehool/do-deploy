@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033218,
+      "chineseName": "消防安全标识",
+      "translatedName": "Fire safety signs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124158001"
+    }
+  }
+}

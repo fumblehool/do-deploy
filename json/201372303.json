@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201372303,
+      "chineseName": "飞行器玩具",
+      "translatedName": "Aircraft toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962001"
+    }
+  }
+}

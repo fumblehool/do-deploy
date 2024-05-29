@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036254,
+      "chineseName": "离子色谱仪",
+      "translatedName": "ion chromatograph",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033897"
+    }
+  }
+}

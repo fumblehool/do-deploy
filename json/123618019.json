@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123618019,
+      "chineseName": "手推餐车",
+      "translatedName": "Push the dining car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610020"
+    }
+  }
+}

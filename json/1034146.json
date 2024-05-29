@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034146,
+      "chineseName": "分配系统放大器",
+      "translatedName": "Distribution system amplifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3422"
+    }
+  }
+}

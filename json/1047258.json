@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047258,
+      "chineseName": "园林五金工具",
+      "translatedName": "Garden hardware tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035595,
+          "chineseName": "电剪刀",
+          "translatedName": "electric scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 1047259,
+          "chineseName": "高压水枪",
+          "translatedName": "high pressure water gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 1047268,
+          "chineseName": "其他园林五金工具",
+          "translatedName": "Other Garden Hardware Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 1035533,
+          "chineseName": "油锯",
+          "translatedName": "Chainsaw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 124186001,
+          "chineseName": "电链锯",
+          "translatedName": "electric chain saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 124186008,
+          "chineseName": "篱笆剪",
+          "translatedName": "fence shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 124186011,
+          "chineseName": "割草机",
+          "translatedName": "lawn mower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 123932004,
+          "chineseName": "修枝剪",
+          "translatedName": "pruning shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202037303,
+          "chineseName": "手持起苗工具",
+          "translatedName": "Handheld Seedling Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202048902,
+          "chineseName": "电动喷雾机",
+          "translatedName": "electric sprayer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202049702,
+          "chineseName": "手持草地打孔机",
+          "translatedName": "hand-held lawn punch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202035304,
+          "chineseName": "农林绑枝机",
+          "translatedName": "agriculture and forestry branch binding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202032507,
+          "chineseName": "起草皮机",
+          "translatedName": "Drafting leather machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202033505,
+          "chineseName": "赶海工具套装",
+          "translatedName": "Chai Tool Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202028203,
+          "chineseName": "手持挖坑工具",
+          "translatedName": "Hand-held Pit Digging Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202028404,
+          "chineseName": "手推施肥机",
+          "translatedName": "Hand push fertilizer applicator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202051001,
+          "chineseName": "疏草机",
+          "translatedName": "grass dredge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202030005,
+          "chineseName": "手持采茶机",
+          "translatedName": "Handheld Tea Picking Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202056314,
+          "chineseName": "油锯导板",
+          "translatedName": "Chainsaw guide plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202056711,
+          "chineseName": "捡果器",
+          "translatedName": "Fruit picker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202060918,
+          "chineseName": "除草轮",
+          "translatedName": "weeding wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        },
+        {
+          "categoryId": 202057419,
+          "chineseName": "园林草钉鞋板",
+          "translatedName": "Garden Grass Nail Shoe Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047258
+        }
+      ]
+    }
+  }
+}

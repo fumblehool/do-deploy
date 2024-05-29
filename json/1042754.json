@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042754,
+      "chineseName": "儿童家居服（停用）",
+      "translatedName": "Children's home clothes (discontinued)",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

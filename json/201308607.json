@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308607,
+      "chineseName": "儿童马桶架/梯",
+      "translatedName": "Children's toilet rack/ladder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

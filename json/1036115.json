@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036115,
+      "chineseName": "电火花检测仪",
+      "translatedName": "electric spark detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10214"
+    }
+  }
+}

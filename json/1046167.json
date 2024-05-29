@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046167,
+      "chineseName": "橡胶传送带",
+      "translatedName": "Rubber conveyor belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046165"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201559814,
+      "chineseName": "童民族服装",
+      "translatedName": "Children's national costume",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545714"
+    }
+  }
+}

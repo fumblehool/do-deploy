@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034657,
+      "chineseName": "亚磷酸",
+      "translatedName": "phosphorous acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80201"
+    }
+  }
+}

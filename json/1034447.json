@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034447,
+      "chineseName": "服饰代理加盟",
+      "translatedName": "Apparel agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125748005"
+    }
+  }
+}

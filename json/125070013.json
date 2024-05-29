@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070013,
+      "chineseName": "美妆日化加工",
+      "translatedName": "Beauty Cosmetic Processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044067,
+          "chineseName": "面部护理加工定制",
+          "translatedName": "Facial care processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 125070014,
+          "chineseName": "面膜加工定制",
+          "translatedName": "Mask processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 124824007,
+          "chineseName": "专业线护肤加工定制",
+          "translatedName": "Professional line skin care processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 125062022,
+          "chineseName": "美妆工具加工定制",
+          "translatedName": "Beauty tools processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201301632,
+          "chineseName": "精油芳疗加工定制",
+          "translatedName": "Essential oil aromatherapy processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201309831,
+          "chineseName": "面部精华加工定制",
+          "translatedName": "Facial Essence Processing Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201309512,
+          "chineseName": "唇部护理加工定制",
+          "translatedName": "Lip care processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201309020,
+          "chineseName": "美甲产品加工定制",
+          "translatedName": "Nail art product processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201306522,
+          "chineseName": "彩妆加工定制",
+          "translatedName": "Cosmetic processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201305507,
+          "chineseName": "身体护理加工定制",
+          "translatedName": "Body Care Processing Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201304821,
+          "chineseName": "香水加工定制",
+          "translatedName": "Perfume processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        },
+        {
+          "categoryId": 201310022,
+          "chineseName": "眼部护理加工定制",
+          "translatedName": "Eye care processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125070013
+        }
+      ]
+    }
+  }
+}

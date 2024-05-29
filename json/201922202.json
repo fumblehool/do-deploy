@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201922202,
+      "chineseName": "工业内窥镜",
+      "translatedName": "Industrial Endoscope",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124270007"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200918003,
+      "chineseName": "立式冷柜/平面冷柜/饼盘柜",
+      "translatedName": "Vertical Freezer/Flat Freezer/Pie Cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

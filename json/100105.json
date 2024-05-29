@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 100105,
+      "chineseName": "石油沥青",
+      "translatedName": "petroleum asphalt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043036"
+    }
+  }
+}

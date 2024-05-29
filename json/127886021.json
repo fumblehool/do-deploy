@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127886021,
+      "chineseName": "开关贴",
+      "translatedName": "Switch stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1704"
+    }
+  }
+}

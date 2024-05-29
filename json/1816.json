@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1816,
+      "chineseName": "登山扣、钩",
+      "translatedName": "Mountaineering buckle, hook",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "281904"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032206,
+      "chineseName": "烤漆房",
+      "translatedName": "Paint room",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3303"
+    }
+  }
+}

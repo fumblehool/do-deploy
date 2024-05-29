@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201155606,
+      "chineseName": "泡沫球",
+      "translatedName": "foam ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201157906"
+    }
+  }
+}

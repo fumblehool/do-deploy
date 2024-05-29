@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202063106,
+      "chineseName": "工控主板",
+      "translatedName": "Industrial control motherboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "504"
+    }
+  }
+}

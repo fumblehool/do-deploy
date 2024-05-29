@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124188007,
+      "chineseName": "文胸",
+      "translatedName": "Bra",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031908,
+          "chineseName": "调整型文胸",
+          "translatedName": "Adjustable Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 122214008,
+          "chineseName": "孕妇内衣",
+          "translatedName": "Pregnant women's underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124196008,
+          "chineseName": "无痕文胸",
+          "translatedName": "seamless bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124196009,
+          "chineseName": "隐形文胸",
+          "translatedName": "Invisible Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124186010,
+          "chineseName": "文胸套装",
+          "translatedName": "Bra Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124278001,
+          "chineseName": "无钢圈文胸",
+          "translatedName": "Bra without steel ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124194008,
+          "chineseName": "运动文胸",
+          "translatedName": "sports bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 124194009,
+          "chineseName": "哺乳文胸",
+          "translatedName": "Nursing Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201553912,
+          "chineseName": "中老年文胸",
+          "translatedName": "Middle-aged and elderly bras",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201561112,
+          "chineseName": "大码文胸",
+          "translatedName": "large bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201212701,
+          "chineseName": "少女文胸",
+          "translatedName": "Girly Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201824705,
+          "chineseName": "背心式文胸",
+          "translatedName": "Vest Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201816804,
+          "chineseName": "美背文胸",
+          "translatedName": "Beauty Back Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201820605,
+          "chineseName": "法式文胸",
+          "translatedName": "French Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201821504,
+          "chineseName": "软支撑文胸",
+          "translatedName": "Soft Support Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        },
+        {
+          "categoryId": 201896301,
+          "chineseName": "鱼骨胸衣、马甲式文胸",
+          "translatedName": "Fishbone bra, waistcoat bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124188007
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048152,
+      "chineseName": "PET/PE",
+      "translatedName": "PET/PE",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048138"
+    }
+  }
+}

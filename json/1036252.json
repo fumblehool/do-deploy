@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036252,
+      "chineseName": "进样器",
+      "translatedName": "Injector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033897"
+    }
+  }
+}

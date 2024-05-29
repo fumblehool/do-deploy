@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061609,
+      "chineseName": "皮肤外用敷料/伤口敷料",
+      "translatedName": "Skin external dressing/wound dressing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058703"
+    }
+  }
+}

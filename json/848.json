@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 848,
+      "chineseName": "无机非金属材料",
+      "translatedName": "inorganic non-metallic materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036959,
+          "chineseName": "多孔材料",
+          "translatedName": "porous material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036960,
+          "chineseName": "研磨材料",
+          "translatedName": "abrasive material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036961,
+          "chineseName": "铸石",
+          "translatedName": "Cast stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036962,
+          "chineseName": "搪瓷",
+          "translatedName": "Enamel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036963,
+          "chineseName": "耐火材料",
+          "translatedName": "refractory material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036954,
+          "chineseName": "其他无机非金属材料",
+          "translatedName": "Other inorganic non-metallic materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036955,
+          "chineseName": "无机复合材料",
+          "translatedName": "inorganic composite materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036957,
+          "chineseName": "超硬材料",
+          "translatedName": "superhard material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        },
+        {
+          "categoryId": 1036958,
+          "chineseName": "碳素材料",
+          "translatedName": "carbon material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 848
+        }
+      ]
+    }
+  }
+}

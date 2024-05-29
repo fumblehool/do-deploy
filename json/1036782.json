@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036782,
+      "chineseName": "压铸模",
+      "translatedName": "die-casting mould",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141905"
+    }
+  }
+}

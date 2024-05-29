@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034916,
+      "chineseName": "PVC再生料",
+      "translatedName": "PVC recycled material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031640"
+    }
+  }
+}

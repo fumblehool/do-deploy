@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032322,
+      "chineseName": "接近开关",
+      "translatedName": "Proximity switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1407"
+    }
+  }
+}

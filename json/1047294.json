@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047294,
+      "chineseName": "无纺布袋定制",
+      "translatedName": "Non-woven bag customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047293"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201752401,
+      "chineseName": "压片糖果",
+      "translatedName": "tableted candy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124746011"
+    }
+  }
+}

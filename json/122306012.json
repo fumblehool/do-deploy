@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122306012,
+      "chineseName": "智能马桶",
+      "translatedName": "Intelligent toilet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122384004"
+    }
+  }
+}

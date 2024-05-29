@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032243,
+      "chineseName": "其他场效应管",
+      "translatedName": "Other FET",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200828004"
+    }
+  }
+}

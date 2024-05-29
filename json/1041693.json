@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041693,
+      "chineseName": "整熨洗涤设备",
+      "translatedName": "Ironing and washing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041694,
+          "chineseName": "洗涤、烘干设备",
+          "translatedName": "Washing and drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041693
+        },
+        {
+          "categoryId": 1041695,
+          "chineseName": "整熨设备",
+          "translatedName": "Ironing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041693
+        },
+        {
+          "categoryId": 1041696,
+          "chineseName": "其他整熨洗涤设备",
+          "translatedName": "Other Ironing and Washing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041693
+        },
+        {
+          "categoryId": 1045779,
+          "chineseName": "整熨洗涤设备配件",
+          "translatedName": "Ironing and washing equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041693
+        }
+      ]
+    }
+  }
+}

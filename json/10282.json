@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10282,
+      "chineseName": "运动背包",
+      "translatedName": "Sports backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545602"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1702,
+      "chineseName": "节庆用品",
+      "translatedName": "Festival Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031957,
+          "chineseName": "其他",
+          "translatedName": "Other",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 1032030,
+          "chineseName": "灯笼",
+          "translatedName": "Lantern",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 1037284,
+          "chineseName": "中国结",
+          "translatedName": "Chinese Knot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 122202001,
+          "chineseName": "孔明灯",
+          "translatedName": "Kongming Lantern",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 122204001,
+          "chineseName": "礼花、礼炮",
+          "translatedName": "Firework, salute",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 122194003,
+          "chineseName": "其他节庆类用品",
+          "translatedName": "Other festival supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 201308316,
+          "chineseName": "万圣节布置摆件",
+          "translatedName": "Halloween decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 201160502,
+          "chineseName": "节日用品礼盒",
+          "translatedName": "Holiday supplies gift box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        },
+        {
+          "categoryId": 201158404,
+          "chineseName": "办公礼品套装",
+          "translatedName": "Office Gift Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1702
+        }
+      ]
+    }
+  }
+}

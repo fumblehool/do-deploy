@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124268002,
+      "chineseName": "旋具头及组套",
+      "translatedName": "Screw head and set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042817"
+    }
+  }
+}

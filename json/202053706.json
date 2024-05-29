@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053706,
+      "chineseName": "接线连接器",
+      "translatedName": "Wiring Connector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201549101"
+    }
+  }
+}

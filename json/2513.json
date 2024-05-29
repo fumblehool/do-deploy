@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2513,
+      "chineseName": "办公、文体、玩具展",
+      "translatedName": "Office, style, toy fair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "75"
+    }
+  }
+}

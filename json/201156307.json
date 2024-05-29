@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156307,
+      "chineseName": "塑胶水塔",
+      "translatedName": "Plastic water tower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1040298"
+    }
+  }
+}

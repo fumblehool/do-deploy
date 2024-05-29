@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122264002,
+      "chineseName": "LED发光字",
+      "translatedName": "LED luminous word",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123618004"
+    }
+  }
+}

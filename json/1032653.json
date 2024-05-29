@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032653,
+      "chineseName": "设施及施工材料",
+      "translatedName": "Facilities and construction materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031701,
+          "chineseName": "土工布",
+          "translatedName": "Geotextile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1037200,
+          "chineseName": "土工膜",
+          "translatedName": "Geomembrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1037201,
+          "chineseName": "土工格栅",
+          "translatedName": "Geogrid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1037198,
+          "chineseName": "其他工地施工材料",
+          "translatedName": "Other Site Construction Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1037199,
+          "chineseName": "脚手架及其配件",
+          "translatedName": "Scaffolding and its accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1039470,
+          "chineseName": "步步紧",
+          "translatedName": "Step by step",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1039452,
+          "chineseName": "工地网及筛网",
+          "translatedName": "Site net and screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1039454,
+          "chineseName": "工地网格布",
+          "translatedName": "Site grid cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1039455,
+          "chineseName": "支撑及蝴蝶扣",
+          "translatedName": "Support and butterfly buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1036634,
+          "chineseName": "其他装修设施及施工",
+          "translatedName": "Other decoration facilities and construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1036636,
+          "chineseName": "阳台设施",
+          "translatedName": "Balcony facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 1036638,
+          "chineseName": "建筑护栏",
+          "translatedName": "Building guardrail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        },
+        {
+          "categoryId": 124736014,
+          "chineseName": "钢丝绳",
+          "translatedName": "wire rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032653
+        }
+      ]
+    }
+  }
+}

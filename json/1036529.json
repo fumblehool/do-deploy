@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036529,
+      "chineseName": "宣传品设计",
+      "translatedName": "Promotional material design",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2828"
+    }
+  }
+}

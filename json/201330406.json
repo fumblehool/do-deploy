@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330406,
+      "chineseName": "自然灾害防护",
+      "translatedName": "natural disaster protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10102,
+          "chineseName": "安保防卫用品",
+          "translatedName": "Security and defense supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201336902,
+          "chineseName": "挡水板",
+          "translatedName": "Water deflector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201331806,
+          "chineseName": "防汛沙袋",
+          "translatedName": "Flood control sandbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201334603,
+          "chineseName": "防汛铅丝",
+          "translatedName": "Flood control lead wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201338001,
+          "chineseName": "防汛滤垫",
+          "translatedName": "flood control filter pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201333002,
+          "chineseName": "吸水膨胀袋",
+          "translatedName": "water swelling bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201337701,
+          "chineseName": "防汛土工膜",
+          "translatedName": "Flood control geomembrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201337801,
+          "chineseName": "防汛土工布",
+          "translatedName": "Flood control geotextile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 201337901,
+          "chineseName": "防汛编织袋",
+          "translatedName": "Flood control woven bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 202027004,
+          "chineseName": "挡鼠板",
+          "translatedName": "rat shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 202036303,
+          "chineseName": "生命探测器",
+          "translatedName": "Life Detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        },
+        {
+          "categoryId": 3018,
+          "chineseName": "其他自然灾害防护",
+          "translatedName": "Other Natural Disaster Protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330406
+        }
+      ]
+    }
+  }
+}

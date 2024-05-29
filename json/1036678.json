@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036678,
+      "chineseName": "车用点烟器",
+      "translatedName": "Cigarette lighter for car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3312"
+    }
+  }
+}

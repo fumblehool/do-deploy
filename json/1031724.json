@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031724,
+      "chineseName": "片皮机",
+      "translatedName": "flake machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031718"
+    }
+  }
+}

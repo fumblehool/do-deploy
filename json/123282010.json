@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123282010,
+      "chineseName": "不锈钢螺丝线",
+      "translatedName": "Stainless steel screw wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123284006"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122668003,
+      "chineseName": "太阳能热水器",
+      "translatedName": "solar water heater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047393"
+    }
+  }
+}

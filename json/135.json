@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 135,
+      "chineseName": "其他农业",
+      "translatedName": "Other Agriculture",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1"
+    }
+  }
+}

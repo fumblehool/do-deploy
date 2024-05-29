@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126390002,
+      "chineseName": "鞋服包装",
+      "translatedName": "Shoes and clothing packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036319,
+          "chineseName": "服装、服饰包装",
+          "translatedName": "Clothing, Apparel Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        },
+        {
+          "categoryId": 126454002,
+          "chineseName": "婴童装包装",
+          "translatedName": "Baby children's clothing packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        },
+        {
+          "categoryId": 126476001,
+          "chineseName": "鞋靴包装",
+          "translatedName": "Boots and shoes packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        },
+        {
+          "categoryId": 126478001,
+          "chineseName": "袜子包装",
+          "translatedName": "Socks packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        },
+        {
+          "categoryId": 126480001,
+          "chineseName": "服饰配件包装",
+          "translatedName": "Clothing accessories packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        },
+        {
+          "categoryId": 126442002,
+          "chineseName": "内衣裤包装",
+          "translatedName": "Packaging of underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390002
+        }
+      ]
+    }
+  }
+}

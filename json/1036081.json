@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036081,
+      "chineseName": "退税服务",
+      "translatedName": "Tax refund service",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2701"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035620,
+      "chineseName": "公共广播系统",
+      "translatedName": "public address system",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "53"
+    }
+  }
+}

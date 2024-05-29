@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036185,
+      "chineseName": "生命科学仪器",
+      "translatedName": "Life Science Instruments",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033867,
+          "chineseName": "培养箱",
+          "translatedName": "Incubator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036186,
+          "chineseName": "其他生命科学仪器",
+          "translatedName": "Other Life Science Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036187,
+          "chineseName": "反应器",
+          "translatedName": "Reactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036188,
+          "chineseName": "酶标仪、洗板机",
+          "translatedName": "Enzyme-labeled instrument, plate washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036189,
+          "chineseName": "扩增仪、PCR仪",
+          "translatedName": "Amplifier, PCR instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036190,
+          "chineseName": "均质器",
+          "translatedName": "Homogenizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036191,
+          "chineseName": "低温冰箱",
+          "translatedName": "Low temperature refrigerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036192,
+          "chineseName": "冷冻干燥机",
+          "translatedName": "Freeze Dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036193,
+          "chineseName": "发酵罐",
+          "translatedName": "Fermentation tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 1036195,
+          "chineseName": "生化分析仪",
+          "translatedName": "biochemical analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121490006,
+          "chineseName": "生化电泳仪",
+          "translatedName": "biochemical electrophoresis apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121492002,
+          "chineseName": "灭菌锅",
+          "translatedName": "Sterilization pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121492003,
+          "chineseName": "超净工作台",
+          "translatedName": "clean bench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121492004,
+          "chineseName": "过滤及超滤仪器",
+          "translatedName": "Filtration and ultrafiltration instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121498003,
+          "chineseName": "动植物实验仪器",
+          "translatedName": "animal and plant experimental instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121502002,
+          "chineseName": "微生物检测仪器",
+          "translatedName": "Microorganism detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121502003,
+          "chineseName": "血液及体液分析仪器",
+          "translatedName": "Blood and Body Fluid Analysis Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121504001,
+          "chineseName": "摇床、振荡器",
+          "translatedName": "Shaker, Oscillator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121494004,
+          "chineseName": "细胞破碎仪",
+          "translatedName": "Cell disruptor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121494006,
+          "chineseName": "萃取仪",
+          "translatedName": "extraction instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        },
+        {
+          "categoryId": 121494007,
+          "chineseName": "基因检测及处理仪器",
+          "translatedName": "Gene detection and processing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036185
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031631,
+      "chineseName": "偶氮颜料",
+      "translatedName": "azo pigment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031630"
+    }
+  }
+}

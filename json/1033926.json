@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033926,
+      "chineseName": "非接触式温度计",
+      "translatedName": "Non-contact thermometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032398"
+    }
+  }
+}

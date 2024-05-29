@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 165,
+      "chineseName": "包装制品配附件",
+      "translatedName": "Packaging products with accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042727"
+    }
+  }
+}

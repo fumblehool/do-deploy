@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 71,
+      "chineseName": "汽摩及配件",
+      "translatedName": "Auto Parts and Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10105,
+          "chineseName": "传动系统",
+          "translatedName": "Drive system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 10106,
+          "chineseName": "制动系统",
+          "translatedName": "Braking system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 10107,
+          "chineseName": "电源、点火系统",
+          "translatedName": "Power supply, ignition system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 10109,
+          "chineseName": "车用仪表",
+          "translatedName": "Vehicle instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 10110,
+          "chineseName": "发动系统",
+          "translatedName": "starting system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 10112,
+          "chineseName": "汽摩产品制造设备",
+          "translatedName": "Automobile and motorcycle products manufacturing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1031806,
+          "chineseName": "汽摩及配件代理加盟",
+          "translatedName": "Auto and accessories agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1033588,
+          "chineseName": "电动车控制器",
+          "translatedName": "Electric vehicle controller",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1036608,
+          "chineseName": "汽摩及配件项目合作",
+          "translatedName": "Cooperation of Auto, Motorcycle and Accessories Project",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1216,
+          "chineseName": "库存汽摩配件",
+          "translatedName": "Inventory of auto parts",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 125066013,
+          "chineseName": "电动车配件",
+          "translatedName": "Electric Vehicle Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1209,
+          "chineseName": "专用汽车",
+          "translatedName": "Special Purpose Vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 1210,
+          "chineseName": "停车场设备",
+          "translatedName": "Parking Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 123620015,
+          "chineseName": "LED车灯",
+          "translatedName": "LED lights",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 124744036,
+          "chineseName": "汽车维修设备",
+          "translatedName": "Vehicle maintenance equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 151,
+          "chineseName": "乘用车",
+          "translatedName": "Passenger cars",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 154,
+          "chineseName": "二手汽车",
+          "translatedName": "Used car",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 3318,
+          "chineseName": "加油站设备",
+          "translatedName": "Gas station equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 3321,
+          "chineseName": "行走系统",
+          "translatedName": "Walking system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 78,
+          "chineseName": "摩托车",
+          "translatedName": "Motorcycle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 93,
+          "chineseName": "冷却系统",
+          "translatedName": "Cooling system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 3316,
+          "chineseName": "转向系统",
+          "translatedName": "Steering system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        },
+        {
+          "categoryId": 3317,
+          "chineseName": "商用车",
+          "translatedName": "Commercial Vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 71
+        }
+      ]
+    }
+  }
+}

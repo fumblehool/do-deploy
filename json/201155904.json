@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201155904,
+      "chineseName": "娃娃公仔",
+      "translatedName": "Doll",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160102"
+    }
+  }
+}

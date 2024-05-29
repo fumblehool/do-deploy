@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031700,
+      "chineseName": "无纺布",
+      "translatedName": "non-woven fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031702,
+          "chineseName": "针刺无纺布",
+          "translatedName": "needle-punched non-woven fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        },
+        {
+          "categoryId": 1031703,
+          "chineseName": "水刺无纺布",
+          "translatedName": "Spunlace non-woven fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        },
+        {
+          "categoryId": 1043398,
+          "chineseName": "纺粘无纺布",
+          "translatedName": "spunbond non-woven fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        },
+        {
+          "categoryId": 1043399,
+          "chineseName": "熔喷无纺布",
+          "translatedName": "meltblown non-woven fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        },
+        {
+          "categoryId": 1046644,
+          "chineseName": "热轧无纺布",
+          "translatedName": "hot rolled non-woven fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        },
+        {
+          "categoryId": 425,
+          "chineseName": "其他无纺布",
+          "translatedName": "Other non-woven fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031700
+        }
+      ]
+    }
+  }
+}

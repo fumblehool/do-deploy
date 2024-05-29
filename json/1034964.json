@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034964,
+      "chineseName": "专门用途灯具",
+      "translatedName": "Special Purpose Lamps",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032288,
+          "chineseName": "防爆灯",
+          "translatedName": "Explosion-proof lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032290,
+          "chineseName": "广告灯具",
+          "translatedName": "Advertising lamps and lanterns",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1033934,
+          "chineseName": "红外线灯",
+          "translatedName": "Infrared lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 10225,
+          "chineseName": "工艺装饰灯具",
+          "translatedName": "Craft decorative lamps and lanterns",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032294,
+          "chineseName": "运动场馆灯具",
+          "translatedName": "Sports venues lighting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032295,
+          "chineseName": "舞台灯",
+          "translatedName": "Stage lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032296,
+          "chineseName": "摄影灯具",
+          "translatedName": "Photography lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032297,
+          "chineseName": "医疗灯具",
+          "translatedName": "Medical Lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1032299,
+          "chineseName": "工矿灯",
+          "translatedName": "mining lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 1034965,
+          "chineseName": "其他专门用途灯具",
+          "translatedName": "Other special purpose lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 121192026,
+          "chineseName": "LED植物生长灯",
+          "translatedName": "LED plant growth light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 123622017,
+          "chineseName": "LED集鱼灯",
+          "translatedName": "LED fish collecting lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 123642001,
+          "chineseName": "LED油站灯",
+          "translatedName": "LED oil station lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 123644001,
+          "chineseName": "LED探照灯",
+          "translatedName": "LED Searchlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 123612010,
+          "chineseName": "LED无影灯",
+          "translatedName": "LED shadowless lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 123618012,
+          "chineseName": "台式杀菌灯",
+          "translatedName": "Desktop germicidal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 201345719,
+          "chineseName": "马桶杀菌灯",
+          "translatedName": "toilet germicidal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 201340127,
+          "chineseName": "手持杀菌灯",
+          "translatedName": "Hand-held germicidal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126572002,
+          "chineseName": "摇头灯",
+          "translatedName": "Shake head lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126572003,
+          "chineseName": "柔光灯",
+          "translatedName": "Soft light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 201331327,
+          "chineseName": "挂式杀菌灯",
+          "translatedName": "hanging germicidal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126582001,
+          "chineseName": "感应灯",
+          "translatedName": "Induction lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126584002,
+          "chineseName": "激光灯",
+          "translatedName": "Laser light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126586001,
+          "chineseName": "生鲜灯",
+          "translatedName": "Fresh lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        },
+        {
+          "categoryId": 126590001,
+          "chineseName": "追光灯",
+          "translatedName": "chasing light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034964
+        }
+      ]
+    }
+  }
+}

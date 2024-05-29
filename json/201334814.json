@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201334814,
+      "chineseName": "非流通港澳台钱币",
+      "translatedName": "Non-circulating Hong Kong, Macao and Taiwan coins",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201333016"
+    }
+  }
+}

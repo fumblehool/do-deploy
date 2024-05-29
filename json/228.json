@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 228,
+      "chineseName": "米面淀粉类",
+      "translatedName": "Rice flour starch",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10025,
+          "chineseName": "面粉",
+          "translatedName": "Flour",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 1032875,
+          "chineseName": "其他米面类",
+          "translatedName": "Other rice flour",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 1032877,
+          "chineseName": "粉丝、粉皮",
+          "translatedName": "vermicelli, vermicelli",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 1032878,
+          "chineseName": "干制米粉、米线",
+          "translatedName": "Dried rice noodles, rice noodles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 1032879,
+          "chineseName": "大米",
+          "translatedName": "Rice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 201160406,
+          "chineseName": "糯米",
+          "translatedName": "glutinous rice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 201163406,
+          "chineseName": "预拌粉类",
+          "translatedName": "Pre-mixed powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 201161403,
+          "chineseName": "年糕",
+          "translatedName": "Rice Cake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        },
+        {
+          "categoryId": 226,
+          "chineseName": "淀粉",
+          "translatedName": "Starch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 228
+        }
+      ]
+    }
+  }
+}

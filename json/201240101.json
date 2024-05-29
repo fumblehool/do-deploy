@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201240101,
+      "chineseName": "绳/线",
+      "translatedName": "Rope/line",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201233908"
+    }
+  }
+}

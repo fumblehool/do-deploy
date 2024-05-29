@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122488001,
+      "chineseName": "塑身分体套装",
+      "translatedName": "Body-Shaping Split Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122484001"
+    }
+  }
+}

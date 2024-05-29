@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10446,
+      "chineseName": "工程机械、建筑机械",
+      "translatedName": "Construction machinery, construction machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032498,
+          "chineseName": "工程机械配件",
+          "translatedName": "Construction Machinery Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032499,
+          "chineseName": "市政和环境卫生机械",
+          "translatedName": "Municipal and Environmental Sanitation Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032500,
+          "chineseName": "园林和高空作业机械",
+          "translatedName": "Garden and aerial work machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032501,
+          "chineseName": "钢筋和预应力机械",
+          "translatedName": "Reinforcement and prestressing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032502,
+          "chineseName": "装载机械",
+          "translatedName": "Loading machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032503,
+          "chineseName": "路面机械",
+          "translatedName": "Pavement machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032504,
+          "chineseName": "推土机、铲运机",
+          "translatedName": "Bulldozer, scraper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032505,
+          "chineseName": "桩工机械",
+          "translatedName": "Piling machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1032506,
+          "chineseName": "挖掘机械",
+          "translatedName": "Excavation machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10452,
+          "chineseName": "其他工程与建筑机械",
+          "translatedName": "Other Engineering & Construction Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 1036820,
+          "chineseName": "混凝土泵车",
+          "translatedName": "Concrete pump truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10448,
+          "chineseName": "压实机械",
+          "translatedName": "Compaction machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10447,
+          "chineseName": "起重机",
+          "translatedName": "Crane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10451,
+          "chineseName": "装修机械",
+          "translatedName": "Decoration machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10449,
+          "chineseName": "凿岩机械",
+          "translatedName": "rock drilling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        },
+        {
+          "categoryId": 10450,
+          "chineseName": "混凝土机械",
+          "translatedName": "Concrete Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10446
+        }
+      ]
+    }
+  }
+}

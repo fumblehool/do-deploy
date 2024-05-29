@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035834,
+      "chineseName": "铂",
+      "translatedName": "Platinum",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "935"
+    }
+  }
+}

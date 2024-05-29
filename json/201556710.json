@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201556710,
+      "chineseName": "无人机包",
+      "translatedName": "Drone package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127398006"
+    }
+  }
+}

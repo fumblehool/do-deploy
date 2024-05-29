@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033003,
+      "chineseName": "塑料膜",
+      "translatedName": "plastic film",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036285,
+          "chineseName": "拉伸缠绕膜",
+          "translatedName": "stretch wrapping film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        },
+        {
+          "categoryId": 1036286,
+          "chineseName": "镀铝膜",
+          "translatedName": "aluminized film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        },
+        {
+          "categoryId": 1036287,
+          "chineseName": "保护膜",
+          "translatedName": "Protective film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        },
+        {
+          "categoryId": 1036288,
+          "chineseName": "静电膜、收缩膜",
+          "translatedName": "Electrostatic film, shrink film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        },
+        {
+          "categoryId": 1036281,
+          "chineseName": "其他塑料包装材料",
+          "translatedName": "Other Plastic Packaging Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        },
+        {
+          "categoryId": 1036282,
+          "chineseName": "封杯、包装膜",
+          "translatedName": "Sealing cup, packaging film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033003
+        }
+      ]
+    }
+  }
+}

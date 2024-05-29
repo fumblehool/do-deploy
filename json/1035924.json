@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035924,
+      "chineseName": "紫外分析仪",
+      "translatedName": "Ultraviolet analyzer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10211"
+    }
+  }
+}

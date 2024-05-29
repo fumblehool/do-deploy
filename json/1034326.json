@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034326,
+      "chineseName": "蒸汽清洗机",
+      "translatedName": "steam cleaning machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126448003"
+    }
+  }
+}

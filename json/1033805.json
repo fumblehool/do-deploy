@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033805,
+      "chineseName": "资格考试培训",
+      "translatedName": "Qualification Examination Training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2815"
+    }
+  }
+}

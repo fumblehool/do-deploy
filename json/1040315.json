@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040315,
+      "chineseName": "橡塑垃圾容器",
+      "translatedName": "Rubber and plastic garbage container",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1040298"
+    }
+  }
+}

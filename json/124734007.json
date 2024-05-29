@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734007,
+      "chineseName": "婴幼儿零食",
+      "translatedName": "Infant snacks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047211,
+          "chineseName": "其他婴幼儿零食",
+          "translatedName": "Other Infant Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734007
+        },
+        {
+          "categoryId": 124740011,
+          "chineseName": "婴幼儿糖果",
+          "translatedName": "Infant candy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734007
+        },
+        {
+          "categoryId": 124734011,
+          "chineseName": "婴幼儿肉肠",
+          "translatedName": "Infant sausage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734007
+        },
+        {
+          "categoryId": 124744012,
+          "chineseName": "婴幼儿果肉条",
+          "translatedName": "Infant pulp strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734007
+        }
+      ]
+    }
+  }
+}

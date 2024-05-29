@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201221407,
+      "chineseName": "其他穿刺饰品",
+      "translatedName": "Other Piercing Ornaments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231105"
+    }
+  }
+}

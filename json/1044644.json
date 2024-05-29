@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044644,
+      "chineseName": "台球桌",
+      "translatedName": "Billiard table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044642"
+    }
+  }
+}

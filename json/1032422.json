@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032422,
+      "chineseName": "调节阀",
+      "translatedName": "Regulating valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141907"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121486001,
+      "chineseName": "自动化仪器设备",
+      "translatedName": "automation instrument and equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032386,
+          "chineseName": "自动化成套控制系统",
+          "translatedName": "automatic complete control system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032387,
+          "chineseName": "集中控制装置",
+          "translatedName": "centralized control device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032388,
+          "chineseName": "执行机构",
+          "translatedName": "implementing agency",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032389,
+          "chineseName": "电动单元组合仪表",
+          "translatedName": "Electric unit combination instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032390,
+          "chineseName": "气动单元组合仪表",
+          "translatedName": "Pneumatic unit instrument cluster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032391,
+          "chineseName": "基地式仪表",
+          "translatedName": "base-type instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 1032392,
+          "chineseName": "控制（调节）仪表",
+          "translatedName": "Control (regulating) instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 121488003,
+          "chineseName": "校验仪表",
+          "translatedName": "Calibration instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 121500001,
+          "chineseName": "其他自动化仪表",
+          "translatedName": "Other automation instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        },
+        {
+          "categoryId": 121494003,
+          "chineseName": "安全栅",
+          "translatedName": "Safety barrier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121486001
+        }
+      ]
+    }
+  }
+}

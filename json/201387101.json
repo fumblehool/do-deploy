@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201387101,
+      "chineseName": "童牛仔服",
+      "translatedName": "Children's Jeans",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037007,
+          "chineseName": "其他牛仔服",
+          "translatedName": "Other Denim Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201387101
+        },
+        {
+          "categoryId": 201387201,
+          "chineseName": "儿童牛仔衬衫",
+          "translatedName": "Children's denim shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201387101
+        },
+        {
+          "categoryId": 201387301,
+          "chineseName": "儿童牛仔裤",
+          "translatedName": "Children's jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201387101
+        },
+        {
+          "categoryId": 201375222,
+          "chineseName": "儿童牛仔裙",
+          "translatedName": "Children's denim skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201387101
+        },
+        {
+          "categoryId": 201380717,
+          "chineseName": "儿童牛仔外套",
+          "translatedName": "Children's denim jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201387101
+        }
+      ]
+    }
+  }
+}

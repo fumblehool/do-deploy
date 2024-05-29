@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031912,
+      "chineseName": "半身裙",
+      "translatedName": "Skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": true
+    }
+  }
+}

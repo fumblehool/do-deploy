@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037141,
+      "chineseName": "网络存储",
+      "translatedName": "Network Storage",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "705"
+    }
+  }
+}

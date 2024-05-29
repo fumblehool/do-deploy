@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306707,
+      "chineseName": "乳胶凉席",
+      "translatedName": "Latex mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084002"
+    }
+  }
+}

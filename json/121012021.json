@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012021,
+      "chineseName": "冷轧板卷",
+      "translatedName": "cold rolled coil",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125470001,
+          "chineseName": "冷轧盒板",
+          "translatedName": "cold rolled box plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012021
+        },
+        {
+          "categoryId": 121012022,
+          "chineseName": "冷轧板",
+          "translatedName": "cold rolled sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012021
+        },
+        {
+          "categoryId": 121012023,
+          "chineseName": "冷轧卷",
+          "translatedName": "cold rolled coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012021
+        },
+        {
+          "categoryId": 121022021,
+          "chineseName": "其他冷轧",
+          "translatedName": "Other cold rolling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012021
+        }
+      ]
+    }
+  }
+}

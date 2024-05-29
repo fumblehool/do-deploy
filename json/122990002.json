@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122990002,
+      "chineseName": "动物/植物仿真模型",
+      "translatedName": "Animal/Plant Simulation Model",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181302"
+    }
+  }
+}

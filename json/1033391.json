@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033391,
+      "chineseName": "其他黑色金属矿产",
+      "translatedName": "Other ferrous minerals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10511"
+    }
+  }
+}

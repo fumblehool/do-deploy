@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 130823000,
+      "chineseName": "成人用品",
+      "translatedName": "Adult Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123862005,
+          "chineseName": "计生用品",
+          "translatedName": "Family Planning Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130823000
+        },
+        {
+          "categoryId": 126178001,
+          "chineseName": "女用器具",
+          "translatedName": "Female apparatus",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130823000
+        },
+        {
+          "categoryId": 126144003,
+          "chineseName": "情趣用品",
+          "translatedName": "Sex Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130823000
+        },
+        {
+          "categoryId": 126150002,
+          "chineseName": "男用器具",
+          "translatedName": "male utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130823000
+        }
+      ]
+    }
+  }
+}

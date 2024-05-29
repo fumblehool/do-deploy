@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041528,
+      "chineseName": "转向节主销、球头销",
+      "translatedName": "Steering knuckle king pin, ball pin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3316"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034237,
+      "chineseName": "滤膜",
+      "translatedName": "filter membrane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1454"
+    }
+  }
+}

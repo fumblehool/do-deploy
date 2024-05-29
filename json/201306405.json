@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306405,
+      "chineseName": "窗帘扣",
+      "translatedName": "Curtain buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124264009"
+    }
+  }
+}

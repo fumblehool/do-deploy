@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041396,
+      "chineseName": "交通检测设备",
+      "translatedName": "Traffic detection equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041397,
+          "chineseName": "车辆检测仪",
+          "translatedName": "Vehicle tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041396
+        },
+        {
+          "categoryId": 1041398,
+          "chineseName": "称重仪",
+          "translatedName": "Weigher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041396
+        },
+        {
+          "categoryId": 1041399,
+          "chineseName": "灯光检测仪",
+          "translatedName": "Light detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041396
+        },
+        {
+          "categoryId": 1041400,
+          "chineseName": "其他交通检测设备",
+          "translatedName": "Other traffic detection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041396
+        }
+      ]
+    }
+  }
+}

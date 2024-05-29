@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122638002,
+      "chineseName": "吸盘毛巾架",
+      "translatedName": "Suction cup towel rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

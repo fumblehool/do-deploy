@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123608022,
+      "chineseName": "书房家具",
+      "translatedName": "Study Furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123620022,
+          "chineseName": "书柜",
+          "translatedName": "Bookcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123608022
+        }
+      ]
+    }
+  }
+}

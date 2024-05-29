@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10062,
+      "chineseName": "纺织设备和器材",
+      "translatedName": "Textile equipment and equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10148,
+          "chineseName": "纺纱设备(纺机)",
+          "translatedName": "Spinning equipment (spinning machine)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10149,
+          "chineseName": "织造机械",
+          "translatedName": "Weaving Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10063,
+          "chineseName": "棉麻毛初加工设备",
+          "translatedName": "Cotton and linen wool primary processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10150,
+          "chineseName": "非织造布机械",
+          "translatedName": "Nonwovens Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10151,
+          "chineseName": "针织机械",
+          "translatedName": "knitting machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10152,
+          "chineseName": "印染整机械与设备",
+          "translatedName": "Printing, dyeing and finishing machinery and equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10153,
+          "chineseName": "纺机配件",
+          "translatedName": "Spinning machine accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 10154,
+          "chineseName": "其他纺织设备和器材",
+          "translatedName": "Other textile equipment and apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036388,
+          "chineseName": "络筒并捻机械",
+          "translatedName": "Woil and twist machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036389,
+          "chineseName": "特种织机",
+          "translatedName": "special loom",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036390,
+          "chineseName": "化纤机械",
+          "translatedName": "chemical fiber machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036391,
+          "chineseName": "纺织辅助设备",
+          "translatedName": "Textile auxiliary equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036392,
+          "chineseName": "纺织器材",
+          "translatedName": "Textile Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 1036393,
+          "chineseName": "纺织配套电气仪表设备",
+          "translatedName": "Textile supporting electrical instrument equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201350242,
+          "chineseName": "口罩机",
+          "translatedName": "mask machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958505,
+          "chineseName": "拉布机",
+          "translatedName": "cloth pulling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958506,
+          "chineseName": "色牢度设备",
+          "translatedName": "Color fastness equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958602,
+          "chineseName": "验布机",
+          "translatedName": "cloth checking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958603,
+          "chineseName": "筒子架",
+          "translatedName": "creel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958702,
+          "chineseName": "打结机",
+          "translatedName": "Knot machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201958801,
+          "chineseName": "断布机",
+          "translatedName": "Breaking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        },
+        {
+          "categoryId": 201955601,
+          "chineseName": "车花机",
+          "translatedName": "Car-turning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10062
+        }
+      ]
+    }
+  }
+}

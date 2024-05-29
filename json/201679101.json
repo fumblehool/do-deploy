@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201679101,
+      "chineseName": "中提琴",
+      "translatedName": "Viola",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649001"
+    }
+  }
+}

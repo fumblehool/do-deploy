@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041402,
+      "chineseName": "孕妇卫衣/绒衫",
+      "translatedName": "Pregnant women's sweater/sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196004"
+    }
+  }
+}

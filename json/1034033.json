@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034033,
+      "chineseName": "橡胶加工",
+      "translatedName": "Rubber processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034034,
+          "chineseName": "其他橡胶加工",
+          "translatedName": "Other Rubber Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034033
+        },
+        {
+          "categoryId": 1034035,
+          "chineseName": "橡胶后处理加工",
+          "translatedName": "Rubber post-processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034033
+        },
+        {
+          "categoryId": 1034036,
+          "chineseName": "橡胶成型加工",
+          "translatedName": "Rubber molding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034033
+        },
+        {
+          "categoryId": 1034037,
+          "chineseName": "橡胶压延加工",
+          "translatedName": "Rubber calendering",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034033
+        }
+      ]
+    }
+  }
+}

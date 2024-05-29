@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016009,
+      "chineseName": "肉类罐头",
+      "translatedName": "canned meat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022008"
+    }
+  }
+}

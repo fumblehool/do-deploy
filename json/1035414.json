@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035414,
+      "chineseName": "刨刀",
+      "translatedName": "planer knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10350"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202036018,
+      "chineseName": "童装针织加工",
+      "translatedName": "Knitting processing of children's clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202057212"
+    }
+  }
+}

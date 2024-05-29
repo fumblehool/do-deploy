@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10106,
+      "chineseName": "制动系统",
+      "translatedName": "Braking system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032171,
+          "chineseName": "其他制动系统",
+          "translatedName": "Other brake systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1032172,
+          "chineseName": "液压制动泵",
+          "translatedName": "hydraulic brake pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1032173,
+          "chineseName": "制动器总成",
+          "translatedName": "Brake Assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1032174,
+          "chineseName": "空气压缩机",
+          "translatedName": "Air Compressor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1032175,
+          "chineseName": "刹车盘/刹车鼓",
+          "translatedName": "Brake disc/brake drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1032176,
+          "chineseName": "刹车片",
+          "translatedName": "Brake Pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1036915,
+          "chineseName": "摩擦片、摩擦块",
+          "translatedName": "Friction plate, friction block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 1041497,
+          "chineseName": "防抱死制动系统(ABS)",
+          "translatedName": "Anti-lock braking system (ABS)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 123272004,
+          "chineseName": "刹车调整臂",
+          "translatedName": "Brake adjuster arm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 123272003,
+          "chineseName": "制动分泵",
+          "translatedName": "Brake cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 123286001,
+          "chineseName": "制动总泵",
+          "translatedName": "Brake master cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 123284001,
+          "chineseName": "离合器分泵",
+          "translatedName": "Clutch slave cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        },
+        {
+          "categoryId": 123282001,
+          "chineseName": "离合器总泵",
+          "translatedName": "Clutch master cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10106
+        }
+      ]
+    }
+  }
+}

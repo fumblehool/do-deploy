@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201164102,
+      "chineseName": "冲调饮品",
+      "translatedName": "brewed drinks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046297,
+          "chineseName": "其他冲调饮品",
+          "translatedName": "Other brewed drinks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201162811,
+          "chineseName": "奶茶",
+          "translatedName": "Milk tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201351408,
+          "chineseName": "豆浆/豆奶粉",
+          "translatedName": "Soybean Milk/Soybean Milk Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201156010,
+          "chineseName": "藕粉",
+          "translatedName": "lotus root starch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201338812,
+          "chineseName": "代餐粉",
+          "translatedName": "meal replacement powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201163408,
+          "chineseName": "青汁粉",
+          "translatedName": "Green Juice Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201164003,
+          "chineseName": "麦片",
+          "translatedName": "Catmeal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201545814,
+          "chineseName": "芝麻糊",
+          "translatedName": "sesame paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201355815,
+          "chineseName": "姜茶/姜汤",
+          "translatedName": "Ginger Tea/Ginger Soup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 201556510,
+          "chineseName": "可可/巧克力饮品",
+          "translatedName": "Cocoa/Chocolate Drinks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202052203,
+          "chineseName": "冰淇淋粉",
+          "translatedName": "Ice Cream Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202063903,
+          "chineseName": "薏米粉",
+          "translatedName": "Coix seed flour",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202060703,
+          "chineseName": "葛根粉",
+          "translatedName": "kudzu root powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202052710,
+          "chineseName": "冲饮果汁",
+          "translatedName": "Drink juice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202060105,
+          "chineseName": "果蔬粉",
+          "translatedName": "fruit and vegetable powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202058803,
+          "chineseName": "椰子粉",
+          "translatedName": "Coconut powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202058708,
+          "chineseName": "中式养生冲饮",
+          "translatedName": "Chinese Style Health Preserving Chong Drink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202054505,
+          "chineseName": "酸梅汤冲剂",
+          "translatedName": "Sour Plum Decoction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202054403,
+          "chineseName": "杏仁粉",
+          "translatedName": "Almond Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202057004,
+          "chineseName": "抹茶粉",
+          "translatedName": "Matcha powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202051411,
+          "chineseName": "谷物营养配方粉",
+          "translatedName": "Grain nutrition formula powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202053303,
+          "chineseName": "冰粉/凉粉/龟苓膏/仙草冻粉",
+          "translatedName": "Ice Powder/Bean Powder/Guiling Cream/Xiancao Frozen Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        },
+        {
+          "categoryId": 202060606,
+          "chineseName": "山药粉",
+          "translatedName": "yam powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201164102
+        }
+      ]
+    }
+  }
+}

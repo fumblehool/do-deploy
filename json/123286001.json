@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123286001,
+      "chineseName": "制动总泵",
+      "translatedName": "Brake master cylinder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10106"
+    }
+  }
+}

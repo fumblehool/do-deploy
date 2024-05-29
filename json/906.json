@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 906,
+      "chineseName": "有色金属合金",
+      "translatedName": "non-ferrous alloys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033403,
+          "chineseName": "其他有色金属合金",
+          "translatedName": "Other non-ferrous alloys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1033406,
+          "chineseName": "锌合金",
+          "translatedName": "zinc alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1033408,
+          "chineseName": "镁合金",
+          "translatedName": "magnesium alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1033409,
+          "chineseName": "镍合金",
+          "translatedName": "Nickel alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1033410,
+          "chineseName": "铜合金",
+          "translatedName": "Copper alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1033411,
+          "chineseName": "铝合金",
+          "translatedName": "Aluminum alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1035873,
+          "chineseName": "稀土合金",
+          "translatedName": "rare earth alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1036815,
+          "chineseName": "钛合金",
+          "translatedName": "titanium alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1035826,
+          "chineseName": "锡合金",
+          "translatedName": "tin alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1035827,
+          "chineseName": "铅合金",
+          "translatedName": "lead alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        },
+        {
+          "categoryId": 1036860,
+          "chineseName": "硬质合金",
+          "translatedName": "cemented carbide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 906
+        }
+      ]
+    }
+  }
+}

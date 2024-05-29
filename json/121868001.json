@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121868001,
+      "chineseName": "运动户外风衣",
+      "translatedName": "Sports outdoor windbreaker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048069"
+    }
+  }
+}

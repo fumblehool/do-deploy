@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033760,
+      "chineseName": "其他农业用具",
+      "translatedName": "Other Agricultural Appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "128"
+    }
+  }
+}

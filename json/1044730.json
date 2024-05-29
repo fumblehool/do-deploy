@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044730,
+      "chineseName": "保龄球用品",
+      "translatedName": "Bowling Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044732,
+          "chineseName": "保龄球瓶",
+          "translatedName": "Bowling Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044730
+        },
+        {
+          "categoryId": 1044734,
+          "chineseName": "保龄球道",
+          "translatedName": "Bowling alley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044730
+        },
+        {
+          "categoryId": 1044736,
+          "chineseName": "保龄球成套设备",
+          "translatedName": "Bowling complete equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044730
+        },
+        {
+          "categoryId": 1044738,
+          "chineseName": "保龄球配件",
+          "translatedName": "Bowling Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044730
+        },
+        {
+          "categoryId": 2002,
+          "chineseName": "保龄球",
+          "translatedName": "Bowling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044730
+        }
+      ]
+    }
+  }
+}

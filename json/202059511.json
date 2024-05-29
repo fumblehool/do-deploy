@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059511,
+      "chineseName": "羽绒服装加工",
+      "translatedName": "Down garment processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056512"
+    }
+  }
+}

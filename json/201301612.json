@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301612,
+      "chineseName": "杂粮组合",
+      "translatedName": "coarse cereals combination",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10020"
+    }
+  }
+}

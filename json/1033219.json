@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033219,
+      "chineseName": "灭火器材",
+      "translatedName": "Fire fighting equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "90"
+    }
+  }
+}

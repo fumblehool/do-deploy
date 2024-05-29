@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033077,
+      "chineseName": "活页本、活页替芯",
+      "translatedName": "Loose-leaf, loose-leaf replacement",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10336"
+    }
+  }
+}

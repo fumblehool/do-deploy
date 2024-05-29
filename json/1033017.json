@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033017,
+      "chineseName": "塑料盖",
+      "translatedName": "plastic cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042727"
+    }
+  }
+}

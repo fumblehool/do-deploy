@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201733005,
+      "chineseName": "洁烟沙",
+      "translatedName": "Smoke sand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194007"
+    }
+  }
+}

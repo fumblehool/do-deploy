@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035447,
+      "chineseName": "涡卷弹簧",
+      "translatedName": "Scroll spring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032469"
+    }
+  }
+}

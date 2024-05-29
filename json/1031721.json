@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031721,
+      "chineseName": "挤水机",
+      "translatedName": "Squeezing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031718"
+    }
+  }
+}

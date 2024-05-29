@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1222,
+      "chineseName": "非机动车",
+      "translatedName": "Non-motor vehicle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "12",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033574,
+          "chineseName": "其他非机动车",
+          "translatedName": "Other Non-Motor Vehicles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1222
+        },
+        {
+          "categoryId": 1033575,
+          "chineseName": "三轮车",
+          "translatedName": "Tricycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1222
+        }
+      ]
+    }
+  }
+}

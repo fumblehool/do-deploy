@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122980007,
+      "chineseName": "车挂/床挂玩具",
+      "translatedName": "Car hanging/bed hanging toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122984013"
+    }
+  }
+}

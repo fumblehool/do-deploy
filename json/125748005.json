@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125748005,
+      "chineseName": "代理加盟",
+      "translatedName": "Agent to join",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034373,
+          "chineseName": "成品鞋、鞋件代理加盟",
+          "translatedName": "Finished shoes, shoes agents to join.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748005
+        },
+        {
+          "categoryId": 1034447,
+          "chineseName": "服饰代理加盟",
+          "translatedName": "Apparel agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748005
+        },
+        {
+          "categoryId": 1760,
+          "chineseName": "饰品代理加盟",
+          "translatedName": "Jewelry agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125748005
+        }
+      ]
+    }
+  }
+}

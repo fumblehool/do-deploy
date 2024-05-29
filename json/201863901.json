@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201863901,
+      "chineseName": "男式包头拖",
+      "translatedName": "Men's Baotou Drag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506004"
+    }
+  }
+}

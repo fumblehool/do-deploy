@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032416,
+      "chineseName": "水暖五金",
+      "translatedName": "Plumbing Hardware",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032400,
+          "chineseName": "地漏",
+          "translatedName": "Floor drain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035354,
+          "chineseName": "其他水暖五金",
+          "translatedName": "Other Plumbing Hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035355,
+          "chineseName": "阀片",
+          "translatedName": "Valve plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035356,
+          "chineseName": "三角阀",
+          "translatedName": "Triangle valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035357,
+          "chineseName": "混水阀",
+          "translatedName": "Water mixing valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035358,
+          "chineseName": "冲洗阀",
+          "translatedName": "flush valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035359,
+          "chineseName": "快开、阀芯",
+          "translatedName": "Quick opening, valve core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035360,
+          "chineseName": "分水器",
+          "translatedName": "Water separator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035361,
+          "chineseName": "下水",
+          "translatedName": "launching",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035362,
+          "chineseName": "暖气片、散热器",
+          "translatedName": "Radiator, radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035363,
+          "chineseName": "花洒软管",
+          "translatedName": "Shower hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035364,
+          "chineseName": "花洒，淋浴器及配件",
+          "translatedName": "Showers, showers and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035365,
+          "chineseName": "水龙头",
+          "translatedName": "Faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 1035366,
+          "chineseName": "水嘴",
+          "translatedName": "Water nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 122320010,
+          "chineseName": "淋浴屏",
+          "translatedName": "Shower screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201157507,
+          "chineseName": "手持花洒",
+          "translatedName": "Hand Shower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201160709,
+          "chineseName": "厨用龙头",
+          "translatedName": "Kitchen faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201155911,
+          "chineseName": "花洒套装",
+          "translatedName": "Shower Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201157013,
+          "chineseName": "浴缸、淋浴龙头",
+          "translatedName": "Bathtub, shower faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201302019,
+          "chineseName": "快开龙头",
+          "translatedName": "Quick-turn faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        },
+        {
+          "categoryId": 201162706,
+          "chineseName": "面盆龙头",
+          "translatedName": "Basin faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032416
+        }
+      ]
+    }
+  }
+}

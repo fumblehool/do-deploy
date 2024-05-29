@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305915,
+      "chineseName": "女式健步鞋",
+      "translatedName": "women's walking shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125372002"
+    }
+  }
+}

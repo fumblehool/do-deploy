@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036522,
+      "chineseName": "包装印刷设备维修安装",
+      "translatedName": "Maintenance and installation of packaging and printing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2823"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124256002,
+      "chineseName": "卸甲用品",
+      "translatedName": "Armor removal supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043162"
+    }
+  }
+}

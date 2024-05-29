@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548801,
+      "chineseName": "女式职业套装",
+      "translatedName": "Women's professional suit",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048184,
+          "chineseName": "职业女裙套装",
+          "translatedName": "Professional women's skirt suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548801
+        },
+        {
+          "categoryId": 201162003,
+          "chineseName": "职业女裤套装",
+          "translatedName": "Professional women's pants suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548801
+        }
+      ]
+    }
+  }
+}

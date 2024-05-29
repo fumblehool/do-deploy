@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160401,
+      "chineseName": "运动颈环/手环/指环",
+      "translatedName": "Sports Neck Ring/Bracelet/Ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045423"
+    }
+  }
+}

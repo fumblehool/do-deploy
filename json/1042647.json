@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042647,
+      "chineseName": "摩托车(艇)润滑油",
+      "translatedName": "Motorcycle (boat) lubricating oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032190"
+    }
+  }
+}

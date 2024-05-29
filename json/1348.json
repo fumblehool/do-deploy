@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1348,
+      "chineseName": "建筑用粘合剂",
+      "translatedName": "Adhesives for construction",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032618,
+          "chineseName": "其他建筑用粘合剂",
+          "translatedName": "Other building adhesives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032619,
+          "chineseName": "墙纸胶",
+          "translatedName": "wallpaper glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032620,
+          "chineseName": "幕墙胶",
+          "translatedName": "Curtain wall glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032621,
+          "chineseName": "玻璃胶",
+          "translatedName": "Glass glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032623,
+          "chineseName": "金属胶",
+          "translatedName": "Metal glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032622,
+          "chineseName": "石材胶",
+          "translatedName": "stone glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032624,
+          "chineseName": "瓷砖胶",
+          "translatedName": "Ceramic tile adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        },
+        {
+          "categoryId": 1032625,
+          "chineseName": "木工胶",
+          "translatedName": "woodworking glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1348
+        }
+      ]
+    }
+  }
+}

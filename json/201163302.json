@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163302,
+      "chineseName": "大闸蟹",
+      "translatedName": "hairy crab",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125068002"
+    }
+  }
+}

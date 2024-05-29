@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126448003,
+      "chineseName": "工业及商用清洁",
+      "translatedName": "Industrial and Commercial Cleaning",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032567,
+          "chineseName": "生活饮用水处理设备",
+          "translatedName": "Drinking water treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034306,
+          "chineseName": "环卫垃圾桶",
+          "translatedName": "Sanitation trash can",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034323,
+          "chineseName": "其他清洗、清理设备",
+          "translatedName": "Other cleaning and cleaning equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034324,
+          "chineseName": "扫地机",
+          "translatedName": "Sweeper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034325,
+          "chineseName": "洗地机",
+          "translatedName": "Washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034326,
+          "chineseName": "蒸汽清洗机",
+          "translatedName": "steam cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034327,
+          "chineseName": "抛丸清理机",
+          "translatedName": "Shot blasting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034328,
+          "chineseName": "高压水流清洗机",
+          "translatedName": "High pressure water flow cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034329,
+          "chineseName": "超声波清洗设备",
+          "translatedName": "Ultrasonic cleaning equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1034330,
+          "chineseName": "工业吸尘设备",
+          "translatedName": "Industrial dust collection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1036830,
+          "chineseName": "加香机、清洗机",
+          "translatedName": "Perfusing machine, washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1041437,
+          "chineseName": "工业空气净化器",
+          "translatedName": "Industrial air purifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1036590,
+          "chineseName": "过滤棉",
+          "translatedName": "filter cotton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1045451,
+          "chineseName": "清洗、清理设备配附件",
+          "translatedName": "Equipment and accessories for cleaning and cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 1036833,
+          "chineseName": "商用洗碗机",
+          "translatedName": "Commercial Dishwasher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        },
+        {
+          "categoryId": 126696002,
+          "chineseName": "百洁垫",
+          "translatedName": "Cleaning pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126448003
+        }
+      ]
+    }
+  }
+}

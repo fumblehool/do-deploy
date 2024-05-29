@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035914,
+      "chineseName": "激光水平仪",
+      "translatedName": "laser level",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121488001"
+    }
+  }
+}

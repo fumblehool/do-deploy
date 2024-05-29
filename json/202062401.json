@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202062401,
+      "chineseName": "壮族服饰",
+      "translatedName": "Zhuang Costume",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202052806"
+    }
+  }
+}

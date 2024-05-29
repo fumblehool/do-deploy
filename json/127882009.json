@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127882009,
+      "chineseName": "体操服、啦啦队服",
+      "translatedName": "Gymnastics uniform, cheerleading uniform",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013"
+    }
+  }
+}

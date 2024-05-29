@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201372626,
+      "chineseName": "广告帐篷",
+      "translatedName": "advertising tent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229008"
+    }
+  }
+}

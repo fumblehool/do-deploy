@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033814,
+      "chineseName": "记录仪",
+      "translatedName": "Recorder",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10208"
+    }
+  }
+}

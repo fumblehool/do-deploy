@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029401,
+      "chineseName": "纹绣辅材",
+      "translatedName": "embroidery auxiliary material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202027801"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036473,
+      "chineseName": "涂料消泡剂",
+      "translatedName": "coating defoamer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10384"
+    }
+  }
+}

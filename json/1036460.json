@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036460,
+      "chineseName": "己酸",
+      "translatedName": "Caproic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80312"
+    }
+  }
+}

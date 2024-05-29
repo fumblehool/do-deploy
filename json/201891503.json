@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201891503,
+      "chineseName": "办公学习垫板",
+      "translatedName": "Office learning pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2113"
+    }
+  }
+}

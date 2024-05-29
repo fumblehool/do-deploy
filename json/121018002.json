@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018002,
+      "chineseName": "冷轧取向硅钢",
+      "translatedName": "cold rolled grain oriented silicon steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022002"
+    }
+  }
+}

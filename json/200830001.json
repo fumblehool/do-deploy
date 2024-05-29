@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200830001,
+      "chineseName": "JFET晶体管",
+      "translatedName": "JFET Transistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200774004"
+    }
+  }
+}

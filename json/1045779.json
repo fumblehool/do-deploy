@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045779,
+      "chineseName": "整熨洗涤设备配件",
+      "translatedName": "Ironing and washing equipment accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041693"
+    }
+  }
+}

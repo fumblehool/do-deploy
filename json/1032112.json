@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032112,
+      "chineseName": "行车记录仪",
+      "translatedName": "driving recorder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1212"
+    }
+  }
+}

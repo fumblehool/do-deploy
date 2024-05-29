@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3105,
+      "chineseName": "写字楼",
+      "translatedName": "Office Building",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "31"
+    }
+  }
+}

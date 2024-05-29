@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033589,
+      "chineseName": "其他船舶专用配件",
+      "translatedName": "Other Special Accessories for Ships",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1224"
+    }
+  }
+}

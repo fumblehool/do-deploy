@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1107,
+      "chineseName": "其他环保设备",
+      "translatedName": "Other environmental protection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "64"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054701,
+      "chineseName": "中老年牛仔裤",
+      "translatedName": "Middle-aged jeans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

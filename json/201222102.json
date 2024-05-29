@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201222102,
+      "chineseName": "其他刀剪具",
+      "translatedName": "Other knives and scissors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764003"
+    }
+  }
+}

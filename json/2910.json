@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2910,
+      "chineseName": "安全保卫",
+      "translatedName": "Security",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2841"
+    }
+  }
+}

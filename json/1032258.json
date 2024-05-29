@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032258,
+      "chineseName": "高压断路器",
+      "translatedName": "high voltage circuit breaker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "525"
+    }
+  }
+}

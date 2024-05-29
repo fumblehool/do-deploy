@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126018001,
+      "chineseName": "园林果树",
+      "translatedName": "garden fruit tree",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124"
+    }
+  }
+}

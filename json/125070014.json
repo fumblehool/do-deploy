@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070014,
+      "chineseName": "面膜加工定制",
+      "translatedName": "Mask processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125070013"
+    }
+  }
+}

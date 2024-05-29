@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201878006,
+      "chineseName": "锁骨链",
+      "translatedName": "clavicle chain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122322005"
+    }
+  }
+}

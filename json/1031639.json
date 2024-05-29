@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031639,
+      "chineseName": "通用塑料",
+      "translatedName": "general purpose plastic",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031643,
+          "chineseName": "PVC",
+          "translatedName": "PVC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1034887,
+          "chineseName": "ABS",
+          "translatedName": "ABS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1034889,
+          "chineseName": "PP",
+          "translatedName": "PP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1035768,
+          "chineseName": "GPPS",
+          "translatedName": "GPPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1035769,
+          "chineseName": "HIPS",
+          "translatedName": "HIPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1035770,
+          "chineseName": "LLDPE",
+          "translatedName": "LLDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1035771,
+          "chineseName": "LDPE",
+          "translatedName": "LDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1035772,
+          "chineseName": "HDPE",
+          "translatedName": "HDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 10387,
+          "chineseName": "其他通用塑料",
+          "translatedName": "Other general purpose plastics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        },
+        {
+          "categoryId": 1046928,
+          "chineseName": "MVLDPE",
+          "translatedName": "MVLDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031639
+        }
+      ]
+    }
+  }
+}

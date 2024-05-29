@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305916,
+      "chineseName": "应援灯牌",
+      "translatedName": "Aid Light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304320"
+    }
+  }
+}

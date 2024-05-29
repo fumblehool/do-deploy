@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121804004,
+      "chineseName": "兔子药品",
+      "translatedName": "Rabbit Drugs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125270017"
+    }
+  }
+}

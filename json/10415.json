@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10415,
+      "chineseName": "反应设备",
+      "translatedName": "Reaction equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034738,
+          "chineseName": "其他反应设备",
+          "translatedName": "Other reaction equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034739,
+          "chineseName": "塔式反应器",
+          "translatedName": "tower reactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034740,
+          "chineseName": "槽式反应器",
+          "translatedName": "tank reactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034741,
+          "chineseName": "管式反应器",
+          "translatedName": "tubular reactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034742,
+          "chineseName": "电解槽",
+          "translatedName": "Electrolytic cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034743,
+          "chineseName": "反应釜",
+          "translatedName": "Reaction kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1034744,
+          "chineseName": "发酵提取设备",
+          "translatedName": "fermentation extraction equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        },
+        {
+          "categoryId": 1045775,
+          "chineseName": "反应设备配件",
+          "translatedName": "Reaction equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10415
+        }
+      ]
+    }
+  }
+}

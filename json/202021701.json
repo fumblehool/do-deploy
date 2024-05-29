@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202021701,
+      "chineseName": "礼品包装",
+      "translatedName": "Gift Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036311,
+          "chineseName": "茶叶包装",
+          "translatedName": "tea packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 1036317,
+          "chineseName": "其他礼品包装",
+          "translatedName": "Other Gift Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 1035544,
+          "chineseName": "首饰包装",
+          "translatedName": "Jewelry Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 126482001,
+          "chineseName": "鲜花包装",
+          "translatedName": "Flowers packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023301,
+          "chineseName": "伴手礼品包装",
+          "translatedName": "Hand gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023401,
+          "chineseName": "情人节礼品包装",
+          "translatedName": "Valentine's Day Gift Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023501,
+          "chineseName": "年货礼品包装",
+          "translatedName": "New Year gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023601,
+          "chineseName": "中秋礼品包装",
+          "translatedName": "Mid-Autumn Festival gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023701,
+          "chineseName": "圣诞礼品包装",
+          "translatedName": "Christmas gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023801,
+          "chineseName": "礼品袋",
+          "translatedName": "Gift Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202025401,
+          "chineseName": "工艺品/文玩礼品包装",
+          "translatedName": "Crafts/cultural play gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202028801,
+          "chineseName": "创意礼品包装",
+          "translatedName": "Creative gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202026402,
+          "chineseName": "商务礼品包装",
+          "translatedName": "Business gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202019102,
+          "chineseName": "保健品礼品包装",
+          "translatedName": "Health care products gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202019802,
+          "chineseName": "童玩/婴童礼品包装",
+          "translatedName": "Children's play/baby gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202020402,
+          "chineseName": "端午礼品包装",
+          "translatedName": "Dragon Boat Festival gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202021602,
+          "chineseName": "生日礼品包装",
+          "translatedName": "Birthday gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202022403,
+          "chineseName": "农副产品礼品包装",
+          "translatedName": "Agricultural and sideline products gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202022901,
+          "chineseName": "化妆品礼盒包装",
+          "translatedName": "Cosmetic gift box packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        },
+        {
+          "categoryId": 202023201,
+          "chineseName": "酒水饮料礼品包装",
+          "translatedName": "Beverage gift packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202021701
+        }
+      ]
+    }
+  }
+}

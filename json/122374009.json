@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122374009,
+      "chineseName": "厨卫五金",
+      "translatedName": "Kitchen & Sanitary Hardware",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032644,
+          "chineseName": "其他厨卫五金",
+          "translatedName": "Other Kitchen & Sanitary Hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 1032648,
+          "chineseName": "水槽",
+          "translatedName": "Sink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122342008,
+          "chineseName": "肥皂网、架",
+          "translatedName": "Soap net, rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122314008,
+          "chineseName": "水槽配件",
+          "translatedName": "Sink Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122364007,
+          "chineseName": "毛巾环、杆、架",
+          "translatedName": "Towel ring, rod, rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122358005,
+          "chineseName": "卫浴挂件套件",
+          "translatedName": "Bathroom pendant kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122374010,
+          "chineseName": "皂液器、给皂器",
+          "translatedName": "Soap Dispenser, Soap Dispenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122330011,
+          "chineseName": "水槽套装",
+          "translatedName": "Sink set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122330012,
+          "chineseName": "卫浴扶手",
+          "translatedName": "Bathroom armrest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122384005,
+          "chineseName": "拉篮",
+          "translatedName": "pull basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 122348008,
+          "chineseName": "浴室角架",
+          "translatedName": "Bathroom corner rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 201791901,
+          "chineseName": "厕纸架",
+          "translatedName": "Toilet paper holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 202052214,
+          "chineseName": "壁龛",
+          "translatedName": "niche",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        },
+        {
+          "categoryId": 202055714,
+          "chineseName": "智能毛巾架/浴巾架",
+          "translatedName": "Smart towel rack/bath towel rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374009
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036693,
+      "chineseName": "丙烯酸乳液",
+      "translatedName": "acrylic emulsion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036686"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037065,
+      "chineseName": "水合肼",
+      "translatedName": "Hydrazine hydrate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80311"
+    }
+  }
+}

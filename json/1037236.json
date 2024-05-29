@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037236,
+      "chineseName": "烷基酚聚氧乙烯醚",
+      "translatedName": "Alkylphenol ethoxylates",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

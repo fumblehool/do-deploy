@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123758007,
+      "chineseName": "杀毒软件",
+      "translatedName": "antivirus software",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "734"
+    }
+  }
+}

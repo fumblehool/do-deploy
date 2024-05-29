@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035186,
+      "chineseName": "排焊机",
+      "translatedName": "row welding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1456"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032582,
+      "chineseName": "金属包装机械",
+      "translatedName": "Metal Packaging Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "87"
+    }
+  }
+}

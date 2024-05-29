@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50901,
+      "chineseName": "网络交换机",
+      "translatedName": "Network Switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50909"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160307,
+      "chineseName": "酒店用刀",
+      "translatedName": "Hotel knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160304,
+      "chineseName": "工业用PVC水带",
+      "translatedName": "PVC hose for industrial use",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201159803"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122,
+      "chineseName": "木炭",
+      "translatedName": "Charcoal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045486"
+    }
+  }
+}

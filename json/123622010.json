@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123622010,
+      "chineseName": "LED广告机",
+      "translatedName": "LED advertising machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612008"
+    }
+  }
+}

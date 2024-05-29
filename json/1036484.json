@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036484,
+      "chineseName": "钼铬红",
+      "translatedName": "MOLYBDENUM CHROME RED",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031632"
+    }
+  }
+}

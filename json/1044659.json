@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044659,
+      "chineseName": "鱼竿",
+      "translatedName": "Fishing rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044658"
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031607,
+      "chineseName": "食品添加剂",
+      "translatedName": "Food Additives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031611,
+          "chineseName": "酶制剂",
+          "translatedName": "enzyme preparation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031612,
+          "chineseName": "护色剂",
+          "translatedName": "color fixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031613,
+          "chineseName": "着色剂",
+          "translatedName": "Colorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031614,
+          "chineseName": "漂白剂",
+          "translatedName": "Bleach",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031615,
+          "chineseName": "抗氧化剂",
+          "translatedName": "Antioxidant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031616,
+          "chineseName": "酸度调节剂",
+          "translatedName": "acidity regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1032369,
+          "chineseName": "增稠剂",
+          "translatedName": "Thickener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031608,
+          "chineseName": "甜味剂",
+          "translatedName": "Sweetener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031609,
+          "chineseName": "防腐剂",
+          "translatedName": "Preservative",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1031610,
+          "chineseName": "增味剂",
+          "translatedName": "Flavor enhancer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1044091,
+          "chineseName": "食品凝固剂",
+          "translatedName": "food coagulant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1044100,
+          "chineseName": "食品乳化剂",
+          "translatedName": "food emulsifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1044102,
+          "chineseName": "保鲜剂",
+          "translatedName": "Preservative",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1036738,
+          "chineseName": "营养强化剂",
+          "translatedName": "nutrition fortifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1042553,
+          "chineseName": "膨松剂",
+          "translatedName": "leavening agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1042555,
+          "chineseName": "改良剂",
+          "translatedName": "Modifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1042549,
+          "chineseName": "食品保水剂",
+          "translatedName": "food water retaining agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 1042551,
+          "chineseName": "抗结剂",
+          "translatedName": "anti-caking agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        },
+        {
+          "categoryId": 819,
+          "chineseName": "其他食品添加剂",
+          "translatedName": "Other Food Additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031607
+        }
+      ]
+    }
+  }
+}

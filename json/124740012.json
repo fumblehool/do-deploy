@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740012,
+      "chineseName": "果/菜/肉混合泥",
+      "translatedName": "fruit/vegetable/meat mixed puree",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742005"
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 57,
+      "chineseName": "电子元器件",
+      "translatedName": "Electronic components",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10235,
+          "chineseName": "天线",
+          "translatedName": "Antenna",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 1033273,
+          "chineseName": "布线产品",
+          "translatedName": "Cabling Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 10343,
+          "chineseName": "接续设备",
+          "translatedName": "connection equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 1034824,
+          "chineseName": "电子项目合作",
+          "translatedName": "Electronic project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 1034825,
+          "chineseName": "库存电子元器件、材料",
+          "translatedName": "Stock electronic components, materials",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 1034826,
+          "chineseName": "电子代理加盟",
+          "translatedName": "Electronic agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 1037160,
+          "chineseName": "电子材料、零部件、结构件",
+          "translatedName": "Electronic materials, components and structural parts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 200828004,
+          "chineseName": "场效应管(MOSFET)",
+          "translatedName": "Field Effect Transistor (MOSFET)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 200800009,
+          "chineseName": "晶闸管(可控硅)",
+          "translatedName": "Thyristor (Silicon Controlled Thyristor)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 200804003,
+          "chineseName": "二极管",
+          "translatedName": "Diode",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 201229709,
+          "chineseName": "物联网IOT",
+          "translatedName": "IOT",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 126594004,
+          "chineseName": "电源模块",
+          "translatedName": "Power supply module",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 126628001,
+          "chineseName": "半导体IC/芯片",
+          "translatedName": "Semiconductor IC/Chip",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 200774004,
+          "chineseName": "晶体管",
+          "translatedName": "Transistor",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 126574002,
+          "chineseName": "开发板/树莓派",
+          "translatedName": "Development Board/Raspberry Pie",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 126696001,
+          "chineseName": "传感器",
+          "translatedName": "Sensor",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 127676048,
+          "chineseName": "电容器",
+          "translatedName": "Capacitor",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 200798002,
+          "chineseName": "整流器",
+          "translatedName": "Rectifier",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 127170001,
+          "chineseName": "继电器",
+          "translatedName": "Relay",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 201549101,
+          "chineseName": "连接器/互联器件",
+          "translatedName": "Connectors/Interconnects",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 50916,
+          "chineseName": "RF通信模块",
+          "translatedName": "RF Communication Module",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202058705,
+          "chineseName": "音频器件",
+          "translatedName": "Audio Devices",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202061004,
+          "chineseName": "无源元件",
+          "translatedName": "Passive components",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 523,
+          "chineseName": "开关元件",
+          "translatedName": "switching element",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202002002,
+          "chineseName": "PCBA/模块",
+          "translatedName": "PCBA/Module",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202054203,
+          "chineseName": "电路保护",
+          "translatedName": "Circuit Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202061303,
+          "chineseName": "屏显器件",
+          "translatedName": "Screen Display Device",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 50905,
+          "chineseName": "声讯系统",
+          "translatedName": "Voice system",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 50909,
+          "chineseName": "传输、交换设备",
+          "translatedName": "Transmission, switching equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 50910,
+          "chineseName": "GPS系统",
+          "translatedName": "GPS system",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202058309,
+          "chineseName": "光电子器件",
+          "translatedName": "optoelectronic device",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202059412,
+          "chineseName": "电路板/线路板",
+          "translatedName": "Circuit Board/Circuit Board",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        },
+        {
+          "categoryId": 202053613,
+          "chineseName": "晶振与频率元件",
+          "translatedName": "Crystal Oscillator and Frequency Element",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 57
+        }
+      ]
+    }
+  }
+}

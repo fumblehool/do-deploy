@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123736010,
+      "chineseName": "多媒体软件",
+      "translatedName": "multimedia software",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "734"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202025701,
+      "chineseName": "茶粉/茶膏/茶精/茶液/茶蜜",
+      "translatedName": "Tea powder/tea cream/tea essence/tea liquid/tea honey",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10041"
+    }
+  }
+}

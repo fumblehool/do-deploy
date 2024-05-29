@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036225,
+      "chineseName": "其他气象仪器",
+      "translatedName": "Other meteorological instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033858"
+    }
+  }
+}

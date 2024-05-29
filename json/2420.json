@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2420,
+      "chineseName": "广告制作",
+      "translatedName": "advertising production",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "24"
+    }
+  }
+}

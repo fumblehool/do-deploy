@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201332716,
+      "chineseName": "磁力片/磁力球/磁力积木",
+      "translatedName": "Magnetic sheet/magnetic ball/magnetic building blocks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

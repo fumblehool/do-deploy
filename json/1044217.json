@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044217,
+      "chineseName": "祭祀/殡葬用品",
+      "translatedName": "Sacrifice/Funeral Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201332112,
+          "chineseName": "花圈",
+          "translatedName": "wreath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201354508,
+          "chineseName": "灵牌位",
+          "translatedName": "Spirit Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201354509,
+          "chineseName": "防潮盒",
+          "translatedName": "Moisture-proof box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201336422,
+          "chineseName": "灵堂布置用品",
+          "translatedName": "Lingtang layout supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201345209,
+          "chineseName": "纸扎祭祀用品",
+          "translatedName": "Paper Ritual Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201334119,
+          "chineseName": "骨灰盒/坛/罐",
+          "translatedName": "urn/jar/jar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201334623,
+          "chineseName": "墓碑",
+          "translatedName": "Tombstone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201339112,
+          "chineseName": "祭祀香炉/鼎炉",
+          "translatedName": "Sacrificial incense burner/tripod burner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201339213,
+          "chineseName": "棺材",
+          "translatedName": "Coffin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201349320,
+          "chineseName": "灵棚",
+          "translatedName": "spirit shed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201344911,
+          "chineseName": "装尸袋",
+          "translatedName": "Body Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201351917,
+          "chineseName": "挽联",
+          "translatedName": "elegiac couplet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201359513,
+          "chineseName": "寿衣/鞋/帽",
+          "translatedName": "Shroud/Shoes/Hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201338015,
+          "chineseName": "祭祀蜡烛",
+          "translatedName": "Sacrificial candle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201346407,
+          "chineseName": "冥币/纸钱",
+          "translatedName": "Mingbi/Paper Money",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 201350415,
+          "chineseName": "随葬品",
+          "translatedName": "Burial goods",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        },
+        {
+          "categoryId": 2826,
+          "chineseName": "殡葬用品",
+          "translatedName": "Funeral Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044217
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305816,
+      "chineseName": "奇石摆件",
+      "translatedName": "Stone Ornaments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232601"
+    }
+  }
+}

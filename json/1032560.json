@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032560,
+      "chineseName": "曝气设备",
+      "translatedName": "Aeration equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "77"
+    }
+  }
+}

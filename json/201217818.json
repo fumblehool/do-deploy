@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201217818,
+      "chineseName": "宠物智能喂养设备",
+      "translatedName": "Pet intelligent feeding equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232602"
+    }
+  }
+}

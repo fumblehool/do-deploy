@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122938001,
+      "chineseName": "折叠床",
+      "translatedName": "Folding bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122512002"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034240,
+      "chineseName": "空气处理化学品",
+      "translatedName": "Air Treatment Chemicals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034241,
+          "chineseName": "其他空气处理化学品",
+          "translatedName": "Other Air Treatment Chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034240
+        },
+        {
+          "categoryId": 1034242,
+          "chineseName": "光触媒",
+          "translatedName": "Photocatalyst",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034240
+        },
+        {
+          "categoryId": 1034243,
+          "chineseName": "装修污染清除剂",
+          "translatedName": "Decoration pollution scavenger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034240
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034193,
+      "chineseName": "有价证券防伪",
+      "translatedName": "Security of Securities",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3401"
+    }
+  }
+}

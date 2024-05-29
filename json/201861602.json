@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201861602,
+      "chineseName": "洗烘套装",
+      "translatedName": "washing and drying suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047393"
+    }
+  }
+}

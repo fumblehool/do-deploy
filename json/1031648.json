@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031648,
+      "chineseName": "塑料造粒机",
+      "translatedName": "plastic granulator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031646"
+    }
+  }
+}

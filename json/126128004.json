@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126128004,
+      "chineseName": "名器倒模",
+      "translatedName": "Inverted mold of famous device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126150002"
+    }
+  }
+}

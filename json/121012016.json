@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012016,
+      "chineseName": "普通热轧卷",
+      "translatedName": "Ordinary hot rolled coil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012015"
+    }
+  }
+}

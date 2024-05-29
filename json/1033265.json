@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033265,
+      "chineseName": "热转印机",
+      "translatedName": "heat transfer machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3403"
+    }
+  }
+}

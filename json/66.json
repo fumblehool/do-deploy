@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 66,
+      "chineseName": "医药、保养",
+      "translatedName": "Medicine, maintenance",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033302,
+          "chineseName": "医疗器械代理加盟",
+          "translatedName": "Medical Device Agent Joins",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 10529,
+          "chineseName": "制药辅料",
+          "translatedName": "Pharmaceutical Excipients",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 10532,
+          "chineseName": "矿物原药材",
+          "translatedName": "raw mineral herbs",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 10535,
+          "chineseName": "医疗器械制造设备",
+          "translatedName": "Medical Device Manufacturing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 125070011,
+          "chineseName": "西药",
+          "translatedName": "western medicine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1614,
+          "chineseName": "畜禽用药",
+          "translatedName": "drugs for livestock and poultry",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1615,
+          "chineseName": "制药设备",
+          "translatedName": "Pharmaceutical Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1602,
+          "chineseName": "中成药",
+          "translatedName": "Chinese patent medicine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1605,
+          "chineseName": "酶制剂、酵素制剂",
+          "translatedName": "Enzyme preparation, enzyme preparation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1606,
+          "chineseName": "生物制品",
+          "translatedName": "Biological Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1611,
+          "chineseName": "医疗器具",
+          "translatedName": "Medical apparatus",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1612,
+          "chineseName": "医疗护理（器械）",
+          "translatedName": "Medical Care (Devices)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 1613,
+          "chineseName": "医用材料",
+          "translatedName": "Medical Materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 157,
+          "chineseName": "消毒防腐药剂",
+          "translatedName": "Disinfection antiseptic agent",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 159,
+          "chineseName": "兽用器械",
+          "translatedName": "Veterinary instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 201876506,
+          "chineseName": "三类医疗器械",
+          "translatedName": "Three Types of Medical Devices",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        },
+        {
+          "categoryId": 202058703,
+          "chineseName": "个人护理（医疗器械）",
+          "translatedName": "Personal Care (Medical Devices)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 66
+        }
+      ]
+    }
+  }
+}

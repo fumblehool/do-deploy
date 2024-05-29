@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125496001,
+      "chineseName": "花盆、花瓶",
+      "translatedName": "Flowerpot, vase",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033759,
+          "chineseName": "花盆容器",
+          "translatedName": "flowerpot container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        },
+        {
+          "categoryId": 122332004,
+          "chineseName": "水培植物瓶、生态瓶",
+          "translatedName": "Hydroponic plant bottle, ecological bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        },
+        {
+          "categoryId": 124270001,
+          "chineseName": "花盆装饰",
+          "translatedName": "Flower pot decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        },
+        {
+          "categoryId": 124268001,
+          "chineseName": "微景观瓶",
+          "translatedName": "Micro landscape bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        },
+        {
+          "categoryId": 201230513,
+          "chineseName": "微景观",
+          "translatedName": "Micro-landscape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        },
+        {
+          "categoryId": 201229009,
+          "chineseName": "装饰花瓶",
+          "translatedName": "Decorative Vase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125496001
+        }
+      ]
+    }
+  }
+}

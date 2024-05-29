@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032142,
+      "chineseName": "气门部件",
+      "translatedName": "Valve components",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10110"
+    }
+  }
+}

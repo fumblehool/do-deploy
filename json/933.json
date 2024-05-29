@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 933,
+      "chineseName": "铁合金",
+      "translatedName": "Ferroalloy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035852,
+          "chineseName": "其他铁合金",
+          "translatedName": "Other ferroalloys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035853,
+          "chineseName": "磷铁",
+          "translatedName": "iron phosphorus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035855,
+          "chineseName": "铌铁",
+          "translatedName": "ferro-niobium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035856,
+          "chineseName": "钒铁",
+          "translatedName": "FeV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035857,
+          "chineseName": "钨铁",
+          "translatedName": "ferrotungsten",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035858,
+          "chineseName": "钼铁",
+          "translatedName": "Ferromolybdenum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1035859,
+          "chineseName": "钛铁",
+          "translatedName": "Ferrotitanium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1036936,
+          "chineseName": "铸铁",
+          "translatedName": "cast iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1046019,
+          "chineseName": "硅系",
+          "translatedName": "Silicon system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1046020,
+          "chineseName": "铬系",
+          "translatedName": "Chromium series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 1046021,
+          "chineseName": "锰系",
+          "translatedName": "manganese system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        },
+        {
+          "categoryId": 201214601,
+          "chineseName": "钨钢",
+          "translatedName": "Tungsten Steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 933
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 70,
+      "chineseName": "安全、防护",
+      "translatedName": "Safety, protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033898,
+          "chineseName": "气体检测仪",
+          "translatedName": "Gas detector",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1033206,
+          "chineseName": "其他作业保护",
+          "translatedName": "Other job protection",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1033207,
+          "chineseName": "软梯、逃生梯",
+          "translatedName": "Ladder, escape ladder",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041282,
+          "chineseName": "交通控制管理设备",
+          "translatedName": "Traffic Control Management Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041364,
+          "chineseName": "库存、二手安防产品",
+          "translatedName": "Inventory, second-hand security products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041366,
+          "chineseName": "信息安全产品",
+          "translatedName": "Information Security Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041377,
+          "chineseName": "防雷电设备",
+          "translatedName": "Lightning protection equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041385,
+          "chineseName": "生物识别技术设备",
+          "translatedName": "Biometric technology equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041389,
+          "chineseName": "家居智能",
+          "translatedName": "Home intelligent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041393,
+          "chineseName": "智能交通",
+          "translatedName": "intelligent transportation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041396,
+          "chineseName": "交通检测设备",
+          "translatedName": "Traffic detection equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041269,
+          "chineseName": "监控传输设备",
+          "translatedName": "Monitoring and transmission equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1041272,
+          "chineseName": "监控记录设备",
+          "translatedName": "Monitoring and recording equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1036658,
+          "chineseName": "洗眼器",
+          "translatedName": "Eyewash",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124022010,
+          "chineseName": "面部防护",
+          "translatedName": "Face Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 123926002,
+          "chineseName": "手部防护",
+          "translatedName": "Hand protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124190002,
+          "chineseName": "听力防护",
+          "translatedName": "Hearing protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 10541,
+          "chineseName": "安全防护产品项目合作",
+          "translatedName": "Safety protection product project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124158001,
+          "chineseName": "安全标识",
+          "translatedName": "Safety identification",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124160001,
+          "chineseName": "报警器",
+          "translatedName": "Alarm",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124160004,
+          "chineseName": "头部防护",
+          "translatedName": "Head protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124014010,
+          "chineseName": "呼吸防护",
+          "translatedName": "Respiratory Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124154004,
+          "chineseName": "眼部防护",
+          "translatedName": "Eye Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124166001,
+          "chineseName": "足部防护",
+          "translatedName": "Foot Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124184002,
+          "chineseName": "坠落防护",
+          "translatedName": "Fall Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 124016011,
+          "chineseName": "身体防护",
+          "translatedName": "Body Protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 126510005,
+          "chineseName": "室内安全检测",
+          "translatedName": "Indoor safety detection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1461,
+          "chineseName": "工业加湿器",
+          "translatedName": "Industrial humidifier",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 201382304,
+          "chineseName": "安全网",
+          "translatedName": "Safety net",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 1336,
+          "chineseName": "门禁考勤器材及系统",
+          "translatedName": "Access Control and Attendance Equipment and System",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 201373126,
+          "chineseName": "防爆器材",
+          "translatedName": "Explosion-proof equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 201373319,
+          "chineseName": "救生器材",
+          "translatedName": "Life-saving equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 126448003,
+          "chineseName": "工业及商用清洁",
+          "translatedName": "Industrial and Commercial Cleaning",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 201330406,
+          "chineseName": "自然灾害防护",
+          "translatedName": "natural disaster protection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 90,
+          "chineseName": "消防设备",
+          "translatedName": "Fire fighting equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3001,
+          "chineseName": "安全检查设备",
+          "translatedName": "Safety inspection equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3002,
+          "chineseName": "防盗报警设备",
+          "translatedName": "Anti-theft alarm equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3003,
+          "chineseName": "防身护具",
+          "translatedName": "Armor",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3011,
+          "chineseName": "安防监控设备",
+          "translatedName": "Security monitoring equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3015,
+          "chineseName": "交通安全设施",
+          "translatedName": "Traffic safety facilities",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3016,
+          "chineseName": "其他安全防护设备",
+          "translatedName": "Other safety protection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3017,
+          "chineseName": "智能卡",
+          "translatedName": "Smart Card",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3019,
+          "chineseName": "防静电产品",
+          "translatedName": "Anti-static products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        },
+        {
+          "categoryId": 3020,
+          "chineseName": "楼宇对讲设备",
+          "translatedName": "Building intercom equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 70
+        }
+      ]
+    }
+  }
+}

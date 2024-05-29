@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10211,
+      "chineseName": "分析仪器",
+      "translatedName": "analytical instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031861,
+          "chineseName": "水质分析仪",
+          "translatedName": "water quality analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033889,
+          "chineseName": "其他分析仪器",
+          "translatedName": "Other analytical instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033890,
+          "chineseName": "粒度仪",
+          "translatedName": "Particle sizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033893,
+          "chineseName": "定硫仪",
+          "translatedName": "Sulfur detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033891,
+          "chineseName": "量热仪",
+          "translatedName": "calorimeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033894,
+          "chineseName": "采样器",
+          "translatedName": "Sampler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033895,
+          "chineseName": "浊度计",
+          "translatedName": "turbidity meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033896,
+          "chineseName": "水分计",
+          "translatedName": "moisture meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033899,
+          "chineseName": "滴定仪",
+          "translatedName": "titrator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033900,
+          "chineseName": "电导仪器",
+          "translatedName": "conductivity instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033901,
+          "chineseName": "粘度计",
+          "translatedName": "Viscometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033902,
+          "chineseName": "浓度计",
+          "translatedName": "Concentration meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1033903,
+          "chineseName": "PH计",
+          "translatedName": "PH meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1036113,
+          "chineseName": "溶氧仪",
+          "translatedName": "dissolved oxygen meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1036114,
+          "chineseName": "燃烧效率分析仪",
+          "translatedName": "combustion efficiency analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1035920,
+          "chineseName": "密度计",
+          "translatedName": "density meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1035921,
+          "chineseName": "烟度计",
+          "translatedName": "smoke meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1035923,
+          "chineseName": "元素分析仪器",
+          "translatedName": "elemental analysis instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1035924,
+          "chineseName": "紫外分析仪",
+          "translatedName": "Ultraviolet analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        },
+        {
+          "categoryId": 1035925,
+          "chineseName": "碳硫分析仪",
+          "translatedName": "carbon sulfur analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10211
+        }
+      ]
+    }
+  }
+}

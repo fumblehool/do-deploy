@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201220511,
+      "chineseName": "嘴套",
+      "translatedName": "Mouth sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121828001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201334119,
+      "chineseName": "骨灰盒/坛/罐",
+      "translatedName": "urn/jar/jar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044217"
+    }
+  }
+}

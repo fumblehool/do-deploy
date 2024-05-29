@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126030001,
+      "chineseName": "其它男士内裤",
+      "translatedName": "Other Men's Underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201835213"
+    }
+  }
+}

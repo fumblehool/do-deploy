@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032373,
+      "chineseName": "化学计量标准器具",
+      "translatedName": "chemical metrology standard instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032371"
+    }
+  }
+}

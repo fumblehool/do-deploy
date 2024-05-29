@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036288,
+      "chineseName": "静电膜、收缩膜",
+      "translatedName": "Electrostatic film, shrink film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033003"
+    }
+  }
+}

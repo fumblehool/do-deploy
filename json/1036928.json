@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036928,
+      "chineseName": "冲压件、挤压件",
+      "translatedName": "Stamping parts, extrusion parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10104"
+    }
+  }
+}

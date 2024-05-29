@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50915,
+      "chineseName": "电话机配附件",
+      "translatedName": "Telephone set with accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "509",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10342,
+          "chineseName": "来电显示器",
+          "translatedName": "Call Display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 1033992,
+          "chineseName": "其他电话机配附件",
+          "translatedName": "Other telephone with accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 1033993,
+          "chineseName": "电话铃",
+          "translatedName": "telephone bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 1033994,
+          "chineseName": "电话计费器",
+          "translatedName": "telephone meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 1033995,
+          "chineseName": "电话管理器",
+          "translatedName": "Phone Manager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 1033996,
+          "chineseName": "电话答录机",
+          "translatedName": "answering machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        },
+        {
+          "categoryId": 10305,
+          "chineseName": "拨号器",
+          "translatedName": "Dialer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50915
+        }
+      ]
+    }
+  }
+}

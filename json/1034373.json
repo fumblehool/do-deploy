@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034373,
+      "chineseName": "成品鞋、鞋件代理加盟",
+      "translatedName": "Finished shoes, shoes agents to join.",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125748005"
+    }
+  }
+}

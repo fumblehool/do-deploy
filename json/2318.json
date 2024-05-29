@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2318,
+      "chineseName": "工业用纸",
+      "translatedName": "Industrial Paper",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032937,
+          "chineseName": "浸渍纸",
+          "translatedName": "impregnated paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032939,
+          "chineseName": "试纸",
+          "translatedName": "Test paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032940,
+          "chineseName": "滤纸",
+          "translatedName": "filter paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032941,
+          "chineseName": "绝缘纸",
+          "translatedName": "insulation paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032943,
+          "chineseName": "离型纸",
+          "translatedName": "release paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032934,
+          "chineseName": "其他工业用纸",
+          "translatedName": "Other Industrial Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        },
+        {
+          "categoryId": 1032935,
+          "chineseName": "防锈纸",
+          "translatedName": "antirust paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2318
+        }
+      ]
+    }
+  }
+}

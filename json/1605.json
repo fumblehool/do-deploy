@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1605,
+      "chineseName": "酶制剂、酵素制剂",
+      "translatedName": "Enzyme preparation, enzyme preparation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

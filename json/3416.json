@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3416,
+      "chineseName": "专业音响、录音设备",
+      "translatedName": "Professional audio, recording equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034230,
+          "chineseName": "空白录音带",
+          "translatedName": "Blank Audio Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034105,
+          "chineseName": "其他专业录音、放音设备",
+          "translatedName": "Other professional recording and playback equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034106,
+          "chineseName": "调音台",
+          "translatedName": "mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034107,
+          "chineseName": "录音设备",
+          "translatedName": "Recording equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034108,
+          "chineseName": "录音棚",
+          "translatedName": "recording studio",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034109,
+          "chineseName": "专业话筒",
+          "translatedName": "Professional Microphone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1034110,
+          "chineseName": "专业音响",
+          "translatedName": "Professional Audio",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        },
+        {
+          "categoryId": 1036818,
+          "chineseName": "效果器",
+          "translatedName": "Effect",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3416
+        }
+      ]
+    }
+  }
+}

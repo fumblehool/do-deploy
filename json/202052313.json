@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052313,
+      "chineseName": "应答器",
+      "translatedName": "Transponder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229709"
+    }
+  }
+}

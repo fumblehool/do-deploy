@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 41509,
+      "chineseName": "其他天然纺织原料",
+      "translatedName": "Other Natural Textile Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "415"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1227,
+      "chineseName": "起重装卸设备",
+      "translatedName": "Lifting and handling equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033603,
+          "chineseName": "登车桥",
+          "translatedName": "boarding bridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1033604,
+          "chineseName": "起重葫芦",
+          "translatedName": "Hoist hoist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1033605,
+          "chineseName": "提升机",
+          "translatedName": "Hoist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1033606,
+          "chineseName": "升降台",
+          "translatedName": "Lifting table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1033602,
+          "chineseName": "其他起重装卸设备",
+          "translatedName": "Other lifting and handling equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1032215,
+          "chineseName": "千斤顶",
+          "translatedName": "Jack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 1035380,
+          "chineseName": "吊钩、抓钩",
+          "translatedName": "Hook, grappling hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 121188006,
+          "chineseName": "起重钳",
+          "translatedName": "Lifter pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 141909,
+          "chineseName": "滑轮",
+          "translatedName": "Pulley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201913602,
+          "chineseName": "防爆葫芦/小车",
+          "translatedName": "Explosion-proof hoist/trolley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201921504,
+          "chineseName": "臂吊",
+          "translatedName": "arm crane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201912503,
+          "chineseName": "手动升降平台车",
+          "translatedName": "Manual lifting platform truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201922602,
+          "chineseName": "平衡器",
+          "translatedName": "Balancer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201919903,
+          "chineseName": "葫芦配件",
+          "translatedName": "Hoist accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201920202,
+          "chineseName": "真空吊装",
+          "translatedName": "Vacuum lifting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        },
+        {
+          "categoryId": 201917206,
+          "chineseName": "牵引器",
+          "translatedName": "Tractor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1227
+        }
+      ]
+    }
+  }
+}

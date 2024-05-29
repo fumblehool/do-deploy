@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034177,
+      "chineseName": "移印机",
+      "translatedName": "pad printing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3403"
+    }
+  }
+}

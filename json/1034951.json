@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034951,
+      "chineseName": "橡胶接头机",
+      "translatedName": "Rubber joint machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10410"
+    }
+  }
+}

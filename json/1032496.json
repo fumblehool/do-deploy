@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032496,
+      "chineseName": "铣床",
+      "translatedName": "Milling Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1426"
+    }
+  }
+}

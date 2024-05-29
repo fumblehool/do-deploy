@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035749,
+      "chineseName": "其他优特钢",
+      "translatedName": "Other Ute Steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "927"
+    }
+  }
+}

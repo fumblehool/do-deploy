@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032350,
+      "chineseName": "其他充电器",
+      "translatedName": "Other Chargers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "629"
+    }
+  }
+}

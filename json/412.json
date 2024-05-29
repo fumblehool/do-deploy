@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 412,
+      "chineseName": "麻类面料",
+      "translatedName": "hemp fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031762,
+          "chineseName": "其他麻类面料",
+          "translatedName": "Other hemp fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        },
+        {
+          "categoryId": 1031763,
+          "chineseName": "剑麻面料",
+          "translatedName": "sisal fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        },
+        {
+          "categoryId": 1031764,
+          "chineseName": "黄麻面料",
+          "translatedName": "jute fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        },
+        {
+          "categoryId": 1031765,
+          "chineseName": "苎麻面料",
+          "translatedName": "ramie fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        },
+        {
+          "categoryId": 1031766,
+          "chineseName": "亚麻面料",
+          "translatedName": "Linen Fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        },
+        {
+          "categoryId": 1031767,
+          "chineseName": "大麻面料",
+          "translatedName": "hemp fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 412
+        }
+      ]
+    }
+  }
+}

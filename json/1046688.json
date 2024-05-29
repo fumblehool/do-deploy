@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046688,
+      "chineseName": "平板电脑配件",
+      "translatedName": "Tablet Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046689,
+          "chineseName": "平板电脑保护套",
+          "translatedName": "Tablet Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 1046691,
+          "chineseName": "平板电脑外接键盘",
+          "translatedName": "Tablet external keyboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 1046692,
+          "chineseName": "其他平板电脑配件",
+          "translatedName": "Other Tablet Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 122388007,
+          "chineseName": "平板电脑保护膜",
+          "translatedName": "Tablet PC Protective Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 122390008,
+          "chineseName": "平板电脑充电器",
+          "translatedName": "Tablet PC Charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 122356004,
+          "chineseName": "平板电脑数据线",
+          "translatedName": "Tablet PC data cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        },
+        {
+          "categoryId": 121928005,
+          "chineseName": "平板电脑支架",
+          "translatedName": "Tablet stand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046688
+        }
+      ]
+    }
+  }
+}

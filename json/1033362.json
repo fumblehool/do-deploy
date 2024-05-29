@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033362,
+      "chineseName": "冶炼成套设备",
+      "translatedName": "Smelting complete equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "914"
+    }
+  }
+}

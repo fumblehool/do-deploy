@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044437,
+      "chineseName": "不锈钢方钢",
+      "translatedName": "stainless steel square steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10518"
+    }
+  }
+}

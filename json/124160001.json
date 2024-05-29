@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124160001,
+      "chineseName": "报警器",
+      "translatedName": "Alarm",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033187,
+          "chineseName": "报警主机",
+          "translatedName": "Alarm host",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160001
+        },
+        {
+          "categoryId": 1033191,
+          "chineseName": "报警配件",
+          "translatedName": "Alarm accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160001
+        },
+        {
+          "categoryId": 1033192,
+          "chineseName": "报警探测器",
+          "translatedName": "Alarm detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160001
+        },
+        {
+          "categoryId": 1042513,
+          "chineseName": "其他报警器",
+          "translatedName": "Other alarms",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124160001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037096,
+      "chineseName": "丙醛",
+      "translatedName": "Propionaldehyde",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80309"
+    }
+  }
+}

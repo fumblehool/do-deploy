@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032773,
+      "chineseName": "其他生活用纸",
+      "translatedName": "Other household paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

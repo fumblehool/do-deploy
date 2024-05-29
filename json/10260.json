@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10260,
+      "chineseName": "耗材",
+      "translatedName": "Consumables",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033240,
+          "chineseName": "磁盘、磁带",
+          "translatedName": "Disk, Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1033113,
+          "chineseName": "其他耗材",
+          "translatedName": "Other Consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1033114,
+          "chineseName": "碳粉",
+          "translatedName": "Toner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1033115,
+          "chineseName": "色带、碳带",
+          "translatedName": "Ribbon, carbon ribbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1033116,
+          "chineseName": "硒鼓、粉盒",
+          "translatedName": "Toner cartridge, toner cartridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1033117,
+          "chineseName": "墨盒、墨水",
+          "translatedName": "Ink cartridge, ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1036910,
+          "chineseName": "连续供墨系统",
+          "translatedName": "continuous ink supply system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1038560,
+          "chineseName": "刻录碟片",
+          "translatedName": "Burn Discs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 122700002,
+          "chineseName": "鼓芯",
+          "translatedName": "Drum core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        },
+        {
+          "categoryId": 1908,
+          "chineseName": "胶片、胶卷",
+          "translatedName": "Film, film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10260
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1336,
+      "chineseName": "门禁考勤器材及系统",
+      "translatedName": "Access Control and Attendance Equipment and System",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033174,
+          "chineseName": "其他门禁考勤器材及系统",
+          "translatedName": "Other access control and attendance equipment and systems",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033175,
+          "chineseName": "门禁考勤系统",
+          "translatedName": "Access Control Attendance System",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033176,
+          "chineseName": "一卡通管理系统",
+          "translatedName": "One-card management system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033177,
+          "chineseName": "门禁控制器",
+          "translatedName": "Access Controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033178,
+          "chineseName": "闭门器、开门器",
+          "translatedName": "Door closer, door opener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033179,
+          "chineseName": "门禁机",
+          "translatedName": "Access machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 1033180,
+          "chineseName": "门禁读卡器",
+          "translatedName": "Access Card Reader",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        },
+        {
+          "categoryId": 3014,
+          "chineseName": "电子巡更系统",
+          "translatedName": "Electronic patrol system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1336
+        }
+      ]
+    }
+  }
+}

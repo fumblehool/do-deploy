@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201903201,
+      "chineseName": "无主灯照明",
+      "translatedName": "Lighting without main lamp",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032767,
+          "chineseName": "筒灯",
+          "translatedName": "Downlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 1034963,
+          "chineseName": "格栅灯",
+          "translatedName": "Grille lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 1046769,
+          "chineseName": "LED灯带",
+          "translatedName": "LED light strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 123854003,
+          "chineseName": "射灯",
+          "translatedName": "Spotlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 121186009,
+          "chineseName": "LED豆胆灯",
+          "translatedName": "LED bean gall lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 123618001,
+          "chineseName": "LED硬灯条",
+          "translatedName": "LED hard light bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 121192017,
+          "chineseName": "LED轨道灯",
+          "translatedName": "LED Track Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        },
+        {
+          "categoryId": 201883804,
+          "chineseName": "磁吸轨道灯",
+          "translatedName": "Magnetic Track Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201903201
+        }
+      ]
+    }
+  }
+}

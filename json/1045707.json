@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045707,
+      "chineseName": "实验室用品",
+      "translatedName": "Laboratory Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124736035,
+          "chineseName": "实验室仪器",
+          "translatedName": "Laboratory Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045707
+        },
+        {
+          "categoryId": 124736036,
+          "chineseName": "实验器皿",
+          "translatedName": "experimental vessel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045707
+        },
+        {
+          "categoryId": 124734034,
+          "chineseName": "实验用纸",
+          "translatedName": "Experimental paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045707
+        },
+        {
+          "categoryId": 201155705,
+          "chineseName": "鳄鱼夹",
+          "translatedName": "Alligator Clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045707
+        },
+        {
+          "categoryId": 2116,
+          "chineseName": "实验室专用设备",
+          "translatedName": "Special laboratory equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045707
+        }
+      ]
+    }
+  }
+}

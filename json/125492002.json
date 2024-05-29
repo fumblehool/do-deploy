@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125492002,
+      "chineseName": "花卉",
+      "translatedName": "Flowers",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033701,
+          "chineseName": "一、二年生花卉",
+          "translatedName": "1. biennial flowers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492002
+        },
+        {
+          "categoryId": 1045497,
+          "chineseName": "球根花卉",
+          "translatedName": "bulbous flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492002
+        },
+        {
+          "categoryId": 1045493,
+          "chineseName": "宿根花卉",
+          "translatedName": "perennial flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492002
+        },
+        {
+          "categoryId": 1046605,
+          "chineseName": "鲜切花",
+          "translatedName": "fresh cut flowers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492002
+        },
+        {
+          "categoryId": 1045515,
+          "chineseName": "月季蔷薇类植物",
+          "translatedName": "Rose plants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492002
+        }
+      ]
+    }
+  }
+}

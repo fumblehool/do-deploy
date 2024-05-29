@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038748,
+      "chineseName": "手机防滑垫",
+      "translatedName": "Mobile phone anti-skid pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044130"
+    }
+  }
+}

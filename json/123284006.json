@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123284006,
+      "chineseName": "不锈钢线材",
+      "translatedName": "Stainless Steel Wire",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033429,
+          "chineseName": "其他不锈钢线材",
+          "translatedName": "Other Stainless Steel Wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        },
+        {
+          "categoryId": 123272006,
+          "chineseName": "不锈钢中硬线",
+          "translatedName": "Stainless steel medium hard wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        },
+        {
+          "categoryId": 123286006,
+          "chineseName": "不锈钢弹簧线",
+          "translatedName": "Stainless steel spring wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        },
+        {
+          "categoryId": 123374002,
+          "chineseName": "不锈钢全软线",
+          "translatedName": "Stainless steel full cord",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        },
+        {
+          "categoryId": 123282010,
+          "chineseName": "不锈钢螺丝线",
+          "translatedName": "Stainless steel screw wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        },
+        {
+          "categoryId": 123292002,
+          "chineseName": "不锈钢丝绳",
+          "translatedName": "stainless steel wire rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123284006
+        }
+      ]
+    }
+  }
+}

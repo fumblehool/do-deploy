@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156902,
+      "chineseName": "其他民族服饰",
+      "translatedName": "Other national costumes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201158403"
+    }
+  }
+}

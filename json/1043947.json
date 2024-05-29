@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043947,
+      "chineseName": "防蚊、防蛀、灭鼠杀虫用品",
+      "translatedName": "Anti-mosquito, anti-moth, rodent and insecticide supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548001"
+    }
+  }
+}

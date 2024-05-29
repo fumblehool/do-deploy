@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039480,
+      "chineseName": "盖板及沟盖",
+      "translatedName": "Cover plate and trench cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10435"
+    }
+  }
+}

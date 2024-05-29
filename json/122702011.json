@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122702011,
+      "chineseName": "喷雾仪、蒸脸仪、补水仪",
+      "translatedName": "Spray instrument, steam face instrument, hydrating instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610009"
+    }
+  }
+}

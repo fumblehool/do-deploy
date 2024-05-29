@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201900010,
+      "chineseName": "绿色环保包装",
+      "translatedName": "green environmental protection packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201915002,
+          "chineseName": "环保油墨包材",
+          "translatedName": "Environmental protection ink package material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900010
+        },
+        {
+          "categoryId": 201915202,
+          "chineseName": "免胶带纸箱",
+          "translatedName": "Free tape carton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900010
+        }
+      ]
+    }
+  }
+}

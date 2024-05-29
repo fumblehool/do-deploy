@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201365402,
+      "chineseName": "种植包装",
+      "translatedName": "Planting packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201368001"
+    }
+  }
+}

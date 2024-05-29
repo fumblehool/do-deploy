@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122216007,
+      "chineseName": "牙膏",
+      "translatedName": "Toothpaste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122268004"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052806,
+      "chineseName": "少数民族服饰",
+      "translatedName": "minority costumes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202056505,
+          "chineseName": "傣族服饰",
+          "translatedName": "Dai clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202055302,
+          "chineseName": "蒙古族服饰",
+          "translatedName": "Mongolian Costume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202055702,
+          "chineseName": "其它民族服饰",
+          "translatedName": "Other national costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202062102,
+          "chineseName": "朝鲜族服饰",
+          "translatedName": "Korean clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202062301,
+          "chineseName": "藏族服饰",
+          "translatedName": "Tibetan Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202062401,
+          "chineseName": "壮族服饰",
+          "translatedName": "Zhuang Costume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202062501,
+          "chineseName": "哈尼族服饰",
+          "translatedName": "Hani costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        },
+        {
+          "categoryId": 202060904,
+          "chineseName": "苗族服饰",
+          "translatedName": "Miao clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052806
+        }
+      ]
+    }
+  }
+}

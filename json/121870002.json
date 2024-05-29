@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121870002,
+      "chineseName": "运动挎包、挂包",
+      "translatedName": "Sports satchel, hanging bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545602"
+    }
+  }
+}

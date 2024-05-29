@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122984008,
+      "chineseName": "餐厨具玩具",
+      "translatedName": "Kitchenware Toy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962011"
+    }
+  }
+}

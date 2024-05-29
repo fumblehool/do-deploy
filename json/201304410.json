@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304410,
+      "chineseName": "阳光罐/月光罐",
+      "translatedName": "Sunshine tank/moonlight tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305307"
+    }
+  }
+}

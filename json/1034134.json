@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034134,
+      "chineseName": "MMDS接收系统",
+      "translatedName": "MMDS Receiving System",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3421"
+    }
+  }
+}

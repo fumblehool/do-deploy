@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036159,
+      "chineseName": "电动车仪表",
+      "translatedName": "Electric vehicle instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10109"
+    }
+  }
+}

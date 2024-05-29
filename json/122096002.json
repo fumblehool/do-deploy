@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122096002,
+      "chineseName": "抓绒衣裤",
+      "translatedName": "Fleece Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048070"
+    }
+  }
+}

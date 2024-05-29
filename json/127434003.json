@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127434003,
+      "chineseName": "铂金/PT其他饰品、投资铂金",
+      "translatedName": "Platinum/PT Other Accessories, Investment Platinum",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

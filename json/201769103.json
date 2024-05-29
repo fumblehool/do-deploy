@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201769103,
+      "chineseName": "耳机支架",
+      "translatedName": "Headset holder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10262"
+    }
+  }
+}

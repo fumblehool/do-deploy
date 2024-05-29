@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3102,
+      "chineseName": "农场、牧场",
+      "translatedName": "Farm, Ranch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "31"
+    }
+  }
+}

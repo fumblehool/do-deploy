@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126506001,
+      "chineseName": "酒水饮料包装",
+      "translatedName": "Beverage packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036315,
+          "chineseName": "其他酒水饮料包装",
+          "translatedName": "Other Beverage Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506001
+        },
+        {
+          "categoryId": 126508001,
+          "chineseName": "饮料玻璃瓶",
+          "translatedName": "beverage glass bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506001
+        },
+        {
+          "categoryId": 126452001,
+          "chineseName": "牛奶乳品包装",
+          "translatedName": "Milk Dairy Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506001
+        },
+        {
+          "categoryId": 126454001,
+          "chineseName": "软饮料包装",
+          "translatedName": "Soft drink packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506001
+        },
+        {
+          "categoryId": 126454004,
+          "chineseName": "酒包装",
+          "translatedName": "wine packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506001
+        }
+      ]
+    }
+  }
+}

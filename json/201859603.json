@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201859603,
+      "chineseName": "户外灭蚊灯/灭蚊器",
+      "translatedName": "Outdoor mosquito lamp/mosquito killer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

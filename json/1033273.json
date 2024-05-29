@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033273,
+      "chineseName": "布线产品",
+      "translatedName": "Cabling Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033946,
+          "chineseName": "其他布线产品",
+          "translatedName": "Other Cabling Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033947,
+          "chineseName": "信息面板",
+          "translatedName": "Information Panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033948,
+          "chineseName": "理线架",
+          "translatedName": "wire management rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033949,
+          "chineseName": "水晶头",
+          "translatedName": "Crystal head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033950,
+          "chineseName": "配线架",
+          "translatedName": "Distribution frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033951,
+          "chineseName": "跳线架",
+          "translatedName": "Jumper frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033952,
+          "chineseName": "穿线管",
+          "translatedName": "Threading pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033953,
+          "chineseName": "线槽",
+          "translatedName": "Trunking",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        },
+        {
+          "categoryId": 1033954,
+          "chineseName": "线卡、线扣",
+          "translatedName": "Line card, line buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033273
+        }
+      ]
+    }
+  }
+}

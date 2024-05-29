@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122462001,
+      "chineseName": "包巾、抱被、抱毯",
+      "translatedName": "Wraped towel, quilts, blankets",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380006"
+    }
+  }
+}

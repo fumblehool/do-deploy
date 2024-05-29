@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202002204,
+      "chineseName": "蛋挞皮/蛋挞液",
+      "translatedName": "Egg tart skin/egg tart liquid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202010504"
+    }
+  }
+}

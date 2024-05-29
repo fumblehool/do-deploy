@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121928005,
+      "chineseName": "平板电脑支架",
+      "translatedName": "Tablet stand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046688"
+    }
+  }
+}

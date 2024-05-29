@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048069,
+      "chineseName": "运动休闲服装",
+      "translatedName": "sports leisure clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048096,
+          "chineseName": "运动卫衣",
+          "translatedName": "Sports Sweat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048098,
+          "chineseName": "运动裙",
+          "translatedName": "Sports Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048099,
+          "chineseName": "运动棉衣",
+          "translatedName": "Sports cotton-padded clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048101,
+          "chineseName": "运动羽绒服",
+          "translatedName": "Sports Down Jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048104,
+          "chineseName": "其他运动休闲服",
+          "translatedName": "Other sportswear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 123118001,
+          "chineseName": "运动外套",
+          "translatedName": "Sports Jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048090,
+          "chineseName": "运动T恤、POLO衫",
+          "translatedName": "Sports T-shirt, polo shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048092,
+          "chineseName": "运动裤",
+          "translatedName": "Sweatpants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048093,
+          "chineseName": "运动马甲",
+          "translatedName": "Sports vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 1048095,
+          "chineseName": "运动、休闲套装",
+          "translatedName": "Sports, leisure suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 121806003,
+          "chineseName": "速干背心",
+          "translatedName": "Quick-drying vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        },
+        {
+          "categoryId": 121868001,
+          "chineseName": "运动户外风衣",
+          "translatedName": "Sports outdoor windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048069
+        }
+      ]
+    }
+  }
+}

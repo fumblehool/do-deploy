@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033318,
+      "chineseName": "其他医疗器具",
+      "translatedName": "Other medical apparatus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1611"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045081,
+      "chineseName": "闪蒸干燥机",
+      "translatedName": "Flash dryer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10416"
+    }
+  }
+}

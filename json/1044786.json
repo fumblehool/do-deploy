@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044786,
+      "chineseName": "其他球类用品",
+      "translatedName": "Other Ball Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

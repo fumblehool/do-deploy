@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201904106,
+      "chineseName": "串串食材",
+      "translatedName": "String ingredients",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201900804"
+    }
+  }
+}

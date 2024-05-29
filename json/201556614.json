@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201556614,
+      "chineseName": "厚底凉鞋",
+      "translatedName": "Platform Sandals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125372002"
+    }
+  }
+}

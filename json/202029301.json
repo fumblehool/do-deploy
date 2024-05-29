@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029301,
+      "chineseName": "防晒腿套",
+      "translatedName": "Sunscreen Leg Sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045423"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201547901,
+      "chineseName": "收纳清洁用具",
+      "translatedName": "Storage cleaning appliance",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10295,
+          "chineseName": "厨房整理",
+          "translatedName": "Kitchen Finishing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        },
+        {
+          "categoryId": 1043151,
+          "chineseName": "卫浴整理用具",
+          "translatedName": "Bathroom Finishing Utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        },
+        {
+          "categoryId": 122390004,
+          "chineseName": "整理用具",
+          "translatedName": "Finishing utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        },
+        {
+          "categoryId": 122374002,
+          "chineseName": "衣物晾晒洗护用具",
+          "translatedName": "Clothes Drying Washer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        },
+        {
+          "categoryId": 1514,
+          "chineseName": "家务清洁用具",
+          "translatedName": "Household cleaning utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        },
+        {
+          "categoryId": 1548,
+          "chineseName": "收纳防尘",
+          "translatedName": "Dust-proof storage",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201547901
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056512,
+      "chineseName": "男装加工定制",
+      "translatedName": "Menswear processing customization",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126484002,
+          "chineseName": "成衣其他加工",
+          "translatedName": "Other processing of garments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202055712,
+          "chineseName": "成衣毛织加工",
+          "translatedName": "garment wool processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202061708,
+          "chineseName": "成衣针织加工",
+          "translatedName": "garment knitting processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202052117,
+          "chineseName": "成衣印花加工",
+          "translatedName": "garment printing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202052211,
+          "chineseName": "成衣呢料加工",
+          "translatedName": "garment woolen material processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202062907,
+          "chineseName": "成衣绣花加工",
+          "translatedName": "garment embroidery processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202062810,
+          "chineseName": "成衣压褶加工",
+          "translatedName": "garment folding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202055114,
+          "chineseName": "成衣钉珠、钉扣加工",
+          "translatedName": "Garment nail bead and nail buckle processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202060419,
+          "chineseName": "成衣亮片加工",
+          "translatedName": "Garment sequins processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202060615,
+          "chineseName": "成衣皮革加工",
+          "translatedName": "Garment leather processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202026818,
+          "chineseName": "成衣烫钻加工",
+          "translatedName": "Rhinestone processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202059009,
+          "chineseName": "成衣梭织加工",
+          "translatedName": "garment woven processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202055008,
+          "chineseName": "成衣染色加工",
+          "translatedName": "garment dyeing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202054815,
+          "chineseName": "成衣洗水加工",
+          "translatedName": "garment washing water processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202059511,
+          "chineseName": "羽绒服装加工",
+          "translatedName": "Down garment processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        },
+        {
+          "categoryId": 202053211,
+          "chineseName": "成衣牛仔加工",
+          "translatedName": "garment denim processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202056512
+        }
+      ]
+    }
+  }
+}

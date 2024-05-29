@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375322,
+      "chineseName": "救生圈",
+      "translatedName": "life buoy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373319"
+    }
+  }
+}

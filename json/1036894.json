@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036894,
+      "chineseName": "收纳袋、收纳包",
+      "translatedName": "Storage bag, storage bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1548"
+    }
+  }
+}

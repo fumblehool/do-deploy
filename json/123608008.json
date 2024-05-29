@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123608008,
+      "chineseName": "LED背光源",
+      "translatedName": "LED backlight",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123620011,
+          "chineseName": "小尺寸背光模组",
+          "translatedName": "Small size backlight module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123608008
+        },
+        {
+          "categoryId": 123620012,
+          "chineseName": "中尺寸背光模组",
+          "translatedName": "Medium size backlight module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123608008
+        },
+        {
+          "categoryId": 122220007,
+          "chineseName": "其他LED背光源",
+          "translatedName": "Other LED Backlights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123608008
+        },
+        {
+          "categoryId": 122254004,
+          "chineseName": "大尺寸背光模组",
+          "translatedName": "Large size backlight module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123608008
+        }
+      ]
+    }
+  }
+}

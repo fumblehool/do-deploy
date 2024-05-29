@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057419,
+      "chineseName": "园林草钉鞋板",
+      "translatedName": "Garden Grass Nail Shoe Board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047258"
+    }
+  }
+}

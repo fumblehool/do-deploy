@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122120001,
+      "chineseName": "普通、通勤自行车",
+      "translatedName": "Ordinary, commuter bicycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564618"
+    }
+  }
+}

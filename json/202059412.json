@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059412,
+      "chineseName": "电路板/线路板",
+      "translatedName": "Circuit Board/Circuit Board",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202053513,
+          "chineseName": "陶瓷电路板",
+          "translatedName": "ceramic circuit board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059412
+        },
+        {
+          "categoryId": 202053914,
+          "chineseName": "高频电路板",
+          "translatedName": "high frequency circuit board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059412
+        },
+        {
+          "categoryId": 202061811,
+          "chineseName": "铝基板",
+          "translatedName": "Aluminum substrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059412
+        },
+        {
+          "categoryId": 202055711,
+          "chineseName": "多层电路板",
+          "translatedName": "multilayer circuit board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059412
+        },
+        {
+          "categoryId": 202063611,
+          "chineseName": "刚柔结合板",
+          "translatedName": "rigid-flexible combination plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202059412
+        }
+      ]
+    }
+  }
+}

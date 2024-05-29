@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033349,
+      "chineseName": "其他制药设备",
+      "translatedName": "Other Pharmaceutical Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1615"
+    }
+  }
+}

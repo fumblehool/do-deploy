@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022028,
+      "chineseName": "镀锌管",
+      "translatedName": "Galvanized pipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022026"
+    }
+  }
+}

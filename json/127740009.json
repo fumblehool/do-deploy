@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127740009,
+      "chineseName": "陶瓷电容器",
+      "translatedName": "ceramic capacitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127676048"
+    }
+  }
+}

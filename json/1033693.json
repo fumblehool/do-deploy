@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033693,
+      "chineseName": "煤焦油",
+      "translatedName": "coal tar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "843"
+    }
+  }
+}

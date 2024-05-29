@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201661901,
+      "chineseName": "电动车车罩",
+      "translatedName": "Electric car cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016003"
+    }
+  }
+}

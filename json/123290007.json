@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123290007,
+      "chineseName": "不锈钢管",
+      "translatedName": "Stainless steel pipe",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033431,
+          "chineseName": "其他不锈钢管",
+          "translatedName": "Other Stainless Steel Pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123284012,
+          "chineseName": "不锈钢焊管",
+          "translatedName": "Stainless steel welded pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123286010,
+          "chineseName": "不锈钢毛细管",
+          "translatedName": "Stainless steel capillary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123286011,
+          "chineseName": "不锈钢无缝管",
+          "translatedName": "stainless steel seamless tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123292006,
+          "chineseName": "不锈钢方管",
+          "translatedName": "Stainless steel square tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123292007,
+          "chineseName": "不锈钢矩形管",
+          "translatedName": "stainless steel rectangular tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123282011,
+          "chineseName": "不锈钢圆管",
+          "translatedName": "Stainless steel round tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        },
+        {
+          "categoryId": 123290010,
+          "chineseName": "不锈钢异型管",
+          "translatedName": "Stainless steel shaped pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290007
+        }
+      ]
+    }
+  }
+}

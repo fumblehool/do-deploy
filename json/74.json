@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 74,
+      "chineseName": "极限运动用品",
+      "translatedName": "Extreme Sports Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122114003,
+          "chineseName": "滑翔用品",
+          "translatedName": "Gliding Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 74
+        },
+        {
+          "categoryId": 122088004,
+          "chineseName": "跳伞用品",
+          "translatedName": "Parachuting Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 74
+        },
+        {
+          "categoryId": 2047,
+          "chineseName": "其他极限运动用品",
+          "translatedName": "Other extreme sports supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 74
+        },
+        {
+          "categoryId": 2052,
+          "chineseName": "蹦极用品",
+          "translatedName": "Bungee supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 74
+        }
+      ]
+    }
+  }
+}

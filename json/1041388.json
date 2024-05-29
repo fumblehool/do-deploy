@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041388,
+      "chineseName": "其他生物识别技术设备",
+      "translatedName": "Other Biometric Devices",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041385"
+    }
+  }
+}

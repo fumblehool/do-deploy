@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80310,
+      "chineseName": "酮",
+      "translatedName": "Ketone",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037243,
+          "chineseName": "异佛尔酮",
+          "translatedName": "isophorone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037244,
+          "chineseName": "环戊酮",
+          "translatedName": "Cyclopentanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037041,
+          "chineseName": "其他酮",
+          "translatedName": "Other Ketones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037042,
+          "chineseName": "吡唑啉酮",
+          "translatedName": "Pyrazolone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037043,
+          "chineseName": "黄体酮",
+          "translatedName": "Progesterone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037044,
+          "chineseName": "苯乙酮",
+          "translatedName": "Acetophenone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037045,
+          "chineseName": "戊二酮",
+          "translatedName": "Pentanedione",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037046,
+          "chineseName": "丙二酮",
+          "translatedName": "propanedione",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037047,
+          "chineseName": "环己二酮",
+          "translatedName": "Cyclohexanedione",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037048,
+          "chineseName": "环己酮",
+          "translatedName": "Cyclohexanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037049,
+          "chineseName": "壬酮",
+          "translatedName": "Nonanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037050,
+          "chineseName": "辛酮",
+          "translatedName": "Octanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037051,
+          "chineseName": "庚酮",
+          "translatedName": "Heptanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037052,
+          "chineseName": "己酮",
+          "translatedName": "Hexanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037053,
+          "chineseName": "戊酮",
+          "translatedName": "pentanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        },
+        {
+          "categoryId": 1037054,
+          "chineseName": "丁酮",
+          "translatedName": "Butanone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80310
+        }
+      ]
+    }
+  }
+}

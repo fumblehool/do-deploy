@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3318,
+      "chineseName": "加油站设备",
+      "translatedName": "Gas station equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "71"
+    }
+  }
+}

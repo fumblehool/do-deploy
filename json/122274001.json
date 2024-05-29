@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122274001,
+      "chineseName": "LED显示屏模组",
+      "translatedName": "LED display module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612008"
+    }
+  }
+}

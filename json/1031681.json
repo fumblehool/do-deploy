@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031681,
+      "chineseName": "染料",
+      "translatedName": "Dyes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034571,
+          "chineseName": "荧光增白剂",
+          "translatedName": "fluorescent brightener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1034572,
+          "chineseName": "金属络合染料",
+          "translatedName": "metal complex dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1034573,
+          "chineseName": "还原染料",
+          "translatedName": "Vat dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1034574,
+          "chineseName": "硫化染料",
+          "translatedName": "sulfur dye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1031682,
+          "chineseName": "碱性染料",
+          "translatedName": "basic dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1031683,
+          "chineseName": "活性染料",
+          "translatedName": "reactive dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1031684,
+          "chineseName": "分散染料",
+          "translatedName": "disperse dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1031685,
+          "chineseName": "酸性染料",
+          "translatedName": "acid dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1031686,
+          "chineseName": "直接染料",
+          "translatedName": "direct dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1036453,
+          "chineseName": "溶剂染料",
+          "translatedName": "solvent dye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1036454,
+          "chineseName": "冰染染料",
+          "translatedName": "Ice Dye Dye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 1035624,
+          "chineseName": "阳离子染料",
+          "translatedName": "cationic dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        },
+        {
+          "categoryId": 815,
+          "chineseName": "其他染料",
+          "translatedName": "Other Dyes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031681
+        }
+      ]
+    }
+  }
+}

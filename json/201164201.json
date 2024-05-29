@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201164201,
+      "chineseName": "婴儿棉柔巾",
+      "translatedName": "Baby cotton soft towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124776003,
+      "chineseName": "摄影摄像及配件",
+      "translatedName": "Photography and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032231,
+          "chineseName": "数码摄像机",
+          "translatedName": "Digital Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 1032232,
+          "chineseName": "普通数码相机",
+          "translatedName": "ordinary digital camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122346004,
+          "chineseName": "转接环、转接筒",
+          "translatedName": "adapter ring, adapter cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123736003,
+          "chineseName": "宠物摄像机",
+          "translatedName": "Pet Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124812002,
+          "chineseName": "潜水电脑",
+          "translatedName": "Diving Computer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124812003,
+          "chineseName": "水下摄影灯",
+          "translatedName": "underwater photography lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124812004,
+          "chineseName": "镜头罩/袋",
+          "translatedName": "Lens Hood/Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124824001,
+          "chineseName": "摄影云台",
+          "translatedName": "Photography PTZ",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124824002,
+          "chineseName": "摄影支架",
+          "translatedName": "Photography bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123620002,
+          "chineseName": "相机三脚架",
+          "translatedName": "camera tripod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123736002,
+          "chineseName": "运动摄像机配件",
+          "translatedName": "Sports Camera Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124736050,
+          "chineseName": "摄影摄像灯具",
+          "translatedName": "Photography Lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124810002,
+          "chineseName": "摄影灯臂",
+          "translatedName": "Photography lamp arm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124810003,
+          "chineseName": "潜水摄影配件",
+          "translatedName": "Diving Photography Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124810004,
+          "chineseName": "相机电源线",
+          "translatedName": "Camera power cord",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122364002,
+          "chineseName": "其他相机配件",
+          "translatedName": "Other Camera Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123760001,
+          "chineseName": "浮力棒",
+          "translatedName": "buoyancy rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124740037,
+          "chineseName": "相机防水壳、套",
+          "translatedName": "Camera waterproof case, cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122378004,
+          "chineseName": "相机镜头盖",
+          "translatedName": "Camera Lens Cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124746028,
+          "chineseName": "摄影摄像背景",
+          "translatedName": "Photography Background",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124746029,
+          "chineseName": "相机背带、腕带",
+          "translatedName": "Camera strap, wristband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124746030,
+          "chineseName": "相机眼罩",
+          "translatedName": "Camera eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122310007,
+          "chineseName": "相机清洁用品",
+          "translatedName": "Camera Cleaning Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123756002,
+          "chineseName": "水下相机",
+          "translatedName": "Underwater camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123758001,
+          "chineseName": "相机自拍杆",
+          "translatedName": "Camera selfie stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123758002,
+          "chineseName": "迷你相机",
+          "translatedName": "Mini Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124744041,
+          "chineseName": "摄影摄像棚",
+          "translatedName": "Photography Studio",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124744042,
+          "chineseName": "相机贴纸",
+          "translatedName": "Camera Stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124744045,
+          "chineseName": "遮光罩",
+          "translatedName": "Glareshield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122178001,
+          "chineseName": "单反相机",
+          "translatedName": "SLR Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122180001,
+          "chineseName": "微单、单电",
+          "translatedName": "Micro single, single electric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122182001,
+          "chineseName": "相机镜头",
+          "translatedName": "Camera lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122320005,
+          "chineseName": "相机屏幕贴膜",
+          "translatedName": "Camera Screen Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122320006,
+          "chineseName": "相机手柄",
+          "translatedName": "Camera Handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122374007,
+          "chineseName": "相机电池",
+          "translatedName": "Camera Battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122328008,
+          "chineseName": "相机充电器",
+          "translatedName": "Camera Charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122330006,
+          "chineseName": "相机滤镜",
+          "translatedName": "Camera filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122382008,
+          "chineseName": "快门线",
+          "translatedName": "shutter line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 122388004,
+          "chineseName": "相机取景器",
+          "translatedName": "Camera viewfinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124736049,
+          "chineseName": "摄影摄像器材",
+          "translatedName": "photographic camera equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124774003,
+          "chineseName": "摄影防潮箱/包",
+          "translatedName": "Photography moisture-proof box/bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123754002,
+          "chineseName": "运动摄影机",
+          "translatedName": "motion camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 123754003,
+          "chineseName": "拍立得相机",
+          "translatedName": "The camera.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124272012,
+          "chineseName": "闪光灯",
+          "translatedName": "Flash",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124824003,
+          "chineseName": "GoPro配件",
+          "translatedName": "GoPro Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124824004,
+          "chineseName": "观景器",
+          "translatedName": "Viewers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 124878003,
+          "chineseName": "户外摄影器材",
+          "translatedName": "Outdoor photographic equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 201360840,
+          "chineseName": "直播电视屏",
+          "translatedName": "Live TV screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 201335305,
+          "chineseName": "直播灯",
+          "translatedName": "Live Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        },
+        {
+          "categoryId": 201329001,
+          "chineseName": "补光灯",
+          "translatedName": "fill light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124776003
+        }
+      ]
+    }
+  }
+}

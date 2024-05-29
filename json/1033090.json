@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033090,
+      "chineseName": "卷笔刀、削笔器",
+      "translatedName": "Pencil sharpener, pencil sharpener",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2111"
+    }
+  }
+}

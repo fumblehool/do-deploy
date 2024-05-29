@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201368002,
+      "chineseName": "防虫网袋",
+      "translatedName": "Insect Mesh Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201368001"
+    }
+  }
+}

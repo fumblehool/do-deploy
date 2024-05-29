@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036437,
+      "chineseName": "洗涤剂",
+      "translatedName": "Detergent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10374"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201554112,
+      "chineseName": "童半身裙",
+      "translatedName": "Children's Skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201546613"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036932,
+      "chineseName": "沙滩车",
+      "translatedName": "Beach buggy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "78"
+    }
+  }
+}

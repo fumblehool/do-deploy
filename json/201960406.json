@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201960406,
+      "chineseName": "水桶包",
+      "translatedName": "Bucket bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016002"
+    }
+  }
+}

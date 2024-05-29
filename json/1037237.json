@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037237,
+      "chineseName": "乙二醇丁醚",
+      "translatedName": "ethylene glycol butyl ether",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

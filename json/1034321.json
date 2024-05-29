@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034321,
+      "chineseName": "通风机",
+      "translatedName": "Ventilator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1422"
+    }
+  }
+}

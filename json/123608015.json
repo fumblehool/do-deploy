@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123608015,
+      "chineseName": "LED固晶胶",
+      "translatedName": "LED crystal fixing adhesive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620004"
+    }
+  }
+}

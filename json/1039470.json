@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039470,
+      "chineseName": "步步紧",
+      "translatedName": "Step by step",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032653"
+    }
+  }
+}

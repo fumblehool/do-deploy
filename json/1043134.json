@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043134,
+      "chineseName": "电池测试仪",
+      "translatedName": "Battery Tester",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032384"
+    }
+  }
+}

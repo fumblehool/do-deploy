@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124186006,
+      "chineseName": "家务围裙、袖套",
+      "translatedName": "Household apron, sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1514"
+    }
+  }
+}

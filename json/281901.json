@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 281901,
+      "chineseName": "宾馆服务",
+      "translatedName": "Hotel Service",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2840"
+    }
+  }
+}

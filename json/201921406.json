@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921406,
+      "chineseName": "钳工工具",
+      "translatedName": "Fitter tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121188005,
+          "chineseName": "拉马",
+          "translatedName": "Rama",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201914705,
+          "chineseName": "划针",
+          "translatedName": "Sticle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201916104,
+          "chineseName": "划线盘",
+          "translatedName": "Sticle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201924202,
+          "chineseName": "划线V型铁",
+          "translatedName": "Scribed V-iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201917102,
+          "chineseName": "钩针",
+          "translatedName": "Crochet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201924301,
+          "chineseName": "划归",
+          "translatedName": "To be assigned",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        },
+        {
+          "categoryId": 201924401,
+          "chineseName": "冲子",
+          "translatedName": "Punching sub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921406
+        }
+      ]
+    }
+  }
+}

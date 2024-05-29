@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201310105,
+      "chineseName": "防漏杯/密封杯",
+      "translatedName": "Leak-proof cup/sealing cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046721"
+    }
+  }
+}

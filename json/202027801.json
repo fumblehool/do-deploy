@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202027801,
+      "chineseName": "纹绣用品",
+      "translatedName": "Embroidery supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202028402,
+          "chineseName": "纹绣用品套装",
+          "translatedName": "tattoo supplies set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        },
+        {
+          "categoryId": 202028901,
+          "chineseName": "纹绣手工笔",
+          "translatedName": "Embroidery Handmade Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        },
+        {
+          "categoryId": 202029101,
+          "chineseName": "其他纹绣用品",
+          "translatedName": "Other tattoo supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        },
+        {
+          "categoryId": 202029401,
+          "chineseName": "纹绣辅材",
+          "translatedName": "embroidery auxiliary material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        },
+        {
+          "categoryId": 202030701,
+          "chineseName": "纹绣辅助剂",
+          "translatedName": "tattoo auxiliary agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        },
+        {
+          "categoryId": 202030901,
+          "chineseName": "纹绣色料",
+          "translatedName": "Embroidery Color Material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202027801
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034304,
+      "chineseName": "其他公共环卫设施",
+      "translatedName": "Other public sanitation facilities",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10241"
+    }
+  }
+}

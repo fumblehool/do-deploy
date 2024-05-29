@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201554413,
+      "chineseName": "羽绒裤",
+      "translatedName": "Down Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552814"
+    }
+  }
+}

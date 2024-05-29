@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10452,
+      "chineseName": "其他工程与建筑机械",
+      "translatedName": "Other Engineering & Construction Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10446"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125278011,
+      "chineseName": "中高压电力产品",
+      "translatedName": "Medium and high voltage power products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125294002,
+          "chineseName": "电缆中间接头",
+          "translatedName": "Cable intermediate joint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125278011
+        },
+        {
+          "categoryId": 125276008,
+          "chineseName": "电缆终端",
+          "translatedName": "Cable terminal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125278011
+        },
+        {
+          "categoryId": 125276009,
+          "chineseName": "电缆分支器",
+          "translatedName": "Cable splitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125278011
+        },
+        {
+          "categoryId": 125264019,
+          "chineseName": "架空线连接器",
+          "translatedName": "Overhead line connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125278011
+        },
+        {
+          "categoryId": 125270021,
+          "chineseName": "电缆插拔头",
+          "translatedName": "Cable connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125278011
+        }
+      ]
+    }
+  }
+}

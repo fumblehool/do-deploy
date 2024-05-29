@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122450002,
+      "chineseName": "轻薄材质内衣",
+      "translatedName": "Thin material underwear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037917,
+          "chineseName": "情趣睡衣",
+          "translatedName": "Fun Pajamas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        },
+        {
+          "categoryId": 122432002,
+          "chineseName": "情趣文胸",
+          "translatedName": "Fun Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        },
+        {
+          "categoryId": 122438007,
+          "chineseName": "情趣丝袜",
+          "translatedName": "Sexy stockings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        },
+        {
+          "categoryId": 122482002,
+          "chineseName": "情趣内裤",
+          "translatedName": "sexy underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        },
+        {
+          "categoryId": 122504001,
+          "chineseName": "情趣套装",
+          "translatedName": "Fun suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        },
+        {
+          "categoryId": 201828517,
+          "chineseName": "性感透视睡衣",
+          "translatedName": "Sexy perspective pajamas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450002
+        }
+      ]
+    }
+  }
+}

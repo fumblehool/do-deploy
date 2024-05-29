@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201158404,
+      "chineseName": "办公礼品套装",
+      "translatedName": "Office Gift Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1702"
+    }
+  }
+}

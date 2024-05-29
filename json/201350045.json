@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201350045,
+      "chineseName": "台虎钳",
+      "translatedName": "bench vise",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123928001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042695,
+      "chineseName": "鞋底",
+      "translatedName": "Sole",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201301601"
+    }
+  }
+}

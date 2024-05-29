@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033529,
+      "chineseName": "其他乐器",
+      "translatedName": "Other musical instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1805"
+    }
+  }
+}

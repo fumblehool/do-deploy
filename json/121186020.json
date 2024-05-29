@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186020,
+      "chineseName": "酒店椅套",
+      "translatedName": "Hotel chair cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186015"
+    }
+  }
+}

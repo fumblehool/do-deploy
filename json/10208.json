@@ -1,0 +1,307 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10208,
+      "chineseName": "仪器仪表",
+      "translatedName": "Instrumentation",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10211,
+          "chineseName": "分析仪器",
+          "translatedName": "analytical instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 10214,
+          "chineseName": "专用仪器仪表",
+          "translatedName": "Special instruments and meters",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 10215,
+          "chineseName": "其他仪器仪表",
+          "translatedName": "Other Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032380,
+          "chineseName": "仪器仪表配附件",
+          "translatedName": "Instrument accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032382,
+          "chineseName": "电子测量仪器",
+          "translatedName": "electronic measuring instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032383,
+          "chineseName": "实验仪器装置",
+          "translatedName": "experimental instrument device",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032384,
+          "chineseName": "电工仪器仪表",
+          "translatedName": "Electrical instrumentation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033858,
+          "chineseName": "气象仪器",
+          "translatedName": "meteorological instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 10210,
+          "chineseName": "试验机",
+          "translatedName": "Testing machine",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032371,
+          "chineseName": "计量标准器具",
+          "translatedName": "Standard instruments of measurement",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032372,
+          "chineseName": "衡器",
+          "translatedName": "Weighing apparatus",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032393,
+          "chineseName": "显示仪表",
+          "translatedName": "Display instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032394,
+          "chineseName": "机械量仪表",
+          "translatedName": "Mechanical quantity instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032395,
+          "chineseName": "物位仪表",
+          "translatedName": "level instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032396,
+          "chineseName": "流量仪表",
+          "translatedName": "Flow meter",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032397,
+          "chineseName": "压力仪表",
+          "translatedName": "Pressure instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1032398,
+          "chineseName": "温湿度仪表",
+          "translatedName": "Temperature and humidity instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033877,
+          "chineseName": "无损检测仪器",
+          "translatedName": "Non-destructive testing instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033897,
+          "chineseName": "色谱仪",
+          "translatedName": "chromatograph",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033814,
+          "chineseName": "记录仪",
+          "translatedName": "Recorder",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033815,
+          "chineseName": "计数器",
+          "translatedName": "Counter",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1033816,
+          "chineseName": "工业计时器",
+          "translatedName": "Industrial timer",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036185,
+          "chineseName": "生命科学仪器",
+          "translatedName": "Life Science Instruments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036206,
+          "chineseName": "环境检测仪器",
+          "translatedName": "Environmental testing instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036179,
+          "chineseName": "试验箱及气候环境设备",
+          "translatedName": "Test chamber and climate environment equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036548,
+          "chineseName": "仪器仪表代理加盟",
+          "translatedName": "Instrument agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036229,
+          "chineseName": "橡塑专用仪器仪表",
+          "translatedName": "Special instruments and meters for rubber and plastic",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036167,
+          "chineseName": "包装测试设备",
+          "translatedName": "Packaging Test Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1036656,
+          "chineseName": "库存仪器仪表",
+          "translatedName": "Inventory instrumentation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 121486001,
+          "chineseName": "自动化仪器设备",
+          "translatedName": "automation instrument and equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 1904,
+          "chineseName": "光学仪器",
+          "translatedName": "optical instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        },
+        {
+          "categoryId": 91,
+          "chineseName": "汽摩检测设备",
+          "translatedName": "Automobile and Friction Testing Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10208
+        }
+      ]
+    }
+  }
+}

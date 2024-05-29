@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10313,
+      "chineseName": "美发产品",
+      "translatedName": "Hair Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034768,
+          "chineseName": "其他美发产品",
+          "translatedName": "Other Hair Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1034771,
+          "chineseName": "染发剂",
+          "translatedName": "Hair dye",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1034772,
+          "chineseName": "烫发剂",
+          "translatedName": "Perm agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1034773,
+          "chineseName": "育发剂、防脱剂",
+          "translatedName": "Hair Refresher, Anti-stripping Agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1034776,
+          "chineseName": "护发精油",
+          "translatedName": "Hair Care Essential Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1047065,
+          "chineseName": "洗发水",
+          "translatedName": "Shampoo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1047066,
+          "chineseName": "护发素",
+          "translatedName": "hair conditioner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1047068,
+          "chineseName": "发膜、倒膜",
+          "translatedName": "Hair membrane, inverted membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1047070,
+          "chineseName": "洗发护发套装",
+          "translatedName": "shampoo and hair care set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 1043096,
+          "chineseName": "摩丝、啫喱水、发蜡、弹力素",
+          "translatedName": "Mousse, gel water, hair wax, elastic element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 122204003,
+          "chineseName": "奶疗素、水疗素",
+          "translatedName": "Milk therapy, hydrotherapy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 122774001,
+          "chineseName": "烫染工具",
+          "translatedName": "Hot dyeing tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 201330605,
+          "chineseName": "头发免洗喷雾",
+          "translatedName": "Hair Wash-Free Spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        },
+        {
+          "categoryId": 201338918,
+          "chineseName": "头皮护理用品",
+          "translatedName": "Scalp Care Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10313
+        }
+      ]
+    }
+  }
+}

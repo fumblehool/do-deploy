@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127450003,
+      "chineseName": "童内裤",
+      "translatedName": "Children's Underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127496001"
+    }
+  }
+}

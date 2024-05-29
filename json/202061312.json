@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061312,
+      "chineseName": "女装呢料加工",
+      "translatedName": "Women's Wool Material Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056910"
+    }
+  }
+}

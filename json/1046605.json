@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046605,
+      "chineseName": "鲜切花",
+      "translatedName": "fresh cut flowers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492002"
+    }
+  }
+}

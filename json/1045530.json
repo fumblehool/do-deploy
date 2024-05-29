@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045530,
+      "chineseName": "飞碟、飞盘、竹蜻蜓",
+      "translatedName": "flying saucer, frisbee, bamboo dragonfly",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

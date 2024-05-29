@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2005,
+      "chineseName": "高尔夫用品",
+      "translatedName": "Golf Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031746,
+          "chineseName": "高尔夫球袋",
+          "translatedName": "Golf bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033454,
+          "chineseName": "高尔夫球钉、球TEE",
+          "translatedName": "Golf nails, ball TEE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033455,
+          "chineseName": "高尔夫球车",
+          "translatedName": "Golf Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033456,
+          "chineseName": "高尔夫配件、练习器具",
+          "translatedName": "Golf accessories, exercise equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033457,
+          "chineseName": "高尔夫组合球具",
+          "translatedName": "Golf combination club",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033458,
+          "chineseName": "高尔夫球杆",
+          "translatedName": "Golf Clubs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 1033459,
+          "chineseName": "高尔夫球",
+          "translatedName": "Golf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        },
+        {
+          "categoryId": 121874001,
+          "chineseName": "高尔夫服",
+          "translatedName": "Golf Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2005
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122262005,
+      "chineseName": "布艺用品清洁剂",
+      "translatedName": "Cloth Products Cleaner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122262003"
+    }
+  }
+}

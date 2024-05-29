@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962011,
+      "chineseName": "过家家玩具",
+      "translatedName": "Play house toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122986006,
+          "chineseName": "饰品玩具",
+          "translatedName": "Jewelry toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 122984008,
+          "chineseName": "餐厨具玩具",
+          "translatedName": "Kitchenware Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 122984009,
+          "chineseName": "家具玩具",
+          "translatedName": "Furniture Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 122992007,
+          "chineseName": "城堡别墅玩具",
+          "translatedName": "Castle Villa Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 123648005,
+          "chineseName": "彩妆玩具",
+          "translatedName": "make-up toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 122982009,
+          "chineseName": "医具玩具",
+          "translatedName": "Medical toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 122988006,
+          "chineseName": "工具玩具",
+          "translatedName": "TOOLS TOYS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 181311,
+          "chineseName": "其他过家家玩具",
+          "translatedName": "Other house toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        },
+        {
+          "categoryId": 201158809,
+          "chineseName": "小家电玩具",
+          "translatedName": "small household appliances toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962011
+        }
+      ]
+    }
+  }
+}

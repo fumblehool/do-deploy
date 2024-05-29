@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1209,
+      "chineseName": "专用汽车",
+      "translatedName": "Special Purpose Vehicle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034292,
+          "chineseName": "其他专用汽车",
+          "translatedName": "Other Special Purpose Vehicles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034293,
+          "chineseName": "旅居车",
+          "translatedName": "caravan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034294,
+          "chineseName": "混凝土搅拌车",
+          "translatedName": "Concrete mixer truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034295,
+          "chineseName": "粉粒物料运输车",
+          "translatedName": "Powder material transport vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034297,
+          "chineseName": "保温车",
+          "translatedName": "Thermal insulation car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034298,
+          "chineseName": "吸污车",
+          "translatedName": "Suction sewage truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034299,
+          "chineseName": "消防车",
+          "translatedName": "Fire truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034300,
+          "chineseName": "液罐车",
+          "translatedName": "liquid tank truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034301,
+          "chineseName": "喷洒车",
+          "translatedName": "Spray car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034302,
+          "chineseName": "垃圾车",
+          "translatedName": "Garbage truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1034303,
+          "chineseName": "道路清扫车",
+          "translatedName": "road sweeper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1036413,
+          "chineseName": "道路清障车",
+          "translatedName": "Road wrecker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1036414,
+          "chineseName": "高空作业车",
+          "translatedName": "Aerial work vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041486,
+          "chineseName": "救护车",
+          "translatedName": "Ambulance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041487,
+          "chineseName": "运钞车",
+          "translatedName": "armored vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041488,
+          "chineseName": "殡仪车",
+          "translatedName": "Funeral car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041489,
+          "chineseName": "教练车",
+          "translatedName": "Coach car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041490,
+          "chineseName": "邮政车",
+          "translatedName": "postal vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1041491,
+          "chineseName": "救险车",
+          "translatedName": "Rescue vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 1045047,
+          "chineseName": "高压清洗车",
+          "translatedName": "High pressure cleaning vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 201884609,
+          "chineseName": "高尔夫车",
+          "translatedName": "golf cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        },
+        {
+          "categoryId": 201881803,
+          "chineseName": "舞台车",
+          "translatedName": "stage car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1209
+        }
+      ]
+    }
+  }
+}

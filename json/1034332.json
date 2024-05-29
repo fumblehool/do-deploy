@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034332,
+      "chineseName": "滤油机",
+      "translatedName": "Oil filter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10347"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122204003,
+      "chineseName": "奶疗素、水疗素",
+      "translatedName": "Milk therapy, hydrotherapy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10313"
+    }
+  }
+}

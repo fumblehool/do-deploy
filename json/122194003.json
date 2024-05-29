@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122194003,
+      "chineseName": "其他节庆类用品",
+      "translatedName": "Other festival supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1702"
+    }
+  }
+}

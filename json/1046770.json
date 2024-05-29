@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046770,
+      "chineseName": "LED护栏管/轮廓灯",
+      "translatedName": "LED guardrail tube/contour light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10217"
+    }
+  }
+}

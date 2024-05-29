@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156305,
+      "chineseName": "3D打印线材",
+      "translatedName": "3D printing wire",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201156506,
+          "chineseName": "其他3D打印线材",
+          "translatedName": "Other 3D Printing Wires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201156305
+        },
+        {
+          "categoryId": 201160306,
+          "chineseName": "ABS 3D打印线材",
+          "translatedName": "ABS 3D printing wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201156305
+        },
+        {
+          "categoryId": 201157105,
+          "chineseName": "TPU 3D打印线材",
+          "translatedName": "TPU 3D Printing Wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201156305
+        },
+        {
+          "categoryId": 201156306,
+          "chineseName": "PA 3D打印线材",
+          "translatedName": "PA 3D Printing Wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201156305
+        }
+      ]
+    }
+  }
+}

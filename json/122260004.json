@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122260004,
+      "chineseName": "花露水、防蚊液",
+      "translatedName": "toilet water, anti-mosquito liquid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548001"
+    }
+  }
+}

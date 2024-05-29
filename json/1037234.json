@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037234,
+      "chineseName": "间苯二胺",
+      "translatedName": "m-Phenylenediamine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80311"
+    }
+  }
+}

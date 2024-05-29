@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041694,
+      "chineseName": "洗涤、烘干设备",
+      "translatedName": "Washing and drying equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041693"
+    }
+  }
+}

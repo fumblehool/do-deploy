@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034728,
+      "chineseName": "流化床干燥设备",
+      "translatedName": "Fluidized bed drying equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10416"
+    }
+  }
+}

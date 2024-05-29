@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163202,
+      "chineseName": "植物提取物（原料）",
+      "translatedName": "Plant Extracts (Raw Material)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "832"
+    }
+  }
+}

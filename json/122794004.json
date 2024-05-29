@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122794004,
+      "chineseName": "户外实木桌椅",
+      "translatedName": "Outdoor solid wood tables and chairs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122796003"
+    }
+  }
+}

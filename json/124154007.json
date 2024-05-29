@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124154007,
+      "chineseName": "防护眼罩",
+      "translatedName": "Protective eye mask",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124154004"
+    }
+  }
+}

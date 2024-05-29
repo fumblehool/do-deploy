@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033200,
+      "chineseName": "矩阵",
+      "translatedName": "Matrix",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3011"
+    }
+  }
+}

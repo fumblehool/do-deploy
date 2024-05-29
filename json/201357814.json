@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201357814,
+      "chineseName": "剪纸",
+      "translatedName": "Paper-cut",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1725"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033769,
+      "chineseName": "捆钞机、扎把机",
+      "translatedName": "Banknote bundling machine, binding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "510"
+    }
+  }
+}

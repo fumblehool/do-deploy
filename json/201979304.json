@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201979304,
+      "chineseName": "点心盘",
+      "translatedName": "Dispels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10287"
+    }
+  }
+}

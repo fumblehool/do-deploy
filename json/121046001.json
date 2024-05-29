@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046001,
+      "chineseName": "镀锌带钢",
+      "translatedName": "Galvanized steel strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012006"
+    }
+  }
+}

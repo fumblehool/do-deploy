@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202062910,
+      "chineseName": "手机号码/套餐/增值业务",
+      "translatedName": "Mobile phone number/package/value-added service",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202060618,
+          "chineseName": "有线宽带",
+          "translatedName": "Wired Broadband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202062910
+        },
+        {
+          "categoryId": 202059514,
+          "chineseName": "新入网手机号套餐",
+          "translatedName": "New Network Phone Number Package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202062910
+        }
+      ]
+    }
+  }
+}

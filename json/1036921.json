@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036921,
+      "chineseName": "水箱",
+      "translatedName": "Water tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "93"
+    }
+  }
+}

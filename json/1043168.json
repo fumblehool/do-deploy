@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043168,
+      "chineseName": "美甲工具套装",
+      "translatedName": "Nail tool set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043162"
+    }
+  }
+}

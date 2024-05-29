@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035981,
+      "chineseName": "汽摩类教学器材",
+      "translatedName": "Automobile and motorcycle teaching equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2117"
+    }
+  }
+}

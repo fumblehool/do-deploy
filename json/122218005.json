@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122218005,
+      "chineseName": "变色毛巾、创意毛巾",
+      "translatedName": "Color change towel, creative towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127864016"
+    }
+  }
+}

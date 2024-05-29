@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10006,
+      "chineseName": "海藻类",
+      "translatedName": "seaweed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125068002"
+    }
+  }
+}

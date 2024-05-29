@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127786006,
+      "chineseName": "钽电容器",
+      "translatedName": "Tantalum Capacitors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127676048"
+    }
+  }
+}

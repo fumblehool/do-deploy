@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127486010,
+      "chineseName": "儿童手套",
+      "translatedName": "Children's gloves",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564422"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80308,
+      "chineseName": "酚类",
+      "translatedName": "Phenols",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037117,
+          "chineseName": "其他酚类",
+          "translatedName": "Other phenols",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037118,
+          "chineseName": "双酚A",
+          "translatedName": "Bisphenol A",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037119,
+          "chineseName": "甲氧基酚",
+          "translatedName": "methoxy phenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037120,
+          "chineseName": "叔丁基苯酚",
+          "translatedName": "tert-butyl phenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037121,
+          "chineseName": "萘酚",
+          "translatedName": "Naphthol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037122,
+          "chineseName": "邻苯二酚",
+          "translatedName": "Catechol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037123,
+          "chineseName": "间苯二酚",
+          "translatedName": "Resorcinol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037124,
+          "chineseName": "对苯二酚",
+          "translatedName": "Hydroquinone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037125,
+          "chineseName": "间硝基苯酚",
+          "translatedName": "m-Nitrophenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037126,
+          "chineseName": "邻硝基苯酚",
+          "translatedName": "o-Nitrophenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037127,
+          "chineseName": "对硝基苯酚",
+          "translatedName": "p-Nitrophenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037128,
+          "chineseName": "百里香酚",
+          "translatedName": "Thymol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037129,
+          "chineseName": "对甲酚",
+          "translatedName": "p-cresol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037130,
+          "chineseName": "壬基酚",
+          "translatedName": "nonylphenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        },
+        {
+          "categoryId": 1037131,
+          "chineseName": "苯酚",
+          "translatedName": "Phenol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80308
+        }
+      ]
+    }
+  }
+}

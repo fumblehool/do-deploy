@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035589,
+      "chineseName": "电动扳手",
+      "translatedName": "Electric wrench",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032336"
+    }
+  }
+}

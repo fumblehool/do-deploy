@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123622004,
+      "chineseName": "组合轴承",
+      "translatedName": "Combined bearing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141903"
+    }
+  }
+}

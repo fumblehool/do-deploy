@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305309,
+      "chineseName": "中性香水",
+      "translatedName": "Neutral perfume",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303115"
+    }
+  }
+}

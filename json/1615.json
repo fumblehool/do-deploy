@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1615,
+      "chineseName": "制药设备",
+      "translatedName": "Pharmaceutical Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033349,
+          "chineseName": "其他制药设备",
+          "translatedName": "Other Pharmaceutical Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1033350,
+          "chineseName": "药品包装机械",
+          "translatedName": "Pharmaceutical Packaging Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1033351,
+          "chineseName": "药用粉碎机械",
+          "translatedName": "Medicinal crushing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1033352,
+          "chineseName": "制剂机械",
+          "translatedName": "Preparation Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1033353,
+          "chineseName": "饮片机械",
+          "translatedName": "Drink Pieces Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1033354,
+          "chineseName": "原料药设备及机械",
+          "translatedName": "API Equipment and Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036559,
+          "chineseName": "铝塑包装机",
+          "translatedName": "aluminum plastic packaging machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036550,
+          "chineseName": "粉剂设备",
+          "translatedName": "Powder equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036549,
+          "chineseName": "口服液制药设备",
+          "translatedName": "Oral Liquid Pharmaceutical Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036551,
+          "chineseName": "切药机",
+          "translatedName": "medicine cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036553,
+          "chineseName": "糖衣机",
+          "translatedName": "sugar coating machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036554,
+          "chineseName": "滴丸机",
+          "translatedName": "drop pill machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036555,
+          "chineseName": "包衣机",
+          "translatedName": "coating machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036556,
+          "chineseName": "制丸机",
+          "translatedName": "Pill making machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036557,
+          "chineseName": "胶囊充填机",
+          "translatedName": "Capsule Filling Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        },
+        {
+          "categoryId": 1036558,
+          "chineseName": "压片机",
+          "translatedName": "tablet press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1615
+        }
+      ]
+    }
+  }
+}

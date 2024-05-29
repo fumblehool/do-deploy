@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160006,
+      "chineseName": "有机玻璃制品",
+      "translatedName": "Organic glass products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037248,
+          "chineseName": "其他有机玻璃制品",
+          "translatedName": "Other Organic Glass Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201160606,
+          "chineseName": "门牌",
+          "translatedName": "house number",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201156704,
+          "chineseName": "亚克力管",
+          "translatedName": "acrylic tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201158306,
+          "chineseName": "亚克力板",
+          "translatedName": "acrylic sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201158609,
+          "chineseName": "亚克力加工",
+          "translatedName": "Acrylic processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201161305,
+          "chineseName": "亚克力片",
+          "translatedName": "acrylic tablets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201160106,
+          "chineseName": "台卡",
+          "translatedName": "Taiwan Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        },
+        {
+          "categoryId": 201475601,
+          "chineseName": "亚克力字",
+          "translatedName": "acrylic word",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160006
+        }
+      ]
+    }
+  }
+}

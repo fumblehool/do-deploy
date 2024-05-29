@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044785,
+      "chineseName": "球类配套器材",
+      "translatedName": "Ball matching equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044787,
+          "chineseName": "球网",
+          "translatedName": "net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044785
+        },
+        {
+          "categoryId": 1044789,
+          "chineseName": "球柱、球架",
+          "translatedName": "Ball post, ball rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044785
+        },
+        {
+          "categoryId": 1044790,
+          "chineseName": "球门、球框",
+          "translatedName": "goal, ball frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044785
+        },
+        {
+          "categoryId": 1044791,
+          "chineseName": "其他发球机",
+          "translatedName": "Other service machines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044785
+        },
+        {
+          "categoryId": 1044792,
+          "chineseName": "其他球类配套器材",
+          "translatedName": "Other Ball Matching Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044785
+        }
+      ]
+    }
+  }
+}

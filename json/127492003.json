@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127492003,
+      "chineseName": "箱包相关配件",
+      "translatedName": "Luggage related accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127278005"
+    }
+  }
+}

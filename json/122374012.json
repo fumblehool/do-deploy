@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122374012,
+      "chineseName": "立柱盆",
+      "translatedName": "Pillar basin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122384004"
+    }
+  }
+}

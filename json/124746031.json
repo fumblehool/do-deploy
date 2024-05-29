@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746031,
+      "chineseName": "防辐射眼镜",
+      "translatedName": "anti-radiation glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80"
+    }
+  }
+}

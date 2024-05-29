@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122382006,
+      "chineseName": "凉席套件",
+      "translatedName": "Mat Kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084002"
+    }
+  }
+}

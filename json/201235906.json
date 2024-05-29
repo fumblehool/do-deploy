@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201235906,
+      "chineseName": "电动窗帘整体套装",
+      "translatedName": "Electric curtain whole set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124264009"
+    }
+  }
+}

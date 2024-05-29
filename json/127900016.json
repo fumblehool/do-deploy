@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127900016,
+      "chineseName": "地毯地垫",
+      "translatedName": "Carpet floor mat",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125300001,
+          "chineseName": "组合地垫",
+          "translatedName": "Combination Floor Mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900016
+        },
+        {
+          "categoryId": 127880013,
+          "chineseName": "地垫",
+          "translatedName": "Floor mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900016
+        },
+        {
+          "categoryId": 127870015,
+          "chineseName": "商用地毯",
+          "translatedName": "Commercial carpet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900016
+        },
+        {
+          "categoryId": 407,
+          "chineseName": "家用地毯",
+          "translatedName": "Household carpet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127900016
+        }
+      ]
+    }
+  }
+}

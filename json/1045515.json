@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045515,
+      "chineseName": "月季蔷薇类植物",
+      "translatedName": "Rose plants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127886022,
+      "chineseName": "能耗传感器",
+      "translatedName": "Energy consumption sensor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126696001"
+    }
+  }
+}

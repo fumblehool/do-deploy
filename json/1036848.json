@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036848,
+      "chineseName": "原子灰",
+      "translatedName": "putty",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031624"
+    }
+  }
+}

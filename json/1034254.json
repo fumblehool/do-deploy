@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034254,
+      "chineseName": "滗水器",
+      "translatedName": "Decanter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "77"
+    }
+  }
+}

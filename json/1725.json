@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1725,
+      "chineseName": "民间工艺品",
+      "translatedName": "Folk crafts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032033,
+          "chineseName": "葫芦器",
+          "translatedName": "Huludao",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 1032024,
+          "chineseName": "其他民间工艺品",
+          "translatedName": "Other Folk Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 1032027,
+          "chineseName": "皮影",
+          "translatedName": "Shadow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 1032029,
+          "chineseName": "脸谱",
+          "translatedName": "Facebook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201359514,
+          "chineseName": "草编",
+          "translatedName": "Straw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201359813,
+          "chineseName": "竹编",
+          "translatedName": "Bamboo weaving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201357814,
+          "chineseName": "剪纸",
+          "translatedName": "Paper-cut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201358214,
+          "chineseName": "柳编",
+          "translatedName": "Wicker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201355414,
+          "chineseName": "兔儿爷",
+          "translatedName": "Rabbit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        },
+        {
+          "categoryId": 201355117,
+          "chineseName": "藤编",
+          "translatedName": "Rattan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1725
+        }
+      ]
+    }
+  }
+}

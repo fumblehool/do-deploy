@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034686,
+      "chineseName": "麦芽糖",
+      "translatedName": "maltose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80305"
+    }
+  }
+}

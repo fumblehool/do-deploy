@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126390001,
+      "chineseName": "食品包装",
+      "translatedName": "Food Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036304,
+          "chineseName": "医药包装",
+          "translatedName": "Pharmaceutical Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 1036309,
+          "chineseName": "其他食品包装",
+          "translatedName": "Other Food Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 1036312,
+          "chineseName": "冲调保健包装",
+          "translatedName": "health care packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 122152002,
+          "chineseName": "烘焙包装",
+          "translatedName": "Baking Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126440001,
+          "chineseName": "生鲜水果包装",
+          "translatedName": "Fresh fruit packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126442001,
+          "chineseName": "坚果炒货包装",
+          "translatedName": "Nuts fried packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126476003,
+          "chineseName": "蜜饯果干包装",
+          "translatedName": "packaging of candied dried fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126444001,
+          "chineseName": "休闲食品包装",
+          "translatedName": "snack food packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126446001,
+          "chineseName": "外卖餐饮包装",
+          "translatedName": "Takeaway Food & Beverage Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126448001,
+          "chineseName": "粮油米面包装",
+          "translatedName": "Grain and Oil Rice Noodles Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 126450001,
+          "chineseName": "糖果巧克力包装",
+          "translatedName": "candy chocolate packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 202043501,
+          "chineseName": "水产氧气袋",
+          "translatedName": "Aquatic oxygen bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 202043701,
+          "chineseName": "珍珠棉蛋托",
+          "translatedName": "Pearl cotton egg tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 202043802,
+          "chineseName": "网兜",
+          "translatedName": "Net Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 202043901,
+          "chineseName": "吸塑托盘",
+          "translatedName": "Blister tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        },
+        {
+          "categoryId": 202041902,
+          "chineseName": "塑料蛋托",
+          "translatedName": "Plastic egg tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126390001
+        }
+      ]
+    }
+  }
+}

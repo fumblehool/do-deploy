@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032878,
+      "chineseName": "干制米粉、米线",
+      "translatedName": "Dried rice noodles, rice noodles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "228"
+    }
+  }
+}

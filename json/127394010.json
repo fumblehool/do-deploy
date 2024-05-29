@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127394010,
+      "chineseName": "儿童冲锋衣/滑雪服",
+      "translatedName": "Children's jacket/ski suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420011"
+    }
+  }
+}

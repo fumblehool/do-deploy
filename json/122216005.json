@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122216005,
+      "chineseName": "纱布毛浴巾",
+      "translatedName": "Gauze Wool Bath Towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926017"
+    }
+  }
+}

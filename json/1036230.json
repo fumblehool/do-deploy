@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036230,
+      "chineseName": "其他橡塑专用仪器仪表",
+      "translatedName": "Other special instruments and meters for rubber and plastics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036229"
+    }
+  }
+}

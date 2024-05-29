@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127926016,
+      "chineseName": "装饰画、挂画",
+      "translatedName": "Decorative painting, hanging painting",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037894,
+          "chineseName": "工艺画",
+          "translatedName": "craft painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 1037291,
+          "chineseName": "其他字画",
+          "translatedName": "Other calligraphy and painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 1037292,
+          "chineseName": "油画",
+          "translatedName": "Oil painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 1037293,
+          "chineseName": "国画",
+          "translatedName": "traditional Chinese painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 1037294,
+          "chineseName": "书法",
+          "translatedName": "Calligraphy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 122496001,
+          "chineseName": "现代装饰画",
+          "translatedName": "modern decorative painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 122352005,
+          "chineseName": "钻石画、皮画",
+          "translatedName": "Diamond painting, leather painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 127882015,
+          "chineseName": "DIY/数字油画",
+          "translatedName": "DIY/Digital Oil Painting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        },
+        {
+          "categoryId": 127902019,
+          "chineseName": "版画",
+          "translatedName": "Prints",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926016
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122088001,
+      "chineseName": "校服/校服定制",
+      "translatedName": "School Uniform/Uniform Customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202030801"
+    }
+  }
+}

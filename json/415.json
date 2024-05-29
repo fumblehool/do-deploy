@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 415,
+      "chineseName": "天然纺织原料",
+      "translatedName": "natural textile raw materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10008,
+          "chineseName": "动物毛鬃",
+          "translatedName": "animal hair bristles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 1046235,
+          "chineseName": "麻类",
+          "translatedName": "Hemp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 1046237,
+          "chineseName": "蚕茧、蚕丝",
+          "translatedName": "Cocoon, silk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 1042886,
+          "chineseName": "棉副产品",
+          "translatedName": "Cotton by-product",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 1046229,
+          "chineseName": "棉花",
+          "translatedName": "Cotton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 1046355,
+          "chineseName": "生皮、毛皮",
+          "translatedName": "Hides, fur",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 41503,
+          "chineseName": "羽毛、羽绒",
+          "translatedName": "Feather, Down",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        },
+        {
+          "categoryId": 41509,
+          "chineseName": "其他天然纺织原料",
+          "translatedName": "Other Natural Textile Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 415
+        }
+      ]
+    }
+  }
+}

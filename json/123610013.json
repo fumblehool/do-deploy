@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610013,
+      "chineseName": "LED封装器件",
+      "translatedName": "LED Packaging Devices",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123610014,
+          "chineseName": "大功率LED灯珠",
+          "translatedName": "High power LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 123616017,
+          "chineseName": "芯片级封装灯珠",
+          "translatedName": "Chip scale package lamp bead",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 123612013,
+          "chineseName": "其他LED灯珠",
+          "translatedName": "Other LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 122218011,
+          "chineseName": "贴片式LED灯珠",
+          "translatedName": "SMD LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 123608012,
+          "chineseName": "直插式LED灯珠",
+          "translatedName": "In-line LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 123618009,
+          "chineseName": "COB LED灯珠",
+          "translatedName": "COB LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        },
+        {
+          "categoryId": 125064002,
+          "chineseName": "RGB彩色LED灯珠",
+          "translatedName": "RGB color LED lamp beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610013
+        }
+      ]
+    }
+  }
+}

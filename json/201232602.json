@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201232602,
+      "chineseName": "宠物智能设备",
+      "translatedName": "Pet Smart Device",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123736008,
+          "chineseName": "宠物智能穿戴设备",
+          "translatedName": "Pet smart wearable device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232602
+        },
+        {
+          "categoryId": 201217818,
+          "chineseName": "宠物智能喂养设备",
+          "translatedName": "Pet intelligent feeding equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232602
+        },
+        {
+          "categoryId": 201872801,
+          "chineseName": "智能猫厕所",
+          "translatedName": "Intelligent cat toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232602
+        },
+        {
+          "categoryId": 201864105,
+          "chineseName": "宠物智能除味器",
+          "translatedName": "Pet intelligent deodorizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232602
+        }
+      ]
+    }
+  }
+}

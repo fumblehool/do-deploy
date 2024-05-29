@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033463,
+      "chineseName": "滑雪靴",
+      "translatedName": "Ski Boots",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2013"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10428,
+      "chineseName": "地板",
+      "translatedName": "Floor",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032594,
+          "chineseName": "竹地板",
+          "translatedName": "Bamboo flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 10429,
+          "chineseName": "实木地板",
+          "translatedName": "Solid wood flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 10434,
+          "chineseName": "其他地板",
+          "translatedName": "Other Flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 1044093,
+          "chineseName": "钢地板",
+          "translatedName": "Steel floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 1038127,
+          "chineseName": "实木复合地板",
+          "translatedName": "wood composite flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 10433,
+          "chineseName": "地板料",
+          "translatedName": "Floor material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 1035605,
+          "chineseName": "橡胶地板",
+          "translatedName": "Rubber flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 10430,
+          "chineseName": "塑料地板",
+          "translatedName": "Plastic floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 1036635,
+          "chineseName": "地坪",
+          "translatedName": "Floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 201222211,
+          "chineseName": "强化复合地板",
+          "translatedName": "laminate flooring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 201609504,
+          "chineseName": "地板附件",
+          "translatedName": "Floor Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 201609704,
+          "chineseName": "木塑地板",
+          "translatedName": "Wood plastic floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 201301108,
+          "chineseName": "PVC地板",
+          "translatedName": "PVC floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        },
+        {
+          "categoryId": 201598107,
+          "chineseName": "SPC石塑地板",
+          "translatedName": "SPC stone plastic floor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10428
+        }
+      ]
+    }
+  }
+}

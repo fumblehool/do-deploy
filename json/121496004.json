@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121496004,
+      "chineseName": "其他工程测绘仪器",
+      "translatedName": "Other engineering surveying and mapping instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121488001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037294,
+      "chineseName": "书法",
+      "translatedName": "Calligraphy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926016"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033597,
+      "chineseName": "国际海运",
+      "translatedName": "International Shipping",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "89"
+    }
+  }
+}

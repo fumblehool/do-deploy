@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035948,
+      "chineseName": "酚",
+      "translatedName": "Phenol",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "843"
+    }
+  }
+}

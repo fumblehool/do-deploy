@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121780003,
+      "chineseName": "猫猫牵引",
+      "translatedName": "Cat Traction",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121828001"
+    }
+  }
+}

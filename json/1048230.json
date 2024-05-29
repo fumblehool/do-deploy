@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048230,
+      "chineseName": "变压器",
+      "translatedName": "Transformer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035000,
+          "chineseName": "配电变压器",
+          "translatedName": "distribution transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048254,
+          "chineseName": "稳压变压器",
+          "translatedName": "voltage stabilizing transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048259,
+          "chineseName": "船用变压器",
+          "translatedName": "marine transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048258,
+          "chineseName": "脉冲变压器",
+          "translatedName": "pulse transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048260,
+          "chineseName": "电焊变压器",
+          "translatedName": "welding transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048231,
+          "chineseName": "电力变压器",
+          "translatedName": "power transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048234,
+          "chineseName": "电源变压器",
+          "translatedName": "Power Transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048236,
+          "chineseName": "试验变压器",
+          "translatedName": "Test transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048240,
+          "chineseName": "控制变压器",
+          "translatedName": "Control transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048267,
+          "chineseName": "其他变压器",
+          "translatedName": "Other Transformers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048261,
+          "chineseName": "照明变压器",
+          "translatedName": "Lighting transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048262,
+          "chineseName": "恒压变压器",
+          "translatedName": "constant voltage transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048263,
+          "chineseName": "接地变压器",
+          "translatedName": "Grounding transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048264,
+          "chineseName": "牵引变压器",
+          "translatedName": "Traction transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048265,
+          "chineseName": "音频变压器",
+          "translatedName": "Audio Transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048266,
+          "chineseName": "调压变压器",
+          "translatedName": "voltage regulating transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048241,
+          "chineseName": "组合式变压器",
+          "translatedName": "combined transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048250,
+          "chineseName": "矿用变压器",
+          "translatedName": "Mine transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048251,
+          "chineseName": "电子变压器",
+          "translatedName": "Electronic transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048252,
+          "chineseName": "电炉变压器",
+          "translatedName": "electric furnace transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 1048253,
+          "chineseName": "隔离变压器",
+          "translatedName": "Isolation transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 127744002,
+          "chineseName": "油浸式变压器",
+          "translatedName": "oil-immersed transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        },
+        {
+          "categoryId": 127786001,
+          "chineseName": "干式变压器",
+          "translatedName": "Dry-type transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048230
+        }
+      ]
+    }
+  }
+}

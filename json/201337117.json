@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337117,
+      "chineseName": "假发加工",
+      "translatedName": "Wig processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304234"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123286010,
+      "chineseName": "不锈钢毛细管",
+      "translatedName": "Stainless steel capillary",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123290007"
+    }
+  }
+}

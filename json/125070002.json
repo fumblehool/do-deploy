@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070002,
+      "chineseName": "WIFI智能插座",
+      "translatedName": "WIFI smart socket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "528"
+    }
+  }
+}

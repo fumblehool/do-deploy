@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044100,
+      "chineseName": "食品乳化剂",
+      "translatedName": "food emulsifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031607"
+    }
+  }
+}

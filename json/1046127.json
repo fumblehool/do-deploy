@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046127,
+      "chineseName": "耐酸碱胶板",
+      "translatedName": "Acid and alkali resistant rubber sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046105"
+    }
+  }
+}

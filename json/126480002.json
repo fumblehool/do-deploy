@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126480002,
+      "chineseName": "点光源/像素灯",
+      "translatedName": "Point light source/pixel lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10217"
+    }
+  }
+}

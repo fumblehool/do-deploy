@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620001,
+      "chineseName": "LED厨卫灯",
+      "translatedName": "LED GALLEY LIGHTS",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10220"
+    }
+  }
+}

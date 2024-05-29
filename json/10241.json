@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10241,
+      "chineseName": "公共环卫设施",
+      "translatedName": "Public sanitation facilities",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "64",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034304,
+          "chineseName": "其他公共环卫设施",
+          "translatedName": "Other public sanitation facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10241
+        },
+        {
+          "categoryId": 1034305,
+          "chineseName": "环保厕所",
+          "translatedName": "Environmental protection toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10241
+        },
+        {
+          "categoryId": 1032517,
+          "chineseName": "垃圾焚烧炉",
+          "translatedName": "garbage incinerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10241
+        },
+        {
+          "categoryId": 1046396,
+          "chineseName": "商用垃圾处理机",
+          "translatedName": "Commercial waste disposal machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10241
+        }
+      ]
+    }
+  }
+}

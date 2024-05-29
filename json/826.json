@@ -1,0 +1,631 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 826,
+      "chineseName": "实验室器皿",
+      "translatedName": "Laboratory Utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033139,
+          "chineseName": "蒸馏器",
+          "translatedName": "distiller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033140,
+          "chineseName": "酒精灯",
+          "translatedName": "Alcohol lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033141,
+          "chineseName": "烧杯、烧瓶",
+          "translatedName": "Beaker, flask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033142,
+          "chineseName": "量筒、量杯",
+          "translatedName": "Measuring cylinder, measuring cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033143,
+          "chineseName": "坩埚",
+          "translatedName": "Crucible",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033144,
+          "chineseName": "试管、滴管",
+          "translatedName": "Test tube, dropper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033136,
+          "chineseName": "其他实验室用品",
+          "translatedName": "Other Laboratory Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033137,
+          "chineseName": "容量瓶",
+          "translatedName": "Volumetric flask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1033138,
+          "chineseName": "比色皿",
+          "translatedName": "Cuvette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037215,
+          "chineseName": "培养皿",
+          "translatedName": "Petri dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037216,
+          "chineseName": "洗瓶",
+          "translatedName": "wash bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037217,
+          "chineseName": "移液管",
+          "translatedName": "Pipette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037218,
+          "chineseName": "试剂瓶",
+          "translatedName": "Reagent bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037219,
+          "chineseName": "漏斗",
+          "translatedName": "Funnel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037220,
+          "chineseName": "广口瓶",
+          "translatedName": "jar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 1037221,
+          "chineseName": "实验试纸",
+          "translatedName": "Test paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730005,
+          "chineseName": "吸液管",
+          "translatedName": "Pipette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730006,
+          "chineseName": "铁架台",
+          "translatedName": "Iron frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730007,
+          "chineseName": "联接管",
+          "translatedName": "Joint pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730008,
+          "chineseName": "冷凝管",
+          "translatedName": "Condenser tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125728005,
+          "chineseName": "坩埚钳",
+          "translatedName": "Crucible tongs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125728006,
+          "chineseName": "滴瓶",
+          "translatedName": "Dropper Bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125906001,
+          "chineseName": "吸管架",
+          "translatedName": "straw rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125906002,
+          "chineseName": "采样杯",
+          "translatedName": "Sampling Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125906003,
+          "chineseName": "双联球",
+          "translatedName": "Double ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125906004,
+          "chineseName": "玻璃棒",
+          "translatedName": "glass rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125908001,
+          "chineseName": "层析柱",
+          "translatedName": "chromatography column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125746002,
+          "chineseName": "研钵",
+          "translatedName": "mortar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125752004,
+          "chineseName": "玻璃毛细管",
+          "translatedName": "glass capillary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125754002,
+          "chineseName": "分馏柱",
+          "translatedName": "fractionating column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125892002,
+          "chineseName": "锥形瓶",
+          "translatedName": "conical flask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125892003,
+          "chineseName": "干燥管",
+          "translatedName": "Drying tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125892004,
+          "chineseName": "载玻片",
+          "translatedName": "Slide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125742006,
+          "chineseName": "比色管",
+          "translatedName": "colorimetric tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125742007,
+          "chineseName": "药匙",
+          "translatedName": "medicine spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125742008,
+          "chineseName": "表面皿",
+          "translatedName": "watch glass dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125748010,
+          "chineseName": "翻口塞",
+          "translatedName": "Turn-over plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125748011,
+          "chineseName": "试管刷",
+          "translatedName": "test tube brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125750006,
+          "chineseName": "漏斗架",
+          "translatedName": "funnel holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125894004,
+          "chineseName": "洗耳球",
+          "translatedName": "Ear ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125896001,
+          "chineseName": "称量瓶",
+          "translatedName": "weighing bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125896002,
+          "chineseName": "吸球",
+          "translatedName": "suction ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125898001,
+          "chineseName": "过滤瓶",
+          "translatedName": "Filter bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125900001,
+          "chineseName": "窄口瓶",
+          "translatedName": "Narrow-mouth bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125900002,
+          "chineseName": "反应瓶",
+          "translatedName": "reaction flask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125900003,
+          "chineseName": "坩埚架",
+          "translatedName": "Crucible rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125902001,
+          "chineseName": "发酵管",
+          "translatedName": "fermentation tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125740008,
+          "chineseName": "试管夹",
+          "translatedName": "Test tube clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125740009,
+          "chineseName": "泥三角",
+          "translatedName": "Mud triangle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730009,
+          "chineseName": "碘量瓶",
+          "translatedName": "iodine measuring bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125730010,
+          "chineseName": "结晶皿",
+          "translatedName": "Crystallization dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125894002,
+          "chineseName": "标本瓶",
+          "translatedName": "The bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125894003,
+          "chineseName": "比重瓶",
+          "translatedName": "pycnometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201335106,
+          "chineseName": "SPE小柱",
+          "translatedName": "SPE columns",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125748007,
+          "chineseName": "水浴锅",
+          "translatedName": "Water bath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125748008,
+          "chineseName": "石棉网",
+          "translatedName": "asbestos net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125748009,
+          "chineseName": "离心管",
+          "translatedName": "Centrifuge tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125902002,
+          "chineseName": "反应板",
+          "translatedName": "reaction plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125904001,
+          "chineseName": "冷冻管",
+          "translatedName": "freezing tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201331407,
+          "chineseName": "层析板",
+          "translatedName": "chromatography plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125744005,
+          "chineseName": "尾接管",
+          "translatedName": "Tail nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125740010,
+          "chineseName": "集气瓶",
+          "translatedName": "Gas collecting cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125740011,
+          "chineseName": "蒸发皿",
+          "translatedName": "Evaporating dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201337908,
+          "chineseName": "实验室耗材",
+          "translatedName": "Laboratory Consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201346304,
+          "chineseName": "SPE管",
+          "translatedName": "SPE tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 125750007,
+          "chineseName": "干燥器",
+          "translatedName": "Dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201334710,
+          "chineseName": "过滤杯",
+          "translatedName": "filter cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        },
+        {
+          "categoryId": 201340115,
+          "chineseName": "抽滤系统",
+          "translatedName": "suction filtration system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 826
+        }
+      ]
+    }
+  }
+}

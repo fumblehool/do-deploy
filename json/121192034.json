@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192034,
+      "chineseName": "婚庆家纺",
+      "translatedName": "Wedding home textile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121188022,
+          "chineseName": "婚庆床品套件",
+          "translatedName": "Wedding Bedding Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        },
+        {
+          "categoryId": 122216002,
+          "chineseName": "婚庆浴巾",
+          "translatedName": "Wedding bath towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        },
+        {
+          "categoryId": 121186018,
+          "chineseName": "情侣、婚庆毛巾",
+          "translatedName": "Couple, wedding towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        },
+        {
+          "categoryId": 122220002,
+          "chineseName": "婚庆毛毯",
+          "translatedName": "Wedding Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        },
+        {
+          "categoryId": 121192035,
+          "chineseName": "婚庆被芯",
+          "translatedName": "Wedding quilt core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        },
+        {
+          "categoryId": 121190025,
+          "chineseName": "婚庆抱枕",
+          "translatedName": "Wedding pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192034
+        }
+      ]
+    }
+  }
+}

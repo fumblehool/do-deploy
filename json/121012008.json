@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012008,
+      "chineseName": "普中板",
+      "translatedName": "General plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022004"
+    }
+  }
+}

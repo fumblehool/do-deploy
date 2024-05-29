@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270009,
+      "chineseName": "其他窗帘",
+      "translatedName": "Other Curtains",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124264009"
+    }
+  }
+}

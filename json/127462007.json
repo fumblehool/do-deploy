@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127462007,
+      "chineseName": "腰带/腰链/腰封",
+      "translatedName": "Belt/waist chain/waist seal",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034446,
+          "chineseName": "腰部配件",
+          "translatedName": "Waist Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 1043131,
+          "chineseName": "腰带",
+          "translatedName": "Belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 201336315,
+          "chineseName": "皮带扣",
+          "translatedName": "Belt buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 127498007,
+          "chineseName": "腰托",
+          "translatedName": "Lumbar support",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 127500008,
+          "chineseName": "腰封",
+          "translatedName": "Waist seal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 127464011,
+          "chineseName": "腰链",
+          "translatedName": "waist chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        },
+        {
+          "categoryId": 127486011,
+          "chineseName": "腰饰",
+          "translatedName": "Waist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127462007
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141907,
+      "chineseName": "阀门",
+      "translatedName": "Valve",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032417,
+          "chineseName": "其他阀门",
+          "translatedName": "Other valves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032418,
+          "chineseName": "换向阀",
+          "translatedName": "reversing valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032419,
+          "chineseName": "电磁阀",
+          "translatedName": "Solenoid valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032421,
+          "chineseName": "底阀",
+          "translatedName": "foot valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032420,
+          "chineseName": "排污阀",
+          "translatedName": "Blow valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032422,
+          "chineseName": "调节阀",
+          "translatedName": "Regulating valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032423,
+          "chineseName": "疏水阀",
+          "translatedName": "Trap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032424,
+          "chineseName": "安全阀",
+          "translatedName": "Safety valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032425,
+          "chineseName": "减压阀",
+          "translatedName": "Pressure reducing valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032426,
+          "chineseName": "止回阀",
+          "translatedName": "Check Valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032427,
+          "chineseName": "蝶阀",
+          "translatedName": "Butterfly valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032428,
+          "chineseName": "球阀",
+          "translatedName": "Ball valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032429,
+          "chineseName": "旋塞阀",
+          "translatedName": "plug valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032430,
+          "chineseName": "隔膜阀",
+          "translatedName": "Diaphragm valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032431,
+          "chineseName": "柱塞阀",
+          "translatedName": "Plunger valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032432,
+          "chineseName": "仪表阀",
+          "translatedName": "Instrument valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032433,
+          "chineseName": "节流阀",
+          "translatedName": "Throttle valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032434,
+          "chineseName": "截止阀",
+          "translatedName": "Globe valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1032435,
+          "chineseName": "闸阀",
+          "translatedName": "Gate valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1034460,
+          "chineseName": "手动阀",
+          "translatedName": "Manual valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035310,
+          "chineseName": "放料阀",
+          "translatedName": "discharge valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035311,
+          "chineseName": "气动阀",
+          "translatedName": "Pneumatic valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035312,
+          "chineseName": "膨胀阀",
+          "translatedName": "Expansion valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035314,
+          "chineseName": "角阀",
+          "translatedName": "Angle valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035315,
+          "chineseName": "燃气阀",
+          "translatedName": "Gas valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035316,
+          "chineseName": "脚踏阀",
+          "translatedName": "Foot valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035317,
+          "chineseName": "针阀",
+          "translatedName": "needle valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035318,
+          "chineseName": "排气阀",
+          "translatedName": "Exhaust valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035319,
+          "chineseName": "流量控制阀",
+          "translatedName": "flow control valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035320,
+          "chineseName": "阀体",
+          "translatedName": "Valve body",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1043287,
+          "chineseName": "溢流阀",
+          "translatedName": "overflow valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1035656,
+          "chineseName": "阀门配件",
+          "translatedName": "Valve Fittings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        },
+        {
+          "categoryId": 1043090,
+          "chineseName": "电动阀",
+          "translatedName": "Electric valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141907
+        }
+      ]
+    }
+  }
+}

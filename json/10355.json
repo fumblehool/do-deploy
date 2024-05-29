@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10355,
+      "chineseName": "气动工具",
+      "translatedName": "Pneumatic tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036019,
+          "chineseName": "气动打钉（枪）机",
+          "translatedName": "pneumatic nailing (gun) machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1044048,
+          "chineseName": "气动打磨机",
+          "translatedName": "Pneumatic grinding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1045751,
+          "chineseName": "气动胶枪",
+          "translatedName": "pneumatic glue gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1045095,
+          "chineseName": "气动工具配件",
+          "translatedName": "Pneumatic tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043031,
+          "chineseName": "气动扳手",
+          "translatedName": "Pneumatic wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043034,
+          "chineseName": "气动螺丝刀",
+          "translatedName": "Pneumatic screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043041,
+          "chineseName": "气动钳子",
+          "translatedName": "Pneumatic pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1035389,
+          "chineseName": "其他气动工具",
+          "translatedName": "Other Pneumatic Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1035390,
+          "chineseName": "气动锤",
+          "translatedName": "pneumatic hammer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043103,
+          "chineseName": "气镐",
+          "translatedName": "Pickaxe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043105,
+          "chineseName": "气动锯",
+          "translatedName": "pneumatic saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043109,
+          "chineseName": "气动剪",
+          "translatedName": "pneumatic shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043111,
+          "chineseName": "气动铲",
+          "translatedName": "Pneumatic shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043113,
+          "chineseName": "气动锉",
+          "translatedName": "pneumatic file",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043114,
+          "chineseName": "气动切割机",
+          "translatedName": "Pneumatic cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043115,
+          "chineseName": "气动捣固机",
+          "translatedName": "pneumatic tamping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1046985,
+          "chineseName": "气动吹尘枪",
+          "translatedName": "Pneumatic dust blowing gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1036043,
+          "chineseName": "气动钻",
+          "translatedName": "pneumatic drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043042,
+          "chineseName": "气动拉铆（枪）机",
+          "translatedName": "Pneumatic rivet (gun) machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043051,
+          "chineseName": "气动铆钉枪",
+          "translatedName": "pneumatic rivet gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1043054,
+          "chineseName": "气动黄油枪",
+          "translatedName": "Pneumatic grease gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 1046936,
+          "chineseName": "气动抛光机",
+          "translatedName": "pneumatic polishing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 124190010,
+          "chineseName": "气动砂轮机",
+          "translatedName": "pneumatic grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 124190013,
+          "chineseName": "气动喷枪",
+          "translatedName": "pneumatic spray gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 124264002,
+          "chineseName": "气动刻字笔",
+          "translatedName": "Pneumatic lettering pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 201917404,
+          "chineseName": "工业手持气动搅拌机",
+          "translatedName": "Industrial hand-held pneumatic mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        },
+        {
+          "categoryId": 201916903,
+          "chineseName": "气动棘轮扳手",
+          "translatedName": "pneumatic ratchet wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10355
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10228,
+      "chineseName": "电动机",
+      "translatedName": "Motor",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10203,
+          "chineseName": "特殊电机",
+          "translatedName": "Special motor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 10229,
+          "chineseName": "电动车用电动机",
+          "translatedName": "Electric motor for electric vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 10230,
+          "chineseName": "电动工具用电动机",
+          "translatedName": "Electric motor for electric tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 10231,
+          "chineseName": "微型电动机",
+          "translatedName": "micro motor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 10232,
+          "chineseName": "其他电动机",
+          "translatedName": "Other electric motors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 1032308,
+          "chineseName": "电动机保护器",
+          "translatedName": "motor protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 1032309,
+          "chineseName": "家电用电动机",
+          "translatedName": "Electric motors for household appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 1032310,
+          "chineseName": "机械设备用电动机",
+          "translatedName": "Motors for mechanical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 1035651,
+          "chineseName": "碳刷、电刷",
+          "translatedName": "Carbon brush, brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 1036654,
+          "chineseName": "电动机配件",
+          "translatedName": "Motor Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        },
+        {
+          "categoryId": 201218627,
+          "chineseName": "电机控制柜",
+          "translatedName": "Motor control cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10228
+        }
+      ]
+    }
+  }
+}

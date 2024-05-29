@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032432,
+      "chineseName": "仪表阀",
+      "translatedName": "Instrument valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141907"
+    }
+  }
+}

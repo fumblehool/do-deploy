@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 88,
+      "chineseName": "租赁服务",
+      "translatedName": "Rental Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035670,
+          "chineseName": "设备租赁",
+          "translatedName": "Equipment Leasing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 88
+        },
+        {
+          "categoryId": 1035671,
+          "chineseName": "其他租赁",
+          "translatedName": "Other Leases",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 88
+        },
+        {
+          "categoryId": 1035669,
+          "chineseName": "场地租赁",
+          "translatedName": "Venue Leasing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 88
+        }
+      ]
+    }
+  }
+}

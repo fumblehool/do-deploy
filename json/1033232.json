@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033232,
+      "chineseName": "其他安全检查设备",
+      "translatedName": "Other safety inspection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3001"
+    }
+  }
+}

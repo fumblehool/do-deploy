@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 104,
+      "chineseName": "干果原料",
+      "translatedName": "Dried fruit raw material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033736,
+          "chineseName": "生瓜子",
+          "translatedName": "Raw melon seeds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033737,
+          "chineseName": "桂圆干",
+          "translatedName": "dried longan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033738,
+          "chineseName": "生板栗",
+          "translatedName": "raw chestnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033739,
+          "chineseName": "生白果",
+          "translatedName": "raw ginkgo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033740,
+          "chineseName": "生核桃",
+          "translatedName": "raw walnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033709,
+          "chineseName": "生杏仁",
+          "translatedName": "Raw Almond",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033711,
+          "chineseName": "生松子",
+          "translatedName": "raw pine nuts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033713,
+          "chineseName": "生花生",
+          "translatedName": "raw peanut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033734,
+          "chineseName": "其他坚果、干果生货",
+          "translatedName": "Other Nuts, Dried Fruits Raw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 1033735,
+          "chineseName": "生榛子",
+          "translatedName": "raw hazelnut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        },
+        {
+          "categoryId": 125068008,
+          "chineseName": "干枣",
+          "translatedName": "Dried jujube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 104
+        }
+      ]
+    }
+  }
+}

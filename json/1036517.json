@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036517,
+      "chineseName": "家具维修",
+      "translatedName": "Furniture maintenance",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2823"
+    }
+  }
+}

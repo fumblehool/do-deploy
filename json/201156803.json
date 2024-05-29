@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156803,
+      "chineseName": "杯套/壶套/保温套",
+      "translatedName": "Cup cover/pot cover/insulation cover",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046721"
+    }
+  }
+}

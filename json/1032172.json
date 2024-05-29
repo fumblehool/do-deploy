@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032172,
+      "chineseName": "液压制动泵",
+      "translatedName": "hydraulic brake pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10106"
+    }
+  }
+}

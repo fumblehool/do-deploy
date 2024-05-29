@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045975,
+      "chineseName": "PS塑料异型材",
+      "translatedName": "PS plastic profile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045968"
+    }
+  }
+}

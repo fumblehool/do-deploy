@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 41508,
+      "chineseName": "化学纤维",
+      "translatedName": "chemical fiber",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031752,
+          "chineseName": "其他化学纤维",
+          "translatedName": "Other chemical fibers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031753,
+          "chineseName": "人造纤维",
+          "translatedName": "man-made fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031754,
+          "chineseName": "功能纤维",
+          "translatedName": "functional fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031755,
+          "chineseName": "维纶纤维",
+          "translatedName": "vinylon fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031756,
+          "chineseName": "丙纶纤维",
+          "translatedName": "polypropylene fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031757,
+          "chineseName": "氨纶纤维",
+          "translatedName": "spandex fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031758,
+          "chineseName": "腈纶纤维",
+          "translatedName": "acrylic fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031759,
+          "chineseName": "锦纶纤维",
+          "translatedName": "nylon fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031760,
+          "chineseName": "涤纶纤维",
+          "translatedName": "polyester fiber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        },
+        {
+          "categoryId": 1031761,
+          "chineseName": "切片",
+          "translatedName": "Slice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 41508
+        }
+      ]
+    }
+  }
+}

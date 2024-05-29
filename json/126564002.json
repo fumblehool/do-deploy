@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126564002,
+      "chineseName": "婴儿牙刷/牙膏",
+      "translatedName": "Baby toothbrush/toothpaste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122268004"
+    }
+  }
+}

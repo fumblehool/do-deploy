@@ -1,0 +1,595 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 524,
+      "chineseName": "低压电器",
+      "translatedName": "Low-voltage electrical apparatus",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032265,
+          "chineseName": "低压开关柜",
+          "translatedName": "LV switchgear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1032248,
+          "chineseName": "其他低压电器",
+          "translatedName": "Other low-voltage electrical appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1035013,
+          "chineseName": "电抗器",
+          "translatedName": "Reactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 10190,
+          "chineseName": "其他断路器",
+          "translatedName": "Other Circuit Breakers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 10191,
+          "chineseName": "低压控制器",
+          "translatedName": "Low pressure controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1032250,
+          "chineseName": "启动器",
+          "translatedName": "Initiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1032251,
+          "chineseName": "低压接触器",
+          "translatedName": "Low-voltage contactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1032252,
+          "chineseName": "低压熔断器",
+          "translatedName": "low-voltage fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1036547,
+          "chineseName": "脱扣器",
+          "translatedName": "release",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 1036546,
+          "chineseName": "调速器",
+          "translatedName": "Governor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 124190004,
+          "chineseName": "框架式断路器（万能式）",
+          "translatedName": "Frame type circuit breaker (universal type)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 125274014,
+          "chineseName": "电动机保护用断路器",
+          "translatedName": "Circuit Breaker for Motor Protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 124256003,
+          "chineseName": "塑壳式断路器",
+          "translatedName": "molded case circuit breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 124954008,
+          "chineseName": "漏电保护器",
+          "translatedName": "leakage protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 124194007,
+          "chineseName": "微型断路器（小型断路器）",
+          "translatedName": "Miniature Circuit Breaker (Miniature Circuit Breaker)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127100001,
+          "chineseName": "中间继电器（低压电器）",
+          "translatedName": "Intermediate relay (low-voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127102001,
+          "chineseName": "电流继电器（低压电器）",
+          "translatedName": "Current relay (low voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127104001,
+          "chineseName": "固态继电器（低压电器）",
+          "translatedName": "Solid State Relay (Low Voltage Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201568221,
+          "chineseName": "气体继电器",
+          "translatedName": "gas relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201568930,
+          "chineseName": "舌簧继电器",
+          "translatedName": "reed relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201569417,
+          "chineseName": "马达继电器",
+          "translatedName": "Motor relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201571025,
+          "chineseName": "电力保护继电器",
+          "translatedName": "Power protection relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201571323,
+          "chineseName": "电磁继电器（低压电气）",
+          "translatedName": "Electromagnetic relay (low voltage electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201573122,
+          "chineseName": "交流继电器（低压电气）",
+          "translatedName": "AC relay (LV electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127090001,
+          "chineseName": "低压电涌保护器",
+          "translatedName": "Low voltage surge protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127090002,
+          "chineseName": "液位继电器（低压电器）",
+          "translatedName": "Liquid Level Relay (Low Voltage Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127092001,
+          "chineseName": "双电源自动转换开关ATSE",
+          "translatedName": "Dual power automatic transfer switch ATSE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127094002,
+          "chineseName": "正反转继电器（低压电器）",
+          "translatedName": "Positive and reverse relay (low-voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127094001,
+          "chineseName": "塑壳漏电断路器",
+          "translatedName": "Moulded case leakage circuit breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127096001,
+          "chineseName": "热继电器（低压电器）",
+          "translatedName": "Thermal relay (low voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127098001,
+          "chineseName": "时间继电器（低压电器）",
+          "translatedName": "Time relay (low voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201228823,
+          "chineseName": "计数继电器",
+          "translatedName": "Counting relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127912002,
+          "chineseName": "测量与监控继电器",
+          "translatedName": "Measuring and monitoring relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 126576001,
+          "chineseName": "低压指示灯",
+          "translatedName": "Low pressure indicator light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127896002,
+          "chineseName": "软启动器",
+          "translatedName": "soft starter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201604501,
+          "chineseName": "其他继电器（低压电气）",
+          "translatedName": "Other relays (low voltage electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201606402,
+          "chineseName": "保险丝",
+          "translatedName": "Fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127874002,
+          "chineseName": "浪涌保护器",
+          "translatedName": "Surge protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127876002,
+          "chineseName": "液位控制继电器",
+          "translatedName": "Level control relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127914001,
+          "chineseName": "速度监测继电器",
+          "translatedName": "Speed monitoring relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 126566003,
+          "chineseName": "接线端子",
+          "translatedName": "Terminal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 126570004,
+          "chineseName": "工业连接器（低压电器）",
+          "translatedName": "Industrial Connectors (Low Voltage Apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127888003,
+          "chineseName": "智慧用电系统",
+          "translatedName": "Smart electricity system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201579518,
+          "chineseName": "光耦继电器（低压电气）",
+          "translatedName": "Optocoupler relay (low voltage electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201580821,
+          "chineseName": "信号继电器（低压电气）",
+          "translatedName": "Signal relay (LV electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201600202,
+          "chineseName": "接触器附件",
+          "translatedName": "Contactor Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 126558001,
+          "chineseName": "低压继电器",
+          "translatedName": "Low voltage relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127778005,
+          "chineseName": "低压电容器",
+          "translatedName": "low voltage capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127886002,
+          "chineseName": "绝缘监测继电器",
+          "translatedName": "Insulation monitoring relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201206403,
+          "chineseName": "微型漏电断路器",
+          "translatedName": "miniature leakage circuit breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201575122,
+          "chineseName": "压力继电器（低压电气）",
+          "translatedName": "Pressure relay (low voltage electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201575224,
+          "chineseName": "继电器配件",
+          "translatedName": "Relay Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201575317,
+          "chineseName": "小型继电器",
+          "translatedName": "Small relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201576823,
+          "chineseName": "汽车继电器（低压电气）",
+          "translatedName": "Automotive relay (low voltage electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201578724,
+          "chineseName": "真空继电器（低压电气）",
+          "translatedName": "Vacuum relay (LV electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201578725,
+          "chineseName": "直流继电器（低压电气）",
+          "translatedName": "DC relay (LV electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 201579414,
+          "chineseName": "安全继电器（低压电气）",
+          "translatedName": "Safety relay (LV electrical)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 126578001,
+          "chineseName": "蜂鸣器",
+          "translatedName": "Buzzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127866002,
+          "chineseName": "温度控制继电器",
+          "translatedName": "Temperature control relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127868005,
+          "chineseName": "功率因数监测继电器",
+          "translatedName": "power factor monitoring relay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127898001,
+          "chineseName": "断路器附件",
+          "translatedName": "Circuit Breaker Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127900001,
+          "chineseName": "电位器（低压电器）",
+          "translatedName": "Potentiometer (low voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 127902001,
+          "chineseName": "电压继电器（低压电器）",
+          "translatedName": "Voltage relay (low voltage electrical apparatus)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        },
+        {
+          "categoryId": 202051711,
+          "chineseName": "稳压器",
+          "translatedName": "Voltage regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 524
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201549108,
+      "chineseName": "战术腿包",
+      "translatedName": "Tactical Leg Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127406010"
+    }
+  }
+}

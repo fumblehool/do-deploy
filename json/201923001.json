@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201923001,
+      "chineseName": "切割丝",
+      "translatedName": "Cutting wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042817"
+    }
+  }
+}

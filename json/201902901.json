@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201902901,
+      "chineseName": "键盘手托",
+      "translatedName": "Keyboard support",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10262"
+    }
+  }
+}

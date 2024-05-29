@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10050,
+      "chineseName": "动物性饲料",
+      "translatedName": "animal feed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10048"
+    }
+  }
+}

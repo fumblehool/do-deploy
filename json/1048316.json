@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048316,
+      "chineseName": "羽绒裤/棉裤",
+      "translatedName": "Down trousers/cotton trousers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125748001"
+    }
+  }
+}

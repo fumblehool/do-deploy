@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201916004,
+      "chineseName": "玻璃刮条",
+      "translatedName": "Glass Scraping Strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3305"
+    }
+  }
+}

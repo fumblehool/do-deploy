@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200804008,
+      "chineseName": "普通晶闸管(SCR)",
+      "translatedName": "Ordinary thyristor (SCR)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200800009"
+    }
+  }
+}

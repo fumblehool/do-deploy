@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 411,
+      "chineseName": "丝绸面料",
+      "translatedName": "Silk Fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031772,
+          "chineseName": "其他丝绸面料",
+          "translatedName": "Other Silk Fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031773,
+          "chineseName": "纺类",
+          "translatedName": "Spinning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031774,
+          "chineseName": "锦类",
+          "translatedName": "Brocade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031775,
+          "chineseName": "绉类",
+          "translatedName": "Crepe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031776,
+          "chineseName": "绢类",
+          "translatedName": "Silk Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031777,
+          "chineseName": "绸类",
+          "translatedName": "Silk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1031779,
+          "chineseName": "缎类",
+          "translatedName": "Satin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        },
+        {
+          "categoryId": 1046639,
+          "chineseName": "乔其",
+          "translatedName": "Joe.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 411
+        }
+      ]
+    }
+  }
+}

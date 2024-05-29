@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310008,
+      "chineseName": "羽绒/羽毛床垫",
+      "translatedName": "Down/feather mattress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123088001"
+    }
+  }
+}

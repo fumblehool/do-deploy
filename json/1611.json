@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1611,
+      "chineseName": "医疗器具",
+      "translatedName": "Medical apparatus",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033318,
+          "chineseName": "其他医疗器具",
+          "translatedName": "Other medical apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        },
+        {
+          "categoryId": 1033319,
+          "chineseName": "中医器械",
+          "translatedName": "Traditional Chinese Medicine Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        },
+        {
+          "categoryId": 1033321,
+          "chineseName": "手术器械",
+          "translatedName": "Surgical instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        },
+        {
+          "categoryId": 1033322,
+          "chineseName": "通用医疗器具",
+          "translatedName": "General medical apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        },
+        {
+          "categoryId": 1033323,
+          "chineseName": "医用器皿",
+          "translatedName": "Medical Utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        },
+        {
+          "categoryId": 1033333,
+          "chineseName": "诊察设备",
+          "translatedName": "Diagnostic equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1611
+        }
+      ]
+    }
+  }
+}

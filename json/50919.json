@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50919,
+      "chineseName": "短信系统",
+      "translatedName": "SMS system",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "509"
+    }
+  }
+}

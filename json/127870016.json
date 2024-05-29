@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127870016,
+      "chineseName": "毯类",
+      "translatedName": "Blanket",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10133,
+          "chineseName": "其他毛毯、绒毯",
+          "translatedName": "Other blankets, fleece blankets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122246001,
+          "chineseName": "蚕丝毯、真丝毯",
+          "translatedName": "Silk blanket, silk blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122246003,
+          "chineseName": "线毯",
+          "translatedName": "Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122194004,
+          "chineseName": "毛巾毯",
+          "translatedName": "Towel Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122240002,
+          "chineseName": "羊毛毯、羊绒毯",
+          "translatedName": "Wool blanket, cashmere blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122250001,
+          "chineseName": "袖毯",
+          "translatedName": "Sleeve blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122252001,
+          "chineseName": "竹纤维毯",
+          "translatedName": "Bamboo fiber blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 122332003,
+          "chineseName": "绒毯",
+          "translatedName": "Velvet Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 127868023,
+          "chineseName": "针织毯",
+          "translatedName": "Knitted Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 127870017,
+          "chineseName": "拉舍尔毯",
+          "translatedName": "Raschle Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 127872012,
+          "chineseName": "法兰绒毯",
+          "translatedName": "Flannel Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 127884011,
+          "chineseName": "珊瑚绒毯",
+          "translatedName": "Coral Fleece Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        },
+        {
+          "categoryId": 127866024,
+          "chineseName": "人鱼毯",
+          "translatedName": "Mermaid Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127870016
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121046003,
+      "chineseName": "工字钢",
+      "translatedName": "I-beam",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122540004,
+      "chineseName": "喜糖盒",
+      "translatedName": "candy box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045651,
+      "chineseName": "名片夹、名片盒",
+      "translatedName": "business card holder, business card case",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2122"
+    }
+  }
+}

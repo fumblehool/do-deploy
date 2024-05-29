@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035319,
+      "chineseName": "流量控制阀",
+      "translatedName": "flow control valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141907"
+    }
+  }
+}

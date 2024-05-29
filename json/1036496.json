@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036496,
+      "chineseName": "笔记本键盘保护膜",
+      "translatedName": "Notebook Keyboard Protective Film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "729"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042593,
+      "chineseName": "纸尿裤",
+      "translatedName": "Diapers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

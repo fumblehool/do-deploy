@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 75,
+      "chineseName": "展览会信息",
+      "translatedName": "Exhibition Information",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 166,
+          "chineseName": "汽车、摩托、配件展",
+          "translatedName": "Automobile, motorcycle and accessories exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 167,
+          "chineseName": "食品、饮料、农业展",
+          "translatedName": "Food, Beverage, Agriculture Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 168,
+          "chineseName": "贸易、代理、进出口展",
+          "translatedName": "Trade, agency, import and export exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2506,
+          "chineseName": "机械、工业、设备展",
+          "translatedName": "Machinery, Industry, Equipment Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2508,
+          "chineseName": "服装、纺织、皮革展",
+          "translatedName": "Clothing, textile, leather exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2507,
+          "chineseName": "五金、建材、建筑展",
+          "translatedName": "Hardware, building materials, construction exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2509,
+          "chineseName": "电子、通讯、信息展",
+          "translatedName": "Electronic, Communication and Information Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2510,
+          "chineseName": "礼品、饰品、工艺品展",
+          "translatedName": "Gifts, Accessories, Crafts Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2511,
+          "chineseName": "化工、能源、环保展",
+          "translatedName": "Chemical, Energy and Environmental Protection Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2513,
+          "chineseName": "办公、文体、玩具展",
+          "translatedName": "Office, style, toy fair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2514,
+          "chineseName": "包装、印刷、纸业展",
+          "translatedName": "Packaging, Printing, Paper Industry Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2515,
+          "chineseName": "广告、传媒、出版展",
+          "translatedName": "Advertising, Media, Publishing Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2517,
+          "chineseName": "其他行业展会",
+          "translatedName": "Other Industry Exhibitions",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2518,
+          "chineseName": "综合类展会",
+          "translatedName": "Comprehensive exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2519,
+          "chineseName": "计算机、软件、网络展",
+          "translatedName": "Computer, Software and Network Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2520,
+          "chineseName": "海洋、航空、航天展",
+          "translatedName": "Ocean, Air and Space Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2521,
+          "chineseName": "家电、家具、日用品展",
+          "translatedName": "Home appliances, furniture, daily necessities exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2522,
+          "chineseName": "旅游、酒店、餐饮展",
+          "translatedName": "Tourism, Hotel, Catering Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2523,
+          "chineseName": "生物、医药、保健展",
+          "translatedName": "Biology, Medicine, Health Care Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2524,
+          "chineseName": "影视、娱乐、体育展",
+          "translatedName": "Film and television, entertainment, sports exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2525,
+          "chineseName": "首饰、美容、化妆品展",
+          "translatedName": "Jewelry, beauty, cosmetics exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2526,
+          "chineseName": "公共、安全、防护展",
+          "translatedName": "Public, Safety and Protection Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2527,
+          "chineseName": "教育、培训、艺术展",
+          "translatedName": "Education, Training, Art Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2529,
+          "chineseName": "咨询、投资、加盟",
+          "translatedName": "Consulting, investment, joining",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2530,
+          "chineseName": "金融、保险、审计展",
+          "translatedName": "Finance, Insurance, Audit Exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        },
+        {
+          "categoryId": 2531,
+          "chineseName": "运输、物流、仓储展",
+          "translatedName": "Transportation, logistics, warehousing exhibition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 75
+        }
+      ]
+    }
+  }
+}

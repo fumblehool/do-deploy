@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924010,
+      "chineseName": "米字螺丝刀",
+      "translatedName": "Mega-blade screwdriver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924001"
+    }
+  }
+}

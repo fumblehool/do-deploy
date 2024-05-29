@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127766005,
+      "chineseName": "线缆接线盒",
+      "translatedName": "Cable junction box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10197"
+    }
+  }
+}

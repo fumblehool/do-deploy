@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159402,
+      "chineseName": "舞蹈/健美操/体操配饰",
+      "translatedName": "Dance/Aerobics/Gymnastics Accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045423"
+    }
+  }
+}

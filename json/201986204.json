@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201986204,
+      "chineseName": "一次性餐垫",
+      "translatedName": "Disposable Placemat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10287"
+    }
+  }
+}

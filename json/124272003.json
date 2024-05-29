@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272003,
+      "chineseName": "光波表",
+      "translatedName": "lightwave meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268003"
+    }
+  }
+}

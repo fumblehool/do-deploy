@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121552003,
+      "chineseName": "化工包装",
+      "translatedName": "Chemical Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126376002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122212002,
+      "chineseName": "毛巾礼盒装",
+      "translatedName": "Towel gift box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926017"
+    }
+  }
+}

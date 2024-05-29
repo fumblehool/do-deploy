@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163503,
+      "chineseName": "泡沫加工",
+      "translatedName": "Foam processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201157906"
+    }
+  }
+}

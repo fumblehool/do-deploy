@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041633,
+      "chineseName": "液压整机",
+      "translatedName": "Hydraulic complete machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924008"
+    }
+  }
+}

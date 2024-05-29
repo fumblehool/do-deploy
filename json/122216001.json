@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122216001,
+      "chineseName": "旅行包、旅行袋",
+      "translatedName": "Travel bag, travel bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1042954"
+    }
+  }
+}

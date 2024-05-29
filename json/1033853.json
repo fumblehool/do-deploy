@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033853,
+      "chineseName": "纺织用仪器",
+      "translatedName": "Textile instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10214"
+    }
+  }
+}

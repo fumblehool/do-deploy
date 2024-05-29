@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920902,
+      "chineseName": "瓷嘴保护套",
+      "translatedName": "Porcelain mouth protection sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1427"
+    }
+  }
+}

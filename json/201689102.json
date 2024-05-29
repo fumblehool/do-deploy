@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201689102,
+      "chineseName": "其他保暖贴/怀炉/保暖用品",
+      "translatedName": "Other Thermal Paste/Furnace/Warm-keeping Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201664803"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337818,
+      "chineseName": "雪燕",
+      "translatedName": "Xueyan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048224"
+    }
+  }
+}

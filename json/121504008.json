@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121504008,
+      "chineseName": "焊接小车",
+      "translatedName": "Welding trolley",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1456"
+    }
+  }
+}

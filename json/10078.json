@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10078,
+      "chineseName": "纯净、矿泉水",
+      "translatedName": "Pure, mineral water",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10077"
+    }
+  }
+}

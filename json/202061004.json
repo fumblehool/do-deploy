@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061004,
+      "chineseName": "无源元件",
+      "translatedName": "Passive components",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038333,
+          "chineseName": "电阻器",
+          "translatedName": "RESISTOR",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061004
+        },
+        {
+          "categoryId": 1039748,
+          "chineseName": "电感器",
+          "translatedName": "Inductors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061004
+        },
+        {
+          "categoryId": 1040193,
+          "chineseName": "电位器",
+          "translatedName": "Potentiometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061004
+        },
+        {
+          "categoryId": 202053507,
+          "chineseName": "电感线圈",
+          "translatedName": "inductance coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061004
+        },
+        {
+          "categoryId": 202060611,
+          "chineseName": "散热片/散热元件",
+          "translatedName": "Heat sink/cooling element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061004
+        }
+      ]
+    }
+  }
+}

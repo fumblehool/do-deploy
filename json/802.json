@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 802,
+      "chineseName": "无机盐",
+      "translatedName": "inorganic salt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 80222,
+          "chineseName": "亚硝酸盐",
+          "translatedName": "Nitrite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80223,
+          "chineseName": "硫代硫酸盐",
+          "translatedName": "Thiosulfate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80224,
+          "chineseName": "硼酸盐",
+          "translatedName": "Borate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80225,
+          "chineseName": "铬酸盐",
+          "translatedName": "Chromate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80227,
+          "chineseName": "酒石酸盐",
+          "translatedName": "Tartrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80228,
+          "chineseName": "硫氰酸盐",
+          "translatedName": "thiocyanate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80229,
+          "chineseName": "氟硅酸盐",
+          "translatedName": "Fluorosilicate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80212,
+          "chineseName": "氰化物",
+          "translatedName": "Cyanide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80214,
+          "chineseName": "卤酸盐",
+          "translatedName": "halogen acid salt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80213,
+          "chineseName": "溴化物",
+          "translatedName": "Bromide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80215,
+          "chineseName": "氯化物",
+          "translatedName": "Chloride",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80216,
+          "chineseName": "硝酸盐",
+          "translatedName": "Nitrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80217,
+          "chineseName": "硫酸盐",
+          "translatedName": "Sulphate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80218,
+          "chineseName": "碳酸盐",
+          "translatedName": "Carbonate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80219,
+          "chineseName": "亚磷酸盐",
+          "translatedName": "Phosphite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80220,
+          "chineseName": "亚硫酸盐",
+          "translatedName": "sulfite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80221,
+          "chineseName": "高锰酸盐",
+          "translatedName": "permanganate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80203,
+          "chineseName": "硫化物",
+          "translatedName": "Sulfide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80207,
+          "chineseName": "其他无机盐",
+          "translatedName": "Other inorganic salts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80208,
+          "chineseName": "硅酸盐",
+          "translatedName": "Silicate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80209,
+          "chineseName": "磷酸盐",
+          "translatedName": "phosphate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80210,
+          "chineseName": "碘化物",
+          "translatedName": "Iodide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        },
+        {
+          "categoryId": 80211,
+          "chineseName": "氟化物",
+          "translatedName": "Fluoride",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 802
+        }
+      ]
+    }
+  }
+}

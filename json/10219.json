@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10219,
+      "chineseName": "白炽灯",
+      "translatedName": "Incandescent lamp",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032279,
+          "chineseName": "卤钨灯泡",
+          "translatedName": "tungsten halogen bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1032283,
+          "chineseName": "摄影灯泡",
+          "translatedName": "Photographic light bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1032285,
+          "chineseName": "彩色灯泡",
+          "translatedName": "colored light bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035278,
+          "chineseName": "聚光灯泡",
+          "translatedName": "Spotlight bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035279,
+          "chineseName": "微型灯泡",
+          "translatedName": "Miniature bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035280,
+          "chineseName": "普通照明白炽灯",
+          "translatedName": "General lighting incandescent lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035273,
+          "chineseName": "其他白炽灯",
+          "translatedName": "Other Incandescent Lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035275,
+          "chineseName": "红外线灯泡",
+          "translatedName": "infrared light bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035274,
+          "chineseName": "指示灯泡",
+          "translatedName": "Indication bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035276,
+          "chineseName": "无影灯",
+          "translatedName": "shadowless lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        },
+        {
+          "categoryId": 1035277,
+          "chineseName": "水下灯泡",
+          "translatedName": "underwater bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10219
+        }
+      ]
+    }
+  }
+}

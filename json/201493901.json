@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201493901,
+      "chineseName": "塑料棒、塑料条",
+      "translatedName": "Plastic rod, plastic strip",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034591,
+          "chineseName": "其他塑料棒、塑料条",
+          "translatedName": "Other plastic rods, plastic strips",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201493901
+        }
+      ]
+    }
+  }
+}

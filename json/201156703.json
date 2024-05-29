@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156703,
+      "chineseName": "拦污浮筒",
+      "translatedName": "Dam buoy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1040298"
+    }
+  }
+}

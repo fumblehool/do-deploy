@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612022,
+      "chineseName": "LED转向灯、角灯",
+      "translatedName": "LED turn signal lamp, corner lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620015"
+    }
+  }
+}

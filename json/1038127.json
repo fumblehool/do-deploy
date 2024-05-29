@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038127,
+      "chineseName": "实木复合地板",
+      "translatedName": "wood composite flooring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10428"
+    }
+  }
+}

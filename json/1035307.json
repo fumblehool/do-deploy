@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035307,
+      "chineseName": "灌溉工具",
+      "translatedName": "Irrigation tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "138"
+    }
+  }
+}

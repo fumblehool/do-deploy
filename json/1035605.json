@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035605,
+      "chineseName": "橡胶地板",
+      "translatedName": "Rubber flooring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10428"
+    }
+  }
+}

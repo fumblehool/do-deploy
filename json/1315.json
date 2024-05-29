@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1315,
+      "chineseName": "建筑玻璃",
+      "translatedName": "Architectural glass",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031602,
+          "chineseName": "原片玻璃",
+          "translatedName": "Original Glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1315
+        },
+        {
+          "categoryId": 1031603,
+          "chineseName": "深加工玻璃",
+          "translatedName": "deep processing glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1315
+        },
+        {
+          "categoryId": 1035773,
+          "chineseName": "其他建筑玻璃",
+          "translatedName": "Other building glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1315
+        },
+        {
+          "categoryId": 201134801,
+          "chineseName": "玻璃幕墙",
+          "translatedName": "glass curtain wall",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1315
+        },
+        {
+          "categoryId": 201305109,
+          "chineseName": "玻璃砖",
+          "translatedName": "glass brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1315
+        }
+      ]
+    }
+  }
+}

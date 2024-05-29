@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201913804,
+      "chineseName": "焊枪总成",
+      "translatedName": "Welding gun assembly",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1427"
+    }
+  }
+}

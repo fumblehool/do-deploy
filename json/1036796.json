@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036796,
+      "chineseName": "防腐涂料",
+      "translatedName": "anticorrosive coating",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031624"
+    }
+  }
+}

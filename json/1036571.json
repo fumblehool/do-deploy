@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036571,
+      "chineseName": "建筑用精细化学品",
+      "translatedName": "Fine chemicals for construction",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036730,
+          "chineseName": "填、堵漏剂",
+          "translatedName": "Filling and plugging agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036572,
+          "chineseName": "其他建筑用助剂",
+          "translatedName": "Other building auxiliaries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036573,
+          "chineseName": "水泥添加剂",
+          "translatedName": "cement additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036574,
+          "chineseName": "混凝土添加剂",
+          "translatedName": "Concrete Additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036575,
+          "chineseName": "砂浆添加剂",
+          "translatedName": "mortar additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036576,
+          "chineseName": "防水剂",
+          "translatedName": "Waterproofing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036577,
+          "chineseName": "建筑用防冻剂",
+          "translatedName": "Antifreeze for construction",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036578,
+          "chineseName": "早强剂",
+          "translatedName": "early strength agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036934,
+          "chineseName": "减水剂",
+          "translatedName": "water reducing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036938,
+          "chineseName": "界面剂",
+          "translatedName": "interface agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 1036948,
+          "chineseName": "速凝剂",
+          "translatedName": "Accelerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        },
+        {
+          "categoryId": 201155905,
+          "chineseName": "填缝剂",
+          "translatedName": "caulking agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036571
+        }
+      ]
+    }
+  }
+}

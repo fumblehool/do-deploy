@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122794007,
+      "chineseName": "按摩床",
+      "translatedName": "Massage bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045579"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123866002,
+      "chineseName": "产妇卫生巾",
+      "translatedName": "Maternal sanitary napkins",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231505"
+    }
+  }
+}

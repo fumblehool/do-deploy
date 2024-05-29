@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031767,
+      "chineseName": "大麻面料",
+      "translatedName": "hemp fabric",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "412"
+    }
+  }
+}

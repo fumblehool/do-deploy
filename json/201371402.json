@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201371402,
+      "chineseName": "数字屋/形状盒/多孔认知玩具",
+      "translatedName": "Digital House/Shape Box/Porous Cognitive Toy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

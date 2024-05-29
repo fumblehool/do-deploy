@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201377301,
+      "chineseName": "竹制包装",
+      "translatedName": "Bamboo packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10368"
+    }
+  }
+}

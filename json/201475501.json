@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201475501,
+      "chineseName": "工艺品配件",
+      "translatedName": "Craft Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044114,
+          "chineseName": "工艺原料",
+          "translatedName": "Process raw materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201475501
+        },
+        {
+          "categoryId": 201475801,
+          "chineseName": "扇骨/扇架",
+          "translatedName": "Fan Bones/Frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201475501
+        },
+        {
+          "categoryId": 201475901,
+          "chineseName": "竹圈",
+          "translatedName": "Bamboo Circle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201475501
+        }
+      ]
+    }
+  }
+}

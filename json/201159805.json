@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159805,
+      "chineseName": "宠物医疗用品",
+      "translatedName": "Pet Medical Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121776006"
+    }
+  }
+}

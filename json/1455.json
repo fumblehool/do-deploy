@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1455,
+      "chineseName": "传动件",
+      "translatedName": "Transmission parts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035337,
+          "chineseName": "其他传动件",
+          "translatedName": "Other transmission parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035338,
+          "chineseName": "齿轮箱",
+          "translatedName": "Gearbox",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035339,
+          "chineseName": "联轴器",
+          "translatedName": "Coupling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035340,
+          "chineseName": "蜗杆",
+          "translatedName": "Worm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035341,
+          "chineseName": "蜗轮",
+          "translatedName": "Worm gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035342,
+          "chineseName": "带轮",
+          "translatedName": "Pulley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1035343,
+          "chineseName": "传动链",
+          "translatedName": "transmission chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1044047,
+          "chineseName": "胀套",
+          "translatedName": "Expansion sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 1036058,
+          "chineseName": "导轨",
+          "translatedName": "Guide rail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 141901,
+          "chineseName": "齿轮",
+          "translatedName": "Gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        },
+        {
+          "categoryId": 141902,
+          "chineseName": "链轮",
+          "translatedName": "Sprocket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1455
+        }
+      ]
+    }
+  }
+}

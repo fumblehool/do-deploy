@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042954,
+      "chineseName": "箱包皮具",
+      "translatedName": "luggage and leather goods",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10283,
+          "chineseName": "旅行箱",
+          "translatedName": "Suitcase",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 1043801,
+          "chineseName": "月子帽、妈咪包",
+          "translatedName": "Moon cap, Mummy bag",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 1037354,
+          "chineseName": "其他包",
+          "translatedName": "Other Packages",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 1037365,
+          "chineseName": "其他袋",
+          "translatedName": "Other Bags",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 1037344,
+          "chineseName": "其他箱",
+          "translatedName": "Other boxes",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 121658001,
+          "chineseName": "男士包袋",
+          "translatedName": "Men's Bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 122228002,
+          "chineseName": "钱包",
+          "translatedName": "Wallet",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 125728001,
+          "chineseName": "化妆箱包",
+          "translatedName": "Makeup bags",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 122216001,
+          "chineseName": "旅行包、旅行袋",
+          "translatedName": "Travel bag, travel bag",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 124016002,
+          "chineseName": "女士包袋",
+          "translatedName": "Ladies Bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 122218002,
+          "chineseName": "手机包",
+          "translatedName": "Mobile phone bag",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 126128002,
+          "chineseName": "儿童包",
+          "translatedName": "Children's bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201548701,
+          "chineseName": "电脑包包",
+          "translatedName": "Computer Bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201548901,
+          "chineseName": "艺术类箱包",
+          "translatedName": "Art bags",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 126994084,
+          "chineseName": "定制箱包皮具",
+          "translatedName": "Custom bags and leather goods",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201304404,
+          "chineseName": "背包床、床中床",
+          "translatedName": "Backpack bed, bed in bed",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 127278005,
+          "chineseName": "箱包配件",
+          "translatedName": "luggage accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201558112,
+          "chineseName": "时尚口红包",
+          "translatedName": "Fashion mouth red envelope",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 127398006,
+          "chineseName": "数码包",
+          "translatedName": "Digital Bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201545602,
+          "chineseName": "运动包",
+          "translatedName": "Sports bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201551616,
+          "chineseName": "学生书包",
+          "translatedName": "Student schoolbag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 127406010,
+          "chineseName": "军迷包具",
+          "translatedName": "Army Fan Bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201556615,
+          "chineseName": "儿童休闲箱包",
+          "translatedName": "Children's leisure bags",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201997401,
+          "chineseName": "功能小包",
+          "translatedName": "Function packet",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        },
+        {
+          "categoryId": 201956604,
+          "chineseName": "双肩背包",
+          "translatedName": "Backpack",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1042954
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201869602,
+      "chineseName": "天然水晶项饰",
+      "translatedName": "Natural Crystal Jewelry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648701"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10041,
+      "chineseName": "茶叶",
+      "translatedName": "Tea",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10042,
+          "chineseName": "绿茶",
+          "translatedName": "Green Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 10043,
+          "chineseName": "红茶",
+          "translatedName": "Black Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 10044,
+          "chineseName": "花果茶",
+          "translatedName": "flower and fruit tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 10045,
+          "chineseName": "代用/养生茶",
+          "translatedName": "Substitute/Health Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 10046,
+          "chineseName": "其他茶叶",
+          "translatedName": "Other Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 1032852,
+          "chineseName": "黄茶",
+          "translatedName": "yellow tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 1032853,
+          "chineseName": "白茶",
+          "translatedName": "white tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 1032854,
+          "chineseName": "黑茶",
+          "translatedName": "black tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 1032855,
+          "chineseName": "乌龙茶",
+          "translatedName": "Oolong Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 124740021,
+          "chineseName": "再加工茶/配方茶/调味茶",
+          "translatedName": "reprocessed tea/recipe tea/flavored tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 201347603,
+          "chineseName": "普洱茶",
+          "translatedName": "Pu'er Tea",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        },
+        {
+          "categoryId": 202025701,
+          "chineseName": "茶粉/茶膏/茶精/茶液/茶蜜",
+          "translatedName": "Tea powder/tea cream/tea essence/tea liquid/tea honey",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10041
+        }
+      ]
+    }
+  }
+}

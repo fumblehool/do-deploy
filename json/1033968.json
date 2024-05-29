@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033968,
+      "chineseName": "IP电话机",
+      "translatedName": "IP telephone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50902"
+    }
+  }
+}

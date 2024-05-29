@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122704004,
+      "chineseName": "童披风/斗蓬",
+      "translatedName": "Children's Cape/Cloak",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202030801"
+    }
+  }
+}

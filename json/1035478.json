@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035478,
+      "chineseName": "机床刀架",
+      "translatedName": "Machine tool rest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032476"
+    }
+  }
+}

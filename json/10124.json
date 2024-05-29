@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10124,
+      "chineseName": "化纤纱",
+      "translatedName": "chemical fiber yarn",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10118"
+    }
+  }
+}

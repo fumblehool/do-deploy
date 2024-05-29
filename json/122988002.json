@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988002,
+      "chineseName": "公仔、玩偶、娃娃",
+      "translatedName": "Doll, doll, doll",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037283,
+          "chineseName": "木偶",
+          "translatedName": "Puppet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 122986002,
+          "chineseName": "毛绒公仔、玩偶、娃娃",
+          "translatedName": "Plush doll, doll, doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 122992005,
+          "chineseName": "搪胶/塑胶公仔、玩偶、娃娃",
+          "translatedName": "Vinyl/plastic dolls, dolls, dolls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 122982003,
+          "chineseName": "娃娃配饰",
+          "translatedName": "Doll Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 122962005,
+          "chineseName": "玩偶",
+          "translatedName": "Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 122988003,
+          "chineseName": "布类公仔、玩偶、娃娃",
+          "translatedName": "Cloth dolls, dolls, dolls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 181305,
+          "chineseName": "其他公仔、玩偶、娃娃",
+          "translatedName": "Other dolls, dolls, dolls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 201517702,
+          "chineseName": "棉花娃娃",
+          "translatedName": "Cotton Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        },
+        {
+          "categoryId": 201333110,
+          "chineseName": "蛋糕装饰配件",
+          "translatedName": "Cake Decorating Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122988002
+        }
+      ]
+    }
+  }
+}

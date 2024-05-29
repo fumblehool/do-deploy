@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122652001,
+      "chineseName": "骑行眼镜、风镜",
+      "translatedName": "Cycling glasses, goggles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122648001"
+    }
+  }
+}

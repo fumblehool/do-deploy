@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123618011,
+      "chineseName": "LED应急灯",
+      "translatedName": "LED emergency light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201270263"
+    }
+  }
+}

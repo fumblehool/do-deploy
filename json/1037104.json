@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037104,
+      "chineseName": "硅酸镁",
+      "translatedName": "Magnesium silicate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031632"
+    }
+  }
+}

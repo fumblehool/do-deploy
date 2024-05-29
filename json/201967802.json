@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201967802,
+      "chineseName": "强脉冲脱毛仪（器械）",
+      "translatedName": "intense pulse hair removal apparatus (apparatus)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201972101"
+    }
+  }
+}

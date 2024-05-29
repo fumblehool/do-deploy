@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190003,
+      "chineseName": "测电笔",
+      "translatedName": "Measuring pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032384"
+    }
+  }
+}

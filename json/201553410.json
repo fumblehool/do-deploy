@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201553410,
+      "chineseName": "童汉服",
+      "translatedName": "Tong Han clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545714"
+    }
+  }
+}

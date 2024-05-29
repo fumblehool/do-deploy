@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034943,
+      "chineseName": "农用车轮胎",
+      "translatedName": "agricultural vehicle tire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10113"
+    }
+  }
+}

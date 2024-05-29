@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201334916,
+      "chineseName": "单人床+床头柜",
+      "translatedName": "Single bed bedside table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

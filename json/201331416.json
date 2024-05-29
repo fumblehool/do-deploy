@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331416,
+      "chineseName": "双人床+床头柜",
+      "translatedName": "Double bedside table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

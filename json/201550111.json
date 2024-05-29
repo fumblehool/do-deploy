@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201550111,
+      "chineseName": "手提电脑包",
+      "translatedName": "Laptop Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548701"
+    }
+  }
+}

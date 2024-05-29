@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034668,
+      "chineseName": "三元醇",
+      "translatedName": "triol",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80307"
+    }
+  }
+}

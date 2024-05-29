@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186014,
+      "chineseName": "LED导光板",
+      "translatedName": "LED light guide plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10227"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121842001,
+      "chineseName": "狗狗包、箱",
+      "translatedName": "Dog bag, box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121828001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202062715,
+      "chineseName": "童装印花加工",
+      "translatedName": "Children's clothing printing processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202057212"
+    }
+  }
+}

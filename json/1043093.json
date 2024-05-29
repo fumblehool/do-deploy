@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043093,
+      "chineseName": "BB霜",
+      "translatedName": "BB cream",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82101"
+    }
+  }
+}

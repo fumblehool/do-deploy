@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123290006,
+      "chineseName": "不锈钢板（卷）",
+      "translatedName": "Stainless steel plate (roll)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033432,
+          "chineseName": "其他不锈钢板(卷)",
+          "translatedName": "Other stainless steel plate (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290006
+        },
+        {
+          "categoryId": 1042709,
+          "chineseName": "不锈钢带",
+          "translatedName": "Stainless steel belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290006
+        },
+        {
+          "categoryId": 123282008,
+          "chineseName": "不锈钢板",
+          "translatedName": "Stainless steel plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290006
+        },
+        {
+          "categoryId": 123282009,
+          "chineseName": "不锈钢卷",
+          "translatedName": "Stainless Steel Coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123290006
+        }
+      ]
+    }
+  }
+}

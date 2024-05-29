@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616016,
+      "chineseName": "OLED照明",
+      "translatedName": "OLED lighting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612012"
+    }
+  }
+}

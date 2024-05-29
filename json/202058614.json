@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058614,
+      "chineseName": "妊娠检测试纸（验孕试纸）",
+      "translatedName": "Pregnancy test strips (pregnancy test strips)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058703"
+    }
+  }
+}

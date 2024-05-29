@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122322005,
+      "chineseName": "项饰",
+      "translatedName": "Necklace",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037275,
+          "chineseName": "项链",
+          "translatedName": "Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322005
+        },
+        {
+          "categoryId": 122708005,
+          "chineseName": "吊坠",
+          "translatedName": "Pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322005
+        },
+        {
+          "categoryId": 122384002,
+          "chineseName": "项坠",
+          "translatedName": "Pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322005
+        },
+        {
+          "categoryId": 122402002,
+          "chineseName": "项圈",
+          "translatedName": "Collar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322005
+        },
+        {
+          "categoryId": 201878006,
+          "chineseName": "锁骨链",
+          "translatedName": "clavicle chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322005
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033898,
+      "chineseName": "气体检测仪",
+      "translatedName": "Gas detector",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036234,
+          "chineseName": "其他气体分析仪",
+          "translatedName": "Other gas analyzers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036235,
+          "chineseName": "二氧化碳检测仪",
+          "translatedName": "Carbon dioxide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036236,
+          "chineseName": "酒精检测仪",
+          "translatedName": "Alcohol detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036239,
+          "chineseName": "氯化氢检测仪",
+          "translatedName": "Hydrogen chloride detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036240,
+          "chineseName": "氢气检测仪",
+          "translatedName": "Hydrogen detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036241,
+          "chineseName": "氯气检测仪",
+          "translatedName": "Chlorine gas detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036242,
+          "chineseName": "二氧化硫检测仪",
+          "translatedName": "Sulfur dioxide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036243,
+          "chineseName": "一氧化氮检测仪",
+          "translatedName": "nitric oxide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036244,
+          "chineseName": "二氧化氮检测仪",
+          "translatedName": "Nitrogen dioxide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036245,
+          "chineseName": "硫化氢检测仪",
+          "translatedName": "Hydrogen sulfide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036246,
+          "chineseName": "一氧化碳检测仪",
+          "translatedName": "Carbon monoxide detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036247,
+          "chineseName": "可燃性气体检测仪",
+          "translatedName": "Combustible gas detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        },
+        {
+          "categoryId": 1036248,
+          "chineseName": "氧气检测仪",
+          "translatedName": "Oxygen detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033898
+        }
+      ]
+    }
+  }
+}

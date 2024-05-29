@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059215,
+      "chineseName": "其他氢能源产品",
+      "translatedName": "Other Hydrogen Energy Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202051614"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80228,
+      "chineseName": "硫氰酸盐",
+      "translatedName": "thiocyanate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "802"
+    }
+  }
+}

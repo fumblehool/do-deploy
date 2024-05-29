@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034811,
+      "chineseName": "除味剂",
+      "translatedName": "Deodorant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10384"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040900,
+      "chineseName": "蜜粉、散粉、定妆粉",
+      "translatedName": "Honey powder, loose powder, makeup powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82101"
+    }
+  }
+}

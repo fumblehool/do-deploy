@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034683,
+      "chineseName": "其他碳水化合物",
+      "translatedName": "Other Carbohydrates",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80305"
+    }
+  }
+}

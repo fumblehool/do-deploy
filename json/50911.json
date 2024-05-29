@@ -1,0 +1,397 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50911,
+      "chineseName": "手机配件",
+      "translatedName": "Mobile phone accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032302,
+          "chineseName": "手机电池",
+          "translatedName": "Mobile phone battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1033986,
+          "chineseName": "手机保护膜",
+          "translatedName": "Mobile phone protective film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1033997,
+          "chineseName": "其他手机配件",
+          "translatedName": "Other mobile phone accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1033998,
+          "chineseName": "手机模型",
+          "translatedName": "Mobile phone model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1033999,
+          "chineseName": "SIM卡备份器",
+          "translatedName": "SIM card backup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034000,
+          "chineseName": "手机双卡通",
+          "translatedName": "Mobile phone double cartoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034001,
+          "chineseName": "手机转接头",
+          "translatedName": "Mobile phone adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034002,
+          "chineseName": "手机信号屏蔽器",
+          "translatedName": "Mobile phone signal jammer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034003,
+          "chineseName": "手机显示屏",
+          "translatedName": "Mobile phone display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034005,
+          "chineseName": "手机按键",
+          "translatedName": "Mobile phone keys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034007,
+          "chineseName": "SIM卡座",
+          "translatedName": "SIM card holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1032353,
+          "chineseName": "手机充电器",
+          "translatedName": "Mobile phone charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034008,
+          "chineseName": "手机数据线",
+          "translatedName": "Mobile phone data line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034009,
+          "chineseName": "蓝牙适配器",
+          "translatedName": "Bluetooth adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034010,
+          "chineseName": "红外线适配器",
+          "translatedName": "Infrared Adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034011,
+          "chineseName": "手机摄像头",
+          "translatedName": "Mobile phone camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034013,
+          "chineseName": "手机免提设备",
+          "translatedName": "Handsfree devices for mobile phones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1034014,
+          "chineseName": "手机专用线控耳机",
+          "translatedName": "Dedicated wire-controlled headphones for mobile phones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1042207,
+          "chineseName": "手机保护套",
+          "translatedName": "Mobile Phone Protective Cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1035976,
+          "chineseName": "手写笔",
+          "translatedName": "Stylus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1046714,
+          "chineseName": "移动电源",
+          "translatedName": "Mobile power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1047286,
+          "chineseName": "手机防尘塞",
+          "translatedName": "Mobile phone dust plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122340003,
+          "chineseName": "手机取卡器",
+          "translatedName": "Mobile Phone Card Packer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122390006,
+          "chineseName": "手机镜头",
+          "translatedName": "Mobile phone lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122312005,
+          "chineseName": "手机剪卡器",
+          "translatedName": "Mobile phone card cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 1048186,
+          "chineseName": "蓝牙耳机",
+          "translatedName": "Bluetooth headset",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 123608002,
+          "chineseName": "手机自拍杆",
+          "translatedName": "Mobile phone selfie stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122308007,
+          "chineseName": "手机支架",
+          "translatedName": "Mobile phone holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122310009,
+          "chineseName": "SIM卡卡套",
+          "translatedName": "SIM card cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122408001,
+          "chineseName": "手机刷卡器",
+          "translatedName": "Mobile phone card reader",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 122704001,
+          "chineseName": "蓝牙自拍器",
+          "translatedName": "Bluetooth Selfie",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 124734039,
+          "chineseName": "移动电源电芯",
+          "translatedName": "Mobile power cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201345601,
+          "chineseName": "蓝牙耳机壳",
+          "translatedName": "Bluetooth earphone case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201686703,
+          "chineseName": "手机散热器",
+          "translatedName": "Mobile phone radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201368501,
+          "chineseName": "手机投屏器/同屏器",
+          "translatedName": "Mobile Phone Screen Cast/Same Screen Cast",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201335004,
+          "chineseName": "手机放大屏",
+          "translatedName": "Mobile phone zoom screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201618403,
+          "chineseName": "数码无线充电器",
+          "translatedName": "Digital Wireless Charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201891701,
+          "chineseName": "拾音节奏器",
+          "translatedName": "Pickup Rhythm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201891901,
+          "chineseName": "手机气囊支架",
+          "translatedName": "Mobile phone airbag bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201903101,
+          "chineseName": "手机稳定器",
+          "translatedName": "Mobile phone stabilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201876701,
+          "chineseName": "DIY手机壳",
+          "translatedName": "DIY phone shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        },
+        {
+          "categoryId": 201877707,
+          "chineseName": "手机指环支架",
+          "translatedName": "Mobile phone ring bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50911
+        }
+      ]
+    }
+  }
+}

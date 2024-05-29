@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036749,
+      "chineseName": "工程机械专用油",
+      "translatedName": "Special oil for construction machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032190"
+    }
+  }
+}

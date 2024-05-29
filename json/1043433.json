@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043433,
+      "chineseName": "液态精华",
+      "translatedName": "liquid essence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201308310"
+    }
+  }
+}

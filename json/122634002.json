@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122634002,
+      "chineseName": "钓鱼眼镜",
+      "translatedName": "Fishing Glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122648001"
+    }
+  }
+}

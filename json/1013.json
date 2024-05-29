@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1013,
+      "chineseName": "废油",
+      "translatedName": "waste oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10"
+    }
+  }
+}

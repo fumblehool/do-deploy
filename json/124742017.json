@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742017,
+      "chineseName": "鸭肉零食",
+      "translatedName": "Duck snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742009"
+    }
+  }
+}

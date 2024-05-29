@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201913105,
+      "chineseName": "送丝软管",
+      "translatedName": "Wire feeding hose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1427"
+    }
+  }
+}

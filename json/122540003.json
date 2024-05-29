@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122540003,
+      "chineseName": "简易鞋柜",
+      "translatedName": "Simple shoe cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122512002"
+    }
+  }
+}

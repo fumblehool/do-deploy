@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047276,
+      "chineseName": "暖贴、暖宝宝、发热贴",
+      "translatedName": "Warm paste, warm baby, hot paste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201664803"
+    }
+  }
+}

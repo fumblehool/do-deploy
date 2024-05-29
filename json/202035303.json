@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202035303,
+      "chineseName": "隧道轮廓带",
+      "translatedName": "tunnel contour strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3015"
+    }
+  }
+}

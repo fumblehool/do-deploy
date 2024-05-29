@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10028,
+      "chineseName": "蔬菜",
+      "translatedName": "Vegetables",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032836,
+          "chineseName": "其他蔬菜",
+          "translatedName": "Other vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032837,
+          "chineseName": "野生菜类",
+          "translatedName": "wild dishes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 10029,
+          "chineseName": "脱水蔬菜",
+          "translatedName": "dehydrated vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 10032,
+          "chineseName": "其他蔬菜制品",
+          "translatedName": "Other vegetable products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032838,
+          "chineseName": "水生菜类",
+          "translatedName": "Water lettuce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032839,
+          "chineseName": "根菜类",
+          "translatedName": "root vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032840,
+          "chineseName": "块茎类",
+          "translatedName": "Tubers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032841,
+          "chineseName": "瓜果类",
+          "translatedName": "Melon and fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032842,
+          "chineseName": "豆荚类",
+          "translatedName": "Pods",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032843,
+          "chineseName": "叶菜类",
+          "translatedName": "Leaf vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032844,
+          "chineseName": "其他辛辣蔬菜",
+          "translatedName": "Other spicy vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032845,
+          "chineseName": "辣椒彩椒",
+          "translatedName": "Pepper color pepper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032846,
+          "chineseName": "葱",
+          "translatedName": "Onion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032847,
+          "chineseName": "蒜",
+          "translatedName": "Garlic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1032848,
+          "chineseName": "姜",
+          "translatedName": "Ginger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1033695,
+          "chineseName": "花菜类",
+          "translatedName": "Cauliflower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1033696,
+          "chineseName": "竹笋类",
+          "translatedName": "bamboo shoots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        },
+        {
+          "categoryId": 1036800,
+          "chineseName": "洋葱",
+          "translatedName": "Onion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10028
+        }
+      ]
+    }
+  }
+}

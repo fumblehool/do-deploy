@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10381,
+      "chineseName": "造纸助剂",
+      "translatedName": "Papermaking additives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034814,
+          "chineseName": "其他造纸化学品",
+          "translatedName": "Other Paper Chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10381
+        },
+        {
+          "categoryId": 1034815,
+          "chineseName": "涂布助剂",
+          "translatedName": "Coating aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10381
+        },
+        {
+          "categoryId": 1034816,
+          "chineseName": "涂布剂",
+          "translatedName": "coating agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10381
+        },
+        {
+          "categoryId": 1034817,
+          "chineseName": "抄纸助剂",
+          "translatedName": "Papermaking Auxiliary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10381
+        },
+        {
+          "categoryId": 1034818,
+          "chineseName": "制浆助剂",
+          "translatedName": "pulping auxiliary agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10381
+        }
+      ]
+    }
+  }
+}

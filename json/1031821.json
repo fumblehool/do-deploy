@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031821,
+      "chineseName": "教育培训加盟",
+      "translatedName": "Education and training to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031817"
+    }
+  }
+}

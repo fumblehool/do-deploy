@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032245,
+      "chineseName": "其他防静电产品",
+      "translatedName": "Other anti-static products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3019"
+    }
+  }
+}

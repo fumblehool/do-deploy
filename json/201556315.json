@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201556315,
+      "chineseName": "女士大码内裤",
+      "translatedName": "Women's Plus Size Panties",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450001"
+    }
+  }
+}

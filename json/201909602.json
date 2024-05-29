@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201909602,
+      "chineseName": "丝袜/打底袜",
+      "translatedName": "Stockings/bottomed socks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043350,
+          "chineseName": "丝袜",
+          "translatedName": "silk stockings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201909602
+        },
+        {
+          "categoryId": 122460002,
+          "chineseName": "连裤袜、打底袜、踩脚袜",
+          "translatedName": "Pantyhose, bottom socks, foot socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201909602
+        }
+      ]
+    }
+  }
+}

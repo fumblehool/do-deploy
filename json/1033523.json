@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033523,
+      "chineseName": "其他室内休闲用品",
+      "translatedName": "Other Indoor Leisure Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1809"
+    }
+  }
+}

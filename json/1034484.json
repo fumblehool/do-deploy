@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034484,
+      "chineseName": "压底机",
+      "translatedName": "bottom pressing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10179"
+    }
+  }
+}

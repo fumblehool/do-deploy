@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201972302,
+      "chineseName": "儿童座椅棚",
+      "translatedName": "Child seat shed",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125066013"
+    }
+  }
+}

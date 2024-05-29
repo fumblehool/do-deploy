@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80206,
+      "chineseName": "工业气体",
+      "translatedName": "Industrial gas",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034613,
+          "chineseName": "其他气体",
+          "translatedName": "Other gases",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034614,
+          "chineseName": "混合气",
+          "translatedName": "gas mixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034616,
+          "chineseName": "一氧化二氮",
+          "translatedName": "Nitrous Oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034618,
+          "chineseName": "一氧化碳",
+          "translatedName": "Carbon Monoxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034619,
+          "chineseName": "二氧化碳",
+          "translatedName": "Carbon Dioxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034620,
+          "chineseName": "氙气",
+          "translatedName": "Xenon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034621,
+          "chineseName": "氖气",
+          "translatedName": "neon gas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034622,
+          "chineseName": "氪气",
+          "translatedName": "krypton gas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034623,
+          "chineseName": "氦气",
+          "translatedName": "Helium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034624,
+          "chineseName": "氩气",
+          "translatedName": "Argon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034625,
+          "chineseName": "氨气",
+          "translatedName": "Ammonia",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034627,
+          "chineseName": "氮气",
+          "translatedName": "Nitrogen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034628,
+          "chineseName": "氧气",
+          "translatedName": "Oxygen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1034629,
+          "chineseName": "氢气",
+          "translatedName": "Hydrogen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        },
+        {
+          "categoryId": 1036855,
+          "chineseName": "标准气体",
+          "translatedName": "Standard gas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80206
+        }
+      ]
+    }
+  }
+}

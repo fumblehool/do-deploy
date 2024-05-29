@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037137,
+      "chineseName": "色精",
+      "translatedName": "Color essence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031624"
+    }
+  }
+}

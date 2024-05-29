@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032478,
+      "chineseName": "电火花、线切割",
+      "translatedName": "Electric spark, wire cutting",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1426"
+    }
+  }
+}

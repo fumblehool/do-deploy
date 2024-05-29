@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305704,
+      "chineseName": "汽锅",
+      "translatedName": "Steamer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122548001"
+    }
+  }
+}

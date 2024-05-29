@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126552002,
+      "chineseName": "女式运动单鞋",
+      "translatedName": "Women's sports shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125372002"
+    }
+  }
+}

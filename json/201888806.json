@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201888806,
+      "chineseName": "摩托车轮毂",
+      "translatedName": "Motorcycle wheel hub",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3304"
+    }
+  }
+}

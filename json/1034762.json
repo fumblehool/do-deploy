@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034762,
+      "chineseName": "润肤乳液",
+      "translatedName": "emollient lotion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042634"
+    }
+  }
+}

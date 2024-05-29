@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034057,
+      "chineseName": "鞋定制加工",
+      "translatedName": "Shoes custom processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201301601"
+    }
+  }
+}

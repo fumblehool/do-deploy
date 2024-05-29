@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201910702,
+      "chineseName": "电动滑板车",
+      "translatedName": "Electric Scooter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1231"
+    }
+  }
+}

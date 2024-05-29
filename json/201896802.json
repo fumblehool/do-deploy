@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201896802,
+      "chineseName": "苹果系列套装",
+      "translatedName": "Apple series suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046693"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033460,
+      "chineseName": "其他滑雪用品",
+      "translatedName": "Other Ski Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2013"
+    }
+  }
+}

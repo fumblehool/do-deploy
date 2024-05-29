@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033203,
+      "chineseName": "监视器",
+      "translatedName": "Monitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3011"
+    }
+  }
+}

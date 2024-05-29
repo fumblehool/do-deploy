@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125470002,
+      "chineseName": "镀铝锌板",
+      "translatedName": "Galvanized zinc plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012028"
+    }
+  }
+}

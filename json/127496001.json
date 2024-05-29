@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127496001,
+      "chineseName": "儿童内衣内裤",
+      "translatedName": "Children's Underwear Panties",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036999,
+          "chineseName": "童内衣套装",
+          "translatedName": "Children's Underwear Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496001
+        },
+        {
+          "categoryId": 127498001,
+          "chineseName": "童保暖上装",
+          "translatedName": "Children's Warm Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496001
+        },
+        {
+          "categoryId": 127484002,
+          "chineseName": "童保暖裤",
+          "translatedName": "Children's Warm Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496001
+        },
+        {
+          "categoryId": 201553711,
+          "chineseName": "抹胸/儿童文胸",
+          "translatedName": "Strapless/Children's Bra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496001
+        },
+        {
+          "categoryId": 127450003,
+          "chineseName": "童内裤",
+          "translatedName": "Children's Underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127496001
+        }
+      ]
+    }
+  }
+}

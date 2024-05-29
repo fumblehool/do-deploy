@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033160,
+      "chineseName": "放大镜",
+      "translatedName": "Magnifying glass",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1904"
+    }
+  }
+}

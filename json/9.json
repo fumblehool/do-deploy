@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 9,
+      "chineseName": "冶金矿产",
+      "translatedName": "metallurgical mineral",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033365,
+          "chineseName": "矿物代理加盟",
+          "translatedName": "Mineral agents join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 1033366,
+          "chineseName": "矿业项目合作",
+          "translatedName": "Mining project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 1031810,
+          "chineseName": "金属材料代理加盟",
+          "translatedName": "Metal materials agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 10507,
+          "chineseName": "金属加工材",
+          "translatedName": "Metal processing materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 10511,
+          "chineseName": "黑色金属矿产",
+          "translatedName": "ferrous metal mineral",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 913,
+          "chineseName": "库存金属材料",
+          "translatedName": "Stock Metal Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 918,
+          "chineseName": "其他冶金矿产",
+          "translatedName": "Other Metallurgical Minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 926,
+          "chineseName": "金属丝、绳",
+          "translatedName": "Wire, rope",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 903,
+          "chineseName": "金属网",
+          "translatedName": "Metal mesh",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 906,
+          "chineseName": "有色金属合金",
+          "translatedName": "non-ferrous alloys",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 904,
+          "chineseName": "有色金属矿产",
+          "translatedName": "non-ferrous metal mineral",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 908,
+          "chineseName": "非金属矿产",
+          "translatedName": "non-metallic mineral",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 909,
+          "chineseName": "非金属矿物制品",
+          "translatedName": "non-metallic mineral products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 911,
+          "chineseName": "磁性材料",
+          "translatedName": "magnetic material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 912,
+          "chineseName": "废金属",
+          "translatedName": "Scrap Metal",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 290309,
+          "chineseName": "冶金项目合作",
+          "translatedName": "Metallurgical project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 935,
+          "chineseName": "有色金属",
+          "translatedName": "Nonferrous Metals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        },
+        {
+          "categoryId": 936,
+          "chineseName": "黑色金属",
+          "translatedName": "Black Metal",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 9
+        }
+      ]
+    }
+  }
+}

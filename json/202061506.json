@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061506,
+      "chineseName": "盐水清洁液（消字号）",
+      "translatedName": "Salt water cleaning solution (size elimination)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123650003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200924006,
+      "chineseName": "托玛琳/托玛琳按摩、保健用品",
+      "translatedName": "Tomalin/Tomalin Massage, Health Care Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1608"
+    }
+  }
+}

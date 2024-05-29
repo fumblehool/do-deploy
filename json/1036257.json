@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036257,
+      "chineseName": "塑胶托盘",
+      "translatedName": "plastic tray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10363"
+    }
+  }
+}

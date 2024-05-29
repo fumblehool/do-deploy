@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043498,
+      "chineseName": "唇部护理",
+      "translatedName": "Lip Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043499,
+          "chineseName": "唇膏、唇油",
+          "translatedName": "Lipstick, lip oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 1043500,
+          "chineseName": "唇膜、唇霜",
+          "translatedName": "Lip mask, lip cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 1043502,
+          "chineseName": "其他唇部护理产品",
+          "translatedName": "Other Lip Care Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 201304511,
+          "chineseName": "唇部护理套装",
+          "translatedName": "Lip Care Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 201306409,
+          "chineseName": "唇部精华、啫喱",
+          "translatedName": "Lip Essence, Gel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 201309210,
+          "chineseName": "唇部磨砂",
+          "translatedName": "Lip Scrub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        },
+        {
+          "categoryId": 201358949,
+          "chineseName": "宝宝护唇/润唇",
+          "translatedName": "Baby Lip Protectors/Lip Moisturizing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043498
+        }
+      ]
+    }
+  }
+}

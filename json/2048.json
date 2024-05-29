@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2048,
+      "chineseName": "活力板、滑板",
+      "translatedName": "Activity board, skateboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044794"
+    }
+  }
+}

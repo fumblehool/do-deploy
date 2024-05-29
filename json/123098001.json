@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123098001,
+      "chineseName": "档案夹",
+      "translatedName": "File folder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2122"
+    }
+  }
+}

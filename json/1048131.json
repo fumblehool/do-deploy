@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048131,
+      "chineseName": "充气玩具",
+      "translatedName": "Inflatable toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048136,
+          "chineseName": "其他充气玩具",
+          "translatedName": "Other inflatable toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048131
+        },
+        {
+          "categoryId": 122990004,
+          "chineseName": "大型充气玩具",
+          "translatedName": "Large inflatable toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048131
+        },
+        {
+          "categoryId": 122962010,
+          "chineseName": "卡通气模玩具",
+          "translatedName": "Cartoon air model toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048131
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123086001,
+      "chineseName": "枕芯类",
+      "translatedName": "Pillow core class",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10136,
+          "chineseName": "花草枕",
+          "translatedName": "Flower pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122232002,
+          "chineseName": "U型枕",
+          "translatedName": "U-shaped pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122196002,
+          "chineseName": "玉石保健枕",
+          "translatedName": "Jade health pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122220003,
+          "chineseName": "其他枕芯",
+          "translatedName": "Other Pillow Core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122382004,
+          "chineseName": "木棉枕",
+          "translatedName": "Kapok pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122242001,
+          "chineseName": "蚕丝枕",
+          "translatedName": "Silk pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122310006,
+          "chineseName": "大豆纤维枕",
+          "translatedName": "soybean fiber pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122218003,
+          "chineseName": "纤维枕",
+          "translatedName": "Fiber pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122254005,
+          "chineseName": "竹炭枕",
+          "translatedName": "Bamboo charcoal pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122210004,
+          "chineseName": "羽绒枕",
+          "translatedName": "Down Pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122210005,
+          "chineseName": "冰枕",
+          "translatedName": "Ice pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122234002,
+          "chineseName": "记忆枕",
+          "translatedName": "Memory pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122238002,
+          "chineseName": "乳胶枕",
+          "translatedName": "Latex pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 122404002,
+          "chineseName": "麦饭石保健枕",
+          "translatedName": "Medical stone health pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 127880016,
+          "chineseName": "颈椎枕",
+          "translatedName": "Cervical Pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        },
+        {
+          "categoryId": 127866023,
+          "chineseName": "功能枕",
+          "translatedName": "Functional pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123086001
+        }
+      ]
+    }
+  }
+}

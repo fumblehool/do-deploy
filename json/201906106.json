@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201906106,
+      "chineseName": "户外工装鞋",
+      "translatedName": "Outdoor Tooling Shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506004"
+    }
+  }
+}

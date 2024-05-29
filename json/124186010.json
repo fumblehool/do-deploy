@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124186010,
+      "chineseName": "文胸套装",
+      "translatedName": "Bra Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124188007"
+    }
+  }
+}

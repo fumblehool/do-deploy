@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121592001,
+      "chineseName": "陶瓷瓶",
+      "translatedName": "Ceramic Bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121562002"
+    }
+  }
+}

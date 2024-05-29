@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 730,
+      "chineseName": "电脑整机",
+      "translatedName": "The whole computer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10242,
+          "chineseName": "工控电脑产品",
+          "translatedName": "Industrial Control Computer Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 10256,
+          "chineseName": "上网本、超极本",
+          "translatedName": "Netbook, Ultrabook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 1042047,
+          "chineseName": "平板电脑",
+          "translatedName": "Tablet PC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 1037159,
+          "chineseName": "准系统",
+          "translatedName": "quasi-system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 1037193,
+          "chineseName": "其他整机、服务器",
+          "translatedName": "Other complete machines and servers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 1037158,
+          "chineseName": "电脑一体机",
+          "translatedName": "computer all-in-one machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124736051,
+          "chineseName": "数码工控系统设备",
+          "translatedName": "Digital industrial control system equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124736031,
+          "chineseName": "迷你电脑",
+          "translatedName": "Mini computer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124734045,
+          "chineseName": "电脑监视器",
+          "translatedName": "Computer Monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124744044,
+          "chineseName": "多媒体一体机",
+          "translatedName": "multimedia all-in-one machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124742035,
+          "chineseName": "触碰一体机",
+          "translatedName": "Touch all-in-one machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124734037,
+          "chineseName": "电脑触控产品",
+          "translatedName": "Computer Touch Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 124744031,
+          "chineseName": "数码广告机",
+          "translatedName": "Digital advertising machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 701,
+          "chineseName": "台式机",
+          "translatedName": "Desktop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 702,
+          "chineseName": "笔记本电脑",
+          "translatedName": "Laptop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        },
+        {
+          "categoryId": 703,
+          "chineseName": "服务器、工作站",
+          "translatedName": "Servers, Workstations",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 730
+        }
+      ]
+    }
+  }
+}

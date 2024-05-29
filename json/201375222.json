@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375222,
+      "chineseName": "儿童牛仔裙",
+      "translatedName": "Children's denim skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201387101"
+    }
+  }
+}

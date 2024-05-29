@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031687,
+      "chineseName": "催化剂",
+      "translatedName": "Catalyst",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034846,
+          "chineseName": "合成材料用催化剂",
+          "translatedName": "Catalysts for synthetic materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        },
+        {
+          "categoryId": 1034847,
+          "chineseName": "有机化工用催化剂",
+          "translatedName": "catalysts for organic chemical industry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        },
+        {
+          "categoryId": 1034848,
+          "chineseName": "无机化工用催化剂",
+          "translatedName": "inorganic chemical catalyst",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        },
+        {
+          "categoryId": 1031688,
+          "chineseName": "催化剂用载体",
+          "translatedName": "Catalyst carrier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        },
+        {
+          "categoryId": 1031689,
+          "chineseName": "石油加工催化剂",
+          "translatedName": "petroleum processing catalyst",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        },
+        {
+          "categoryId": 10372,
+          "chineseName": "其他催化剂",
+          "translatedName": "Other catalysts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031687
+        }
+      ]
+    }
+  }
+}

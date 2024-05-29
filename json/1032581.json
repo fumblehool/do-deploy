@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032581,
+      "chineseName": "其他包装成型机械",
+      "translatedName": "Other packaging forming machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "87"
+    }
+  }
+}

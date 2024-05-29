@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061303,
+      "chineseName": "屏显器件",
+      "translatedName": "Screen Display Device",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040236,
+          "chineseName": "光电器件",
+          "translatedName": "photoelectric device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 1039371,
+          "chineseName": "显示器件",
+          "translatedName": "display device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 1039226,
+          "chineseName": "LCD显示屏",
+          "translatedName": "LCD display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202028109,
+          "chineseName": "光电晶体管",
+          "translatedName": "Phototransistor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202056205,
+          "chineseName": "发光二极管",
+          "translatedName": "Light Emitting Diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202054907,
+          "chineseName": "OLED显示器件",
+          "translatedName": "OLED display device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202063603,
+          "chineseName": "VFD显示器件",
+          "translatedName": "VFD Display Device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202057807,
+          "chineseName": "激光二极管",
+          "translatedName": "laser diode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202052709,
+          "chineseName": "红外接收头",
+          "translatedName": "infrared receiving head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202053506,
+          "chineseName": "LED显示器件",
+          "translatedName": "LED display device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202054005,
+          "chineseName": "LED发射器",
+          "translatedName": "LED Emitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202054302,
+          "chineseName": "光电二极管",
+          "translatedName": "Photodiode",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        },
+        {
+          "categoryId": 202051424,
+          "chineseName": "旋钮屏",
+          "translatedName": "Knob screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202061303
+        }
+      ]
+    }
+  }
+}

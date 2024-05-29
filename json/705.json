@@ -1,0 +1,298 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 705,
+      "chineseName": "网络设备",
+      "translatedName": "Network Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033269,
+          "chineseName": "其他网络设备、配件",
+          "translatedName": "Other network equipment, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033270,
+          "chineseName": "光纤设备",
+          "translatedName": "Fiber Optic Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033271,
+          "chineseName": "网络测试设备",
+          "translatedName": "Network Test Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033272,
+          "chineseName": "其他无线网络设备",
+          "translatedName": "Other wireless network equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033274,
+          "chineseName": "语音/传真网关",
+          "translatedName": "Voice/Fax Gateway",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033275,
+          "chineseName": "VPN设备",
+          "translatedName": "VPN Device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033276,
+          "chineseName": "网络机柜",
+          "translatedName": "Network Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033277,
+          "chineseName": "防火墙",
+          "translatedName": "Firewall",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033278,
+          "chineseName": "中继器",
+          "translatedName": "Repeater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033279,
+          "chineseName": "转换器、切换器",
+          "translatedName": "Converter, switcher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033281,
+          "chineseName": "网络集线器",
+          "translatedName": "Network Hub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033282,
+          "chineseName": "路由器",
+          "translatedName": "Router",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1033283,
+          "chineseName": "网卡",
+          "translatedName": "Network Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 10254,
+          "chineseName": "Modem",
+          "translatedName": "Modem",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1041371,
+          "chineseName": "物理隔离卡",
+          "translatedName": "Physical Isolation Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1041727,
+          "chineseName": "3G/4G上网卡读卡器",
+          "translatedName": "3G/4G card reader",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1037152,
+          "chineseName": "电力猫",
+          "translatedName": "Electric Cat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1037155,
+          "chineseName": "无线AP",
+          "translatedName": "Wireless AP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1037156,
+          "chineseName": "无线网卡",
+          "translatedName": "Wireless Network Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 1037141,
+          "chineseName": "网络存储",
+          "translatedName": "Network Storage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124810008,
+          "chineseName": "数码电话线",
+          "translatedName": "Digital telephone line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124736052,
+          "chineseName": "电脑集成电路",
+          "translatedName": "computer integrated circuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124736053,
+          "chineseName": "数码传输交换设备",
+          "translatedName": "digital transmission switching equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124736054,
+          "chineseName": "数码网络交换机",
+          "translatedName": "digital network switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124734046,
+          "chineseName": "光纤接收器",
+          "translatedName": "fiber optic receiver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124734048,
+          "chineseName": "网络光纤跳线",
+          "translatedName": "Network fiber optic patch cord",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124740033,
+          "chineseName": "无线网络监控设备",
+          "translatedName": "Wireless network monitoring equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124740036,
+          "chineseName": "视频分配器",
+          "translatedName": "Video Splitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 123648001,
+          "chineseName": "信号放大器",
+          "translatedName": "signal amplifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 124742034,
+          "chineseName": "电脑电子线",
+          "translatedName": "Computer electronic line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        },
+        {
+          "categoryId": 719,
+          "chineseName": "网络工程",
+          "translatedName": "Network Engineering",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 705
+        }
+      ]
+    }
+  }
+}

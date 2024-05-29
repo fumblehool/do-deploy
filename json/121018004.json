@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018004,
+      "chineseName": "机械结构用钢",
+      "translatedName": "Steel for mechanical structures",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022004"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10364,
+      "chineseName": "纸类包装容器",
+      "translatedName": "Paper packaging container",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033004,
+          "chineseName": "其他纸类包装容器",
+          "translatedName": "Other paper packaging containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1033005,
+          "chineseName": "纸筒、纸管",
+          "translatedName": "Paper tube, paper tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1033006,
+          "chineseName": "纸桶",
+          "translatedName": "Paper bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1033008,
+          "chineseName": "纸盒",
+          "translatedName": "Tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1033009,
+          "chineseName": "纸袋",
+          "translatedName": "paper bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1033010,
+          "chineseName": "纸杯",
+          "translatedName": "Paper cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1042828,
+          "chineseName": "纸罐",
+          "translatedName": "Paper cans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 1035647,
+          "chineseName": "纸浆模塑",
+          "translatedName": "pulp molding",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        },
+        {
+          "categoryId": 122156001,
+          "chineseName": "纸碗",
+          "translatedName": "Paper Bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10364
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201345209,
+      "chineseName": "纸扎祭祀用品",
+      "translatedName": "Paper Ritual Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044217"
+    }
+  }
+}

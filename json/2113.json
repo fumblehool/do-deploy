@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2113,
+      "chineseName": "装订、胶粘、桌面用品",
+      "translatedName": "Binding, adhesive, desktop supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033057,
+          "chineseName": "胶带座",
+          "translatedName": "Tape seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033059,
+          "chineseName": "固体胶、胶水",
+          "translatedName": "Solid glue, glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033064,
+          "chineseName": "其他裁剪用品",
+          "translatedName": "Other Cutting Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033065,
+          "chineseName": "美工刀",
+          "translatedName": "Art knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033066,
+          "chineseName": "办公剪刀",
+          "translatedName": "Office scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 10335,
+          "chineseName": "计算器",
+          "translatedName": "Calculator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033067,
+          "chineseName": "裁纸刀",
+          "translatedName": "paper cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033068,
+          "chineseName": "其他装订、胶粘用品",
+          "translatedName": "Other binding, adhesive supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033069,
+          "chineseName": "大头针",
+          "translatedName": "Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033070,
+          "chineseName": "图钉",
+          "translatedName": "Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033071,
+          "chineseName": "回形针",
+          "translatedName": "Pclip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033072,
+          "chineseName": "订书针",
+          "translatedName": "Stapler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033073,
+          "chineseName": "长尾夹、装订夹",
+          "translatedName": "Long tail clip, binding clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033074,
+          "chineseName": "打孔机",
+          "translatedName": "punching machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 1033075,
+          "chineseName": "订书机、起钉器",
+          "translatedName": "Stapler, stapler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 124256006,
+          "chineseName": "自动号码机",
+          "translatedName": "automatic number machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 124746005,
+          "chineseName": "办公用胶带",
+          "translatedName": "Office tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 201162207,
+          "chineseName": "别针",
+          "translatedName": "Pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        },
+        {
+          "categoryId": 201891503,
+          "chineseName": "办公学习垫板",
+          "translatedName": "Office learning pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2113
+        }
+      ]
+    }
+  }
+}

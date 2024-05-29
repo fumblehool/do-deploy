@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031775,
+      "chineseName": "绉类",
+      "translatedName": "Crepe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "411"
+    }
+  }
+}

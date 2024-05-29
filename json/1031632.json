@@ -1,0 +1,307 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031632,
+      "chineseName": "无机颜料/填料",
+      "translatedName": "Inorganic Pigments/Fillers",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033374,
+          "chineseName": "滑石粉",
+          "translatedName": "Talc powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1033376,
+          "chineseName": "膨润土",
+          "translatedName": "Bentonite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1033383,
+          "chineseName": "云母",
+          "translatedName": "Mica",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1033384,
+          "chineseName": "高岭土",
+          "translatedName": "Kaolin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034867,
+          "chineseName": "其他颜料、填料",
+          "translatedName": "Other pigments, fillers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034868,
+          "chineseName": "群青",
+          "translatedName": "ultramarine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034869,
+          "chineseName": "氧化铁红",
+          "translatedName": "iron oxide red",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034870,
+          "chineseName": "氧化铁黄",
+          "translatedName": "Iron Oxide Yellow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034871,
+          "chineseName": "铬黄",
+          "translatedName": "Chrome Yellow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034872,
+          "chineseName": "铅白",
+          "translatedName": "white lead",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034873,
+          "chineseName": "立德粉",
+          "translatedName": "Lide powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1034874,
+          "chineseName": "钛白粉",
+          "translatedName": "titanium dioxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036481,
+          "chineseName": "黄丹",
+          "translatedName": "Huang Dan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036482,
+          "chineseName": "红丹",
+          "translatedName": "Red Dan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036483,
+          "chineseName": "镉红",
+          "translatedName": "Cadmium Red",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036484,
+          "chineseName": "钼铬红",
+          "translatedName": "MOLYBDENUM CHROME RED",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036485,
+          "chineseName": "氧化铁棕",
+          "translatedName": "brown iron oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036486,
+          "chineseName": "碳黑",
+          "translatedName": "carbon black",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036487,
+          "chineseName": "氧化铁黑",
+          "translatedName": "black iron oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036488,
+          "chineseName": "金属粉、浆",
+          "translatedName": "Metal powder, slurry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036489,
+          "chineseName": "夜光粉",
+          "translatedName": "luminous powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036490,
+          "chineseName": "珠光粉",
+          "translatedName": "pearl powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1037246,
+          "chineseName": "透明粉",
+          "translatedName": "Transparent powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1037247,
+          "chineseName": "三氧化二锑",
+          "translatedName": "Antimony trioxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036881,
+          "chineseName": "金葱粉",
+          "translatedName": "Glitter Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036478,
+          "chineseName": "陶瓷颜料",
+          "translatedName": "ceramic pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036479,
+          "chineseName": "硫酸钡",
+          "translatedName": "barium sulfate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036480,
+          "chineseName": "碳酸钙",
+          "translatedName": "Calcium carbonate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1037104,
+          "chineseName": "硅酸镁",
+          "translatedName": "Magnesium silicate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1037105,
+          "chineseName": "白炭黑",
+          "translatedName": "white carbon black",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1036491,
+          "chineseName": "氧化铬绿",
+          "translatedName": "chromium oxide green",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        },
+        {
+          "categoryId": 1037132,
+          "chineseName": "氧化锌",
+          "translatedName": "Zinc Oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031632
+        }
+      ]
+    }
+  }
+}

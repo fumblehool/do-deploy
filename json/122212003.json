@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122212003,
+      "chineseName": "厨卫清洁剂",
+      "translatedName": "Kitchen & Sanitary Cleaner",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122278004,
+          "chineseName": "水垢清洁剂",
+          "translatedName": "Scale cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122268005,
+          "chineseName": "多用途清洁剂",
+          "translatedName": "Multi-Purpose Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122272002,
+          "chineseName": "其他厨卫清洁剂",
+          "translatedName": "Other Kitchen & Sanitary Cleaners",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122214009,
+          "chineseName": "玻璃清洁剂",
+          "translatedName": "Glass Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122258006,
+          "chineseName": "马桶洁厕剂",
+          "translatedName": "Toilet toilet cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122212004,
+          "chineseName": "洗洁精",
+          "translatedName": "detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122218013,
+          "chineseName": "洁瓷剂",
+          "translatedName": "porcelain cleaning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122222007,
+          "chineseName": "管道疏通剂",
+          "translatedName": "pipeline dredging agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122262004,
+          "chineseName": "油污清洁剂",
+          "translatedName": "Oil Stain Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122236003,
+          "chineseName": "洗衣机槽清洁剂",
+          "translatedName": "Washing machine tank cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 122988008,
+          "chineseName": "奶瓶/果蔬清洗",
+          "translatedName": "Bottle/fruit and vegetable cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201353148,
+          "chineseName": "坐便清洁剂",
+          "translatedName": "Sitting Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201308319,
+          "chineseName": "洗碗洗涤剂",
+          "translatedName": "dishwashing detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201314003,
+          "chineseName": "卫浴清洁剂",
+          "translatedName": "Bathroom Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201348201,
+          "chineseName": "尿池除臭用品",
+          "translatedName": "Urine pool deodorant supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201301915,
+          "chineseName": "亮碟（碗）剂",
+          "translatedName": "Brightening dish (bowl) agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201305102,
+          "chineseName": "洗碗粉",
+          "translatedName": "Dishwashing powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        },
+        {
+          "categoryId": 201747601,
+          "chineseName": "皂粉清洁球",
+          "translatedName": "soap powder cleaning ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122212003
+        }
+      ]
+    }
+  }
+}

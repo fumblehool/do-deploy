@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202014802,
+      "chineseName": "太阳能胶滴板",
+      "translatedName": "Solar glue drop plate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127754005"
+    }
+  }
+}

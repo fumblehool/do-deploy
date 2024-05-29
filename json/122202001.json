@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122202001,
+      "chineseName": "孔明灯",
+      "translatedName": "Kongming Lantern",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1702"
+    }
+  }
+}

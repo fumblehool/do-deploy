@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124516002,
+      "chineseName": "护栏网",
+      "translatedName": "Fence net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "903"
+    }
+  }
+}

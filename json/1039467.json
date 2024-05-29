@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039467,
+      "chineseName": "彩钢瓦",
+      "translatedName": "color steel tile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10435"
+    }
+  }
+}

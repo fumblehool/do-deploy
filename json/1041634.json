@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041634,
+      "chineseName": "其他液压机械及组配件",
+      "translatedName": "Other hydraulic machinery and group accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924008"
+    }
+  }
+}

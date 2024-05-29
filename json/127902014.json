@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127902014,
+      "chineseName": "智能夜灯",
+      "translatedName": "Smart night light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1330"
+    }
+  }
+}

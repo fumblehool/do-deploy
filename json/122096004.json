@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122096004,
+      "chineseName": "自行车包",
+      "translatedName": "Bicycle bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564924"
+    }
+  }
+}

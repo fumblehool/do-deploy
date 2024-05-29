@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033427,
+      "chineseName": "其他不锈钢型材",
+      "translatedName": "Other Stainless Steel Profiles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10518"
+    }
+  }
+}

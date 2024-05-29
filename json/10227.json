@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10227,
+      "chineseName": "灯具配附件",
+      "translatedName": "Lighting accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034976,
+          "chineseName": "支架",
+          "translatedName": "Bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1034977,
+          "chineseName": "灯具、灯杯外壳",
+          "translatedName": "Lamps, lamp cup shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1034978,
+          "chineseName": "光源器",
+          "translatedName": "light source device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1034979,
+          "chineseName": "触发器",
+          "translatedName": "Trigger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032338,
+          "chineseName": "其他灯具配附件",
+          "translatedName": "Other lighting accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032342,
+          "chineseName": "镇流器",
+          "translatedName": "Ballast",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032344,
+          "chineseName": "启辉器",
+          "translatedName": "Starter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032346,
+          "chineseName": "灯罩",
+          "translatedName": "Lampshade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032347,
+          "chineseName": "灯柱灯杆",
+          "translatedName": "Lamp Pole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032348,
+          "chineseName": "灯盘",
+          "translatedName": "Lamp panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1032349,
+          "chineseName": "灯头、灯座",
+          "translatedName": "Lamp holder, lamp holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1036911,
+          "chineseName": "灯控制器",
+          "translatedName": "Lamp controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 1046922,
+          "chineseName": "灯具套件",
+          "translatedName": "Lamp kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 123610006,
+          "chineseName": "LED连接件",
+          "translatedName": "LED connection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 121192032,
+          "chineseName": "LED反光杯",
+          "translatedName": "LED reflective cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 121192033,
+          "chineseName": "其它LED灯具配件",
+          "translatedName": "Other LED lighting accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 121186013,
+          "chineseName": "LED灯具散热器",
+          "translatedName": "LED lamp radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 121186014,
+          "chineseName": "LED导光板",
+          "translatedName": "LED light guide plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 123616011,
+          "chineseName": "LED电路板",
+          "translatedName": "LED circuit board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        },
+        {
+          "categoryId": 123616012,
+          "chineseName": "LED灯具透镜",
+          "translatedName": "LED lamp lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10227
+        }
+      ]
+    }
+  }
+}

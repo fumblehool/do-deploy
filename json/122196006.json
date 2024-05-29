@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122196006,
+      "chineseName": "乒乓球网、网架",
+      "translatedName": "Table tennis net, net rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044825"
+    }
+  }
+}

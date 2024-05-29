@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10353,
+      "chineseName": "通用五金配件",
+      "translatedName": "General hardware accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032401,
+          "chineseName": "接头",
+          "translatedName": "Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035385,
+          "chineseName": "斗齿",
+          "translatedName": "bucket tooth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035386,
+          "chineseName": "炉头",
+          "translatedName": "furnace head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035387,
+          "chineseName": "管夹",
+          "translatedName": "Pipe clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035388,
+          "chineseName": "滚筒",
+          "translatedName": "Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035376,
+          "chineseName": "其他通用五金配件",
+          "translatedName": "Other general hardware accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035377,
+          "chineseName": "轴瓦",
+          "translatedName": "Bearing bush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035378,
+          "chineseName": "卡箍、抱箍",
+          "translatedName": "Clamp, Hoop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035379,
+          "chineseName": "钢珠、滚珠",
+          "translatedName": "Steel ball, ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035381,
+          "chineseName": "直通",
+          "translatedName": "Straight Through",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035382,
+          "chineseName": "喷嘴、喷头",
+          "translatedName": "Nozzle, nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035383,
+          "chineseName": "卸扣",
+          "translatedName": "Shackle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 1035384,
+          "chineseName": "托辊",
+          "translatedName": "Roller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 141908,
+          "chineseName": "井盖",
+          "translatedName": "manhole cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        },
+        {
+          "categoryId": 202055515,
+          "chineseName": "木工夹",
+          "translatedName": "Woodworking clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10353
+        }
+      ]
+    }
+  }
+}

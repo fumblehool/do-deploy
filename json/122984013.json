@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122984013,
+      "chineseName": "婴儿玩具",
+      "translatedName": "Baby Toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033663,
+          "chineseName": "其他婴幼儿教具",
+          "translatedName": "Other teaching aids for infants and young children",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122984015,
+          "chineseName": "安抚摇椅体/摇摇车",
+          "translatedName": "Soothing rocking chair body/rocking car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122992011,
+          "chineseName": "鼓类玩具",
+          "translatedName": "Drum toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122992012,
+          "chineseName": "婴儿健身架",
+          "translatedName": "Baby Gym Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122962013,
+          "chineseName": "玩具学步车",
+          "translatedName": "Toy walker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122980006,
+          "chineseName": "宝宝布书",
+          "translatedName": "Baby Cloth Book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122980007,
+          "chineseName": "车挂/床挂玩具",
+          "translatedName": "Car hanging/bed hanging toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122980008,
+          "chineseName": "婴儿胎发牙齿收纳屋",
+          "translatedName": "Baby Tooth Storage House",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122988012,
+          "chineseName": "爬行垫/游戏垫",
+          "translatedName": "Crawling mat/game mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122988013,
+          "chineseName": "室内攀爬/游戏屋/球池",
+          "translatedName": "Indoor climbing/game house/ball pool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 122990007,
+          "chineseName": "摇铃床铃",
+          "translatedName": "Rattle the bed bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201332004,
+          "chineseName": "不倒翁",
+          "translatedName": "tumbler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201345903,
+          "chineseName": "推拉玩具",
+          "translatedName": "Push-pull toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201331817,
+          "chineseName": "布质/软胶积木",
+          "translatedName": "Cloth/Soft Rubber Building Blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201336405,
+          "chineseName": "婴儿健身玩具",
+          "translatedName": "Baby Fitness Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201336406,
+          "chineseName": "浴室玩具",
+          "translatedName": "Bathroom toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201345402,
+          "chineseName": "敲击玩具",
+          "translatedName": "Knocking Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201345603,
+          "chineseName": "婴儿手抓球",
+          "translatedName": "Baby catch ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201334105,
+          "chineseName": "沙锤/拨浪鼓",
+          "translatedName": "Sand hammer/rattle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 126994076,
+          "chineseName": "其他婴儿玩具",
+          "translatedName": "Other Baby Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201333114,
+          "chineseName": "安抚玩具",
+          "translatedName": "Soothing Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        },
+        {
+          "categoryId": 201338605,
+          "chineseName": "木马/摇马",
+          "translatedName": "Trojan/Rocking Horse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122984013
+        }
+      ]
+    }
+  }
+}

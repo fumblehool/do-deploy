@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201565322,
+      "chineseName": "儿童音乐玩具",
+      "translatedName": "children's musical toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201692904,
+          "chineseName": "手拍鼓",
+          "translatedName": "Hand Drum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201565322
+        },
+        {
+          "categoryId": 201687704,
+          "chineseName": "儿童电子琴",
+          "translatedName": "Children's electronic organ",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201565322
+        },
+        {
+          "categoryId": 201375302,
+          "chineseName": "敲琴",
+          "translatedName": "Knock the piano",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201565322
+        },
+        {
+          "categoryId": 201691003,
+          "chineseName": "架子鼓/小军鼓/打击乐器玩具",
+          "translatedName": "Drum set/snare drum/percussion toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201565322
+        },
+        {
+          "categoryId": 201692102,
+          "chineseName": "口风琴/笛子/吹奏乐器玩具",
+          "translatedName": "Organ/Flute/Wind Instrument Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201565322
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201625901,
+      "chineseName": "宠物绝育服/生理裤",
+      "translatedName": "Pet sterilization suit/physiological pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201305503"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032081,
+      "chineseName": "国内空运",
+      "translatedName": "Domestic Air Transport",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "89"
+    }
+  }
+}

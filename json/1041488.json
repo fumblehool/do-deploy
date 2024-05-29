@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041488,
+      "chineseName": "殡仪车",
+      "translatedName": "Funeral car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1209"
+    }
+  }
+}

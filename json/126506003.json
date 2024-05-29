@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126506003,
+      "chineseName": "草编包",
+      "translatedName": "Straw Bags",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016002"
+    }
+  }
+}

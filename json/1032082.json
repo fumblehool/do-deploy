@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032082,
+      "chineseName": "其他商用车",
+      "translatedName": "Other Commercial Vehicles",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3317"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1226,
+      "chineseName": "仓储设备",
+      "translatedName": "Storage equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033611,
+          "chineseName": "周转箱",
+          "translatedName": "Turnover box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 1033599,
+          "chineseName": "其他仓储设备",
+          "translatedName": "Other storage equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 1033600,
+          "chineseName": "仓储笼",
+          "translatedName": "Storage cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 1033601,
+          "chineseName": "仓储货架",
+          "translatedName": "storage shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 124854001,
+          "chineseName": "仓储、车间用梯",
+          "translatedName": "Storage and workshop ladder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 124856001,
+          "chineseName": "存储柜",
+          "translatedName": "Storage cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 201913403,
+          "chineseName": "托架",
+          "translatedName": "Bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 202037502,
+          "chineseName": "拣选台",
+          "translatedName": "Picking table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 201917702,
+          "chineseName": "模具架",
+          "translatedName": "mould rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 201919503,
+          "chineseName": "托盘夹",
+          "translatedName": "pallet clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 201923101,
+          "chineseName": "车间置物架及配件",
+          "translatedName": "Workshop racks and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 201923201,
+          "chineseName": "梯子",
+          "translatedName": "Ladder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        },
+        {
+          "categoryId": 202034603,
+          "chineseName": "托盘旋转台",
+          "translatedName": "Tray rotating table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1226
+        }
+      ]
+    }
+  }
+}

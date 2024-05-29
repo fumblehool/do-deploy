@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10020,
+      "chineseName": "五谷杂粮",
+      "translatedName": "Cereals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032824,
+          "chineseName": "玉米",
+          "translatedName": "Corn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 10021,
+          "chineseName": "稻谷",
+          "translatedName": "Rice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 10022,
+          "chineseName": "麦类",
+          "translatedName": "Wheat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 10023,
+          "chineseName": "高粱类",
+          "translatedName": "Sorghum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 10024,
+          "chineseName": "番薯类",
+          "translatedName": "Sweet Potato",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 10026,
+          "chineseName": "其他五谷杂粮",
+          "translatedName": "Other cereals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 1033710,
+          "chineseName": "油菜籽",
+          "translatedName": "Rapeseed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 1033712,
+          "chineseName": "芝麻",
+          "translatedName": "Sesame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 1046202,
+          "chineseName": "油料花生",
+          "translatedName": "oilseed peanut",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 1036621,
+          "chineseName": "莲子",
+          "translatedName": "lotus seed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 105,
+          "chineseName": "豆类",
+          "translatedName": "Beans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 201157708,
+          "chineseName": "小米",
+          "translatedName": "Millet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 201157810,
+          "chineseName": "黑米",
+          "translatedName": "black rice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 201641701,
+          "chineseName": "奇亚籽",
+          "translatedName": "Chia Seeds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 201301612,
+          "chineseName": "杂粮组合",
+          "translatedName": "coarse cereals combination",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        },
+        {
+          "categoryId": 201161306,
+          "chineseName": "南瓜",
+          "translatedName": "Pumpkin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10020
+        }
+      ]
+    }
+  }
+}

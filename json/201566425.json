@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201566425,
+      "chineseName": "唱戏机",
+      "translatedName": "Singing Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047104"
+    }
+  }
+}

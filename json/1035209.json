@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035209,
+      "chineseName": "绕线机、绞线机",
+      "translatedName": "Winding machine, stranding machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10236"
+    }
+  }
+}

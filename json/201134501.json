@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201134501,
+      "chineseName": "胶合板",
+      "translatedName": "Plywood",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10422"
+    }
+  }
+}

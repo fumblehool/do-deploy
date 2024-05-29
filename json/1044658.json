@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044658,
+      "chineseName": "垂钓用品",
+      "translatedName": "Fishing Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045353,
+          "chineseName": "渔坠",
+          "translatedName": "Fishing pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1045354,
+          "chineseName": "钓鱼包",
+          "translatedName": "Fishing bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1045355,
+          "chineseName": "鱼竿支架",
+          "translatedName": "Fishing rod holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1045356,
+          "chineseName": "钓鱼服配",
+          "translatedName": "Fishing Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1048074,
+          "chineseName": "钓鱼服",
+          "translatedName": "Fishing clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044663,
+          "chineseName": "鱼钩",
+          "translatedName": "fishhook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044674,
+          "chineseName": "鱼饵",
+          "translatedName": "fishing bait",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044677,
+          "chineseName": "渔漂、浮标",
+          "translatedName": "Fishing drift, buoy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044684,
+          "chineseName": "垂钓椅",
+          "translatedName": "Fishing Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044690,
+          "chineseName": "钓箱",
+          "translatedName": "Fishing box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044693,
+          "chineseName": "渔护",
+          "translatedName": "Fishery Protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044694,
+          "chineseName": "垂钓用品套件",
+          "translatedName": "Fishing Supplies Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044659,
+          "chineseName": "鱼竿",
+          "translatedName": "Fishing rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044661,
+          "chineseName": "渔线轮",
+          "translatedName": "fishing reel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1044662,
+          "chineseName": "渔线",
+          "translatedName": "fishing line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125388002,
+          "chineseName": "钓鱼船",
+          "translatedName": "fishing boat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125316001,
+          "chineseName": "钓鱼帽",
+          "translatedName": "Fishing Cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125318001,
+          "chineseName": "探鱼器",
+          "translatedName": "fish finder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125392002,
+          "chineseName": "夜钓灯",
+          "translatedName": "Night fishing lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125396002,
+          "chineseName": "涉水裤",
+          "translatedName": "Wading Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125400003,
+          "chineseName": "捕鱼枪、叉",
+          "translatedName": "Fishing gun, fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 122208002,
+          "chineseName": "钓鱼鞋",
+          "translatedName": "Fishing shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 125312001,
+          "chineseName": "钓鱼伞",
+          "translatedName": "fishing umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 1810,
+          "chineseName": "其他垂钓用品",
+          "translatedName": "Other Fishing Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201913506,
+          "chineseName": "路亚钳",
+          "translatedName": "Road clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201925701,
+          "chineseName": "太空豆",
+          "translatedName": "Space beans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201925702,
+          "chineseName": "线组",
+          "translatedName": "Line group",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201925801,
+          "chineseName": "鱼桶",
+          "translatedName": "Fish bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201925901,
+          "chineseName": "抄网杆",
+          "translatedName": "Mesh pole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201926001,
+          "chineseName": "抄网",
+          "translatedName": "Copy net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201900509,
+          "chineseName": "抄网头",
+          "translatedName": "Copy net head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201908003,
+          "chineseName": "渔具套装",
+          "translatedName": "Fishing Gear Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        },
+        {
+          "categoryId": 201901704,
+          "chineseName": "打窝船",
+          "translatedName": "nesting ship",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044658
+        }
+      ]
+    }
+  }
+}

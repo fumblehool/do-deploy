@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041602,
+      "chineseName": "JK衬衫",
+      "translatedName": "JK Shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548301"
+    }
+  }
+}

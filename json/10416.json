@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10416,
+      "chineseName": "干燥设备",
+      "translatedName": "Drying equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034734,
+          "chineseName": "沸腾干燥机",
+          "translatedName": "boiling dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034735,
+          "chineseName": "真空干燥机",
+          "translatedName": "Vacuum dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034736,
+          "chineseName": "喷雾干燥机",
+          "translatedName": "spray dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034737,
+          "chineseName": "热风炉",
+          "translatedName": "Hot blast stove",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034724,
+          "chineseName": "其他干燥设备",
+          "translatedName": "Other drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034725,
+          "chineseName": "微波干燥设备",
+          "translatedName": "Microwave drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034726,
+          "chineseName": "空心桨叶干燥机",
+          "translatedName": "hollow blade dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034727,
+          "chineseName": "滚筒刮板干燥机",
+          "translatedName": "Drum scraper dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034728,
+          "chineseName": "流化床干燥设备",
+          "translatedName": "Fluidized bed drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034729,
+          "chineseName": "箱式干燥设备",
+          "translatedName": "Box-type drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034730,
+          "chineseName": "带式干燥设备",
+          "translatedName": "Belt drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034731,
+          "chineseName": "气流干燥设备",
+          "translatedName": "Airflow drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034732,
+          "chineseName": "制粒干燥设备",
+          "translatedName": "Granulation drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1034733,
+          "chineseName": "盘式干燥机",
+          "translatedName": "Disc dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1036671,
+          "chineseName": "除湿机",
+          "translatedName": "dehumidifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1045773,
+          "chineseName": "干燥设备配件",
+          "translatedName": "Drying Equipment Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1045081,
+          "chineseName": "闪蒸干燥机",
+          "translatedName": "Flash dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        },
+        {
+          "categoryId": 1036055,
+          "chineseName": "回转滚筒干燥设备",
+          "translatedName": "Rotary drum drying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10416
+        }
+      ]
+    }
+  }
+}

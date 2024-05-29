@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033875,
+      "chineseName": "力与变形检测仪",
+      "translatedName": "Force and deformation detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10210"
+    }
+  }
+}

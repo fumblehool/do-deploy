@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048105,
+      "chineseName": "尼龙塑料板(卷)",
+      "translatedName": "Nylon Plastic Sheet (roll)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045905"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036804,
+      "chineseName": "弹跳球、弹跳鞋、弹跳器",
+      "translatedName": "Bouncing ball, bouncing shoe, bouncing device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2009"
+    }
+  }
+}

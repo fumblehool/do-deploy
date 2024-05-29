@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124774004,
+      "chineseName": "套件加工",
+      "translatedName": "Kit processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124806004"
+    }
+  }
+}

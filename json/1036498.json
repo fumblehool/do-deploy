@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036498,
+      "chineseName": "兼职职位",
+      "translatedName": "Part-time position",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2816"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201901704,
+      "chineseName": "打窝船",
+      "translatedName": "nesting ship",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044658"
+    }
+  }
+}

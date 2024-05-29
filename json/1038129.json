@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038129,
+      "chineseName": "墙贴",
+      "translatedName": "Wall Stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1704"
+    }
+  }
+}

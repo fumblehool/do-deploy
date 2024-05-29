@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036743,
+      "chineseName": "其他车用润滑油",
+      "translatedName": "Other Automotive Lubricants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032190"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127890013,
+      "chineseName": "瑜伽/健身服",
+      "translatedName": "Yoga/Fitness Wear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031887,
+          "chineseName": "健身服",
+          "translatedName": "Fitness clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 1037036,
+          "chineseName": "瑜伽服",
+          "translatedName": "Yoga clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 125292001,
+          "chineseName": "运动紧身衣",
+          "translatedName": "Sports tights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 123116001,
+          "chineseName": "健身套装",
+          "translatedName": "Fitness Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 125312002,
+          "chineseName": "运动内衣",
+          "translatedName": "Sports underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 125314001,
+          "chineseName": "运动紧身裤",
+          "translatedName": "Sports Leggings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 127882009,
+          "chineseName": "体操服、啦啦队服",
+          "translatedName": "Gymnastics uniform, cheerleading uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201904404,
+          "chineseName": "瑜伽短裙",
+          "translatedName": "Yoga Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201877706,
+          "chineseName": "瑜伽长裤",
+          "translatedName": "Yoga trousers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201886304,
+          "chineseName": "瑜伽中/短裤",
+          "translatedName": "Yoga Medium/Shorts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201888305,
+          "chineseName": "瑜伽背心",
+          "translatedName": "Yoga vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201908501,
+          "chineseName": "瑜伽T恤",
+          "translatedName": "Yoga T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201883105,
+          "chineseName": "瑜伽套装",
+          "translatedName": "Yoga Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201883705,
+          "chineseName": "瑜伽外套",
+          "translatedName": "Yoga Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        },
+        {
+          "categoryId": 201901603,
+          "chineseName": "瑜伽连体衣",
+          "translatedName": "Yoga jumpsuits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127890013
+        }
+      ]
+    }
+  }
+}

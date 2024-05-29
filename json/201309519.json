@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309519,
+      "chineseName": "摆件支架/底座",
+      "translatedName": "Ornament bracket/base",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127888009"
+    }
+  }
+}

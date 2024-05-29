@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127872013,
+      "chineseName": "毛巾套装",
+      "translatedName": "Towel Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926017"
+    }
+  }
+}

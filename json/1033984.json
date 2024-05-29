@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033984,
+      "chineseName": "非智能手机",
+      "translatedName": "Non-smart phones",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "728",
+      "fromCache": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033870,
+      "chineseName": "恒温试验设备",
+      "translatedName": "Constant temperature test equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036179"
+    }
+  }
+}

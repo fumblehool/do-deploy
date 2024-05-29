@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042828,
+      "chineseName": "纸罐",
+      "translatedName": "Paper cans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10364"
+    }
+  }
+}

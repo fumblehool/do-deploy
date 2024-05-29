@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202037202,
+      "chineseName": "道口标柱",
+      "translatedName": "crossing post",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3015"
+    }
+  }
+}

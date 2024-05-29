@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045118,
+      "chineseName": "PP-R再生料",
+      "translatedName": "PP-R recycled materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031640"
+    }
+  }
+}

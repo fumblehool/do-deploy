@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037387,
+      "chineseName": "对苯二胺",
+      "translatedName": "p-phenylenediamine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80311"
+    }
+  }
+}

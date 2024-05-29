@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303117,
+      "chineseName": "眼部护理",
+      "translatedName": "Eye Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121708002,
+          "chineseName": "眼膜",
+          "translatedName": "Eye Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303117
+        },
+        {
+          "categoryId": 201309708,
+          "chineseName": "眼部护理套装",
+          "translatedName": "Eye Care Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303117
+        },
+        {
+          "categoryId": 201306811,
+          "chineseName": "眼霜",
+          "translatedName": "Eye Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303117
+        },
+        {
+          "categoryId": 201308904,
+          "chineseName": "眼部精华",
+          "translatedName": "Eye Essence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303117
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201372301,
+      "chineseName": "盲盒玩具",
+      "translatedName": "Blind Box Toy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122990003"
+    }
+  }
+}

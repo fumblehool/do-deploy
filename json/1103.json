@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1103,
+      "chineseName": "空气净化设备",
+      "translatedName": "Air purification equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034307,
+          "chineseName": "其他空气净化装置",
+          "translatedName": "Other air purification devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1034308,
+          "chineseName": "废气处理成套设备",
+          "translatedName": "Complete equipment for waste gas treatment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1034309,
+          "chineseName": "废气吸附装置",
+          "translatedName": "Exhaust gas adsorption device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1034310,
+          "chineseName": "酸雾净化器",
+          "translatedName": "Acid mist purifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1034311,
+          "chineseName": "油烟净化设备",
+          "translatedName": "Fume purification equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1034312,
+          "chineseName": "尾气处理装置",
+          "translatedName": "Tail gas treatment unit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1032518,
+          "chineseName": "脱硫除尘设备",
+          "translatedName": "Desulfurization and dust removal equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1035777,
+          "chineseName": "空气净化成套设备",
+          "translatedName": "Complete set of air purification equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 1045083,
+          "chineseName": "除尘设备配件",
+          "translatedName": "Dust removal equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        },
+        {
+          "categoryId": 201425501,
+          "chineseName": "不脱硫除尘设备",
+          "translatedName": "No desulfurization and dust removal equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1103
+        }
+      ]
+    }
+  }
+}

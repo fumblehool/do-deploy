@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1230,
+      "chineseName": "物流辅助器材",
+      "translatedName": "Logistics auxiliary equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "12",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033614,
+          "chineseName": "其他物流辅助器材",
+          "translatedName": "Other logistics aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1230
+        },
+        {
+          "categoryId": 1033616,
+          "chineseName": "充气袋",
+          "translatedName": "inflatable bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1230
+        },
+        {
+          "categoryId": 1033617,
+          "chineseName": "护角",
+          "translatedName": "Corner protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1230
+        }
+      ]
+    }
+  }
+}

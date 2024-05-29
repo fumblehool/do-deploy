@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190002,
+      "chineseName": "泡沫箱",
+      "translatedName": "Foam box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186001"
+    }
+  }
+}

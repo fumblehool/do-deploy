@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033394,
+      "chineseName": "铁矿",
+      "translatedName": "iron ore",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10511"
+    }
+  }
+}

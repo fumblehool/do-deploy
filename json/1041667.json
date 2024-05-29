@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041667,
+      "chineseName": "看书架",
+      "translatedName": "Look at the bookshelf",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2111"
+    }
+  }
+}

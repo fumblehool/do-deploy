@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201382703,
+      "chineseName": "井盖网",
+      "translatedName": "well cover net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201382304"
+    }
+  }
+}

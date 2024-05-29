@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494008,
+      "chineseName": "光学检测仪",
+      "translatedName": "Optical detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1904"
+    }
+  }
+}

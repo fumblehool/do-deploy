@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126572001,
+      "chineseName": "3G/4G模块",
+      "translatedName": "3G/4G module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50916"
+    }
+  }
+}

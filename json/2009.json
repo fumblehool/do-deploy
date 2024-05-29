@@ -1,0 +1,325 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2009,
+      "chineseName": "健身器材用品",
+      "translatedName": "Fitness Equipment Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033536,
+          "chineseName": "其他健身器材",
+          "translatedName": "Other Fitness Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033537,
+          "chineseName": "健身路径",
+          "translatedName": "Fitness Path",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033538,
+          "chineseName": "组合健身用品",
+          "translatedName": "Combination Fitness Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033539,
+          "chineseName": "呼拉圈",
+          "translatedName": "hula hoop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033540,
+          "chineseName": "跳绳",
+          "translatedName": "Rope skipping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033541,
+          "chineseName": "跳床",
+          "translatedName": "Trampoline",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033542,
+          "chineseName": "哑铃",
+          "translatedName": "dumbbell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033543,
+          "chineseName": "拳击用品",
+          "translatedName": "Boxing Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033544,
+          "chineseName": "拉力器、握力器",
+          "translatedName": "Pull, grip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033545,
+          "chineseName": "健身车",
+          "translatedName": "Exercise bike",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033547,
+          "chineseName": "健腹器",
+          "translatedName": "Abdominal health device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033548,
+          "chineseName": "踏步机",
+          "translatedName": "Stepping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1033549,
+          "chineseName": "跑步机",
+          "translatedName": "Treadmill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1036804,
+          "chineseName": "弹跳球、弹跳鞋、弹跳器",
+          "translatedName": "Bouncing ball, bouncing shoe, bouncing device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1044793,
+          "chineseName": "跳舞毯",
+          "translatedName": "Dancing Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1035649,
+          "chineseName": "甩脂机",
+          "translatedName": "grease-throwing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1035630,
+          "chineseName": "健身椅",
+          "translatedName": "Fitness Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 125476001,
+          "chineseName": "器械减震垫",
+          "translatedName": "Equipment shock pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 127278001,
+          "chineseName": "划船机",
+          "translatedName": "rowing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 1819,
+          "chineseName": "举重用品",
+          "translatedName": "Weightlifting supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201906103,
+          "chineseName": "椭圆机",
+          "translatedName": "Elliptical machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201877801,
+          "chineseName": "腕力球",
+          "translatedName": "Wrist Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201877901,
+          "chineseName": "壶铃",
+          "translatedName": "Kettlebell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201898703,
+          "chineseName": "臂力器",
+          "translatedName": "Arm force device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201900303,
+          "chineseName": "扭腰盘",
+          "translatedName": "Twist disc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201908605,
+          "chineseName": "腿部训练器/滑行垫",
+          "translatedName": "Leg Trainer/Skid Pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201908909,
+          "chineseName": "倒立机",
+          "translatedName": "Inverted machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201901105,
+          "chineseName": "单双杠/引体向上器",
+          "translatedName": "Parallel bars/pull-ups",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201901403,
+          "chineseName": "专业运动飞盘",
+          "translatedName": "Professional Sports Frisbee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201901602,
+          "chineseName": "弹力棒/健身棒",
+          "translatedName": "Bars/Fitness Bars",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201917302,
+          "chineseName": "纵跳摸高器",
+          "translatedName": "Longitudinal jump touch device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201924701,
+          "chineseName": "智能健身镜",
+          "translatedName": "Smart Fitness Mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201924801,
+          "chineseName": "负重装备",
+          "translatedName": "Weight-bearing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        },
+        {
+          "categoryId": 201924901,
+          "chineseName": "健身踏板/韵律踏板",
+          "translatedName": "Fitness pedal/rhythm pedal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2009
+        }
+      ]
+    }
+  }
+}

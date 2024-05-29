@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 429,
+      "chineseName": "复合面料",
+      "translatedName": "composite fabric",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "4"
+    }
+  }
+}

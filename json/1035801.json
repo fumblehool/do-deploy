@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035801,
+      "chineseName": "特种锅炉",
+      "translatedName": "special boiler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1421"
+    }
+  }
+}

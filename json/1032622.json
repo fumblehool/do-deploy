@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032622,
+      "chineseName": "石材胶",
+      "translatedName": "stone glue",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1348"
+    }
+  }
+}

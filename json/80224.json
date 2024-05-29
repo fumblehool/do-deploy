@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80224,
+      "chineseName": "硼酸盐",
+      "translatedName": "Borate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "802"
+    }
+  }
+}

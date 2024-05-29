@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036787,
+      "chineseName": "喷涂车间",
+      "translatedName": "Spraying workshop",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1459"
+    }
+  }
+}

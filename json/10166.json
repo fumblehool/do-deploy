@@ -1,0 +1,478 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10166,
+      "chineseName": "女装",
+      "translatedName": "Women's Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031869,
+          "chineseName": "女式牛仔裤",
+          "translatedName": "women's jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031910,
+          "chineseName": "连衣裙",
+          "translatedName": "Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031912,
+          "chineseName": "半身裙",
+          "translatedName": "Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031917,
+          "chineseName": "其他短外套",
+          "translatedName": "Other Short Coats",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031918,
+          "chineseName": "女式衬衫",
+          "translatedName": "Blouse",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031919,
+          "chineseName": "女式T恤",
+          "translatedName": "Women's T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1031920,
+          "chineseName": "小背心/吊带/抹胸",
+          "translatedName": "Small vest/suspenders/tube top",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1037021,
+          "chineseName": "女式卫衣、绒衫",
+          "translatedName": "Women's sweater, sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1037019,
+          "chineseName": "女式皮衣",
+          "translatedName": "women's leather",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1037020,
+          "chineseName": "小西装",
+          "translatedName": "small suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1048256,
+          "chineseName": "时尚休闲套装",
+          "translatedName": "fashion casual suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1036617,
+          "chineseName": "女式马甲",
+          "translatedName": "Women's Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125730002,
+          "chineseName": "情侣/制服/表演服",
+          "translatedName": "Couple/Uniform/Performance Clothes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125746001,
+          "chineseName": "女式毛衣",
+          "translatedName": "women's sweater",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125748001,
+          "chineseName": "女式休闲裤",
+          "translatedName": "Women's casual pants",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 1048182,
+          "chineseName": "蕾丝衫、雪纺衫",
+          "translatedName": "Lace shirt, chiffon shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125420001,
+          "chineseName": "女式毛呢外套",
+          "translatedName": "Women's tweed coat",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125750001,
+          "chineseName": "女装杂款",
+          "translatedName": "Women's Miscellaneous",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125750002,
+          "chineseName": "女式夹克/棒球服",
+          "translatedName": "Women's Jacket/Baseball Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 122196004,
+          "chineseName": "孕妇装",
+          "translatedName": "Maternity clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 125740002,
+          "chineseName": "婚纱/礼服/旗袍",
+          "translatedName": "Wedding dress/dress/cheongsam",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 127372010,
+          "chineseName": "大码女装",
+          "translatedName": "Women's Plus Size",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201195601,
+          "chineseName": "女式防晒衣、防晒服",
+          "translatedName": "Women's sun-protective clothing, sun-protective clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201548401,
+          "chineseName": "工作/工装制服",
+          "translatedName": "Work/Tooling Uniform",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201548501,
+          "chineseName": "舞台表演服",
+          "translatedName": "stage performance clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201548601,
+          "chineseName": "情侣服装",
+          "translatedName": "Couples clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201548801,
+          "chineseName": "女式职业套装",
+          "translatedName": "Women's professional suit",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 127360010,
+          "chineseName": "女式羽绒服",
+          "translatedName": "Women's Down Jacket",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201547109,
+          "chineseName": "女士卫裤",
+          "translatedName": "Ladies Sweat Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201548301,
+          "chineseName": "JK制服",
+          "translatedName": "JK Uniforms",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201322301,
+          "chineseName": "女士POLO衫",
+          "translatedName": "Women's polo shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201325101,
+          "chineseName": "女士连体裤/衣",
+          "translatedName": "Women's jumpsuit/clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 127420001,
+          "chineseName": "女式棉衣",
+          "translatedName": "Women's cotton-padded clothes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201560705,
+          "chineseName": "女士牛仔外套",
+          "translatedName": "Women's denim jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201159103,
+          "chineseName": "禅茶服/禅舞服",
+          "translatedName": "Zen Tea Suit/Zen Dance Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201585902,
+          "chineseName": "女士短裤",
+          "translatedName": "Women's Shorts",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 127380008,
+          "chineseName": "女式打底裤",
+          "translatedName": "women's leggings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 127386001,
+          "chineseName": "女式针织衫",
+          "translatedName": "women's sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201158403,
+          "chineseName": "国际民族服装",
+          "translatedName": "international national costume",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201217707,
+          "chineseName": "二次元动漫服装/配件",
+          "translatedName": "Two-dimensional animation clothing/accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 290303,
+          "chineseName": "服装项目合作",
+          "translatedName": "Clothing project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 319,
+          "chineseName": "女式风衣",
+          "translatedName": "women's windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 201723506,
+          "chineseName": "女士打底",
+          "translatedName": "Lady's backing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202050801,
+          "chineseName": "女式唐装",
+          "translatedName": "women's tang suit",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202050901,
+          "chineseName": "洛丽塔Lolita",
+          "translatedName": "Lolita Lolita",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202041302,
+          "chineseName": "汉服",
+          "translatedName": "Hanfu",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 304,
+          "chineseName": "皮草",
+          "translatedName": "Fur",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202025703,
+          "chineseName": "中老年女装",
+          "translatedName": "Middle-aged and elderly women's clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202057812,
+          "chineseName": "女式羊绒外套",
+          "translatedName": "women's cashmere coat",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202052806,
+          "chineseName": "少数民族服饰",
+          "translatedName": "minority costumes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        },
+        {
+          "categoryId": 202056910,
+          "chineseName": "女装加工定制",
+          "translatedName": "Women's custom processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10166
+        }
+      ]
+    }
+  }
+}

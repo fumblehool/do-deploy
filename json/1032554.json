@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032554,
+      "chineseName": "炼铁设备",
+      "translatedName": "ironmaking equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "914"
+    }
+  }
+}

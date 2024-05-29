@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201028006,
+      "chineseName": "配镜设备及配件",
+      "translatedName": "Mirror equipment and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80"
+    }
+  }
+}

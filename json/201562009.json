@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201562009,
+      "chineseName": "画板包",
+      "translatedName": "Drawing board bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548901"
+    }
+  }
+}

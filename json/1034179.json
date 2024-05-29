@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034179,
+      "chineseName": "其他印后加工设备",
+      "translatedName": "Other Post-Press Processing Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032524"
+    }
+  }
+}

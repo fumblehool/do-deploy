@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122078002,
+      "chineseName": "户外皮肤衣/防晒衣",
+      "translatedName": "Outdoor skin clothing/sun protection clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048070"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062010,
+      "chineseName": "牛肉类",
+      "translatedName": "beef meat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10086"
+    }
+  }
+}

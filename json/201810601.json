@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201810601,
+      "chineseName": "灭火器",
+      "translatedName": "Fire extinguisher",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "90"
+    }
+  }
+}

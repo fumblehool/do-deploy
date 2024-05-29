@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304525,
+      "chineseName": "动漫/明星挂件",
+      "translatedName": "Anime/Star Pendant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303011"
+    }
+  }
+}

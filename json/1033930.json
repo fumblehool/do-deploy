@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033930,
+      "chineseName": "双金属温度计",
+      "translatedName": "Bimetal thermometer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032398"
+    }
+  }
+}

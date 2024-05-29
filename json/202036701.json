@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202036701,
+      "chineseName": "稻草浆",
+      "translatedName": "rice straw pulp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "83"
+    }
+  }
+}

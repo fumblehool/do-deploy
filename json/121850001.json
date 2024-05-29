@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121850001,
+      "chineseName": "猫/狗美容清洁用品",
+      "translatedName": "Cat/Dog Beauty Cleaning Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122112001,
+          "chineseName": "猫猫清洁美容工具",
+          "translatedName": "Cat cleaning beauty tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121848001,
+          "chineseName": "猫猫香波浴液",
+          "translatedName": "Cat shampoo bath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 122110003,
+          "chineseName": "狗狗清洁美容工具",
+          "translatedName": "Dog cleaning and beauty tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121830003,
+          "chineseName": "禁区喷剂",
+          "translatedName": "Prohibited area spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121776005,
+          "chineseName": "空气清新",
+          "translatedName": "fresh air",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121802005,
+          "chineseName": "排便定位",
+          "translatedName": "defecation positioning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121832004,
+          "chineseName": "拾便器",
+          "translatedName": "Toilet pickup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 121838001,
+          "chineseName": "狗狗香波浴液",
+          "translatedName": "Dog shampoo bath",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201307107,
+          "chineseName": "口腔清洁",
+          "translatedName": "oral cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201301507,
+          "chineseName": "宠物美容服",
+          "translatedName": "Pet Beauty Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201309705,
+          "chineseName": "美容台",
+          "translatedName": "Beauty Desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201309004,
+          "chineseName": "脚掌滋润/护理",
+          "translatedName": "Foot Moisturizing/Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201220215,
+          "chineseName": "猫砂铲",
+          "translatedName": "Cat Litter Shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201305908,
+          "chineseName": "耳部清洁",
+          "translatedName": "Ear cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201308609,
+          "chineseName": "眼部清洁",
+          "translatedName": "Eye cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201227806,
+          "chineseName": "宠物浴池/浴盆",
+          "translatedName": "Pet bath/tub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201302508,
+          "chineseName": "宠物吹水机",
+          "translatedName": "Pet water blower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201305504,
+          "chineseName": "宠物拾便袋",
+          "translatedName": "Pet pick-up bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201217710,
+          "chineseName": "狗厕所",
+          "translatedName": "dog toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201304911,
+          "chineseName": "除毛用品",
+          "translatedName": "Hair removal supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 200520003,
+          "chineseName": "猫厕所/猫砂盆",
+          "translatedName": "Cat toilet/litter box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 200534001,
+          "chineseName": "宠物尿片/尿垫/护垫",
+          "translatedName": "Pet diapers/pads/pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201308610,
+          "chineseName": "宠物烘干箱",
+          "translatedName": "Pet drying box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201868702,
+          "chineseName": "宠物指甲剪",
+          "translatedName": "Pet nail scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201863104,
+          "chineseName": "宠物梳子",
+          "translatedName": "Pet comb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        },
+        {
+          "categoryId": 201863702,
+          "chineseName": "宠物电推剪",
+          "translatedName": "Pet electric clippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121850001
+        }
+      ]
+    }
+  }
+}

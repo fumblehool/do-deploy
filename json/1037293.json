@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037293,
+      "chineseName": "国画",
+      "translatedName": "traditional Chinese painting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926016"
+    }
+  }
+}

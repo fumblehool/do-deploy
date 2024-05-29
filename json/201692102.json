@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201692102,
+      "chineseName": "口风琴/笛子/吹奏乐器玩具",
+      "translatedName": "Organ/Flute/Wind Instrument Toy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201565322"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032084,
+      "chineseName": "货车",
+      "translatedName": "Vans",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3317"
+    }
+  }
+}

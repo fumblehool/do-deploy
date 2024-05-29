@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122082002,
+      "chineseName": "公路自行车",
+      "translatedName": "road bike",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564618"
+    }
+  }
+}

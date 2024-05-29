@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201359910,
+      "chineseName": "新能源汽车",
+      "translatedName": "new energy vehicle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201355911"
+    }
+  }
+}

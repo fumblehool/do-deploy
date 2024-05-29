@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122376004,
+      "chineseName": "手机防水包装",
+      "translatedName": "Mobile phone waterproof packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126512001"
+    }
+  }
+}

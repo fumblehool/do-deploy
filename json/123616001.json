@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616001,
+      "chineseName": "中老年妈妈鞋",
+      "translatedName": "Middle-aged mother shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125372002"
+    }
+  }
+}

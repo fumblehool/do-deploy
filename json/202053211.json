@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053211,
+      "chineseName": "成衣牛仔加工",
+      "translatedName": "garment denim processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056512"
+    }
+  }
+}

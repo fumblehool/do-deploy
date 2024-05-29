@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036656,
+      "chineseName": "库存仪器仪表",
+      "translatedName": "Inventory instrumentation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10208"
+    }
+  }
+}

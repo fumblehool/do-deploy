@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044455,
+      "chineseName": "不锈钢扁钢",
+      "translatedName": "Stainless steel flat steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10518"
+    }
+  }
+}

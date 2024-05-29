@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201221212,
+      "chineseName": "腰部饰品",
+      "translatedName": "Waist jewelry",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "54"
+    }
+  }
+}

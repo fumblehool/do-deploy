@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201915103,
+      "chineseName": "光栅尺",
+      "translatedName": "Grating ruler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201914203"
+    }
+  }
+}

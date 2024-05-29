@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201382304,
+      "chineseName": "安全网",
+      "translatedName": "Safety net",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033208,
+          "chineseName": "其他安全网",
+          "translatedName": "Other safety nets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201382703,
+          "chineseName": "井盖网",
+          "translatedName": "well cover net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201383402,
+          "chineseName": "安全平网",
+          "translatedName": "safety flat net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201383601,
+          "chineseName": "盖土网",
+          "translatedName": "earth cover net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201384420,
+          "chineseName": "防盗网",
+          "translatedName": "Anti-theft net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201384421,
+          "chineseName": "大棚网",
+          "translatedName": "Greenhouse net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201384513,
+          "chineseName": "攀爬网",
+          "translatedName": "Climbing Net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201379115,
+          "chineseName": "防风、抑尘网",
+          "translatedName": "Windproof and dust suppression net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201379405,
+          "chineseName": "建筑安全网",
+          "translatedName": "Building safety net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201379423,
+          "chineseName": "养殖网",
+          "translatedName": "breeding net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201379505,
+          "chineseName": "封车网",
+          "translatedName": "Car closure network",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201374925,
+          "chineseName": "防蚊网",
+          "translatedName": "mosquito net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201381316,
+          "chineseName": "爬藤网",
+          "translatedName": "vine climbing net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201382120,
+          "chineseName": "防鸟网",
+          "translatedName": "anti-bird net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201371407,
+          "chineseName": "防草网",
+          "translatedName": "Anti-grass net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201371905,
+          "chineseName": "遮阳网",
+          "translatedName": "shade net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201376303,
+          "chineseName": "爬架网",
+          "translatedName": "Crawl Net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        },
+        {
+          "categoryId": 201863302,
+          "chineseName": "防坠网",
+          "translatedName": "Anti-falling net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201382304
+        }
+      ]
+    }
+  }
+}

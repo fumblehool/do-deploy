@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032996,
+      "chineseName": "纸托盘",
+      "translatedName": "Paper Tray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10363"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037036,
+      "chineseName": "瑜伽服",
+      "translatedName": "Yoga clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013",
+      "fromCache": true
+    }
+  }
+}

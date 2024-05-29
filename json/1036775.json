@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036775,
+      "chineseName": "脂肪酸",
+      "translatedName": "Fatty acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80312"
+    }
+  }
+}

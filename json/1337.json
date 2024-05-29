@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1337,
+      "chineseName": "隔音、吸声材料",
+      "translatedName": "Sound insulation and sound absorption materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1038387"
+    }
+  }
+}

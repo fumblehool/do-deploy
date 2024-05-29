@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201466307,
+      "chineseName": "元宝",
+      "translatedName": "Yuanbao",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345914"
+    }
+  }
+}

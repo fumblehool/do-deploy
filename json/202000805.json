@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202000805,
+      "chineseName": "西点馅料类",
+      "translatedName": "West Point Filling Category",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202010504"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122982006,
+      "chineseName": "棉胎",
+      "translatedName": "cotton tire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123114001,
+      "chineseName": "软壳衣裤",
+      "translatedName": "Soft-Shell Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048070"
+    }
+  }
+}

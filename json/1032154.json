@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032154,
+      "chineseName": "其他转向系统",
+      "translatedName": "Other steering systems",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3316"
+    }
+  }
+}

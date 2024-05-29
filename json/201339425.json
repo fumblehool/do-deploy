@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201339425,
+      "chineseName": "共享式充电桩",
+      "translatedName": "Shared charging pile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332918"
+    }
+  }
+}

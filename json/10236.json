@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10236,
+      "chineseName": "电子产品制造设备",
+      "translatedName": "Electronic Product Manufacturing Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035180,
+          "chineseName": "其他电子产品制造设备",
+          "translatedName": "Other Electronics Manufacturing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035181,
+          "chineseName": "电子电器生产线",
+          "translatedName": "Electronic and Electrical Equipment Production Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035182,
+          "chineseName": "电子元件成型机",
+          "translatedName": "Electronic component forming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035197,
+          "chineseName": "熔接机",
+          "translatedName": "fusion splicer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035208,
+          "chineseName": "邦定机",
+          "translatedName": "Bonding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035209,
+          "chineseName": "绕线机、绞线机",
+          "translatedName": "Winding machine, stranding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035200,
+          "chineseName": "打胶机",
+          "translatedName": "Glue machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035201,
+          "chineseName": "热压机",
+          "translatedName": "Hot Press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035202,
+          "chineseName": "压接机",
+          "translatedName": "Crimping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035203,
+          "chineseName": "端子机",
+          "translatedName": "terminal machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035204,
+          "chineseName": "跳线机",
+          "translatedName": "Jumper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035205,
+          "chineseName": "蚀刻机",
+          "translatedName": "etching machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035206,
+          "chineseName": "导线剥皮机",
+          "translatedName": "Wire stripping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035207,
+          "chineseName": "贴片机",
+          "translatedName": "placement machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035210,
+          "chineseName": "充磁机",
+          "translatedName": "magnetizing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035211,
+          "chineseName": "剥线机",
+          "translatedName": "Wire stripping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035212,
+          "chineseName": "剪脚机",
+          "translatedName": "Foot cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1035213,
+          "chineseName": "点胶设备",
+          "translatedName": "dispensing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1045447,
+          "chineseName": "插片机",
+          "translatedName": "Inserting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1045459,
+          "chineseName": "插件机",
+          "translatedName": "Plug-in machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 1045747,
+          "chineseName": "电子制造设备配附件",
+          "translatedName": "Accessories for electronic manufacturing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 201958604,
+          "chineseName": "放线机",
+          "translatedName": "release machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        },
+        {
+          "categoryId": 201958802,
+          "chineseName": "插针机",
+          "translatedName": "Inserter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10236
+        }
+      ]
+    }
+  }
+}

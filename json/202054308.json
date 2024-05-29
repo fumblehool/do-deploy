@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054308,
+      "chineseName": "太阳能定位器",
+      "translatedName": "Solar Positioner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055610"
+    }
+  }
+}

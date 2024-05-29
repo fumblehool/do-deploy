@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157502,
+      "chineseName": "护脚",
+      "translatedName": "Foot protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125730003"
+    }
+  }
+}

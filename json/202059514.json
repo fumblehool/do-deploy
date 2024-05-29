@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059514,
+      "chineseName": "新入网手机号套餐",
+      "translatedName": "New Network Phone Number Package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202062910"
+    }
+  }
+}

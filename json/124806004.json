@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124806004,
+      "chineseName": "家纺家饰加工",
+      "translatedName": "Home textile home decoration processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124774004,
+          "chineseName": "套件加工",
+          "translatedName": "Kit processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124806004
+        },
+        {
+          "categoryId": 124774005,
+          "chineseName": "被芯加工",
+          "translatedName": "Quilt core processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124806004
+        },
+        {
+          "categoryId": 124774006,
+          "chineseName": "枕芯加工",
+          "translatedName": "pillow core processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124806004
+        },
+        {
+          "categoryId": 124774007,
+          "chineseName": "毛巾、巾类加工",
+          "translatedName": "Towel and towel processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124806004
+        },
+        {
+          "categoryId": 124774008,
+          "chineseName": "窗帘加工",
+          "translatedName": "Curtain processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124806004
+        }
+      ]
+    }
+  }
+}

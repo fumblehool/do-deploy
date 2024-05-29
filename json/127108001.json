@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127108001,
+      "chineseName": "避雷器",
+      "translatedName": "Arrester",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "525"
+    }
+  }
+}

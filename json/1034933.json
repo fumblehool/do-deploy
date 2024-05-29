@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034933,
+      "chineseName": "硅橡胶",
+      "translatedName": "Silicone rubber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031644"
+    }
+  }
+}

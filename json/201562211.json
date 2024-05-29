@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201562211,
+      "chineseName": "男士阿罗裤",
+      "translatedName": "Men's Aro Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201835213"
+    }
+  }
+}

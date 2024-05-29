@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201879305,
+      "chineseName": "电动车钥匙盖壳",
+      "translatedName": "Electric vehicle key cover shell",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125066013"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125464003,
+      "chineseName": "热镀锌铁卷",
+      "translatedName": "Hot-dip galvanized iron coil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121012028"
+    }
+  }
+}

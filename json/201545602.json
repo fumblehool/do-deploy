@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201545602,
+      "chineseName": "运动包",
+      "translatedName": "Sports bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10282,
+          "chineseName": "运动背包",
+          "translatedName": "Sports backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 1048305,
+          "chineseName": "登山、徒步包",
+          "translatedName": "Mountain climbing, hiking bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 1048309,
+          "chineseName": "其他包配用品",
+          "translatedName": "Other Bag Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 121900001,
+          "chineseName": "运动腰包、配件包",
+          "translatedName": "Sport waist bag, accessory bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 121902001,
+          "chineseName": "户外防水包、防水箱",
+          "translatedName": "Outdoor waterproof bag, waterproof box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 121904001,
+          "chineseName": "户外迷彩、军迷包",
+          "translatedName": "Outdoor camouflage, military fan bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 124514002,
+          "chineseName": "手臂包",
+          "translatedName": "arm bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        },
+        {
+          "categoryId": 121870002,
+          "chineseName": "运动挎包、挂包",
+          "translatedName": "Sports satchel, hanging bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545602
+        }
+      ]
+    }
+  }
+}

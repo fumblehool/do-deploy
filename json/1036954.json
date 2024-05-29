@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036954,
+      "chineseName": "其他无机非金属材料",
+      "translatedName": "Other inorganic non-metallic materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "848"
+    }
+  }
+}

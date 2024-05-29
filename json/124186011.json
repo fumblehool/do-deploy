@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124186011,
+      "chineseName": "割草机",
+      "translatedName": "lawn mower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047258"
+    }
+  }
+}

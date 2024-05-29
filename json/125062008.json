@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062008,
+      "chineseName": "蛋制品",
+      "translatedName": "egg products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125062009,
+          "chineseName": "卤蛋蛋干类",
+          "translatedName": "Dried marinated eggs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125062008
+        },
+        {
+          "categoryId": 125070003,
+          "chineseName": "咸蛋类",
+          "translatedName": "Salted Egg Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125062008
+        },
+        {
+          "categoryId": 125086001,
+          "chineseName": "皮蛋类",
+          "translatedName": "leather eggs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125062008
+        },
+        {
+          "categoryId": 201162809,
+          "chineseName": "蛋黄类",
+          "translatedName": "Egg yolk class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125062008
+        },
+        {
+          "categoryId": 208,
+          "chineseName": "其他蛋制品",
+          "translatedName": "Other egg products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125062008
+        }
+      ]
+    }
+  }
+}

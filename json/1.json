@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1,
+      "chineseName": "农业",
+      "translatedName": "Agriculture",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033742,
+          "chineseName": "果树",
+          "translatedName": "fruit tree",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 10015,
+          "chineseName": "畜禽种苗",
+          "translatedName": "Seedlings of livestock and poultry",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 10048,
+          "chineseName": "饲料",
+          "translatedName": "Feed",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 1031790,
+          "chineseName": "农产品代理加盟",
+          "translatedName": "Agricultural products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 1046330,
+          "chineseName": "特种养殖动物",
+          "translatedName": "Special breeding animals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 1046352,
+          "chineseName": "畜牧业副产品",
+          "translatedName": "Animal husbandry by-products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 128,
+          "chineseName": "农业用具",
+          "translatedName": "agricultural utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 136,
+          "chineseName": "工业用动植物油",
+          "translatedName": "Animal and vegetable oils for industrial use",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 201138101,
+          "chineseName": "水产种苗",
+          "translatedName": "Aquatic Seedlings",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 135,
+          "chineseName": "其他农业",
+          "translatedName": "Other Agriculture",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 133,
+          "chineseName": "库存农产品",
+          "translatedName": "Inventory of agricultural products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        },
+        {
+          "categoryId": 290301,
+          "chineseName": "农林牧渔项目合作",
+          "translatedName": "cooperation of agriculture, forestry, animal husbandry and fishery projects",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734006,
+      "chineseName": "蜂产品",
+      "translatedName": "Bee Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124740014,
+          "chineseName": "蜂巢素",
+          "translatedName": "Honeycomb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734006
+        },
+        {
+          "categoryId": 124734012,
+          "chineseName": "蜂皇浆",
+          "translatedName": "Royal Jelly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734006
+        },
+        {
+          "categoryId": 124742004,
+          "chineseName": "蜂蜜",
+          "translatedName": "Honey",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734006
+        },
+        {
+          "categoryId": 124746008,
+          "chineseName": "蜂花粉",
+          "translatedName": "bee pollen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734006
+        },
+        {
+          "categoryId": 210,
+          "chineseName": "其他蜂产品",
+          "translatedName": "Other Bee Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734006
+        }
+      ]
+    }
+  }
+}

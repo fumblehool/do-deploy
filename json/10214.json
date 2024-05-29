@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10214,
+      "chineseName": "专用仪器仪表",
+      "translatedName": "Special instruments and meters",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033855,
+          "chineseName": "安全仪器",
+          "translatedName": "safety instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033856,
+          "chineseName": "船用仪器仪表",
+          "translatedName": "marine instrumentation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033857,
+          "chineseName": "地矿、地震仪器",
+          "translatedName": "Geology and Mineral, Seismic Instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033851,
+          "chineseName": "其他专用仪器仪表",
+          "translatedName": "Other special instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033852,
+          "chineseName": "通讯检测仪器",
+          "translatedName": "Communication testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033853,
+          "chineseName": "纺织用仪器",
+          "translatedName": "Textile instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1033854,
+          "chineseName": "水文仪器",
+          "translatedName": "hydrological instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1031661,
+          "chineseName": "化工仪表",
+          "translatedName": "chemical instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1036115,
+          "chineseName": "电火花检测仪",
+          "translatedName": "electric spark detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1036116,
+          "chineseName": "监控仪",
+          "translatedName": "Monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035606,
+          "chineseName": "造纸检测仪器",
+          "translatedName": "Papermaking testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1046824,
+          "chineseName": "食品、药品安全检测仪器",
+          "translatedName": "Food and drug safety testing instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035648,
+          "chineseName": "沥青试验仪器",
+          "translatedName": "Asphalt test instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035926,
+          "chineseName": "力矩限制器",
+          "translatedName": "torque limiter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035927,
+          "chineseName": "静电测试仪",
+          "translatedName": "Electrostatic tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035928,
+          "chineseName": "测定仪",
+          "translatedName": "Tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035929,
+          "chineseName": "测振仪",
+          "translatedName": "vibrometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        },
+        {
+          "categoryId": 1035930,
+          "chineseName": "测距仪",
+          "translatedName": "rangefinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10214
+        }
+      ]
+    }
+  }
+}

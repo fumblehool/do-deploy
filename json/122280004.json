@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122280004,
+      "chineseName": "地毯干洗剂",
+      "translatedName": "carpet dry cleaning agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122278002"
+    }
+  }
+}

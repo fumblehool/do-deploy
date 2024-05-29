@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121814003,
+      "chineseName": "仓鼠主粮",
+      "translatedName": "hamster staple food",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121814002"
+    }
+  }
+}

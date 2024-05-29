@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121582002,
+      "chineseName": "其他玻璃包装容器",
+      "translatedName": "Other Glass Packaging Containers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121564003"
+    }
+  }
+}

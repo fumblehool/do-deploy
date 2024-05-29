@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122196002,
+      "chineseName": "玉石保健枕",
+      "translatedName": "Jade health pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123086001"
+    }
+  }
+}

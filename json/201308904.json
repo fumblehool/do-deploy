@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308904,
+      "chineseName": "眼部精华",
+      "translatedName": "Eye Essence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303117"
+    }
+  }
+}

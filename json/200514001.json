@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200514001,
+      "chineseName": "床上用品",
+      "translatedName": "Bedding",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033174,
+      "chineseName": "其他门禁考勤器材及系统",
+      "translatedName": "Other access control and attendance equipment and systems",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1336"
+    }
+  }
+}

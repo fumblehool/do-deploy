@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 529,
+      "chineseName": "电源",
+      "translatedName": "Power",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035901,
+          "chineseName": "其他电源",
+          "translatedName": "Other power supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 1035902,
+          "chineseName": "应急电源",
+          "translatedName": "Emergency power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 1035904,
+          "chineseName": "变频电源",
+          "translatedName": "variable frequency power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 1042956,
+          "chineseName": "线性电源",
+          "translatedName": "Linear power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 1042959,
+          "chineseName": "逆变电源(逆变器)",
+          "translatedName": "Inverter power supply (inverter)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 1043447,
+          "chineseName": "稳压电源",
+          "translatedName": "regulated power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 124952008,
+          "chineseName": "UPS（不间断）电源",
+          "translatedName": "UPS (uninterruptible) power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 127894004,
+          "chineseName": "模块式开关电源",
+          "translatedName": "modular switching power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 126568002,
+          "chineseName": "充电电源",
+          "translatedName": "Charging power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 127448001,
+          "chineseName": "适配器",
+          "translatedName": "Adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        },
+        {
+          "categoryId": 522,
+          "chineseName": "开关电源",
+          "translatedName": "switching power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 529
+        }
+      ]
+    }
+  }
+}

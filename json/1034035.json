@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034035,
+      "chineseName": "橡胶后处理加工",
+      "translatedName": "Rubber post-processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034033"
+    }
+  }
+}

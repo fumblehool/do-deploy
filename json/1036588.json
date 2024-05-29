@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036588,
+      "chineseName": "恒力弹簧",
+      "translatedName": "constant force spring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032469"
+    }
+  }
+}

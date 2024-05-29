@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055801,
+      "chineseName": "中老年蕾丝衫、雪纺衫",
+      "translatedName": "Middle-aged and elderly lace shirt, chiffon shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202025703"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127142003,
+      "chineseName": "床上用品加工定制",
+      "translatedName": "Bedding processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "96"
+    }
+  }
+}

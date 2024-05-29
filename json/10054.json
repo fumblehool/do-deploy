@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10054,
+      "chineseName": "化肥",
+      "translatedName": "Fertilizer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10052,
+          "chineseName": "复合肥",
+          "translatedName": "compound fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 10053,
+          "chineseName": "氮肥",
+          "translatedName": "nitrogen fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 1005401,
+          "chineseName": "生物肥料",
+          "translatedName": "biological fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 1005402,
+          "chineseName": "叶面肥",
+          "translatedName": "foliar fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 10067,
+          "chineseName": "磷肥",
+          "translatedName": "phosphate fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 10068,
+          "chineseName": "钾肥",
+          "translatedName": "potash fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 10070,
+          "chineseName": "其他化肥",
+          "translatedName": "Other Fertilizers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        },
+        {
+          "categoryId": 143,
+          "chineseName": "有机肥",
+          "translatedName": "organic fertilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10054
+        }
+      ]
+    }
+  }
+}

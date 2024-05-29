@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123936002,
+      "chineseName": "焊工手套",
+      "translatedName": "Welder gloves",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988003,
+      "chineseName": "布类公仔、玩偶、娃娃",
+      "translatedName": "Cloth dolls, dolls, dolls",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122988002"
+    }
+  }
+}

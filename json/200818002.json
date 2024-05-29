@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200818002,
+      "chineseName": "预偏置双极晶体管",
+      "translatedName": "pre-biased bipolar transistor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200774004"
+    }
+  }
+}

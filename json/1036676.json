@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036676,
+      "chineseName": "其他电源、点火系统",
+      "translatedName": "Other power supply, ignition system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10107"
+    }
+  }
+}

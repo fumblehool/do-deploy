@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012033,
+      "chineseName": "线材",
+      "translatedName": "Wire",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018023,
+          "chineseName": "高线",
+          "translatedName": "High Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012033
+        },
+        {
+          "categoryId": 121022027,
+          "chineseName": "普线",
+          "translatedName": "General Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012033
+        },
+        {
+          "categoryId": 121022029,
+          "chineseName": "钢绞线",
+          "translatedName": "Steel strand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012033
+        },
+        {
+          "categoryId": 121046021,
+          "chineseName": "其他线材",
+          "translatedName": "Other Wires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012033
+        }
+      ]
+    }
+  }
+}

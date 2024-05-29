@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032087,
+      "chineseName": "汽车音箱/低音炮",
+      "translatedName": "Car speaker/subwoofer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1212"
+    }
+  }
+}

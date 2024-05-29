@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032999,
+      "chineseName": "辅助包装材料",
+      "translatedName": "Auxiliary packaging materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042727"
+    }
+  }
+}

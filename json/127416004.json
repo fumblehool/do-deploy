@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127416004,
+      "chineseName": "其它广告衫",
+      "translatedName": "Other Advertising Shirts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201368501,
+      "chineseName": "手机投屏器/同屏器",
+      "translatedName": "Mobile Phone Screen Cast/Same Screen Cast",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50911"
+    }
+  }
+}

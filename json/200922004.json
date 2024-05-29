@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200922004,
+      "chineseName": "煮食炉/面火炉/商用多士炉",
+      "translatedName": "Cooking stove/surface stove/commercial toaster",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

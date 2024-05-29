@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031664,
+      "chineseName": "制冷设备",
+      "translatedName": "Refrigeration equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034718,
+          "chineseName": "其他制冷设备",
+          "translatedName": "Other refrigeration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        },
+        {
+          "categoryId": 1034719,
+          "chineseName": "淋水装置",
+          "translatedName": "water spraying device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        },
+        {
+          "categoryId": 1034720,
+          "chineseName": "冷水机",
+          "translatedName": "Chiller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        },
+        {
+          "categoryId": 1034721,
+          "chineseName": "冷冻机",
+          "translatedName": "Freezer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        },
+        {
+          "categoryId": 1034722,
+          "chineseName": "冷却塔",
+          "translatedName": "Cooling tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        },
+        {
+          "categoryId": 1034723,
+          "chineseName": "制冷压缩机",
+          "translatedName": "Refrigeration compressor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031664
+        }
+      ]
+    }
+  }
+}

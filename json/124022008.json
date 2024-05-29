@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022008,
+      "chineseName": "罐头食品",
+      "translatedName": "canned food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124000008,
+          "chineseName": "水果罐头",
+          "translatedName": "canned fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022008
+        },
+        {
+          "categoryId": 124016008,
+          "chineseName": "水产罐头",
+          "translatedName": "Canned Aquatic Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022008
+        },
+        {
+          "categoryId": 124016009,
+          "chineseName": "肉类罐头",
+          "translatedName": "canned meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022008
+        },
+        {
+          "categoryId": 124016010,
+          "chineseName": "蔬菜罐头",
+          "translatedName": "canned vegetables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022008
+        }
+      ]
+    }
+  }
+}

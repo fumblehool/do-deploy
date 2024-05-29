@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201884512,
+      "chineseName": "电动车牌照框",
+      "translatedName": "Electric vehicle license plate frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125066013"
+    }
+  }
+}

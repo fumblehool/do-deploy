@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123862005,
+      "chineseName": "计生用品",
+      "translatedName": "Family Planning Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130823000",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123854004,
+          "chineseName": "安全套",
+          "translatedName": "Condom",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123862005
+        },
+        {
+          "categoryId": 123868003,
+          "chineseName": "其他计生用品",
+          "translatedName": "Other family planning supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123862005
+        }
+      ]
+    }
+  }
+}

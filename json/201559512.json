@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201559512,
+      "chineseName": "男式加绒裤",
+      "translatedName": "Men's Padded Pants",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201567920,
+          "chineseName": "男式加绒休闲裤",
+          "translatedName": "Men's Fleece-lined Casual Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201559512
+        },
+        {
+          "categoryId": 201575814,
+          "chineseName": "男式加绒卫裤",
+          "translatedName": "Men's Fleece Sweatpants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201559512
+        },
+        {
+          "categoryId": 201578118,
+          "chineseName": "男式加绒牛仔裤",
+          "translatedName": "Men's Velvet Jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201559512
+        }
+      ]
+    }
+  }
+}

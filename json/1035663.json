@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035663,
+      "chineseName": "风机、排风设备配件",
+      "translatedName": "Fan, exhaust equipment accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1422"
+    }
+  }
+}

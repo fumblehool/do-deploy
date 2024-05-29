@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041389,
+      "chineseName": "家居智能",
+      "translatedName": "Home intelligent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041390,
+          "chineseName": "智能家居",
+          "translatedName": "Smart Home",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041389
+        },
+        {
+          "categoryId": 1041391,
+          "chineseName": "智能锁",
+          "translatedName": "Smart lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041389
+        },
+        {
+          "categoryId": 1041392,
+          "chineseName": "其他家居智能产品",
+          "translatedName": "Other Home Smart Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041389
+        }
+      ]
+    }
+  }
+}

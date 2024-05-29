@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035458,
+      "chineseName": "其他紧固件、连接件",
+      "translatedName": "Other fasteners, connectors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "141906"
+    }
+  }
+}

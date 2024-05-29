@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052502,
+      "chineseName": "饺子收纳盒",
+      "translatedName": "Dumpling storage box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10295"
+    }
+  }
+}

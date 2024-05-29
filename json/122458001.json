@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122458001,
+      "chineseName": "石雕",
+      "translatedName": "Stone Carving",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046737"
+    }
+  }
+}

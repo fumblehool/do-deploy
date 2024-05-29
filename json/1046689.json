@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046689,
+      "chineseName": "平板电脑保护套",
+      "translatedName": "Tablet Case",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046688"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 154,
+      "chineseName": "二手汽车",
+      "translatedName": "Used car",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "71"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032570,
+      "chineseName": "包装辅助设备",
+      "translatedName": "Packaging auxiliary equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "86"
+    }
+  }
+}

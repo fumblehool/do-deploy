@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331717,
+      "chineseName": "餐桌椅+餐边柜+酒柜",
+      "translatedName": "Dining Table and Chair Sideboard Wine Cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

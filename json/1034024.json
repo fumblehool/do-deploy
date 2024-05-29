@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034024,
+      "chineseName": "塑料加工",
+      "translatedName": "Plastic Processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034030,
+          "chineseName": "吹塑加工",
+          "translatedName": "blow molding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034031,
+          "chineseName": "挤塑加工",
+          "translatedName": "extrusion processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034032,
+          "chineseName": "注塑加工",
+          "translatedName": "injection molding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034025,
+          "chineseName": "其他塑料加工",
+          "translatedName": "Other Plastics Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034026,
+          "chineseName": "塑料表面处理",
+          "translatedName": "Plastic surface treatment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034027,
+          "chineseName": "铸塑加工",
+          "translatedName": "casting processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034028,
+          "chineseName": "压塑加工",
+          "translatedName": "compression molding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1034029,
+          "chineseName": "吸塑加工",
+          "translatedName": "blister processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 1041572,
+          "chineseName": "滚塑加工",
+          "translatedName": "rotomolding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 202060412,
+          "chineseName": "塑料外壳加工",
+          "translatedName": "Plastic shell processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        },
+        {
+          "categoryId": 202061105,
+          "chineseName": "塑料面板加工",
+          "translatedName": "Plastic panel processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034024
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122474002,
+      "chineseName": "女士背心",
+      "translatedName": "Ladies vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122478003"
+    }
+  }
+}

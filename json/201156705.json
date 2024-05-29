@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156705,
+      "chineseName": "橡塑管套",
+      "translatedName": "Rubber plastic pipe sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160507"
+    }
+  }
+}

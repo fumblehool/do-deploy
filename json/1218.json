@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1218,
+      "chineseName": "飞机及配件",
+      "translatedName": "Aircraft and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "12"
+    }
+  }
+}

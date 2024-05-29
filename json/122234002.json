@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122234002,
+      "chineseName": "记忆枕",
+      "translatedName": "Memory pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123086001"
+    }
+  }
+}

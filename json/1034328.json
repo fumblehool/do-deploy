@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034328,
+      "chineseName": "高压水流清洗机",
+      "translatedName": "High pressure water flow cleaning machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126448003"
+    }
+  }
+}

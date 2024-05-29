@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201153901,
+      "chineseName": "箱包挂锁",
+      "translatedName": "Luggage padlock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127278005"
+    }
+  }
+}

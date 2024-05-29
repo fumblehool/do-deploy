@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201896201,
+      "chineseName": "手账夹",
+      "translatedName": "Hand account folder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201857705"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202003203,
+      "chineseName": "扩展版",
+      "translatedName": "Extended Edition",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126574002"
+    }
+  }
+}

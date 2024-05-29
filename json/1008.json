@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1008,
+      "chineseName": "发电机、发电机组",
+      "translatedName": "Generator, generator set",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033683,
+          "chineseName": "异步发电机",
+          "translatedName": "asynchronous generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1033684,
+          "chineseName": "同步发电机",
+          "translatedName": "synchronous generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032355,
+          "chineseName": "其他发电机、发电机组",
+          "translatedName": "Other generators, generator sets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032356,
+          "chineseName": "发电机组零部件",
+          "translatedName": "Generator set parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032358,
+          "chineseName": "燃煤发电机组",
+          "translatedName": "coal-fired generating units",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032359,
+          "chineseName": "太阳能发电机组",
+          "translatedName": "solar power generator set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032360,
+          "chineseName": "水力发电机组",
+          "translatedName": "hydroelectric generating unit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032361,
+          "chineseName": "风力发电机组",
+          "translatedName": "Wind turbine generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032362,
+          "chineseName": "燃气发电机组",
+          "translatedName": "Gas generator set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032363,
+          "chineseName": "汽油发电机组",
+          "translatedName": "Gasoline generator set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        },
+        {
+          "categoryId": 1032364,
+          "chineseName": "柴油发电机组",
+          "translatedName": "Diesel generator set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1008
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054009,
+      "chineseName": "存储IC",
+      "translatedName": "Storage IC",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126628001"
+    }
+  }
+}

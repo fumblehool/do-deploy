@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035256,
+      "chineseName": "EL冷光片",
+      "translatedName": "EL cold light sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1035087"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80317,
+      "chineseName": "杂环化合物",
+      "translatedName": "heterocyclic compound",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034675,
+          "chineseName": "其他杂环化合物",
+          "translatedName": "Other heterocyclic compounds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034676,
+          "chineseName": "嘧啶",
+          "translatedName": "pyrimidine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034677,
+          "chineseName": "吡啶",
+          "translatedName": "Pyridine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034678,
+          "chineseName": "咪唑",
+          "translatedName": "Imidazole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034679,
+          "chineseName": "噻唑",
+          "translatedName": "Thiazole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034680,
+          "chineseName": "吡咯",
+          "translatedName": "pyrrole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034681,
+          "chineseName": "噻吩",
+          "translatedName": "thiophene",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1034682,
+          "chineseName": "呋喃",
+          "translatedName": "Furan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1035282,
+          "chineseName": "嘌呤",
+          "translatedName": "purine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        },
+        {
+          "categoryId": 1035283,
+          "chineseName": "吲哚",
+          "translatedName": "indole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80317
+        }
+      ]
+    }
+  }
+}

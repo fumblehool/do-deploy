@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036691,
+      "chineseName": "弹性乳液",
+      "translatedName": "elastic emulsion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036686"
+    }
+  }
+}

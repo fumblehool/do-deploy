@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10229,
+      "chineseName": "电动车用电动机",
+      "translatedName": "Electric motor for electric vehicle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10228"
+    }
+  }
+}

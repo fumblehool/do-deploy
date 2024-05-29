@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10382,
+      "chineseName": "皮革化学品",
+      "translatedName": "Leather Chemicals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034476,
+          "chineseName": "浸水助剂",
+          "translatedName": "Soaking Aid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034468,
+          "chineseName": "其他皮革化学品",
+          "translatedName": "Other Leather Chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034469,
+          "chineseName": "涂饰剂",
+          "translatedName": "Finishing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034470,
+          "chineseName": "加脂剂",
+          "translatedName": "fatliquor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034471,
+          "chineseName": "鞣剂",
+          "translatedName": "tanning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034472,
+          "chineseName": "浸酸剂",
+          "translatedName": "pickling agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034473,
+          "chineseName": "脱灰剂",
+          "translatedName": "deash agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034474,
+          "chineseName": "浸灰剂",
+          "translatedName": "leaching agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        },
+        {
+          "categoryId": 1034475,
+          "chineseName": "脱脂剂",
+          "translatedName": "degreasing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10382
+        }
+      ]
+    }
+  }
+}

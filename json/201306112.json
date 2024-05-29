@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306112,
+      "chineseName": "手腕花",
+      "translatedName": "wrist flower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194001"
+    }
+  }
+}

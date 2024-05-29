@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122980004,
+      "chineseName": "孕妈洗护",
+      "translatedName": "Pregnant mother washing and nursing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231505"
+    }
+  }
+}

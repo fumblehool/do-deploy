@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121444002,
+      "chineseName": "炼乳类",
+      "translatedName": "Condensed milk",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744009"
+    }
+  }
+}

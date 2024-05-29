@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032228,
+      "chineseName": "数码配件",
+      "translatedName": "Digital Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033244,
+          "chineseName": "转接卡、转接线",
+          "translatedName": "Adapter card, adapter cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1033245,
+          "chineseName": "视频采集卡",
+          "translatedName": "video capture card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1033280,
+          "chineseName": "电源适配器",
+          "translatedName": "Power Adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1033285,
+          "chineseName": "数码存储卡",
+          "translatedName": "Digital Memory Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 10250,
+          "chineseName": "读卡器",
+          "translatedName": "Card Reader",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 10333,
+          "chineseName": "耳机",
+          "translatedName": "Headphones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1037734,
+          "chineseName": "外壳",
+          "translatedName": "Shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1042865,
+          "chineseName": "移动硬盘盒",
+          "translatedName": "Mobile hard disk box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1042866,
+          "chineseName": "光驱盒",
+          "translatedName": "Optical Drive Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1038633,
+          "chineseName": "USB HUB",
+          "translatedName": "USB HUB",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1037143,
+          "chineseName": "其他数码配件",
+          "translatedName": "Other Digital Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1037144,
+          "chineseName": "电视卡、电视盒",
+          "translatedName": "TV card, TV box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 1037145,
+          "chineseName": "数码伴侣",
+          "translatedName": "Digital Companion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122396005,
+          "chineseName": "游戏摇杆",
+          "translatedName": "Game joystick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122398004,
+          "chineseName": "游戏手柄",
+          "translatedName": "Game handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124776004,
+          "chineseName": "HDMI线",
+          "translatedName": "HDMI line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122364003,
+          "chineseName": "绕线器",
+          "translatedName": "wire winder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122326005,
+          "chineseName": "游戏机保护膜",
+          "translatedName": "Game machine protective film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124742026,
+          "chineseName": "数码音频线",
+          "translatedName": "Digital Audio Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122410004,
+          "chineseName": "游戏机充电器",
+          "translatedName": "Game machine charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124734049,
+          "chineseName": "数码天线",
+          "translatedName": "Digital Antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124740034,
+          "chineseName": "数码电源线",
+          "translatedName": "Digital Power Cord",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124740035,
+          "chineseName": "数码充电器",
+          "translatedName": "Digital Charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122374005,
+          "chineseName": "游戏机保护壳",
+          "translatedName": "Game console case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124736037,
+          "chineseName": "其他数码线材",
+          "translatedName": "Other Digital Wires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124742033,
+          "chineseName": "数码连接器",
+          "translatedName": "Digital Connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 122354010,
+          "chineseName": "游戏方向盘",
+          "translatedName": "Game steering wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 124734036,
+          "chineseName": "数码视频线",
+          "translatedName": "Digital Video Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 201646201,
+          "chineseName": "游戏机卡带",
+          "translatedName": "Game cassette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 201840303,
+          "chineseName": "耳机清洁笔",
+          "translatedName": "Headset cleaning pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 721,
+          "chineseName": "其他游戏机配件",
+          "translatedName": "Other Game Machine Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 201888004,
+          "chineseName": "电子书保护壳",
+          "translatedName": "e-book protective case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        },
+        {
+          "categoryId": 726,
+          "chineseName": "数码眼镜",
+          "translatedName": "Digital Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032228
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057212,
+      "chineseName": "童装加工定制",
+      "translatedName": "Children's clothing processing customization",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126440003,
+          "chineseName": "童装其他加工",
+          "translatedName": "Other processing of children's clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202051716,
+          "chineseName": "童装绣花加工",
+          "translatedName": "Children's clothing embroidery processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202056112,
+          "chineseName": "童装毛织加工",
+          "translatedName": "Children's Wool Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202055907,
+          "chineseName": "童装洗水加工",
+          "translatedName": "Children's clothing washing water processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202057213,
+          "chineseName": "童装压褶加工",
+          "translatedName": "Children's clothing folding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202062715,
+          "chineseName": "童装印花加工",
+          "translatedName": "Children's clothing printing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202063310,
+          "chineseName": "童装羽绒加工",
+          "translatedName": "Children's Down Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202060418,
+          "chineseName": "童装梭织加工",
+          "translatedName": "Woven processing of children's clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202036018,
+          "chineseName": "童装针织加工",
+          "translatedName": "Knitting processing of children's clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202059813,
+          "chineseName": "童装牛仔加工",
+          "translatedName": "Children's wear denim processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202052720,
+          "chineseName": "童装染色加工",
+          "translatedName": "Children's clothing dyeing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202063612,
+          "chineseName": "童装钉珠、钉扣加工",
+          "translatedName": "Children's clothing nail bead, nail buckle processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202055316,
+          "chineseName": "童装亮片加工",
+          "translatedName": "Children's clothing sequin processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        },
+        {
+          "categoryId": 202058411,
+          "chineseName": "童装烫钻加工",
+          "translatedName": "Children's wear hot drilling processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202057212
+        }
+      ]
+    }
+  }
+}

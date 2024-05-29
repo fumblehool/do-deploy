@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032366,
+      "chineseName": "气焊、气割器材",
+      "translatedName": "Gas welding and gas cutting equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035352,
+          "chineseName": "瓶阀",
+          "translatedName": "Bottle valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 1035353,
+          "chineseName": "气瓶",
+          "translatedName": "Gas Cylinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 1035344,
+          "chineseName": "焊炬",
+          "translatedName": "Welding torch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 1035345,
+          "chineseName": "割炬",
+          "translatedName": "cutting torch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 1035349,
+          "chineseName": "其他气焊、气割器材",
+          "translatedName": "Other gas welding and gas cutting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 1035350,
+          "chineseName": "回火防止器",
+          "translatedName": "Backfire preventer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201914402,
+          "chineseName": "混合气体配比器",
+          "translatedName": "Mixing gas proportioner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201922402,
+          "chineseName": "焊嘴",
+          "translatedName": "Welding nozzle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201923102,
+          "chineseName": "加热炬",
+          "translatedName": "Heating Torch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201924001,
+          "chineseName": "气焊防逆阀",
+          "translatedName": "Anti-reverse valve for gas welding",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201920503,
+          "chineseName": "割嘴",
+          "translatedName": "Mouth cutting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        },
+        {
+          "categoryId": 201924601,
+          "chineseName": "气焊防逆接头",
+          "translatedName": "Gas welding anti-reverse joint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032366
+        }
+      ]
+    }
+  }
+}

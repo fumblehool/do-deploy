@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033965,
+      "chineseName": "其他固定电话",
+      "translatedName": "Other Fixed Telephone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50902"
+    }
+  }
+}

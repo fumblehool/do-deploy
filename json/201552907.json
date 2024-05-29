@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201552907,
+      "chineseName": "童家居服",
+      "translatedName": "Children's home clothes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201548809,
+          "chineseName": "童家居服连体衣",
+          "translatedName": "Children's Home Clothes Jumpsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201552907
+        },
+        {
+          "categoryId": 201545014,
+          "chineseName": "童家居服套装",
+          "translatedName": "Children's Home Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201552907
+        },
+        {
+          "categoryId": 201559108,
+          "chineseName": "童家居裙/睡裙",
+          "translatedName": "Children's Home Dress/Nightgown",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201552907
+        },
+        {
+          "categoryId": 201562110,
+          "chineseName": "童家居服上装",
+          "translatedName": "Children's Home Suit Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201552907
+        },
+        {
+          "categoryId": 201551615,
+          "chineseName": "童家居裤/睡裤",
+          "translatedName": "Children's Home Pants/Pajama Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201552907
+        }
+      ]
+    }
+  }
+}

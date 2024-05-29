@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034139,
+      "chineseName": "其他有线光缆设备",
+      "translatedName": "Other cable equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "503"
+    }
+  }
+}

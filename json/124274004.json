@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124274004,
+      "chineseName": "厨用点火器、点烟枪",
+      "translatedName": "Kitchen igniter, smoking gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124272009"
+    }
+  }
+}

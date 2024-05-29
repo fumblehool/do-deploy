@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036696,
+      "chineseName": "氟碳树脂",
+      "translatedName": "fluorocarbon resin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036686"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035574,
+      "chineseName": "其他手动扳手",
+      "translatedName": "Other manual wrenches",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926004"
+    }
+  }
+}

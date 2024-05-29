@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121774005,
+      "chineseName": "兔子主粮",
+      "translatedName": "rabbit staple food",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121814002"
+    }
+  }
+}

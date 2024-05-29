@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201338613,
+      "chineseName": "裤架",
+      "translatedName": "trouser rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374002"
+    }
+  }
+}

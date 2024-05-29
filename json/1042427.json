@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042427,
+      "chineseName": "传动机构",
+      "translatedName": "transmission mechanism",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042428,
+          "chineseName": "凸轮分割器",
+          "translatedName": "cam divider",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042427
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127484008,
+      "chineseName": "手套/袖套",
+      "translatedName": "Gloves/Sleeve",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034419,
+          "chineseName": "成人手套",
+          "translatedName": "Adult Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 201183901,
+          "chineseName": "袖套",
+          "translatedName": "Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 127484009,
+          "chineseName": "手套配件",
+          "translatedName": "Glove Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 201157203,
+          "chineseName": "防抓手套",
+          "translatedName": "anti-scratch gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 201331602,
+          "chineseName": "防晒袖套",
+          "translatedName": "Sunscreen Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 201158704,
+          "chineseName": "婚庆手套",
+          "translatedName": "Wedding Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        },
+        {
+          "categoryId": 202029201,
+          "chineseName": "防晒手套",
+          "translatedName": "sunscreen gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127484008
+        }
+      ]
+    }
+  }
+}

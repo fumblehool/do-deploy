@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127742007,
+      "chineseName": "超级电容器",
+      "translatedName": "super capacitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127676048"
+    }
+  }
+}

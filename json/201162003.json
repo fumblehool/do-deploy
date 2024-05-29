@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201162003,
+      "chineseName": "职业女裤套装",
+      "translatedName": "Professional women's pants suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548801"
+    }
+  }
+}

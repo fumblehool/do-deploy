@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1454,
+      "chineseName": "过滤材料",
+      "translatedName": "filter material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034231,
+          "chineseName": "其他过滤材料",
+          "translatedName": "Other filter materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034232,
+          "chineseName": "滤板",
+          "translatedName": "Filter plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034233,
+          "chineseName": "滤袋",
+          "translatedName": "Filter bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034234,
+          "chineseName": "滤筒",
+          "translatedName": "Filter Cartridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034235,
+          "chineseName": "滤网",
+          "translatedName": "Strainer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034236,
+          "chineseName": "滤片",
+          "translatedName": "Filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034237,
+          "chineseName": "滤膜",
+          "translatedName": "filter membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034238,
+          "chineseName": "滤芯",
+          "translatedName": "Filter element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1034239,
+          "chineseName": "滤料",
+          "translatedName": "Filter material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        },
+        {
+          "categoryId": 1036837,
+          "chineseName": "滤布",
+          "translatedName": "filter cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1454
+        }
+      ]
+    }
+  }
+}

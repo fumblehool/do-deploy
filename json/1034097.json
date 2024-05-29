@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034097,
+      "chineseName": "音像制品代理加盟",
+      "translatedName": "Audio and video products agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82"
+    }
+  }
+}

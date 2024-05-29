@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80,
+      "chineseName": "眼镜及配件",
+      "translatedName": "Glasses and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033155,
+          "chineseName": "框架眼镜",
+          "translatedName": "frame glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1033148,
+          "chineseName": "其他眼镜",
+          "translatedName": "Other Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1033149,
+          "chineseName": "镜架配件",
+          "translatedName": "Frame Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1033150,
+          "chineseName": "眼镜布",
+          "translatedName": "glasses cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1033151,
+          "chineseName": "眼镜盒、眼镜袋、眼镜包",
+          "translatedName": "Glasses case, glasses bag, glasses bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1033153,
+          "chineseName": "眼镜片",
+          "translatedName": "spectacle lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 1031922,
+          "chineseName": "太阳镜",
+          "translatedName": "Sunglasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 124746031,
+          "chineseName": "防辐射眼镜",
+          "translatedName": "anti-radiation glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 124746032,
+          "chineseName": "其他防护眼镜",
+          "translatedName": "Other protective glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 124154001,
+          "chineseName": "儿童太阳镜",
+          "translatedName": "Children's Sunglasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 124742036,
+          "chineseName": "护目镜",
+          "translatedName": "Goggles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 124152001,
+          "chineseName": "3D眼镜",
+          "translatedName": "3D Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201194102,
+          "chineseName": "眼镜链",
+          "translatedName": "glasses chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201028005,
+          "chineseName": "派对眼镜",
+          "translatedName": "Party Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201028006,
+          "chineseName": "配镜设备及配件",
+          "translatedName": "Mirror equipment and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201034004,
+          "chineseName": "光学眼镜",
+          "translatedName": "optical glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201163103,
+          "chineseName": "眼镜清洗剂",
+          "translatedName": "Glasses Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 127894010,
+          "chineseName": "儿童框架镜",
+          "translatedName": "Children's frame mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 127896010,
+          "chineseName": "老花镜",
+          "translatedName": "reading glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201248806,
+          "chineseName": "视力表",
+          "translatedName": "visual acupoint chart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 127924009,
+          "chineseName": "眼镜及配件定制",
+          "translatedName": "Custom glasses and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        },
+        {
+          "categoryId": 201276073,
+          "chineseName": "防滑耳套、鼻托",
+          "translatedName": "Anti-slip earmuffs, nose pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121714001,
+      "chineseName": "男士润唇膏",
+      "translatedName": "Lip Balm for Men",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121702001"
+    }
+  }
+}

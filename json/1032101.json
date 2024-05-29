@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032101,
+      "chineseName": "雨刮器",
+      "translatedName": "Wiper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10104"
+    }
+  }
+}

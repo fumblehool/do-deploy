@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122650001,
+      "chineseName": "密封盒、储物罐",
+      "translatedName": "Sealed box, storage tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10295"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034727,
+      "chineseName": "滚筒刮板干燥机",
+      "translatedName": "Drum scraper dryer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10416"
+    }
+  }
+}

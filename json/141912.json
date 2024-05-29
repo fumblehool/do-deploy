@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141912,
+      "chineseName": "液压控制元件",
+      "translatedName": "Hydraulic control element",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041627"
+    }
+  }
+}

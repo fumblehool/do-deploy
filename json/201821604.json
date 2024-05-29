@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201821604,
+      "chineseName": "碳纤维棒",
+      "translatedName": "carbon fiber rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201836001"
+    }
+  }
+}

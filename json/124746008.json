@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746008,
+      "chineseName": "蜂花粉",
+      "translatedName": "bee pollen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734006"
+    }
+  }
+}

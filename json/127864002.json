@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127864002,
+      "chineseName": "ID钥匙开关",
+      "translatedName": "ID key switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201605802"
+    }
+  }
+}

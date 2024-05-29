@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303011,
+      "chineseName": "动漫/影视/明星周边",
+      "translatedName": "Animation/film/star surrounding",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201301725,
+          "chineseName": "电影道具/周边",
+          "translatedName": "Movie Props/Peripherals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303011
+        },
+        {
+          "categoryId": 201304525,
+          "chineseName": "动漫/明星挂件",
+          "translatedName": "Anime/Star Pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303011
+        },
+        {
+          "categoryId": 201304819,
+          "chineseName": "cosplay道具",
+          "translatedName": "cosplay props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303011
+        },
+        {
+          "categoryId": 201309116,
+          "chineseName": "动漫/明星立牌",
+          "translatedName": "Anime/Star Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303011
+        },
+        {
+          "categoryId": 201303322,
+          "chineseName": "动漫/明星摆件",
+          "translatedName": "Anime/Star ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303011
+        }
+      ]
+    }
+  }
+}

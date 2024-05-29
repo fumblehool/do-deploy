@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270012,
+      "chineseName": "家用烟灰缸",
+      "translatedName": "Household ashtray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124272009"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201229102,
+      "chineseName": "矫正器",
+      "translatedName": "orthotics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125730003"
+    }
+  }
+}

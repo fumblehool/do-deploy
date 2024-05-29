@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125068006,
+      "chineseName": "导线管及接头",
+      "translatedName": "Conduit and joints",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064006"
+    }
+  }
+}

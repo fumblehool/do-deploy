@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032952,
+      "chineseName": "艺术纸",
+      "translatedName": "art paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10358"
+    }
+  }
+}

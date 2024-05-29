@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122478003,
+      "chineseName": "背心、裹胸、抹胸、冰丝袖套",
+      "translatedName": "Vest, breast wrap, tube top, ice silk sleeve",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037930,
+          "chineseName": "男士背心",
+          "translatedName": "Men's Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122478003
+        },
+        {
+          "categoryId": 122444002,
+          "chineseName": "裹胸、抹胸",
+          "translatedName": "Chest Wrapping, Strapless",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122478003
+        },
+        {
+          "categoryId": 122474002,
+          "chineseName": "女士背心",
+          "translatedName": "Ladies vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122478003
+        },
+        {
+          "categoryId": 122498001,
+          "chineseName": "内穿t恤",
+          "translatedName": "Inside T-Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122478003
+        },
+        {
+          "categoryId": 125374002,
+          "chineseName": "冰丝袖套",
+          "translatedName": "Ice Silk Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122478003
+        }
+      ]
+    }
+  }
+}

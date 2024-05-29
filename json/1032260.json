@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032260,
+      "chineseName": "其他绝缘材料",
+      "translatedName": "Other insulating materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1324"
+    }
+  }
+}

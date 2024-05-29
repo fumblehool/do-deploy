@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032211,
+      "chineseName": "胎压计",
+      "translatedName": "Tire pressure gauge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3305"
+    }
+  }
+}

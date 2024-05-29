@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290301,
+      "chineseName": "农林牧渔项目合作",
+      "translatedName": "cooperation of agriculture, forestry, animal husbandry and fishery projects",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1"
+    }
+  }
+}

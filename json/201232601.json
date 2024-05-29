@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201232601,
+      "chineseName": "工艺摆件",
+      "translatedName": "Process ornaments",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201228810,
+          "chineseName": "风水球",
+          "translatedName": "Feng Shui Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201382421,
+          "chineseName": "户外/庭院摆件",
+          "translatedName": "Outdoor/courtyard ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201220613,
+          "chineseName": "流水摆件",
+          "translatedName": "Running water ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201305816,
+          "chineseName": "奇石摆件",
+          "translatedName": "Stone Ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201304114,
+          "chineseName": "木雕/根雕",
+          "translatedName": "Wood Carving/Root Carving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201221508,
+          "chineseName": "其他装饰摆件",
+          "translatedName": "Other decorative ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        },
+        {
+          "categoryId": 201308615,
+          "chineseName": "镇宅摆件",
+          "translatedName": "Town House Ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201232601
+        }
+      ]
+    }
+  }
+}

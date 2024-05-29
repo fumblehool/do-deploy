@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962002,
+      "chineseName": "遥控车",
+      "translatedName": "remote control car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962001"
+    }
+  }
+}

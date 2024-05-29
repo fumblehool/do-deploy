@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163403,
+      "chineseName": "乳胶管",
+      "translatedName": "latex tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032600"
+    }
+  }
+}

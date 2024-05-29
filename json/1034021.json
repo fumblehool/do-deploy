@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034021,
+      "chineseName": "染整加工",
+      "translatedName": "dyeing and finishing processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034016"
+    }
+  }
+}

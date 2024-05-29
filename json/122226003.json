@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122226003,
+      "chineseName": "足球用品",
+      "translatedName": "Football Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044835,
+          "chineseName": "足球",
+          "translatedName": "Football",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 1048026,
+          "chineseName": "足球服",
+          "translatedName": "Football clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122230007,
+          "chineseName": "足球护腿板",
+          "translatedName": "Football leg guard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122230008,
+          "chineseName": "足球袋",
+          "translatedName": "Football bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122232008,
+          "chineseName": "足球鞋钉",
+          "translatedName": "Football Spikes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122228007,
+          "chineseName": "足球战术板",
+          "translatedName": "Football Tactical Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122220006,
+          "chineseName": "足球球迷用品",
+          "translatedName": "Football fan supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122240005,
+          "chineseName": "足球训练辅助用具",
+          "translatedName": "Football training aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122218008,
+          "chineseName": "足球训练背心(分组对抗)",
+          "translatedName": "Football Training Vest (Group Confrontation)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122262002,
+          "chineseName": "足球守门员手套",
+          "translatedName": "Soccer Goalkeeper Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 122234005,
+          "chineseName": "足球门、足球网",
+          "translatedName": "Football gate, football net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        },
+        {
+          "categoryId": 201585403,
+          "chineseName": "足球袜",
+          "translatedName": "football socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122226003
+        }
+      ]
+    }
+  }
+}

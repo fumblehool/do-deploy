@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201383402,
+      "chineseName": "安全平网",
+      "translatedName": "safety flat net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201382304"
+    }
+  }
+}

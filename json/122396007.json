@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122396007,
+      "chineseName": "双面贴物器、魔力吸盘",
+      "translatedName": "Double-sided sticker, magic sucker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122390004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033959,
+      "chineseName": "光纤跳线",
+      "translatedName": "Optical fiber jumper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10343"
+    }
+  }
+}

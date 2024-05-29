@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 734,
+      "chineseName": "软件",
+      "translatedName": "Software",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033237,
+          "chineseName": "软件代理加盟",
+          "translatedName": "Software Agent Joins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 10263,
+          "chineseName": "工具软件",
+          "translatedName": "Tools Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 10267,
+          "chineseName": "管理软件",
+          "translatedName": "Management Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 1032225,
+          "chineseName": "教育教学软件",
+          "translatedName": "educational teaching software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 1032226,
+          "chineseName": "游戏娱乐软件",
+          "translatedName": "Game entertainment software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 1032227,
+          "chineseName": "行业专用软件",
+          "translatedName": "Industry-specific software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 1037197,
+          "chineseName": "其他软件",
+          "translatedName": "Other software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123736009,
+          "chineseName": "办公软件",
+          "translatedName": "Office Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123736010,
+          "chineseName": "多媒体软件",
+          "translatedName": "multimedia software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123736011,
+          "chineseName": "图形图像软件",
+          "translatedName": "graphic image software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123736012,
+          "chineseName": "手机软件",
+          "translatedName": "Mobile phone software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123758007,
+          "chineseName": "杀毒软件",
+          "translatedName": "antivirus software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123760006,
+          "chineseName": "系统软件",
+          "translatedName": "System Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123760007,
+          "chineseName": "编程开发软件",
+          "translatedName": "Programming development software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123760008,
+          "chineseName": "网络软件",
+          "translatedName": "Network Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123754007,
+          "chineseName": "安全软件",
+          "translatedName": "Security Software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123756004,
+          "chineseName": "应用软件",
+          "translatedName": "Application software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        },
+        {
+          "categoryId": 123752007,
+          "chineseName": "炒股软件",
+          "translatedName": "stock trading software",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 734
+        }
+      ]
+    }
+  }
+}

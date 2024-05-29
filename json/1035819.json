@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035819,
+      "chineseName": "镍及镍合金材",
+      "translatedName": "Nickel and nickel alloy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10507"
+    }
+  }
+}

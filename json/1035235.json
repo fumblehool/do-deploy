@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035235,
+      "chineseName": "人机界面",
+      "translatedName": "man-machine interface",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "504"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034245,
+      "chineseName": "其他原水处理设备",
+      "translatedName": "Other raw water treatment equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034244"
+    }
+  }
+}

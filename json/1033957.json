@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033957,
+      "chineseName": "光缆接头盒",
+      "translatedName": "Optical cable splice box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10343"
+    }
+  }
+}

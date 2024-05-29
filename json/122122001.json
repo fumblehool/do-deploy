@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122122001,
+      "chineseName": "折叠自行车",
+      "translatedName": "Folding Bicycle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564618"
+    }
+  }
+}

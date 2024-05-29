@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124956002,
+      "chineseName": "安全门卡",
+      "translatedName": "Security Door Card",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10440"
+    }
+  }
+}

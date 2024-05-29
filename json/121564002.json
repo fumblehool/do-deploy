@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121564002,
+      "chineseName": "其他陶瓷包装容器",
+      "translatedName": "Other Ceramic Packaging Containers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121562002"
+    }
+  }
+}

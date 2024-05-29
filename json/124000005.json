@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124000005,
+      "chineseName": "连体雨衣、雨披",
+      "translatedName": "conjoined raincoat, poncho",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016003"
+    }
+  }
+}

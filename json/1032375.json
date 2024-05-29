@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032375,
+      "chineseName": "电离辐射计量标准器具",
+      "translatedName": "Standard instruments for measuring ionizing radiation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032371"
+    }
+  }
+}

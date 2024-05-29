@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201350241,
+      "chineseName": "壁炉架/壁炉柜/暖气罩",
+      "translatedName": "mantelpiece/closet/heating hood",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043661"
+    }
+  }
+}

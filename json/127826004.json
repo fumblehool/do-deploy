@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127826004,
+      "chineseName": "莫桑钻、仿真钻其他饰品",
+      "translatedName": "Mosan diamond, simulation diamond other jewelry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

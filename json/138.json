@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 138,
+      "chineseName": "农业机械",
+      "translatedName": "agricultural machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10098,
+          "chineseName": "食用油加工设备",
+          "translatedName": "Edible oil processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 10122,
+          "chineseName": "农机配件",
+          "translatedName": "agricultural machinery accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032507,
+          "chineseName": "其他农业机械",
+          "translatedName": "Other agricultural machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032508,
+          "chineseName": "农业实验设备",
+          "translatedName": "agricultural experimental equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032509,
+          "chineseName": "施肥机械",
+          "translatedName": "fertilization machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032510,
+          "chineseName": "拖拉机",
+          "translatedName": "Tractor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032511,
+          "chineseName": "场上作业机械",
+          "translatedName": "Field operation machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032512,
+          "chineseName": "收获机械",
+          "translatedName": "Harvesting machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032513,
+          "chineseName": "排灌机械",
+          "translatedName": "irrigation and drainage machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032514,
+          "chineseName": "植保机械",
+          "translatedName": "plant protection machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032515,
+          "chineseName": "种植机械",
+          "translatedName": "Planting machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1032516,
+          "chineseName": "土壤耕整机械",
+          "translatedName": "Soil tillage machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 10057,
+          "chineseName": "粮食加工设备",
+          "translatedName": "Grain processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 10058,
+          "chineseName": "饲料加工设备",
+          "translatedName": "Feed processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 10059,
+          "chineseName": "屠宰及肉类初加工设备",
+          "translatedName": "Slaughter and meat primary processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 1035307,
+          "chineseName": "灌溉工具",
+          "translatedName": "Irrigation tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 131,
+          "chineseName": "畜牧、养殖业机械",
+          "translatedName": "Animal husbandry and breeding machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 129,
+          "chineseName": "林业机械",
+          "translatedName": "Forestry Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 130,
+          "chineseName": "渔业机械",
+          "translatedName": "fishery machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        },
+        {
+          "categoryId": 137,
+          "chineseName": "肥料加工设备",
+          "translatedName": "Fertilizer processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 138
+        }
+      ]
+    }
+  }
+}

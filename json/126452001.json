@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126452001,
+      "chineseName": "牛奶乳品包装",
+      "translatedName": "Milk Dairy Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506001"
+    }
+  }
+}

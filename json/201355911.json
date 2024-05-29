@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201355911,
+      "chineseName": "整车",
+      "translatedName": "Complete vehicle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201359910,
+          "chineseName": "新能源汽车",
+          "translatedName": "new energy vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201355911
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046985,
+      "chineseName": "气动吹尘枪",
+      "translatedName": "Pneumatic dust blowing gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10355"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272002,
+      "chineseName": "电子表",
+      "translatedName": "Electronic watch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124268003"
+    }
+  }
+}

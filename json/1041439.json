@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041439,
+      "chineseName": "其他防伪检测设备",
+      "translatedName": "Other anti-counterfeiting detection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041385"
+    }
+  }
+}

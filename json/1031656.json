@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031656,
+      "chineseName": "金属加工助剂",
+      "translatedName": "Metal processing aids",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036725,
+          "chineseName": "拉拨液",
+          "translatedName": "Pull and dial fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036726,
+          "chineseName": "热处理介质",
+          "translatedName": "Heat treatment medium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036728,
+          "chineseName": "防锈润滑剂",
+          "translatedName": "antirust lubricant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036717,
+          "chineseName": "其他加工助剂",
+          "translatedName": "Other processing aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036718,
+          "chineseName": "金属工艺液",
+          "translatedName": "Metal Process Liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036719,
+          "chineseName": "热处理油",
+          "translatedName": "heat treatment oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036720,
+          "chineseName": "轧制油(轧制液)",
+          "translatedName": "Rolling oil (rolling fluid)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036721,
+          "chineseName": "切削油、切削液",
+          "translatedName": "Cutting oil, cutting fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036722,
+          "chineseName": "电火花机油",
+          "translatedName": "Electric spark oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036723,
+          "chineseName": "冲压液",
+          "translatedName": "Ram fluid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036724,
+          "chineseName": "压铸液",
+          "translatedName": "die casting liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036777,
+          "chineseName": "电镀助剂",
+          "translatedName": "electroplating additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1042691,
+          "chineseName": "成型油（成形油）",
+          "translatedName": "Forming oil (forming oil)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 1036042,
+          "chineseName": "助焊剂",
+          "translatedName": "flux",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        },
+        {
+          "categoryId": 201810701,
+          "chineseName": "除锈剂",
+          "translatedName": "Rust remover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031656
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123282001,
+      "chineseName": "离合器总泵",
+      "translatedName": "Clutch master cylinder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10106"
+    }
+  }
+}

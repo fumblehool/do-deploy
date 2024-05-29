@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031718,
+      "chineseName": "皮革加工设备",
+      "translatedName": "Leather Processing Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031723,
+          "chineseName": "剖层机",
+          "translatedName": "dissection machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031724,
+          "chineseName": "片皮机",
+          "translatedName": "flake machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031725,
+          "chineseName": "压花机",
+          "translatedName": "embossing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031719,
+          "chineseName": "裁断机",
+          "translatedName": "Cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031720,
+          "chineseName": "刻楦机",
+          "translatedName": "last carving machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031721,
+          "chineseName": "挤水机",
+          "translatedName": "Squeezing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1031722,
+          "chineseName": "量革机",
+          "translatedName": "Measuring leather machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 10147,
+          "chineseName": "其他皮革加工设备",
+          "translatedName": "Other Leather Processing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1045765,
+          "chineseName": "皮革加工设备配件",
+          "translatedName": "Leather processing equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        },
+        {
+          "categoryId": 1036054,
+          "chineseName": "冲孔机",
+          "translatedName": "Punching machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031718
+        }
+      ]
+    }
+  }
+}

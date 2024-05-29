@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 926,
+      "chineseName": "金属丝、绳",
+      "translatedName": "Wire, rope",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033436,
+          "chineseName": "其他金属丝、绳",
+          "translatedName": "Other wires, ropes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 926
+        },
+        {
+          "categoryId": 1033437,
+          "chineseName": "金属丝绳",
+          "translatedName": "wire rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 926
+        },
+        {
+          "categoryId": 1033438,
+          "chineseName": "金属丝",
+          "translatedName": "Wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 926
+        }
+      ]
+    }
+  }
+}

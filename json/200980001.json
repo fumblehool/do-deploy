@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200980001,
+      "chineseName": "中心岛/薯条工作台/水吧台",
+      "translatedName": "Center Island/Fries Workbench/Water Bar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

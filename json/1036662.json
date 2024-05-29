@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036662,
+      "chineseName": "无尘纸、无尘布",
+      "translatedName": "Dust-free paper, dust-free cloth",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3019"
+    }
+  }
+}

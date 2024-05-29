@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035385,
+      "chineseName": "斗齿",
+      "translatedName": "bucket tooth",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10353"
+    }
+  }
+}

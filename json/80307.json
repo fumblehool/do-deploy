@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80307,
+      "chineseName": "醇类",
+      "translatedName": "Alcohols",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034666,
+          "chineseName": "其他醇类",
+          "translatedName": "Other alcohols",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80307
+        },
+        {
+          "categoryId": 1034667,
+          "chineseName": "硫醇",
+          "translatedName": "Mercaptan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80307
+        },
+        {
+          "categoryId": 1034668,
+          "chineseName": "三元醇",
+          "translatedName": "triol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80307
+        },
+        {
+          "categoryId": 1034669,
+          "chineseName": "二元醇",
+          "translatedName": "diols",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80307
+        },
+        {
+          "categoryId": 1034670,
+          "chineseName": "一元醇",
+          "translatedName": "monohydric alcohol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80307
+        }
+      ]
+    }
+  }
+}

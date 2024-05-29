@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056206,
+      "chineseName": "艾灸器具",
+      "translatedName": "moxibustion utensils",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1608"
+    }
+  }
+}

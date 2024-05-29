@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10138,
+      "chineseName": "其他床上用品",
+      "translatedName": "Other Bedding",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "96"
+    }
+  }
+}

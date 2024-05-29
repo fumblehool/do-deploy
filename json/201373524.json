@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201373524,
+      "chineseName": "男式唐装",
+      "translatedName": "men's tang suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201378222"
+    }
+  }
+}

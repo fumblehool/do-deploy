@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034928,
+      "chineseName": "标胶",
+      "translatedName": "Standard glue",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10396"
+    }
+  }
+}

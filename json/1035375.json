@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035375,
+      "chineseName": "门碰、门吸",
+      "translatedName": "Door knock, door suction",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032415"
+    }
+  }
+}

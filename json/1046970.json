@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046970,
+      "chineseName": "足部护理",
+      "translatedName": "Foot Care",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043058"
+    }
+  }
+}

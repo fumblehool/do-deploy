@@ -1,0 +1,514 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2805,
+      "chineseName": "加工",
+      "translatedName": "Processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031827,
+          "chineseName": "体育运动产品加工",
+          "translatedName": "sports products processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031829,
+          "chineseName": "环保设备加工",
+          "translatedName": "Environmental protection equipment processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031830,
+          "chineseName": "汽摩配件加工",
+          "translatedName": "Auto Parts Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031831,
+          "chineseName": "通讯产品加工",
+          "translatedName": "Processing of communication products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031834,
+          "chineseName": "交通运输产品加工",
+          "translatedName": "Transportation Products Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031835,
+          "chineseName": "能源产品加工",
+          "translatedName": "Energy Product Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034053,
+          "chineseName": "纸加工",
+          "translatedName": "Paper Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034054,
+          "chineseName": "竹木加工",
+          "translatedName": "bamboo and wood processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034055,
+          "chineseName": "石材加工",
+          "translatedName": "Stone processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034056,
+          "chineseName": "喷涂加工",
+          "translatedName": "spraying processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034058,
+          "chineseName": "服饰加工",
+          "translatedName": "Apparel processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034059,
+          "chineseName": "饰品加工",
+          "translatedName": "Jewelry processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031823,
+          "chineseName": "建材加工",
+          "translatedName": "building materials processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031824,
+          "chineseName": "玩具设计加工",
+          "translatedName": "Toy design and processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1031826,
+          "chineseName": "办公文教用品加工",
+          "translatedName": "Office stationery processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034033,
+          "chineseName": "橡胶加工",
+          "translatedName": "Rubber processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034038,
+          "chineseName": "陶瓷加工",
+          "translatedName": "ceramic processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034039,
+          "chineseName": "玻璃加工",
+          "translatedName": "Glass Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034049,
+          "chineseName": "电子加工",
+          "translatedName": "electronic processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 10325,
+          "chineseName": "家居用品加工",
+          "translatedName": "Household goods processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034062,
+          "chineseName": "仪器仪表加工",
+          "translatedName": "Instrument processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034063,
+          "chineseName": "音像制品加工",
+          "translatedName": "processing of audio-visual products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034064,
+          "chineseName": "医疗器械加工",
+          "translatedName": "Medical Device Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1033303,
+          "chineseName": "保健用品加工",
+          "translatedName": "Health care products processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1033449,
+          "chineseName": "娱乐休闲产品加工",
+          "translatedName": "Entertainment and leisure products processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034015,
+          "chineseName": "皮革加工",
+          "translatedName": "Leather processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034016,
+          "chineseName": "纺织加工",
+          "translatedName": "Textile Processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1034392,
+          "chineseName": "鞋材、鞋件加工",
+          "translatedName": "Shoe materials and shoe parts processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1032929,
+          "chineseName": "纸品加工",
+          "translatedName": "paper processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1038366,
+          "chineseName": "工艺品加工",
+          "translatedName": "Handicraft processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1041441,
+          "chineseName": "安全防护加工合作",
+          "translatedName": "Safety protection processing cooperation",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1045787,
+          "chineseName": "印刷加工",
+          "translatedName": "Printing processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1036776,
+          "chineseName": "精细化学品加工",
+          "translatedName": "Fine Chemicals Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1036650,
+          "chineseName": "照明加工",
+          "translatedName": "Lighting processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1039449,
+          "chineseName": "木材加工",
+          "translatedName": "Wood Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 1039450,
+          "chineseName": "门窗加工",
+          "translatedName": "Door and window processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124734029,
+          "chineseName": "情侣装/亲子装加工",
+          "translatedName": "Couple clothing/parent clothing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124806004,
+          "chineseName": "家纺家饰加工",
+          "translatedName": "Home textile home decoration processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124382001,
+          "chineseName": "童装加工",
+          "translatedName": "Children's clothing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124380002,
+          "chineseName": "内衣加工",
+          "translatedName": "Underwear processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124448001,
+          "chineseName": "箱包皮具加工",
+          "translatedName": "Processing of luggage and leather goods",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 123616019,
+          "chineseName": "女装加工",
+          "translatedName": "Women's clothing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124746021,
+          "chineseName": "运动户外加工",
+          "translatedName": "Sports outdoor processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124776001,
+          "chineseName": "服饰配件加工",
+          "translatedName": "Clothing accessories processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 124744029,
+          "chineseName": "制服表演服加工",
+          "translatedName": "Uniform performance clothing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 125062021,
+          "chineseName": "性保健品加工",
+          "translatedName": "Processing of sexual health products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280501,
+          "chineseName": "农副产品加工",
+          "translatedName": "processing of agricultural and sideline products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280502,
+          "chineseName": "食品饮料加工",
+          "translatedName": "Food and Beverage Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280503,
+          "chineseName": "服装加工旧",
+          "translatedName": "Garment processing old",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280504,
+          "chineseName": "纺织品加工",
+          "translatedName": "Textile Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280505,
+          "chineseName": "电工电气产品加工",
+          "translatedName": "Electrical and electrical products processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280508,
+          "chineseName": "化工产品加工",
+          "translatedName": "Processing of chemical products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280509,
+          "chineseName": "冶炼加工",
+          "translatedName": "smelting processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 736,
+          "chineseName": "数码电脑加工",
+          "translatedName": "digital computer processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 2805
+        },
+        {
+          "categoryId": 280523,
+          "chineseName": "包装产品加工",
+          "translatedName": "Packaging Product Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2805
+        }
+      ]
+    }
+  }
+}

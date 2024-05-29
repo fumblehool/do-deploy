@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200930003,
+      "chineseName": "矮汤炉/汤粥炉/暖汤池",
+      "translatedName": "Short soup oven/porridge oven/warm soup pool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

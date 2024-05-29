@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032294,
+      "chineseName": "运动场馆灯具",
+      "translatedName": "Sports venues lighting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034964"
+    }
+  }
+}

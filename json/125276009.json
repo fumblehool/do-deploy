@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125276009,
+      "chineseName": "电缆分支器",
+      "translatedName": "Cable splitter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125278011"
+    }
+  }
+}

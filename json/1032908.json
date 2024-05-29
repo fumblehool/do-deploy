@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032908,
+      "chineseName": "其他水产零食",
+      "translatedName": "Other Aquatic Snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742010"
+    }
+  }
+}

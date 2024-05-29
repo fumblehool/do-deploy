@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046165,
+      "chineseName": "橡胶带",
+      "translatedName": "Rubber belt",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046166,
+          "chineseName": "橡胶止水带",
+          "translatedName": "Rubber water stop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046165
+        },
+        {
+          "categoryId": 1046167,
+          "chineseName": "橡胶传送带",
+          "translatedName": "Rubber conveyor belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046165
+        },
+        {
+          "categoryId": 1046168,
+          "chineseName": "橡胶捆绑带",
+          "translatedName": "Rubber Bundling Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046165
+        },
+        {
+          "categoryId": 1046169,
+          "chineseName": "橡胶履带",
+          "translatedName": "rubber track",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046165
+        },
+        {
+          "categoryId": 1046170,
+          "chineseName": "其他橡胶带",
+          "translatedName": "Other Rubber Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046165
+        }
+      ]
+    }
+  }
+}

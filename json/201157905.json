@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157905,
+      "chineseName": "大颗粒积木",
+      "translatedName": "Large particle building blocks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127002083"
+    }
+  }
+}

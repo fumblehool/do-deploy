@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 6,
+      "chineseName": "家用电器",
+      "translatedName": "Household appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031833,
+          "chineseName": "家用电器加工",
+          "translatedName": "Household electrical appliances processing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 1047393,
+          "chineseName": "大家电",
+          "translatedName": "Large appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 1047104,
+          "chineseName": "影音电器",
+          "translatedName": "audio-visual appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 1047981,
+          "chineseName": "两季电器",
+          "translatedName": "Two Seasons Electrical Appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 1047893,
+          "chineseName": "保健电器",
+          "translatedName": "Health care appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 123610009,
+          "chineseName": "个护电器",
+          "translatedName": "A protective appliance",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 125012004,
+          "chineseName": "智能家居系统",
+          "translatedName": "Smart Home System",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 201571222,
+          "chineseName": "母婴电器",
+          "translatedName": "Maternal and child electrical appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 290306,
+          "chineseName": "家电项目合作",
+          "translatedName": "Home appliance project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 201972101,
+          "chineseName": "家用医疗电器（器械）",
+          "translatedName": "Household medical appliances (appliances)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 652,
+          "chineseName": "生活电器",
+          "translatedName": "Living appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        },
+        {
+          "categoryId": 653,
+          "chineseName": "厨房电器",
+          "translatedName": "Kitchen Appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3428,
+      "chineseName": "印刷耗材",
+      "translatedName": "Printing Consumables",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "72"
+    }
+  }
+}

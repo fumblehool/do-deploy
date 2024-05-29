@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375701,
+      "chineseName": "建筑/DIY小屋/拼装玩具",
+      "translatedName": "Construction/DIY Cabin/Assembled Toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181309"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036923,
+      "chineseName": "节温器",
+      "translatedName": "Thermostat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "93"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126178001,
+      "chineseName": "女用器具",
+      "translatedName": "Female apparatus",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130823000",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123864003,
+          "chineseName": "情趣跳蛋",
+          "translatedName": "Fun Jumping Egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 123860006,
+          "chineseName": "缩阴用品",
+          "translatedName": "Shrink supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 126184001,
+          "chineseName": "女用穿戴",
+          "translatedName": "Women's Wear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 126152003,
+          "chineseName": "后庭用品",
+          "translatedName": "Back Court Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 126178004,
+          "chineseName": "丰乳挑逗",
+          "translatedName": "Rich breasts tease",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 126180002,
+          "chineseName": "震动棒",
+          "translatedName": "vibrator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 1610,
+          "chineseName": "其他女用",
+          "translatedName": "Other women",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        },
+        {
+          "categoryId": 126144005,
+          "chineseName": "仿真阳具",
+          "translatedName": "artificial penis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126178001
+        }
+      ]
+    }
+  }
+}

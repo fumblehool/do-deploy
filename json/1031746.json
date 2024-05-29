@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031746,
+      "chineseName": "高尔夫球袋",
+      "translatedName": "Golf bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2005"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616021,
+      "chineseName": "LED面板灯模组",
+      "translatedName": "LED Panel Light Module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616020"
+    }
+  }
+}

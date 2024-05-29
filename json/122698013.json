@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122698013,
+      "chineseName": "按摩枕/颈腰靠垫/坐垫",
+      "translatedName": "Massage pillow/neck waist cushion/cushion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

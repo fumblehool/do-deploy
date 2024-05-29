@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 130822002,
+      "chineseName": "餐饮生鲜",
+      "translatedName": "Catering Fresh",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10086,
+          "chineseName": "肉禽类",
+          "translatedName": "Meat Poultry",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 10082,
+          "chineseName": "调味品",
+          "translatedName": "Condiment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 10020,
+          "chineseName": "五谷杂粮",
+          "translatedName": "Cereals",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 10028,
+          "chineseName": "蔬菜",
+          "translatedName": "Vegetables",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 10037,
+          "chineseName": "水果",
+          "translatedName": "Fruit",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 1042703,
+          "chineseName": "烘焙原辅料",
+          "translatedName": "Baking raw materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 104,
+          "chineseName": "干果原料",
+          "translatedName": "Dried fruit raw material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 1046204,
+          "chineseName": "农作物种子种苗",
+          "translatedName": "crop seed seedling",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 1043006,
+          "chineseName": "鲜蛋类",
+          "translatedName": "fresh eggs",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 124022008,
+          "chineseName": "罐头食品",
+          "translatedName": "canned food",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 125062008,
+          "chineseName": "蛋制品",
+          "translatedName": "egg products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 106,
+          "chineseName": "菌菇干货",
+          "translatedName": "dried mushroom",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 124000009,
+          "chineseName": "方便速食",
+          "translatedName": "convenient fast food",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 125068002,
+          "chineseName": "水产海鲜",
+          "translatedName": "Aquatic Seafood",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 125390001,
+          "chineseName": "果酱",
+          "translatedName": "Jam",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 118,
+          "chineseName": "植物提取物",
+          "translatedName": "Plant Extracts",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 119,
+          "chineseName": "动物提取物",
+          "translatedName": "animal extract",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 202010504,
+          "chineseName": "烘焙半成品/小吃半成品",
+          "translatedName": "Baking semi-finished products/snacks semi-finished products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 216,
+          "chineseName": "速冻食品",
+          "translatedName": "quick-frozen food",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 228,
+          "chineseName": "米面淀粉类",
+          "translatedName": "Rice flour starch",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 201900804,
+          "chineseName": "预制菜/半成品菜",
+          "translatedName": "Prefabricated/semi-finished dishes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 206,
+          "chineseName": "食用油",
+          "translatedName": "edible oil",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822002
+        },
+        {
+          "categoryId": 207,
+          "chineseName": "豆制品",
+          "translatedName": "Bean products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 130822002
+        }
+      ]
+    }
+  }
+}

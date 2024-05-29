@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744036,
+      "chineseName": "汽车维修设备",
+      "translatedName": "Vehicle maintenance equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124734041,
+          "chineseName": "车用千斤顶",
+          "translatedName": "Car jack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124744036
+        }
+      ]
+    }
+  }
+}

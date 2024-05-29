@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1457,
+      "chineseName": "涂装设备",
+      "translatedName": "Painting equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035787,
+          "chineseName": "喷砂设备",
+          "translatedName": "Sand blasting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035788,
+          "chineseName": "电镀设备",
+          "translatedName": "Electroplating equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035789,
+          "chineseName": "烤漆设备",
+          "translatedName": "Paint equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035790,
+          "chineseName": "涂装防静电产品",
+          "translatedName": "Coating anti-static products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035791,
+          "chineseName": "静电发生设备",
+          "translatedName": "Electrostatic generating equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035792,
+          "chineseName": "涂装机",
+          "translatedName": "coating machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035793,
+          "chineseName": "喷涂机",
+          "translatedName": "Spraying machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035794,
+          "chineseName": "喷枪",
+          "translatedName": "Spray gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035795,
+          "chineseName": "电泳设备",
+          "translatedName": "Electrophoresis equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035796,
+          "chineseName": "烘干固化设备",
+          "translatedName": "Drying and curing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035785,
+          "chineseName": "其他涂装设备",
+          "translatedName": "Other Coating Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035786,
+          "chineseName": "涂装配件",
+          "translatedName": "Painting accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035797,
+          "chineseName": "涂装生产线",
+          "translatedName": "Coating production line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1035798,
+          "chineseName": "前处理设备",
+          "translatedName": "Pre-treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1036056,
+          "chineseName": "涂装除尘设备",
+          "translatedName": "Dust removal equipment for coating",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        },
+        {
+          "categoryId": 1036057,
+          "chineseName": "涂布机",
+          "translatedName": "coating machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1457
+        }
+      ]
+    }
+  }
+}

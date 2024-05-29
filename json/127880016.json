@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127880016,
+      "chineseName": "颈椎枕",
+      "translatedName": "Cervical Pillow",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123086001"
+    }
+  }
+}

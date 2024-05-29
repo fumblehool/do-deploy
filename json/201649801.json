@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201649801,
+      "chineseName": "圣诞花环",
+      "translatedName": "Christmas wreath",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196001"
+    }
+  }
+}

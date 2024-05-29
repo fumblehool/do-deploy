@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044713,
+      "chineseName": "瑜伽用品",
+      "translatedName": "Yoga Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044716,
+          "chineseName": "瑜伽球",
+          "translatedName": "Yoga Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 1044718,
+          "chineseName": "瑜伽辅助用品",
+          "translatedName": "Yoga aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 1044714,
+          "chineseName": "瑜伽垫",
+          "translatedName": "Yoga Mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 1044715,
+          "chineseName": "瑜伽砖",
+          "translatedName": "Yoga brick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 126128001,
+          "chineseName": "瑜伽铺巾",
+          "translatedName": "Yoga towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 201774202,
+          "chineseName": "普拉提用品",
+          "translatedName": "Pilates Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 201914502,
+          "chineseName": "瑜伽拉力带",
+          "translatedName": "Yoga Rally Belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 201898204,
+          "chineseName": "泡沫轴",
+          "translatedName": "foam shaft",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 201900704,
+          "chineseName": "瑜伽环/瑜伽轮",
+          "translatedName": "Yoga Rings/Yoga Wheels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        },
+        {
+          "categoryId": 201925001,
+          "chineseName": "瑜伽洗鼻器",
+          "translatedName": "Yoga nasal wash",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044713
+        }
+      ]
+    }
+  }
+}

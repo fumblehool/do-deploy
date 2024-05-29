@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161002,
+      "chineseName": "水果刀",
+      "translatedName": "fruit knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764003"
+    }
+  }
+}

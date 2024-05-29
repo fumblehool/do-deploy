@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740021,
+      "chineseName": "再加工茶/配方茶/调味茶",
+      "translatedName": "reprocessed tea/recipe tea/flavored tea",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10041"
+    }
+  }
+}

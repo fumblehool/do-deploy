@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032567,
+      "chineseName": "生活饮用水处理设备",
+      "translatedName": "Drinking water treatment equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126448003"
+    }
+  }
+}

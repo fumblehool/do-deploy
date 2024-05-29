@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036289,
+      "chineseName": "其他金属包装材料",
+      "translatedName": "Other Metal Packaging Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10366"
+    }
+  }
+}

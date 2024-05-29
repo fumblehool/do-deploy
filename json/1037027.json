@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037027,
+      "chineseName": "其它服装展示道具",
+      "translatedName": "Other costume display props",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "345"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031696,
+      "chineseName": "针织面料",
+      "translatedName": "knitted fabric",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031697,
+          "chineseName": "网眼布",
+          "translatedName": "Mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 1031698,
+          "chineseName": "绒布",
+          "translatedName": "flannel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 1046651,
+          "chineseName": "毛圈布",
+          "translatedName": "terry cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 1046652,
+          "chineseName": "毛巾布",
+          "translatedName": "Towel Cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 1046653,
+          "chineseName": "罗纹布",
+          "translatedName": "rib cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 1036950,
+          "chineseName": "汗布",
+          "translatedName": "sweat cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 124680001,
+          "chineseName": "蕾丝面料",
+          "translatedName": "lace fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 125312006,
+          "chineseName": "空气层",
+          "translatedName": "air layer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        },
+        {
+          "categoryId": 413,
+          "chineseName": "其他针织面料",
+          "translatedName": "Other knitted fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031696
+        }
+      ]
+    }
+  }
+}

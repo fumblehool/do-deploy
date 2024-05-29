@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036056,
+      "chineseName": "涂装除尘设备",
+      "translatedName": "Dust removal equipment for coating",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1457"
+    }
+  }
+}

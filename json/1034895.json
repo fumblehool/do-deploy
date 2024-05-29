@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034895,
+      "chineseName": "照明器材代理加盟",
+      "translatedName": "Lighting equipment agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122250002"
+    }
+  }
+}

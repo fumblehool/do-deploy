@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032351,
+      "chineseName": "应急充电器",
+      "translatedName": "Emergency charger",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "629"
+    }
+  }
+}

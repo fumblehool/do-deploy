@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200978001,
+      "chineseName": "商用冷饮机/可乐机/冷热饮机",
+      "translatedName": "Commercial cold drink machine/Coke machine/hot and cold drink machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

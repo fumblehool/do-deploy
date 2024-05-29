@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201372917,
+      "chineseName": "救生衣",
+      "translatedName": "life jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373319"
+    }
+  }
+}

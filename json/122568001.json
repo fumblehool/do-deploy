@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122568001,
+      "chineseName": "煎蛋锅、迷你锅",
+      "translatedName": "Fried egg pan, mini pan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122548001"
+    }
+  }
+}

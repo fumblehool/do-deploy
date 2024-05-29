@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122702003,
+      "chineseName": "脐饰",
+      "translatedName": "Umbilical Ornament",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125740007"
+    }
+  }
+}

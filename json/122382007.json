@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122382007,
+      "chineseName": "其他衣物晾晒、洗护",
+      "translatedName": "Other clothes drying, washing and protecting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374002"
+    }
+  }
+}

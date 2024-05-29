@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2723,
+      "chineseName": "房产中介",
+      "translatedName": "Real estate intermediary",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2803"
+    }
+  }
+}

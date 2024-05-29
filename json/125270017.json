@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125270017,
+      "chineseName": "宠物医药",
+      "translatedName": "Pet Medicine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121782003,
+          "chineseName": "猫猫医疗药用",
+          "translatedName": "Cat Medical Medicinal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 121786005,
+          "chineseName": "消毒杀菌",
+          "translatedName": "Disinfection and sterilization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 121804004,
+          "chineseName": "兔子药品",
+          "translatedName": "Rabbit Drugs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 121836001,
+          "chineseName": "狗狗医疗药用",
+          "translatedName": "Medicinal Medicinal Dogs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 200518002,
+          "chineseName": "皮肤治疗",
+          "translatedName": "Skin Treatment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 200524002,
+          "chineseName": "宠物检测试纸/设备",
+          "translatedName": "Pet detection test strips/equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 200532002,
+          "chineseName": "驱虫药物",
+          "translatedName": "anthelmintic drugs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        },
+        {
+          "categoryId": 200540001,
+          "chineseName": "宠物体温计",
+          "translatedName": "pet thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125270017
+        }
+      ]
+    }
+  }
+}

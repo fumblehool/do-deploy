@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201553108,
+      "chineseName": "幼儿园书包",
+      "translatedName": "Kindergarten Schoolbag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201551616"
+    }
+  }
+}

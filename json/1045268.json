@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045268,
+      "chineseName": "酒店用品",
+      "translatedName": "Hotel Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045272,
+          "chineseName": "酒店服务指南、菜谱",
+          "translatedName": "Hotel service guide, menu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 1045273,
+          "chineseName": "雨伞架、伞袋机",
+          "translatedName": "Umbrella stand, umbrella bag machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 1045274,
+          "chineseName": "酒店服务车",
+          "translatedName": "Hotel service car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 1045277,
+          "chineseName": "酒店指示牌",
+          "translatedName": "Hotel signage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 1045338,
+          "chineseName": "其他酒店用品",
+          "translatedName": "Other Hotel Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 122528002,
+          "chineseName": "一次性洗漱、沐浴用品",
+          "translatedName": "Disposable toiletries and bath products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 122582002,
+          "chineseName": "一次性梳子",
+          "translatedName": "Disposable comb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 122584002,
+          "chineseName": "一次性剃须用具",
+          "translatedName": "Disposable shaving utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 122590001,
+          "chineseName": "一次性牙刷",
+          "translatedName": "Disposable toothbrush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 122590002,
+          "chineseName": "一次性拖鞋",
+          "translatedName": "Disposable slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 125062013,
+          "chineseName": "一次性酒店用品套装",
+          "translatedName": "Disposable hotel supplies set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 201671005,
+          "chineseName": "酒店易耗品抽屉",
+          "translatedName": "Hotel Consumables Drawer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 201671301,
+          "chineseName": "火盆",
+          "translatedName": "brazier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 201308215,
+          "chineseName": "礼宾牌",
+          "translatedName": "Concierge Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        },
+        {
+          "categoryId": 201722502,
+          "chineseName": "一次性泡澡袋",
+          "translatedName": "Disposable bath bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045268
+        }
+      ]
+    }
+  }
+}

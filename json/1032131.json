@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032131,
+      "chineseName": "车用便捷式GPS导航",
+      "translatedName": "Car Convenient GPS Navigation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1212"
+    }
+  }
+}

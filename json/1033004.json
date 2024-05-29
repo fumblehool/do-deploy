@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033004,
+      "chineseName": "其他纸类包装容器",
+      "translatedName": "Other paper packaging containers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10364"
+    }
+  }
+}

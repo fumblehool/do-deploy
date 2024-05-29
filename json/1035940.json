@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035940,
+      "chineseName": "铬酸",
+      "translatedName": "Chromic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80201"
+    }
+  }
+}

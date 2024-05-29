@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122992005,
+      "chineseName": "搪胶/塑胶公仔、玩偶、娃娃",
+      "translatedName": "Vinyl/plastic dolls, dolls, dolls",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122988002"
+    }
+  }
+}

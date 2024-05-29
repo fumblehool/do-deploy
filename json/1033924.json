@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033924,
+      "chineseName": "温湿度变送器",
+      "translatedName": "Temperature and humidity transmitter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036196"
+    }
+  }
+}

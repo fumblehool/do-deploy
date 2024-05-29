@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036051,
+      "chineseName": "缝鞋机",
+      "translatedName": "sewing shoe machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10179"
+    }
+  }
+}

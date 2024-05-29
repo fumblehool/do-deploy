@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202047604,
+      "chineseName": "AR / VR 头显设备配件",
+      "translatedName": "AR / VR Headset Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202055803,
+          "chineseName": "AR / VR头显保护膜",
+          "translatedName": "AR / VR Head Display Protective Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202047604
+        },
+        {
+          "categoryId": 202054202,
+          "chineseName": "AR / VR头显支架",
+          "translatedName": "AR / VR Head Display Bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202047604
+        },
+        {
+          "categoryId": 202054803,
+          "chineseName": "AR / VR头戴",
+          "translatedName": "AR / VR Headwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202047604
+        },
+        {
+          "categoryId": 202051902,
+          "chineseName": "AR / VR头显保护壳",
+          "translatedName": "AR / VR Head Display Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202047604
+        },
+        {
+          "categoryId": 202058801,
+          "chineseName": "AR / VR头显散热器",
+          "translatedName": "AR / VR Head Radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202047604
+        }
+      ]
+    }
+  }
+}

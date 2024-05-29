@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035606,
+      "chineseName": "造纸检测仪器",
+      "translatedName": "Papermaking testing instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10214"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124014009,
+      "chineseName": "分体雨衣、雨披",
+      "translatedName": "Split raincoat, poncho",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016003"
+    }
+  }
+}

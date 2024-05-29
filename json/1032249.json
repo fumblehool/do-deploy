@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032249,
+      "chineseName": "其他主令电器",
+      "translatedName": "Other master electrical appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201605802"
+    }
+  }
+}

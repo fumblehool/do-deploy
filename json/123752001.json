@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123752001,
+      "chineseName": "绝缘漆",
+      "translatedName": "insulating paint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031624"
+    }
+  }
+}

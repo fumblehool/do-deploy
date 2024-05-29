@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201566822,
+      "chineseName": "动漫二次元卫衣",
+      "translatedName": "Animation two-dimensional sweater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201546513"
+    }
+  }
+}

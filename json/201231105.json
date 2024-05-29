@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201231105,
+      "chineseName": "穿刺饰品",
+      "translatedName": "Piercing Jewelry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201228805,
+          "chineseName": "舌饰",
+          "translatedName": "Tongue Headwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201231105
+        },
+        {
+          "categoryId": 201222610,
+          "chineseName": "唇饰",
+          "translatedName": "Lip decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201231105
+        },
+        {
+          "categoryId": 201217611,
+          "chineseName": "鼻饰",
+          "translatedName": "Nose ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201231105
+        },
+        {
+          "categoryId": 201221006,
+          "chineseName": "耳廓、耳扩",
+          "translatedName": "Auricle, auricular enlargement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201231105
+        },
+        {
+          "categoryId": 201221407,
+          "chineseName": "其他穿刺饰品",
+          "translatedName": "Other Piercing Ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201231105
+        }
+      ]
+    }
+  }
+}

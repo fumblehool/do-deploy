@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123932001,
+      "chineseName": "压接钳",
+      "translatedName": "crimping pliers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123928001"
+    }
+  }
+}

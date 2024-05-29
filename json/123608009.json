@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123608009,
+      "chineseName": "LED外延检测设备",
+      "translatedName": "LED epitaxial detection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620013"
+    }
+  }
+}

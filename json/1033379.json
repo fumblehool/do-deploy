@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033379,
+      "chineseName": "石英",
+      "translatedName": "Quartz",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "908"
+    }
+  }
+}

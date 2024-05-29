@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122246002,
+      "chineseName": "军靴、战术靴",
+      "translatedName": "Military boots, tactical boots",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121900002"
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1752,
+      "chineseName": "发饰、头饰",
+      "translatedName": "Hair Accessories, Headwear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037264,
+          "chineseName": "发带",
+          "translatedName": "hair band",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122700004,
+          "chineseName": "发箍",
+          "translatedName": "headband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122698005,
+          "chineseName": "发冠",
+          "translatedName": "hair crown",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122698006,
+          "chineseName": "发绳",
+          "translatedName": "hair rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 123270005,
+          "chineseName": "刘海贴",
+          "translatedName": "Bangs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122704003,
+          "chineseName": "发钗",
+          "translatedName": "hair pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122708003,
+          "chineseName": "头纱",
+          "translatedName": "Veil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122708004,
+          "chineseName": "发簪",
+          "translatedName": "Hairpin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122710002,
+          "chineseName": "发圈",
+          "translatedName": "hair ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122702004,
+          "chineseName": "发卡",
+          "translatedName": "Card issuing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122702005,
+          "chineseName": "发梳头饰",
+          "translatedName": "Hair Comb Headwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122706004,
+          "chineseName": "插梳",
+          "translatedName": "Carb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122722001,
+          "chineseName": "发夹",
+          "translatedName": "Hairpin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 122700005,
+          "chineseName": "皇冠",
+          "translatedName": "The Crown",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 123280004,
+          "chineseName": "盘发器",
+          "translatedName": "hair curler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 123282005,
+          "chineseName": "垫发器",
+          "translatedName": "hair cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 201201401,
+          "chineseName": "其他发饰",
+          "translatedName": "Other Hair Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 201559209,
+          "chineseName": "头花",
+          "translatedName": "flower head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 201556017,
+          "chineseName": "发网",
+          "translatedName": "hair net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        },
+        {
+          "categoryId": 201895205,
+          "chineseName": "发链",
+          "translatedName": "hair chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1752
+        }
+      ]
+    }
+  }
+}

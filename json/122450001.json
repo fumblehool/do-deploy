@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122450001,
+      "chineseName": "女士内裤",
+      "translatedName": "Ladies Panties",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037859,
+          "chineseName": "女士三角裤",
+          "translatedName": "Ladies briefs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126022001,
+          "chineseName": "女士平角裤/平脚裤",
+          "translatedName": "Women's boxers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126026001,
+          "chineseName": "女士安全裤",
+          "translatedName": "Women's safety pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126026002,
+          "chineseName": "其它女士内裤",
+          "translatedName": "Other ladies underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126028001,
+          "chineseName": "女士丁字裤",
+          "translatedName": "Women's thong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126022002,
+          "chineseName": "孕妇内裤",
+          "translatedName": "Pregnant women's underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 126024001,
+          "chineseName": "女士生理裤",
+          "translatedName": "Women's physiological pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        },
+        {
+          "categoryId": 201556315,
+          "chineseName": "女士大码内裤",
+          "translatedName": "Women's Plus Size Panties",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122450001
+        }
+      ]
+    }
+  }
+}

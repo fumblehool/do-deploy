@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201585403,
+      "chineseName": "足球袜",
+      "translatedName": "football socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122226003"
+    }
+  }
+}

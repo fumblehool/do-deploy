@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127496009,
+      "chineseName": "围巾+手套2件套（作废）",
+      "translatedName": "2-piece scarf glove set (obsolete)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127496008"
+    }
+  }
+}

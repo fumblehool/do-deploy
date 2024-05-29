@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032339,
+      "chineseName": "屏蔽材料",
+      "translatedName": "Shielding material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1037160"
+    }
+  }
+}

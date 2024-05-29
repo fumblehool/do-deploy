@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201975803,
+      "chineseName": "整平/压花机",
+      "translatedName": "Leveling/embossing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201958503"
+    }
+  }
+}

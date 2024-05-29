@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124268005,
+      "chineseName": "照明电筒",
+      "translatedName": "lighting flashlight",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124190017,
+          "chineseName": "手电筒、手握式电筒",
+          "translatedName": "Flashlight, hand-held flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124190018,
+          "chineseName": "电棍棒、防身电筒",
+          "translatedName": "Electric stick, self-defense flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124268006,
+          "chineseName": "钓鱼灯、落地式电筒",
+          "translatedName": "Fishing lamp, floor type flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124270006,
+          "chineseName": "其他照明电筒",
+          "translatedName": "Other lighting flashlights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 123616018,
+          "chineseName": "LED移动工作灯",
+          "translatedName": "LED mobile work light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124262008,
+          "chineseName": "头灯、头戴式电筒",
+          "translatedName": "Headlamp, Headlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124280001,
+          "chineseName": "手腕灯、手戴式电筒",
+          "translatedName": "Wrist lamp, hand-worn flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124188004,
+          "chineseName": "LED防爆手电筒",
+          "translatedName": "LED explosion-proof flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124264006,
+          "chineseName": "架灯、支架式电筒",
+          "translatedName": "Frame lamp, bracket flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124272006,
+          "chineseName": "骑行灯、夜骑灯、固定电筒",
+          "translatedName": "Riding lamp, night riding lamp, fixed flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124274002,
+          "chineseName": "提灯、手提式电筒",
+          "translatedName": "Lantern, portable flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 124274003,
+          "chineseName": "照明电筒配件",
+          "translatedName": "Lighting Flashlight Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        },
+        {
+          "categoryId": 126562002,
+          "chineseName": "手电筒",
+          "translatedName": "Flashlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124268005
+        }
+      ]
+    }
+  }
+}

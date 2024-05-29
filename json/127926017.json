@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127926017,
+      "chineseName": "毛巾、面巾",
+      "translatedName": "Towel, face towel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043473,
+          "chineseName": "毛巾",
+          "translatedName": "Towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        },
+        {
+          "categoryId": 122216005,
+          "chineseName": "纱布毛浴巾",
+          "translatedName": "Gauze Wool Bath Towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        },
+        {
+          "categoryId": 122212002,
+          "chineseName": "毛巾礼盒装",
+          "translatedName": "Towel gift box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        },
+        {
+          "categoryId": 121190023,
+          "chineseName": "婴童毛巾、浴巾、毛巾被",
+          "translatedName": "Baby towel, bath towel, towel quilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        },
+        {
+          "categoryId": 127902020,
+          "chineseName": "方巾、中巾",
+          "translatedName": "Square towel, medium towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        },
+        {
+          "categoryId": 127872013,
+          "chineseName": "毛巾套装",
+          "translatedName": "Towel Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127926017
+        }
+      ]
+    }
+  }
+}

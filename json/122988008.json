@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988008,
+      "chineseName": "奶瓶/果蔬清洗",
+      "translatedName": "Bottle/fruit and vegetable cleaning",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122212003"
+    }
+  }
+}

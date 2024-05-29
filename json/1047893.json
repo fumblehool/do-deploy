@@ -1,0 +1,334 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047893,
+      "chineseName": "保健电器",
+      "translatedName": "Health care appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031601,
+          "chineseName": "其他按摩器材",
+          "translatedName": "Other Massage Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 1033348,
+          "chineseName": "眼保健仪",
+          "translatedName": "Eye health instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 1045060,
+          "chineseName": "USB按摩器",
+          "translatedName": "USB massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 1047906,
+          "chineseName": "足浴电器",
+          "translatedName": "Foot bath appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122698011,
+          "chineseName": "电子瘦身带",
+          "translatedName": "Electronic slimming belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122698013,
+          "chineseName": "按摩枕/颈腰靠垫/坐垫",
+          "translatedName": "Massage pillow/neck waist cushion/cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122668005,
+          "chineseName": "按摩椅",
+          "translatedName": "massage chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122704010,
+          "chineseName": "按摩披肩",
+          "translatedName": "Massage shawl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122704011,
+          "chineseName": "头部按摩机",
+          "translatedName": "head massage machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 124934001,
+          "chineseName": "桑拿浴箱",
+          "translatedName": "Sauna box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122708009,
+          "chineseName": "按摩腰带",
+          "translatedName": "Massage Belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122708010,
+          "chineseName": "按摩椅垫",
+          "translatedName": "Massage chair cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 123662001,
+          "chineseName": "电热护膝、护腰、护肩带",
+          "translatedName": "Electric heating knee pads, waist pads, shoulder pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122702012,
+          "chineseName": "按摩足疗机",
+          "translatedName": "massage pedicure machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 124736001,
+          "chineseName": "体脂测量仪",
+          "translatedName": "body fat measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 124896001,
+          "chineseName": "护眼仪",
+          "translatedName": "Eye protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122706010,
+          "chineseName": "MINI按摩器",
+          "translatedName": "MINI Massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 121428004,
+          "chineseName": "保健电器配件",
+          "translatedName": "Health electrical accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122710006,
+          "chineseName": "足底理疗/气血循环机",
+          "translatedName": "Plantar physiotherapy/blood circulation machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 122700012,
+          "chineseName": "按摩棒/锤",
+          "translatedName": "Massage stick/hammer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 124878002,
+          "chineseName": "瘦身机",
+          "translatedName": "Slimming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201354545,
+          "chineseName": "电动美腿仪",
+          "translatedName": "Electric leg beauty instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201360240,
+          "chineseName": "电动刮痧仪",
+          "translatedName": "Electric scraping instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201633768,
+          "chineseName": "护颈仪/颈椎按摩器",
+          "translatedName": "Neck protection instrument/cervical vertebra massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201693002,
+          "chineseName": "电动膝盖按摩仪",
+          "translatedName": "Electric Knee Massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201306603,
+          "chineseName": "筋膜枪",
+          "translatedName": "fascia gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201340503,
+          "chineseName": "智能睡眠仪",
+          "translatedName": "Intelligent sleep instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 1831,
+          "chineseName": "汗蒸箱、桑拿足浴设备",
+          "translatedName": "Sweat box, sauna foot bath equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201303406,
+          "chineseName": "智能艾灸仪",
+          "translatedName": "Intelligent moxibustion instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201610906,
+          "chineseName": "电热暖宫带",
+          "translatedName": "Electric heating warm palace belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201671501,
+          "chineseName": "电动手部按摩仪",
+          "translatedName": "Electric hand massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201891501,
+          "chineseName": "电动按摩贴",
+          "translatedName": "Electric massage stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201884006,
+          "chineseName": "揉腹仪",
+          "translatedName": "Abdominal kneading instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201834701,
+          "chineseName": "电动拔罐器",
+          "translatedName": "Electric Cupping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        },
+        {
+          "categoryId": 201857601,
+          "chineseName": "EMS按摩器",
+          "translatedName": "EMS massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047893
+        }
+      ]
+    }
+  }
+}

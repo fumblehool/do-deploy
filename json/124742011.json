@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742011,
+      "chineseName": "即食豆制品",
+      "translatedName": "Ready-to-eat bean products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124746015,
+          "chineseName": "素肉",
+          "translatedName": "vegetarian meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742011
+        },
+        {
+          "categoryId": 124740020,
+          "chineseName": "豆腐干",
+          "translatedName": "dried bean curd",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742011
+        },
+        {
+          "categoryId": 201329802,
+          "chineseName": "臭豆腐",
+          "translatedName": "Stinky tofu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742011
+        },
+        {
+          "categoryId": 201333401,
+          "chineseName": "面筋制品",
+          "translatedName": "gluten products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742011
+        },
+        {
+          "categoryId": 201330302,
+          "chineseName": "千张",
+          "translatedName": "Thousands",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742011
+        }
+      ]
+    }
+  }
+}

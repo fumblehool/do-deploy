@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032948,
+      "chineseName": "其他文化、印刷用纸",
+      "translatedName": "Other culture, printing paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10358"
+    }
+  }
+}

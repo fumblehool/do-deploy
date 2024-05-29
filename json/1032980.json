@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032980,
+      "chineseName": "传真纸",
+      "translatedName": "fax paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2112"
+    }
+  }
+}

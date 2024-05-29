@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121018026,
+      "chineseName": "锅炉管",
+      "translatedName": "boiler tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022026"
+    }
+  }
+}

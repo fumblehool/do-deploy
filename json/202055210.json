@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055210,
+      "chineseName": "光伏地桩",
+      "translatedName": "Photovoltaic ground pile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202054307"
+    }
+  }
+}

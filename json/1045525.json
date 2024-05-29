@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045525,
+      "chineseName": "点读机/点读笔",
+      "translatedName": "Point reading machine/point reading pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045523"
+    }
+  }
+}

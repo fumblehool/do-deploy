@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060912,
+      "chineseName": "排卵检测试纸",
+      "translatedName": "Ovulation test paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058703"
+    }
+  }
+}

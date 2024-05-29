@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10015,
+      "chineseName": "畜禽种苗",
+      "translatedName": "Seedlings of livestock and poultry",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1"
+    }
+  }
+}

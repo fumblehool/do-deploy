@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 813,
+      "chineseName": "油墨",
+      "translatedName": "Ink",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034875,
+          "chineseName": "其他油墨",
+          "translatedName": "Other Inks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034876,
+          "chineseName": "印布油墨",
+          "translatedName": "printing cloth ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034877,
+          "chineseName": "印纸油墨",
+          "translatedName": "Printing paper ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034878,
+          "chineseName": "印铁油墨",
+          "translatedName": "printing iron ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034879,
+          "chineseName": "塑料油墨",
+          "translatedName": "plastic ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034880,
+          "chineseName": "陶瓷油墨",
+          "translatedName": "ceramic ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1034881,
+          "chineseName": "玻璃油墨",
+          "translatedName": "glass ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1037258,
+          "chineseName": "橡胶油墨",
+          "translatedName": "rubber ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1036863,
+          "chineseName": "防伪油墨",
+          "translatedName": "anti-counterfeiting ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        },
+        {
+          "categoryId": 1036864,
+          "chineseName": "UV油墨",
+          "translatedName": "UV ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 813
+        }
+      ]
+    }
+  }
+}

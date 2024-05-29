@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034825,
+      "chineseName": "库存电子元器件、材料",
+      "translatedName": "Stock electronic components, materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "57"
+    }
+  }
+}

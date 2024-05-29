@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037160,
+      "chineseName": "电子材料、零部件、结构件",
+      "translatedName": "Electronic materials, components and structural parts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031860,
+          "chineseName": "电子精细化工材料",
+          "translatedName": "electronic fine chemical materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 1032339,
+          "chineseName": "屏蔽材料",
+          "translatedName": "Shielding material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 1032340,
+          "chineseName": "电子五金材料",
+          "translatedName": "Electronic hardware materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 1032246,
+          "chineseName": "压电晶体材料",
+          "translatedName": "piezoelectric crystal material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 1032247,
+          "chineseName": "覆铜板材料",
+          "translatedName": "Copper Clad Laminate Material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 1034827,
+          "chineseName": "电子磁性材料(电磁铁)",
+          "translatedName": "Electronic magnetic materials (electromagnets)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 10183,
+          "chineseName": "半导体材料",
+          "translatedName": "semiconductor material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        },
+        {
+          "categoryId": 10408,
+          "chineseName": "电子陶瓷材料",
+          "translatedName": "electronic ceramic materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1037160
+        }
+      ]
+    }
+  }
+}

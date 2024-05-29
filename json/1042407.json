@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042407,
+      "chineseName": "横切机",
+      "translatedName": "cross-cutting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032524"
+    }
+  }
+}

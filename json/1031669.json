@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031669,
+      "chineseName": "粉碎设备",
+      "translatedName": "Crushing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034698,
+          "chineseName": "其他粉碎设备",
+          "translatedName": "Other crushing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1034699,
+          "chineseName": "破碎机",
+          "translatedName": "Crusher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1034700,
+          "chineseName": "砂磨机",
+          "translatedName": "sand mill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1034701,
+          "chineseName": "研磨机",
+          "translatedName": "Grinding Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1034702,
+          "chineseName": "粉碎机",
+          "translatedName": "Crusher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1034703,
+          "chineseName": "球磨机",
+          "translatedName": "Ball Mill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        },
+        {
+          "categoryId": 1044135,
+          "chineseName": "粉碎设备配件",
+          "translatedName": "Crushing equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031669
+        }
+      ]
+    }
+  }
+}

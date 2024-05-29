@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032542,
+      "chineseName": "矿业测量仪器",
+      "translatedName": "Mining measuring instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "921"
+    }
+  }
+}

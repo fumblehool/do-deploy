@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045491,
+      "chineseName": "兰科植物",
+      "translatedName": "orchid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492001"
+    }
+  }
+}

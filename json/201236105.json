@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201236105,
+      "chineseName": "马克笔",
+      "translatedName": "Marker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "81"
+    }
+  }
+}

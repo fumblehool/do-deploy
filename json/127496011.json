@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127496011,
+      "chineseName": "领结（即将作废，请勿发布）",
+      "translatedName": "Bow tie (to be voided, please do not post)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127462009"
+    }
+  }
+}

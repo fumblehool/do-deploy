@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10445,
+      "chineseName": "集成房屋",
+      "translatedName": "Integrated House",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046737"
+    }
+  }
+}

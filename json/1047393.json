@@ -1,0 +1,424 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047393,
+      "chineseName": "大家电",
+      "translatedName": "Large appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032733,
+          "chineseName": "燃气灶具",
+          "translatedName": "Gas cooker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047394,
+          "chineseName": "电视机配件、附件",
+          "translatedName": "TV accessories, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047396,
+          "chineseName": "冰箱配件、附件",
+          "translatedName": "Refrigerator accessories, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047402,
+          "chineseName": "冰箱",
+          "translatedName": "Refrigerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047405,
+          "chineseName": "洗衣机",
+          "translatedName": "Washing Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047411,
+          "chineseName": "洗衣机脱水机配件、附件",
+          "translatedName": "Washing machine dehydrator accessories and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047424,
+          "chineseName": "电视",
+          "translatedName": "Television",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047426,
+          "chineseName": "空调配件、附件",
+          "translatedName": "Air conditioning accessories, accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047429,
+          "chineseName": "空调",
+          "translatedName": "Air conditioning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1035664,
+          "chineseName": "厨卫配件",
+          "translatedName": "Kitchen and bathroom accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1041264,
+          "chineseName": "其他厨卫大件",
+          "translatedName": "Other large kitchen and bathroom items",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 1047090,
+          "chineseName": "其他热水器",
+          "translatedName": "Other water heaters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122698007,
+          "chineseName": "电热水器",
+          "translatedName": "Electric water heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122698008,
+          "chineseName": "燃气热水器",
+          "translatedName": "gas water heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122698009,
+          "chineseName": "小厨宝",
+          "translatedName": "small kitchen treasure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122668003,
+          "chineseName": "太阳能热水器",
+          "translatedName": "solar water heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 124952007,
+          "chineseName": "其他大家电",
+          "translatedName": "Other large appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 121372003,
+          "chineseName": "洗碗机",
+          "translatedName": "Dishwasher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 121378002,
+          "chineseName": "家用冷柜",
+          "translatedName": "Household Freezer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 121378003,
+          "chineseName": "恒温酒柜",
+          "translatedName": "Constant temperature wine cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122706008,
+          "chineseName": "即热式热水器",
+          "translatedName": "tankless water heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122706009,
+          "chineseName": "烟机灶具配件",
+          "translatedName": "Fume hob accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 121430003,
+          "chineseName": "电热水龙头",
+          "translatedName": "Electric faucet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 121432001,
+          "chineseName": "烟灶消套装",
+          "translatedName": "Smoke stove elimination set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 122710003,
+          "chineseName": "空气能热水器",
+          "translatedName": "air energy water heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 124960004,
+          "chineseName": "其他家电配件",
+          "translatedName": "Other home appliance accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201692502,
+          "chineseName": "迷你冰箱",
+          "translatedName": "Mini fridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201331305,
+          "chineseName": "家用烘干机",
+          "translatedName": "Household dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201689104,
+          "chineseName": "嵌入式微烤箱",
+          "translatedName": "Embedded micro oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201873101,
+          "chineseName": "嵌入式微波炉",
+          "translatedName": "Embedded microwave oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201873201,
+          "chineseName": "AR电视",
+          "translatedName": "AR TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201873601,
+          "chineseName": "家用冷箱",
+          "translatedName": "Household cold box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 614,
+          "chineseName": "抽油烟机",
+          "translatedName": "Range hood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 616,
+          "chineseName": "消毒柜",
+          "translatedName": "Disinfection cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201861602,
+          "chineseName": "洗烘套装",
+          "translatedName": "washing and drying suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201862305,
+          "chineseName": "激光电视",
+          "translatedName": "laser TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 640,
+          "chineseName": "排气、换气扇",
+          "translatedName": "Exhaust, Ventilating Fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 641,
+          "chineseName": "浴霸",
+          "translatedName": "Yuba",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201857605,
+          "chineseName": "液晶电视",
+          "translatedName": "LCD TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201865204,
+          "chineseName": "触控电视",
+          "translatedName": "Touch TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201866303,
+          "chineseName": "等离子电视",
+          "translatedName": "plasma television",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201866704,
+          "chineseName": "电视机支架",
+          "translatedName": "TV bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201867502,
+          "chineseName": "壁挂洗衣机",
+          "translatedName": "Wall-mounted washing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201857704,
+          "chineseName": "3D电视",
+          "translatedName": "3D TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        },
+        {
+          "categoryId": 201858303,
+          "chineseName": "充电冰箱",
+          "translatedName": "Rechargeable refrigerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047393
+        }
+      ]
+    }
+  }
+}

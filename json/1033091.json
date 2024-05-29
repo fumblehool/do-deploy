@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033091,
+      "chineseName": "书立",
+      "translatedName": "Book Stand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2111"
+    }
+  }
+}

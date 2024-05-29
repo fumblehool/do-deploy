@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034094,
+      "chineseName": "胶辊",
+      "translatedName": "Rubber roller",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3407"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031646,
+      "chineseName": "塑料机械",
+      "translatedName": "Plastic Machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031647,
+          "chineseName": "塑料挤出机",
+          "translatedName": "Plastic Extruder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031648,
+          "chineseName": "塑料造粒机",
+          "translatedName": "plastic granulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031649,
+          "chineseName": "塑料成型机",
+          "translatedName": "plastic molding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031650,
+          "chineseName": "塑料吹塑机",
+          "translatedName": "plastic blow molding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031651,
+          "chineseName": "塑料压延机",
+          "translatedName": "plastic calender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031652,
+          "chineseName": "吹膜机",
+          "translatedName": "film blowing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031653,
+          "chineseName": "注塑机",
+          "translatedName": "Injection Molding Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1031657,
+          "chineseName": "塑机辅机",
+          "translatedName": "Auxiliary machine of plastic machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1034592,
+          "chineseName": "发泡设备",
+          "translatedName": "Foaming equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1034593,
+          "chineseName": "塑料拉丝机",
+          "translatedName": "plastic wire drawing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1034594,
+          "chineseName": "加料再生破碎机",
+          "translatedName": "Feeding regeneration crusher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036394,
+          "chineseName": "吸塑机",
+          "translatedName": "Blister machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036395,
+          "chineseName": "塑料制袋机",
+          "translatedName": "plastic bag making machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036396,
+          "chineseName": "塑料板材设备",
+          "translatedName": "Plastic sheet equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036397,
+          "chineseName": "塑料管材设备",
+          "translatedName": "Plastic pipe equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036398,
+          "chineseName": "塑机配件",
+          "translatedName": "Plastic machine accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 1036684,
+          "chineseName": "压塑机",
+          "translatedName": "compression molding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        },
+        {
+          "categoryId": 10409,
+          "chineseName": "其他塑料机械",
+          "translatedName": "Other Plastic Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031646
+        }
+      ]
+    }
+  }
+}

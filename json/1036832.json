@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036832,
+      "chineseName": "鞋修饰机",
+      "translatedName": "Shoe Modifier Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10179"
+    }
+  }
+}

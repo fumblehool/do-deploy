@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201791901,
+      "chineseName": "厕纸架",
+      "translatedName": "Toilet paper holder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374009"
+    }
+  }
+}

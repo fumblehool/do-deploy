@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121886002,
+      "chineseName": "户外防水袋、水袋",
+      "translatedName": "Outdoor waterproof bag, water bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121898001"
+    }
+  }
+}

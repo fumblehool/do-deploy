@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10535,
+      "chineseName": "医疗器械制造设备",
+      "translatedName": "Medical Device Manufacturing Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

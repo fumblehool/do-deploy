@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048205,
+      "chineseName": "3D打印机",
+      "translatedName": "3D printer",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": true
+    }
+  }
+}

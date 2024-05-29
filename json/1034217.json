@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034217,
+      "chineseName": "广告旗杆",
+      "translatedName": "advertising flagpole",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2415"
+    }
+  }
+}

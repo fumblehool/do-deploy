@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740020,
+      "chineseName": "豆腐干",
+      "translatedName": "dried bean curd",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742011"
+    }
+  }
+}

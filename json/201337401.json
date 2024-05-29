@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201337401,
+      "chineseName": "烘焙原料",
+      "translatedName": "baking raw materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042703"
+    }
+  }
+}

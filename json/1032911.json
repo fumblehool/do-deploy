@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032911,
+      "chineseName": "其他坚果炒货",
+      "translatedName": "Other Nuts Roasted",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734016"
+    }
+  }
+}

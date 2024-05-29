@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10410,
+      "chineseName": "橡胶机械",
+      "translatedName": "Rubber Machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034946,
+          "chineseName": "其他橡胶机械",
+          "translatedName": "Other Rubber Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034947,
+          "chineseName": "橡胶压延机",
+          "translatedName": "Rubber calender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034948,
+          "chineseName": "制袋机",
+          "translatedName": "Bag making machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034949,
+          "chineseName": "脱硫机",
+          "translatedName": "Desulfurizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034950,
+          "chineseName": "硫化机",
+          "translatedName": "Vulcanizing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034951,
+          "chineseName": "橡胶接头机",
+          "translatedName": "Rubber joint machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034952,
+          "chineseName": "橡胶定型机",
+          "translatedName": "rubber setting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034953,
+          "chineseName": "橡胶成型机",
+          "translatedName": "Rubber forming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034954,
+          "chineseName": "橡胶贴合机",
+          "translatedName": "rubber bonding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034955,
+          "chineseName": "硫化罐",
+          "translatedName": "Vulcanizing tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034956,
+          "chineseName": "橡胶裁断机",
+          "translatedName": "rubber cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034957,
+          "chineseName": "橡胶造粒机",
+          "translatedName": "rubber granulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034958,
+          "chineseName": "混炼机",
+          "translatedName": "Mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034959,
+          "chineseName": "橡胶挤出机",
+          "translatedName": "Rubber extruder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        },
+        {
+          "categoryId": 1034960,
+          "chineseName": "切胶机",
+          "translatedName": "rubber cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10410
+        }
+      ]
+    }
+  }
+}

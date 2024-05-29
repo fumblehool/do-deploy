@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125742001,
+      "chineseName": "妈咪包",
+      "translatedName": "Mummy Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201956604"
+    }
+  }
+}

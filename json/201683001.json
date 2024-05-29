@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201683001,
+      "chineseName": "鼓棒/鼓锤/鼓槌",
+      "translatedName": "Drum sticks/drumsticks/drumsticks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648502"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044639,
+      "chineseName": "场地铺设器材",
+      "translatedName": "Site laying equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033478,
+          "chineseName": "运动跑道、人造草坪",
+          "translatedName": "Sports track, artificial turf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044639
+        }
+      ]
+    }
+  }
+}

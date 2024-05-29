@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033093,
+      "chineseName": "其他绘图文具",
+      "translatedName": "Other Drawing Stationery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2127"
+    }
+  }
+}

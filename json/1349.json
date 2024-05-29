@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1349,
+      "chineseName": "装饰线板",
+      "translatedName": "decorative wire board",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032626,
+          "chineseName": "其他装饰线板",
+          "translatedName": "Other decorative wire board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1349
+        },
+        {
+          "categoryId": 1032627,
+          "chineseName": "护墙板",
+          "translatedName": "Wall panel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1349
+        },
+        {
+          "categoryId": 1032628,
+          "chineseName": "踢脚线、板",
+          "translatedName": "Skirting line, board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1349
+        },
+        {
+          "categoryId": 1032629,
+          "chineseName": "挂镜线",
+          "translatedName": "Hanging mirror line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1349
+        },
+        {
+          "categoryId": 1032630,
+          "chineseName": "檐口线脚",
+          "translatedName": "Cornice line foot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1349
+        }
+      ]
+    }
+  }
+}

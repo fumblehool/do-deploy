@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122374002,
+      "chineseName": "衣物晾晒洗护用具",
+      "translatedName": "Clothes Drying Washer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040248,
+          "chineseName": "洗衣球",
+          "translatedName": "Laundry ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 1043966,
+          "chineseName": "衣夹、裤夹、收纳夹子",
+          "translatedName": "Clothes clip, trouser clip, storage clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 1037308,
+          "chineseName": "搓衣板",
+          "translatedName": "washboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 1037326,
+          "chineseName": "多头晾衣架",
+          "translatedName": "multi-head drying rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122344004,
+          "chineseName": "晾衣杆、衣叉",
+          "translatedName": "Clothes pole, clothes fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122328006,
+          "chineseName": "衣架",
+          "translatedName": "Hanger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122382007,
+          "chineseName": "其他衣物晾晒、洗护",
+          "translatedName": "Other clothes drying, washing and protecting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122382010,
+          "chineseName": "洗衣袋、护洗袋",
+          "translatedName": "Laundry bag, washing bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122350004,
+          "chineseName": "粘毛滚、除毛器",
+          "translatedName": "Sticky hair roll, hair remover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122404003,
+          "chineseName": "晾晒篮、晾晒绳、晾晒网",
+          "translatedName": "Drying basket, drying line, drying net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122406002,
+          "chineseName": "晾衣架、晾晒架",
+          "translatedName": "Drying rack, drying rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 122552001,
+          "chineseName": "升降晾衣架",
+          "translatedName": "lifting drying rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 201344806,
+          "chineseName": "领带架",
+          "translatedName": "tie rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 201338613,
+          "chineseName": "裤架",
+          "translatedName": "trouser rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        },
+        {
+          "categoryId": 1551,
+          "chineseName": "熨烫板",
+          "translatedName": "ironing board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122374002
+        }
+      ]
+    }
+  }
+}

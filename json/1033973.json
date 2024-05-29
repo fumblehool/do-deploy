@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033973,
+      "chineseName": "插卡电话机",
+      "translatedName": "card telephone set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50902"
+    }
+  }
+}

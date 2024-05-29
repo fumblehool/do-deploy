@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126564001,
+      "chineseName": "wifi模块",
+      "translatedName": "wifi module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50916"
+    }
+  }
+}

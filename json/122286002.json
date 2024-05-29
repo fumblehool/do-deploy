@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122286002,
+      "chineseName": "空气清新/净化剂",
+      "translatedName": "Air freshening/purifying agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194007"
+    }
+  }
+}

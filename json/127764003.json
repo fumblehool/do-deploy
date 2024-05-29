@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127764003,
+      "chineseName": "厨用刀剪具",
+      "translatedName": "Kitchen knife scissors",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032721,
+          "chineseName": "不锈钢厨用刀",
+          "translatedName": "Stainless steel kitchen knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 122322007,
+          "chineseName": "刀架",
+          "translatedName": "Tool holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 122620005,
+          "chineseName": "磨刀器/石/棒",
+          "translatedName": "sharpener/stone/bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 125740006,
+          "chineseName": "陶瓷厨用刀",
+          "translatedName": "Ceramic kitchen knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 127758005,
+          "chineseName": "厨用剪刀",
+          "translatedName": "kitchen scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201161002,
+          "chineseName": "水果刀",
+          "translatedName": "fruit knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201157505,
+          "chineseName": "砍骨刀",
+          "translatedName": "Chopper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201156806,
+          "chineseName": "披萨刀",
+          "translatedName": "Pizza cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201160307,
+          "chineseName": "酒店用刀",
+          "translatedName": "Hotel knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201163203,
+          "chineseName": "屠刀",
+          "translatedName": "butcher knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201222102,
+          "chineseName": "其他刀剪具",
+          "translatedName": "Other knives and scissors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201304006,
+          "chineseName": "蔬果刨丝器",
+          "translatedName": "Fruit and vegetable grater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201159508,
+          "chineseName": "奶酪刀",
+          "translatedName": "Cheese knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201163404,
+          "chineseName": "面包刀",
+          "translatedName": "bread knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 125744004,
+          "chineseName": "刀具套装",
+          "translatedName": "tool set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201155704,
+          "chineseName": "刺身刀",
+          "translatedName": "bayonet knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201161708,
+          "chineseName": "西餐刀",
+          "translatedName": "Western food knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201161204,
+          "chineseName": "家用菜刀",
+          "translatedName": "household kitchen knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201161205,
+          "chineseName": "厨师刀",
+          "translatedName": "chef's knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201310206,
+          "chineseName": "冷冻料理刀",
+          "translatedName": "frozen cooking knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 202050102,
+          "chineseName": "磨刀护刀套装",
+          "translatedName": "Knife Grinding and Knife Guard Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201813603,
+          "chineseName": "牛扒刀",
+          "translatedName": "Steak knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201975905,
+          "chineseName": "通肠刀",
+          "translatedName": "intestinal knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 202045703,
+          "chineseName": "刀套/刀鞘",
+          "translatedName": "Knife sleeve/scabbard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        },
+        {
+          "categoryId": 201996402,
+          "chineseName": "铡刀",
+          "translatedName": "guillotine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764003
+        }
+      ]
+    }
+  }
+}

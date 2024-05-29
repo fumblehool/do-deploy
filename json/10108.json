@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10108,
+      "chineseName": "车灯",
+      "translatedName": "Lamps",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035267,
+          "chineseName": "刹车灯",
+          "translatedName": "Brake light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035268,
+          "chineseName": "仪表灯",
+          "translatedName": "Instrument lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035269,
+          "chineseName": "雾灯",
+          "translatedName": "Fog lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035270,
+          "chineseName": "尾灯",
+          "translatedName": "Tail light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035271,
+          "chineseName": "转向灯、角灯",
+          "translatedName": "Turn lamp, corner lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035272,
+          "chineseName": "大灯、前照灯",
+          "translatedName": "Headlights, headlamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1036430,
+          "chineseName": "车顶灯",
+          "translatedName": "Roof Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1041507,
+          "chineseName": "牌照灯",
+          "translatedName": "License plate lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035265,
+          "chineseName": "其他车灯",
+          "translatedName": "Other lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 1035266,
+          "chineseName": "工作灯、检修灯",
+          "translatedName": "Work lamp, inspection lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 123270003,
+          "chineseName": "示宽灯",
+          "translatedName": "Width indicator light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 123286002,
+          "chineseName": "日行灯",
+          "translatedName": "Daytime running lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        },
+        {
+          "categoryId": 125904002,
+          "chineseName": "摩托车大灯、前照灯",
+          "translatedName": "Motorcycle headlights, headlights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10108
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126480003,
+      "chineseName": "男式布鞋",
+      "translatedName": "men's cloth shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506004"
+    }
+  }
+}

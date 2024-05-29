@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734010,
+      "chineseName": "牛初乳粉",
+      "translatedName": "Bovine Colostral Powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740008"
+    }
+  }
+}

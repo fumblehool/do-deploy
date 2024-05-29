@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034596,
+      "chineseName": "热塑性弹性体",
+      "translatedName": "thermoplastic elastomer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034597,
+          "chineseName": "其他热塑性弹性体",
+          "translatedName": "Other thermoplastic elastomers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034598,
+          "chineseName": "SEPS",
+          "translatedName": "SEPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034599,
+          "chineseName": "SEBS",
+          "translatedName": "SEBS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034600,
+          "chineseName": "SIS",
+          "translatedName": "SIS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034601,
+          "chineseName": "SBS",
+          "translatedName": "SBS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034602,
+          "chineseName": "TPV",
+          "translatedName": "TPV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034603,
+          "chineseName": "TPR",
+          "translatedName": "TPR",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034604,
+          "chineseName": "TPEE",
+          "translatedName": "TPEE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034605,
+          "chineseName": "TPE",
+          "translatedName": "TPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1034606,
+          "chineseName": "TPU",
+          "translatedName": "TPU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        },
+        {
+          "categoryId": 1041115,
+          "chineseName": "TPO",
+          "translatedName": "TPO",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034596
+        }
+      ]
+    }
+  }
+}

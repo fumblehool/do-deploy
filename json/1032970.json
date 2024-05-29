@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032970,
+      "chineseName": "纸袋纸、杯纸",
+      "translatedName": "Paper bag paper, cup paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10359"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033963,
+      "chineseName": "光纤收发器",
+      "translatedName": "fiber optic transceiver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50909"
+    }
+  }
+}

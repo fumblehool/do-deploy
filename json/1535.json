@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1535,
+      "chineseName": "量具",
+      "translatedName": "Gauges",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033846,
+          "chineseName": "其他量具",
+          "translatedName": "Other measuring tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1033848,
+          "chineseName": "千分尺",
+          "translatedName": "Micrometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1033849,
+          "chineseName": "游标卡尺",
+          "translatedName": "Vernier caliper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1033850,
+          "chineseName": "量规",
+          "translatedName": "Gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1036010,
+          "chineseName": "数显卡尺",
+          "translatedName": "digital caliper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1036011,
+          "chineseName": "深度尺",
+          "translatedName": "depth gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1036012,
+          "chineseName": "带表卡尺",
+          "translatedName": "Caliper with watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1036121,
+          "chineseName": "花岗岩量具",
+          "translatedName": "Granite Gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1036126,
+          "chineseName": "角度尺",
+          "translatedName": "Angle ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1035640,
+          "chineseName": "千分表",
+          "translatedName": "Dometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 1035641,
+          "chineseName": "百分表",
+          "translatedName": "Dial indicator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 124186019,
+          "chineseName": "塞尺",
+          "translatedName": "Feeler Gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        },
+        {
+          "categoryId": 201919202,
+          "chineseName": "派尺",
+          "translatedName": "Dispatch ruler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1535
+        }
+      ]
+    }
+  }
+}

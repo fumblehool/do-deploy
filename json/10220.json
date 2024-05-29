@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10220,
+      "chineseName": "灯具灯饰",
+      "translatedName": "Lamps and lanterns lighting",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032770,
+          "chineseName": "室内壁灯",
+          "translatedName": "Indoor wall lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1032771,
+          "chineseName": "吊灯",
+          "translatedName": "Pendant lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1032766,
+          "chineseName": "其他室内灯具",
+          "translatedName": "Other Indoor Luminaires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1032768,
+          "chineseName": "吸顶灯",
+          "translatedName": "Ceiling lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1032769,
+          "chineseName": "落地灯",
+          "translatedName": "Floor lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1046768,
+          "chineseName": "LED装饰灯",
+          "translatedName": "LED decorative lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 1037949,
+          "chineseName": "镜前灯",
+          "translatedName": "Mirror headlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 122794008,
+          "chineseName": "风扇灯",
+          "translatedName": "Fan light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 123620001,
+          "chineseName": "LED厨卫灯",
+          "translatedName": "LED GALLEY LIGHTS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 123858002,
+          "chineseName": "卤素灯/石英灯",
+          "translatedName": "Halogen lamp/quartz lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 123858003,
+          "chineseName": "荧光灯",
+          "translatedName": "fluorescent lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        },
+        {
+          "categoryId": 201308616,
+          "chineseName": "成套灯具",
+          "translatedName": "Complete set of lamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10220
+        }
+      ]
+    }
+  }
+}

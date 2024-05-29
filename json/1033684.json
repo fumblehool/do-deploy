@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033684,
+      "chineseName": "同步发电机",
+      "translatedName": "synchronous generator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1008"
+    }
+  }
+}

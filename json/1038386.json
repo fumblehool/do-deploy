@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038386,
+      "chineseName": "装饰板材",
+      "translatedName": "Decorative sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10422"
+    }
+  }
+}

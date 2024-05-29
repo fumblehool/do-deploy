@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201914704,
+      "chineseName": "玻璃瓷砖吸盘",
+      "translatedName": "Glass Tile Suction Cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032472"
+    }
+  }
+}

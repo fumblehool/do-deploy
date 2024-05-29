@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043805,
+      "chineseName": "其他安全防护提醒产品",
+      "translatedName": "Other safety protection reminder products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201571222"
+    }
+  }
+}

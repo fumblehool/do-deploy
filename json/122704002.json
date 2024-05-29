@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122704002,
+      "chineseName": "耳饰",
+      "translatedName": "Earrings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037271,
+          "chineseName": "耳钉",
+          "translatedName": "Stud earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122708006,
+          "chineseName": "耳夹",
+          "translatedName": "ear clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122702006,
+          "chineseName": "耳钩",
+          "translatedName": "Ear hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122706006,
+          "chineseName": "耳扣",
+          "translatedName": "Ear buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122700006,
+          "chineseName": "耳环",
+          "translatedName": "Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122700007,
+          "chineseName": "耳坠",
+          "translatedName": "Drop earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 122700008,
+          "chineseName": "耳线",
+          "translatedName": "Ear line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 201973702,
+          "chineseName": "耳挂",
+          "translatedName": "Ear Hanging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        },
+        {
+          "categoryId": 202032101,
+          "chineseName": "耳圈",
+          "translatedName": "ear ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122704002
+        }
+      ]
+    }
+  }
+}

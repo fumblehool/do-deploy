@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034251,
+      "chineseName": "反渗透设备",
+      "translatedName": "Reverse osmosis equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034244"
+    }
+  }
+}

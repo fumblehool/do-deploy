@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043504,
+      "chineseName": "唇笔、唇线笔",
+      "translatedName": "Lip pencil, lip liner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304705"
+    }
+  }
+}

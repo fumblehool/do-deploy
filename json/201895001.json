@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201895001,
+      "chineseName": "男士洗发水",
+      "translatedName": "Men's Shampoo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201358608"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033838,
+      "chineseName": "计价秤",
+      "translatedName": "Pricing Scale",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032372"
+    }
+  }
+}

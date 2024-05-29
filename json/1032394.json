@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032394,
+      "chineseName": "机械量仪表",
+      "translatedName": "Mechanical quantity instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033904,
+          "chineseName": "其他机械量仪表",
+          "translatedName": "Other mechanical quantity instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032394
+        },
+        {
+          "categoryId": 1033905,
+          "chineseName": "速度测量仪表",
+          "translatedName": "speed measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032394
+        },
+        {
+          "categoryId": 1033906,
+          "chineseName": "测力仪表",
+          "translatedName": "force measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032394
+        },
+        {
+          "categoryId": 1036142,
+          "chineseName": "转速计",
+          "translatedName": "tachometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032394
+        },
+        {
+          "categoryId": 1036143,
+          "chineseName": "转矩量仪",
+          "translatedName": "Torque gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032394
+        }
+      ]
+    }
+  }
+}

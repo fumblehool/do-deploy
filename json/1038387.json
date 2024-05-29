@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038387,
+      "chineseName": "功能材料",
+      "translatedName": "Functional Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038416,
+          "chineseName": "保温、隔热材料",
+          "translatedName": "Heat preservation and heat insulation materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038387
+        },
+        {
+          "categoryId": 124740039,
+          "chineseName": "隔热膜",
+          "translatedName": "Insulation film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038387
+        },
+        {
+          "categoryId": 1337,
+          "chineseName": "隔音、吸声材料",
+          "translatedName": "Sound insulation and sound absorption materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038387
+        },
+        {
+          "categoryId": 1321,
+          "chineseName": "耐火、防火材料",
+          "translatedName": "Fire-resistant and fireproof materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038387
+        },
+        {
+          "categoryId": 1323,
+          "chineseName": "防水、防潮材料",
+          "translatedName": "Waterproof and moisture-proof materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038387
+        }
+      ]
+    }
+  }
+}

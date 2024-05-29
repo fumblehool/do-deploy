@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201220812,
+      "chineseName": "装饰器皿",
+      "translatedName": "Decorative Utensils",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127888009"
+    }
+  }
+}

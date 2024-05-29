@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201920603,
+      "chineseName": "钥匙铣槽机",
+      "translatedName": "Key milling machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032336"
+    }
+  }
+}

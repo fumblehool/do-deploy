@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127836005,
+      "chineseName": "线圈本",
+      "translatedName": "Coil book",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10336"
+    }
+  }
+}

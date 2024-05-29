@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548809,
+      "chineseName": "童家居服连体衣",
+      "translatedName": "Children's Home Clothes Jumpsuit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552907"
+    }
+  }
+}

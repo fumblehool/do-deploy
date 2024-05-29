@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043186,
+      "chineseName": "其他户外鞋",
+      "translatedName": "Other outdoor shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121900002"
+    }
+  }
+}

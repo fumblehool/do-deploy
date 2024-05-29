@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036669,
+      "chineseName": "车用按摩器材",
+      "translatedName": "Car massage equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3312"
+    }
+  }
+}

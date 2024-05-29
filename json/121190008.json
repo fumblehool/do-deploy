@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190008,
+      "chineseName": "吊装绳带",
+      "translatedName": "Lifting rope belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192003"
+    }
+  }
+}

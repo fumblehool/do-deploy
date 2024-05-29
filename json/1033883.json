@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033883,
+      "chineseName": "疲劳试验机",
+      "translatedName": "fatigue testing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10210"
+    }
+  }
+}

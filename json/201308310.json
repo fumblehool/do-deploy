@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308310,
+      "chineseName": "面部精华",
+      "translatedName": "facial essence",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043433,
+          "chineseName": "液态精华",
+          "translatedName": "liquid essence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308310
+        },
+        {
+          "categoryId": 201301111,
+          "chineseName": "粉状精华",
+          "translatedName": "powder essence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308310
+        },
+        {
+          "categoryId": 201307708,
+          "chineseName": "安瓶、原液",
+          "translatedName": "Ampoule, stock solution",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308310
+        },
+        {
+          "categoryId": 201840008,
+          "chineseName": "精华油",
+          "translatedName": "Essence Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308310
+        }
+      ]
+    }
+  }
+}

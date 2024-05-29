@@ -1,0 +1,469 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330711,
+      "chineseName": "宗教用品",
+      "translatedName": "Religious Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037891,
+          "chineseName": "宗教法器、法物",
+          "translatedName": "Religious instruments, legal objects",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201336513,
+          "chineseName": "僧服",
+          "translatedName": "Monk's Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201337012,
+          "chineseName": "法轮",
+          "translatedName": "Falun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201361009,
+          "chineseName": "消灾币",
+          "translatedName": "Disaster Coin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201301522,
+          "chineseName": "佛像/神像",
+          "translatedName": "Buddha/God",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201331614,
+          "chineseName": "净瓶",
+          "translatedName": "clean bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201331712,
+          "chineseName": "化太岁锦囊",
+          "translatedName": "Tai-san",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201331818,
+          "chineseName": "护身卡",
+          "translatedName": "Protection card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 1731,
+          "chineseName": "香",
+          "translatedName": "Incense",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201330712,
+          "chineseName": "念佛计数器",
+          "translatedName": "Buddha chanting counter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201331220,
+          "chineseName": "手鼓",
+          "translatedName": "tambourine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335112,
+          "chineseName": "僧帽",
+          "translatedName": "Monk Hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335312,
+          "chineseName": "唐卡画像",
+          "translatedName": "Thangka Portrait",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335419,
+          "chineseName": "钺刀",
+          "translatedName": "Knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335420,
+          "chineseName": "曼扎盘",
+          "translatedName": "manza plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340120,
+          "chineseName": "钵/钵袋",
+          "translatedName": "Pot/Pot Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340316,
+          "chineseName": "佛牌",
+          "translatedName": "Buddha card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340317,
+          "chineseName": "金刚线",
+          "translatedName": "diamond wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340318,
+          "chineseName": "拂尘",
+          "translatedName": "Brushing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201334120,
+          "chineseName": "道袜",
+          "translatedName": "Road Socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201334121,
+          "chineseName": "液体酥油",
+          "translatedName": "liquid ghee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201334310,
+          "chineseName": "供杯",
+          "translatedName": "Supply Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201338916,
+          "chineseName": "酥油灯座",
+          "translatedName": "Ghee lamp holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201339113,
+          "chineseName": "经文挂饰",
+          "translatedName": "Scripture Hanging Ornament",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201466706,
+          "chineseName": "八卦镜",
+          "translatedName": "Bagua Mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201331314,
+          "chineseName": "宝瓶",
+          "translatedName": "Aquarius",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335615,
+          "chineseName": "舍利塔",
+          "translatedName": "stupa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335814,
+          "chineseName": "罗盘",
+          "translatedName": "Compasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335912,
+          "chineseName": "风水铃/钟",
+          "translatedName": "Feng Shui Bell/Bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335913,
+          "chineseName": "摩尼宝",
+          "translatedName": "Monebo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340516,
+          "chineseName": "转经筒",
+          "translatedName": "Warp roller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201340517,
+          "chineseName": "僧鞋",
+          "translatedName": "Monk Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201345014,
+          "chineseName": "香托/香盘/香座/香插",
+          "translatedName": "Incense holder/incense plate/incense holder/incense insert",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201352624,
+          "chineseName": "木鱼",
+          "translatedName": "wooden fish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201333115,
+          "chineseName": "哈达",
+          "translatedName": "Hada",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201338516,
+          "chineseName": "道帽/道巾",
+          "translatedName": "Tao Hat/Tao Towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201338615,
+          "chineseName": "佛香",
+          "translatedName": "Buddha Fragrance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201466308,
+          "chineseName": "五帝钱",
+          "translatedName": "Five Emperors Money",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201332414,
+          "chineseName": "金刚杵",
+          "translatedName": "Vajra",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201337311,
+          "chineseName": "道袍",
+          "translatedName": "Taoist robe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201346408,
+          "chineseName": "佛寺拜垫",
+          "translatedName": "Buddhist temple worship mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201464006,
+          "chineseName": "许愿牌",
+          "translatedName": "Wishing Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201465009,
+          "chineseName": "无事牌",
+          "translatedName": "No matter card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201330015,
+          "chineseName": "供灯",
+          "translatedName": "Supply lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201330420,
+          "chineseName": "道鞋",
+          "translatedName": "Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201334716,
+          "chineseName": "金刚铃",
+          "translatedName": "King Kong Bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201334812,
+          "chineseName": "念佛机/播经机",
+          "translatedName": "Buddha chanting machine/sutra seeder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201335013,
+          "chineseName": "僧袜",
+          "translatedName": "monk socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201339711,
+          "chineseName": "圣水杯",
+          "translatedName": "Holy water cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        },
+        {
+          "categoryId": 201472905,
+          "chineseName": "文昌塔",
+          "translatedName": "Wenchang Tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330711
+        }
+      ]
+    }
+  }
+}

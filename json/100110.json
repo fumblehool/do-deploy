@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 100110,
+      "chineseName": "其他添加剂",
+      "translatedName": "Other Additives",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034567"
+    }
+  }
+}

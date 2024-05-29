@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192010,
+      "chineseName": "独立光源",
+      "translatedName": "Independent light source",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046759,
+          "chineseName": "LED球泡灯",
+          "translatedName": "LED bulb lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 1046762,
+          "chineseName": "LED日光灯管",
+          "translatedName": "LED fluorescent tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 1046763,
+          "chineseName": "LED玉米灯",
+          "translatedName": "LED corn lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 1046821,
+          "chineseName": "LED蜡烛灯",
+          "translatedName": "LED candle light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 123616002,
+          "chineseName": "LED米泡",
+          "translatedName": "LED rice bubble",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 121192011,
+          "chineseName": "LED灯杯",
+          "translatedName": "LED light cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 121192012,
+          "chineseName": "LED横插灯",
+          "translatedName": "LED horizontal plug lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 121192015,
+          "chineseName": "LED PAR灯",
+          "translatedName": "LED PAR lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 121192016,
+          "chineseName": "其他LED光源",
+          "translatedName": "Other LED light sources",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 201346515,
+          "chineseName": "杀菌灯管",
+          "translatedName": "germicidal lamp tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 201339717,
+          "chineseName": "化妆镜灯泡",
+          "translatedName": "Makeup mirror bulb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        },
+        {
+          "categoryId": 201340017,
+          "chineseName": "杀菌玉米灯",
+          "translatedName": "Sterilization corn lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121192010
+        }
+      ]
+    }
+  }
+}

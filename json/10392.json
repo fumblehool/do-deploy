@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10392,
+      "chineseName": "工农业用塑料制品",
+      "translatedName": "Plastic products for industry and agriculture",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "55"
+    }
+  }
+}

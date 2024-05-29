@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309707,
+      "chineseName": "精油芳疗",
+      "translatedName": "Essential Oil Aromatherapy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041576,
+          "chineseName": "复方精油",
+          "translatedName": "compound essential oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 123854001,
+          "chineseName": "单方精油",
+          "translatedName": "Single essential oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 124774001,
+          "chineseName": "基底精油",
+          "translatedName": "Base essential oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 123666002,
+          "chineseName": "花水纯露",
+          "translatedName": "Flower Water Pure Dew",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 201304311,
+          "chineseName": "其它精油芳疗产品",
+          "translatedName": "Other Essential Oil Aromatherapy Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 201306907,
+          "chineseName": "精油皂",
+          "translatedName": "essential oil soap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        },
+        {
+          "categoryId": 201924302,
+          "chineseName": "精油套装",
+          "translatedName": "Essential Oil Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201309707
+        }
+      ]
+    }
+  }
+}

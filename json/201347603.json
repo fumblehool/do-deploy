@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201347603,
+      "chineseName": "普洱茶",
+      "translatedName": "Pu'er Tea",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10041"
+    }
+  }
+}

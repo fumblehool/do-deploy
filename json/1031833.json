@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031833,
+      "chineseName": "家用电器加工",
+      "translatedName": "Household electrical appliances processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "6"
+    }
+  }
+}

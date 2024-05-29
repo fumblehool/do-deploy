@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3001,
+      "chineseName": "安全检查设备",
+      "translatedName": "Safety inspection equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033234,
+          "chineseName": "安检探测器",
+          "translatedName": "Security detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3001
+        },
+        {
+          "categoryId": 1033235,
+          "chineseName": "安检门",
+          "translatedName": "Security gate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3001
+        },
+        {
+          "categoryId": 1033232,
+          "chineseName": "其他安全检查设备",
+          "translatedName": "Other safety inspection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3001
+        },
+        {
+          "categoryId": 1033233,
+          "chineseName": "反偷拍、反窃听器材",
+          "translatedName": "Anti-candid camera and anti-eavesdropping equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3001
+        },
+        {
+          "categoryId": 1036659,
+          "chineseName": "身份证识别仪",
+          "translatedName": "ID card recognition instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3001
+        }
+      ]
+    }
+  }
+}

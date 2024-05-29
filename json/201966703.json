@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201966703,
+      "chineseName": "其他后整工艺",
+      "translatedName": "Other post-finishing processes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201963801"
+    }
+  }
+}

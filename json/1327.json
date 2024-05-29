@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1327,
+      "chineseName": "工程承包",
+      "translatedName": "Project Contracting",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032651,
+          "chineseName": "其他工程承包",
+          "translatedName": "Other Project Contracting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1327
+        },
+        {
+          "categoryId": 1032654,
+          "chineseName": "工程规划",
+          "translatedName": "Engineering Planning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1327
+        },
+        {
+          "categoryId": 1032655,
+          "chineseName": "工程监理",
+          "translatedName": "engineering supervision",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1327
+        }
+      ]
+    }
+  }
+}

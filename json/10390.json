@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10390,
+      "chineseName": "塑料管",
+      "translatedName": "plastic pipe",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032598,
+          "chineseName": "PVC管",
+          "translatedName": "PVC pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1032599,
+          "chineseName": "PPR管",
+          "translatedName": "PPR pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1034923,
+          "chineseName": "其他塑料管",
+          "translatedName": "Other plastic pipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1034924,
+          "chineseName": "PC管",
+          "translatedName": "PC tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1034925,
+          "chineseName": "PE管",
+          "translatedName": "PE pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1034926,
+          "chineseName": "PP管",
+          "translatedName": "PP pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036731,
+          "chineseName": "PA管",
+          "translatedName": "PA pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036732,
+          "chineseName": "PMMA管",
+          "translatedName": "PMMA tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036781,
+          "chineseName": "ABS管",
+          "translatedName": "ABS tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036870,
+          "chineseName": "钢塑管",
+          "translatedName": "steel plastic pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036865,
+          "chineseName": "铝塑管",
+          "translatedName": "Aluminum plastic pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036846,
+          "chineseName": "PU管",
+          "translatedName": "PU tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 1036847,
+          "chineseName": "波纹管",
+          "translatedName": "Bellows",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 201160205,
+          "chineseName": "管胚",
+          "translatedName": "tube embryo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 201159702,
+          "chineseName": "UPVC管",
+          "translatedName": "UPVC pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        },
+        {
+          "categoryId": 201162605,
+          "chineseName": "PERT管",
+          "translatedName": "PERT pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10390
+        }
+      ]
+    }
+  }
+}

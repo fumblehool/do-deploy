@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304404,
+      "chineseName": "背包床、床中床",
+      "translatedName": "Backpack bed, bed in bed",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1042954"
+    }
+  }
+}

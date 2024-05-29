@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046170,
+      "chineseName": "其他橡胶带",
+      "translatedName": "Other Rubber Strap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046165"
+    }
+  }
+}

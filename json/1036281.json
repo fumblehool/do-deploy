@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036281,
+      "chineseName": "其他塑料包装材料",
+      "translatedName": "Other Plastic Packaging Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201746102,
+      "chineseName": "保湿纸巾/乳霜纸/云柔巾",
+      "translatedName": "Moisturizing paper towel/cream paper/cloud soft towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1513"
+    }
+  }
+}

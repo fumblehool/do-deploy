@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306621,
+      "chineseName": "仿古青铜器",
+      "translatedName": "Antique Bronze",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345914"
+    }
+  }
+}

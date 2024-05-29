@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194002,
+      "chineseName": "安全绳",
+      "translatedName": "Safety rope",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124184002"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10373,
+      "chineseName": "吸附剂",
+      "translatedName": "Adsorbent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034835,
+          "chineseName": "其他吸附剂",
+          "translatedName": "Other adsorbents",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1034836,
+          "chineseName": "矿物吸附剂",
+          "translatedName": "mineral adsorbent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1034837,
+          "chineseName": "纤维吸附剂",
+          "translatedName": "fibrous adsorbent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1034838,
+          "chineseName": "硅胶",
+          "translatedName": "Silicone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1034839,
+          "chineseName": "活性炭",
+          "translatedName": "Activated Carbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1036884,
+          "chineseName": "活性氧化铝",
+          "translatedName": "activated alumina",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1036885,
+          "chineseName": "活性白土",
+          "translatedName": "activated clay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        },
+        {
+          "categoryId": 1036774,
+          "chineseName": "分子筛",
+          "translatedName": "molecular sieve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10373
+        }
+      ]
+    }
+  }
+}

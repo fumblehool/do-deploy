@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125086009,
+      "chineseName": "生活用纸加工",
+      "translatedName": "Living paper processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304234"
+    }
+  }
+}

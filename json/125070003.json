@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070003,
+      "chineseName": "咸蛋类",
+      "translatedName": "Salted Egg Class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125062008"
+    }
+  }
+}

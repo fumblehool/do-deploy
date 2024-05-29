@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035349,
+      "chineseName": "其他气焊、气割器材",
+      "translatedName": "Other gas welding and gas cutting equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032366"
+    }
+  }
+}

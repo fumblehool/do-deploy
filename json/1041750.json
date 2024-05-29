@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041750,
+      "chineseName": "卸妆水/乳/油",
+      "translatedName": "Makeup Remover/Milk/Oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042634"
+    }
+  }
+}

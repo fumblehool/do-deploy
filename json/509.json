@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 509,
+      "chineseName": "通信产品",
+      "translatedName": "Communication Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10345,
+          "chineseName": "库存通讯产品",
+          "translatedName": "Stock communication products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 1033937,
+          "chineseName": "库存通信器材",
+          "translatedName": "Stock communication equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 1033938,
+          "chineseName": "通信器材代理加盟",
+          "translatedName": "Communication equipment agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 10344,
+          "chineseName": "接入设备",
+          "translatedName": "Access equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 1031807,
+          "chineseName": "通讯产品代理加盟",
+          "translatedName": "Communication products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 50914,
+          "chineseName": "其他通信产品",
+          "translatedName": "Other Communication Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 50915,
+          "chineseName": "电话机配附件",
+          "translatedName": "Telephone set with accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 50919,
+          "chineseName": "短信系统",
+          "translatedName": "SMS system",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 50902,
+          "chineseName": "固定电话",
+          "translatedName": "Fixed telephone",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 509
+        },
+        {
+          "categoryId": 50907,
+          "chineseName": "寻呼机",
+          "translatedName": "Pager",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 509
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201633768,
+      "chineseName": "护颈仪/颈椎按摩器",
+      "translatedName": "Neck protection instrument/cervical vertebra massager",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047893"
+    }
+  }
+}

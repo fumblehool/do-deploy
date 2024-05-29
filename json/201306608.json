@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306608,
+      "chineseName": "唇釉",
+      "translatedName": "Lip Glaze",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304705"
+    }
+  }
+}

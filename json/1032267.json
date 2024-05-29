@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032267,
+      "chineseName": "室外LED灯串",
+      "translatedName": "Outdoor LED String Light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201303723"
+    }
+  }
+}

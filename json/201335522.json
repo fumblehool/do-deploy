@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335522,
+      "chineseName": "旅行（便携）手动牙刷/套装",
+      "translatedName": "Travel (portable) manual toothbrush/set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122268004"
+    }
+  }
+}

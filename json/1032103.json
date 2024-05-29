@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032103,
+      "chineseName": "车牌架/牌照托",
+      "translatedName": "License plate holder/license plate holder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10104"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1228,
+      "chineseName": "通用输送设备",
+      "translatedName": "General Conveying Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "12",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033607,
+          "chineseName": "其他通用输送设备",
+          "translatedName": "Other general conveying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1228
+        },
+        {
+          "categoryId": 1033608,
+          "chineseName": "输送线",
+          "translatedName": "Conveyor Line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1228
+        }
+      ]
+    }
+  }
+}

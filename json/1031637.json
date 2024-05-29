@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031637,
+      "chineseName": "植物香料",
+      "translatedName": "Plant spices",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031633"
+    }
+  }
+}

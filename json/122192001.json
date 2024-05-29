@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122192001,
+      "chineseName": "气氛、布置用品",
+      "translatedName": "Atmosphere, layout supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031958,
+          "chineseName": "气球",
+          "translatedName": "Balloon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1031962,
+          "chineseName": "彩蛋、金蛋",
+          "translatedName": "Easter eggs, golden eggs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1031967,
+          "chineseName": "烛台、蜡烛器皿",
+          "translatedName": "Candlestick, candle ware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1037278,
+          "chineseName": "场地布置道具",
+          "translatedName": "Site layout props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1037281,
+          "chineseName": "化妆服饰道具",
+          "translatedName": "Makeup Costume Props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1044218,
+          "chineseName": "喷雪、喷彩带",
+          "translatedName": "Spray snow, spray ribbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 121490002,
+          "chineseName": "拉花、彩带、彩条",
+          "translatedName": "Flowers, ribbons, stripes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 122348005,
+          "chineseName": "气球托杆",
+          "translatedName": "Balloon pole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 122194002,
+          "chineseName": "吊旗/拉旗/三角旗",
+          "translatedName": "Hanging flag/pulling flag/pennant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 124736045,
+          "chineseName": "蜡烛灯",
+          "translatedName": "candle lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 122208001,
+          "chineseName": "面具",
+          "translatedName": "Mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 122354011,
+          "chineseName": "风铃",
+          "translatedName": "Wind chimes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 124744035,
+          "chineseName": "气球打气筒/充气泵",
+          "translatedName": "Balloon pump/inflator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1734,
+          "chineseName": "助威道具",
+          "translatedName": "cheer props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 1738,
+          "chineseName": "鲜花、花艺制品",
+          "translatedName": "Flowers, floral products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201376626,
+          "chineseName": "装饰挂牌",
+          "translatedName": "Decorative tag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201156006,
+          "chineseName": "发光头箍",
+          "translatedName": "luminous head hoop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 156,
+          "chineseName": "蜡烛",
+          "translatedName": "Candle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201354941,
+          "chineseName": "仿真书工艺品",
+          "translatedName": "Simulation Book Crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201772801,
+          "chineseName": "荧光棒",
+          "translatedName": "Glow sticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201760301,
+          "chineseName": "拉菲草",
+          "translatedName": "raffia",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        },
+        {
+          "categoryId": 201760401,
+          "chineseName": "泡沫球/流星球",
+          "translatedName": "Foam Ball/Flow Planet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122192001
+        }
+      ]
+    }
+  }
+}

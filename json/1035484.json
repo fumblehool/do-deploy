@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035484,
+      "chineseName": "机床减震装置",
+      "translatedName": "Machine tool damping device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032476"
+    }
+  }
+}

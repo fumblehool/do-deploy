@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200972002,
+      "chineseName": "汉堡机/炸炉/保温展示柜",
+      "translatedName": "Hamburger machine/fryer/insulation display cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

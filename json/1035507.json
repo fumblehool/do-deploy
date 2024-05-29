@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035507,
+      "chineseName": "其他剪刀",
+      "translatedName": "Other Scissors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924007"
+    }
+  }
+}

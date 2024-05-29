@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031893,
+      "chineseName": "男式真皮皮衣",
+      "translatedName": "Men's Leather Coat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123694002"
+    }
+  }
+}

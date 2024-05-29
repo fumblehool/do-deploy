@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125312002,
+      "chineseName": "运动内衣",
+      "translatedName": "Sports underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127890013"
+    }
+  }
+}

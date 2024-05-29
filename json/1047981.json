@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047981,
+      "chineseName": "两季电器",
+      "translatedName": "Two Seasons Electrical Appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "6",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032270,
+          "chineseName": "灭蚊灯",
+          "translatedName": "Mosquito lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047991,
+          "chineseName": "电热毯、电热垫",
+          "translatedName": "Electric blanket, electric pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047993,
+          "chineseName": "暖脚器",
+          "translatedName": "Foot warmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047994,
+          "chineseName": "电暖手宝",
+          "translatedName": "Electric hand warmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1041748,
+          "chineseName": "烘鞋器、干鞋器",
+          "translatedName": "Shoe dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047019,
+          "chineseName": "电风扇",
+          "translatedName": "electric fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047983,
+          "chineseName": "空调扇",
+          "translatedName": "Air conditioning fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1047984,
+          "chineseName": "暖风机/取暖器",
+          "translatedName": "Fan heater/heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1045066,
+          "chineseName": "USB风扇、迷你风扇",
+          "translatedName": "USB fan, mini fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 1048010,
+          "chineseName": "其他取暖电器",
+          "translatedName": "Other heating appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124190008,
+          "chineseName": "其他电风扇",
+          "translatedName": "Other electric fans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 121374004,
+          "chineseName": "电热水袋",
+          "translatedName": "Electric hot water bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 122214003,
+          "chineseName": "电热毯",
+          "translatedName": "electric blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 122702007,
+          "chineseName": "吊扇",
+          "translatedName": "Ceiling fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 122702008,
+          "chineseName": "两季电器配件",
+          "translatedName": "Two seasons electrical accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124194010,
+          "chineseName": "对流扇、循环扇",
+          "translatedName": "Convection fan, circulation fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124194011,
+          "chineseName": "迷你电风扇",
+          "translatedName": "Mini electric fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124196005,
+          "chineseName": "发热垫",
+          "translatedName": "Heating pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 122706007,
+          "chineseName": "电子灭蚊器、灭蚊灯",
+          "translatedName": "Electronic mosquito killer, mosquito lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 122722004,
+          "chineseName": "其他夏季电器",
+          "translatedName": "Other Summer Appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124186014,
+          "chineseName": "无叶扇",
+          "translatedName": "Leadless fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 124186015,
+          "chineseName": "大功率风扇、工业电风扇",
+          "translatedName": "High-power fans, industrial fans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201641601,
+          "chineseName": "冷暖仪",
+          "translatedName": "Heating and cooling instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201336116,
+          "chineseName": "水暖毯",
+          "translatedName": "Plumbing blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201338617,
+          "chineseName": "暖被机",
+          "translatedName": "Warm quilt machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 619,
+          "chineseName": "驱虫驱鼠器",
+          "translatedName": "insect repellent mouse repellent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201869404,
+          "chineseName": "露营风扇",
+          "translatedName": "Camping Fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201859603,
+          "chineseName": "户外灭蚊灯/灭蚊器",
+          "translatedName": "Outdoor mosquito lamp/mosquito killer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 201966601,
+          "chineseName": "电热穿戴",
+          "translatedName": "Electric heating wear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        },
+        {
+          "categoryId": 202054405,
+          "chineseName": "电壁炉取暖器",
+          "translatedName": "Electric fireplace heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1047981
+        }
+      ]
+    }
+  }
+}

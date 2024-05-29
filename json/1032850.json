@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032850,
+      "chineseName": "黑木耳",
+      "translatedName": "black fungus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "106"
+    }
+  }
+}

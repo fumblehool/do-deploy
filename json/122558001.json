@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122558001,
+      "chineseName": "泡脚盆、沐浴桶、折叠浴桶",
+      "translatedName": "Foot bath basin, bath barrel, folding bath barrel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043151"
+    }
+  }
+}

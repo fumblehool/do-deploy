@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1718,
+      "chineseName": "泥塑工艺品",
+      "translatedName": "Clay Sculpture Crafts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044181"
+    }
+  }
+}

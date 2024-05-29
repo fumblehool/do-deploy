@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034973,
+      "chineseName": "投射灯/聚光灯",
+      "translatedName": "Projection lamp/spotlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10217"
+    }
+  }
+}

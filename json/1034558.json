@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034558,
+      "chineseName": "其他羧酸衍生物",
+      "translatedName": "Other carboxylic acid derivatives",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "836"
+    }
+  }
+}

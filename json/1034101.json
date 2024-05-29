@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034101,
+      "chineseName": "其他舞台设备",
+      "translatedName": "Other stage equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "94"
+    }
+  }
+}

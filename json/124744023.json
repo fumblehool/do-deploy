@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744023,
+      "chineseName": "虾类零食",
+      "translatedName": "Shrimp Snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742010"
+    }
+  }
+}

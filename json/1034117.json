@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034117,
+      "chineseName": "非线性编辑系统",
+      "translatedName": "non-linear editing system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3418"
+    }
+  }
+}

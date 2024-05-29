@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201564521,
+      "chineseName": "男式休闲短裤",
+      "translatedName": "Men's Casual Shorts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201561908"
+    }
+  }
+}

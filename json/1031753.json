@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031753,
+      "chineseName": "人造纤维",
+      "translatedName": "man-made fiber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "41508"
+    }
+  }
+}

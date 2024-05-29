@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122282003,
+      "chineseName": "家用除湿剂、干燥剂",
+      "translatedName": "Household desiccant, desiccant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194007"
+    }
+  }
+}

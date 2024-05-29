@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 76,
+      "chineseName": "财务服务",
+      "translatedName": "Financial Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047440,
+          "chineseName": "代理记账",
+          "translatedName": "Agency Bookkeeping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 76
+        },
+        {
+          "categoryId": 173,
+          "chineseName": "管理咨询",
+          "translatedName": "Management Consulting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 76
+        },
+        {
+          "categoryId": 169,
+          "chineseName": "其他咨询",
+          "translatedName": "Other Advice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 76
+        },
+        {
+          "categoryId": 170,
+          "chineseName": "财务咨询",
+          "translatedName": "Financial Advisory",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 76
+        },
+        {
+          "categoryId": 2834,
+          "chineseName": "会计服务",
+          "translatedName": "Accounting Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 76
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1513,
+      "chineseName": "纸品湿巾",
+      "translatedName": "Paper Wipes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032773,
+          "chineseName": "其他生活用纸",
+          "translatedName": "Other household paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 1032774,
+          "chineseName": "婴儿湿巾",
+          "translatedName": "Baby Wipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 1032775,
+          "chineseName": "面巾纸",
+          "translatedName": "Kleenex",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 1032777,
+          "chineseName": "卫生纸/卷纸",
+          "translatedName": "Toilet paper/roll paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 1042593,
+          "chineseName": "纸尿裤",
+          "translatedName": "Diapers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122398006,
+          "chineseName": "抽纸",
+          "translatedName": "Pumping paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122340004,
+          "chineseName": "厨房用纸",
+          "translatedName": "kitchen paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122522005,
+          "chineseName": "湿巾纸",
+          "translatedName": "Wet Tissue Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122772001,
+          "chineseName": "坐厕纸",
+          "translatedName": "Toilet paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 124806001,
+          "chineseName": "纸尿片",
+          "translatedName": "Diapers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 124806002,
+          "chineseName": "拉拉裤",
+          "translatedName": "Lace-up Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122314007,
+          "chineseName": "柔巾卷",
+          "translatedName": "Soft Towel Roll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122710001,
+          "chineseName": "擦手纸",
+          "translatedName": "Hand paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122410005,
+          "chineseName": "手帕纸",
+          "translatedName": "handsheet paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 122306011,
+          "chineseName": "餐巾纸",
+          "translatedName": "Napkin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201346006,
+          "chineseName": "原轴纸/杠纸",
+          "translatedName": "Raw shaft paper/bar paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201164201,
+          "chineseName": "婴儿棉柔巾",
+          "translatedName": "Baby cotton soft towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201610202,
+          "chineseName": "湿厕纸",
+          "translatedName": "Wet toilet paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 126562004,
+          "chineseName": "婴儿纸巾",
+          "translatedName": "Baby Tissue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201455626,
+          "chineseName": "广告纸巾",
+          "translatedName": "Advertising tissue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201253202,
+          "chineseName": "大盘纸",
+          "translatedName": "Large tray paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        },
+        {
+          "categoryId": 201746102,
+          "chineseName": "保湿纸巾/乳霜纸/云柔巾",
+          "translatedName": "Moisturizing paper towel/cream paper/cloud soft towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1513
+        }
+      ]
+    }
+  }
+}

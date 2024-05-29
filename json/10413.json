@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10413,
+      "chineseName": "传质设备",
+      "translatedName": "Mass transfer equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034561,
+          "chineseName": "填料塔",
+          "translatedName": "packed tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10413
+        },
+        {
+          "categoryId": 1034562,
+          "chineseName": "板式塔",
+          "translatedName": "plate tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10413
+        },
+        {
+          "categoryId": 1031667,
+          "chineseName": "吸收器",
+          "translatedName": "Absorber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10413
+        },
+        {
+          "categoryId": 10418,
+          "chineseName": "其他传质设备",
+          "translatedName": "Other mass transfer equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10413
+        },
+        {
+          "categoryId": 835,
+          "chineseName": "填料",
+          "translatedName": "Packing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10413
+        }
+      ]
+    }
+  }
+}

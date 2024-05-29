@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122322004,
+      "chineseName": "衣饰",
+      "translatedName": "Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122338007,
+          "chineseName": "胸花",
+          "translatedName": "Corsage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 122318005,
+          "chineseName": "领针",
+          "translatedName": "collar pin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 122372007,
+          "chineseName": "其他衣饰",
+          "translatedName": "Other Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 122306007,
+          "chineseName": "胸针",
+          "translatedName": "Brooch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 122306008,
+          "chineseName": "长款项链",
+          "translatedName": "Long Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 1748,
+          "chineseName": "毛衣链",
+          "translatedName": "sweater chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        },
+        {
+          "categoryId": 201774003,
+          "chineseName": "丝巾扣",
+          "translatedName": "Silk towel buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122322004
+        }
+      ]
+    }
+  }
+}

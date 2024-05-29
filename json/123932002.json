@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123932002,
+      "chineseName": "铁皮剪",
+      "translatedName": "tin shears",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924007"
+    }
+  }
+}

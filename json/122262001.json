@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122262001,
+      "chineseName": "自行车码表",
+      "translatedName": "Bicycle code table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122098001"
+    }
+  }
+}

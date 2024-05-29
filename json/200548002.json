@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200548002,
+      "chineseName": "车削刀具",
+      "translatedName": "turning tool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10350"
+    }
+  }
+}

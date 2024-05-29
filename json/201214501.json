@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201214501,
+      "chineseName": "铸铁管",
+      "translatedName": "cast iron pipe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022026"
+    }
+  }
+}

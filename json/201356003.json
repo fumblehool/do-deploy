@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201356003,
+      "chineseName": "后视镜防雨贴",
+      "translatedName": "Rearview mirror rainproof sticker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3308"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122962004,
+      "chineseName": "童车、背带",
+      "translatedName": "Baby carriage, harness",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10286,
+          "chineseName": "婴儿推车",
+          "translatedName": "Baby stroller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122986001,
+          "chineseName": "学步车",
+          "translatedName": "walker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122986003,
+          "chineseName": "儿童三轮车",
+          "translatedName": "Children's tricycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122986004,
+          "chineseName": "儿童滑板车",
+          "translatedName": "Children's Scooter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122984004,
+          "chineseName": "扭扭车",
+          "translatedName": "Twister",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122992004,
+          "chineseName": "童自行车",
+          "translatedName": "Children's Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 124256005,
+          "chineseName": "童车/座椅配件",
+          "translatedName": "Baby carriage/seat accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 122982002,
+          "chineseName": "儿童电动车",
+          "translatedName": "Children's electric car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 124740031,
+          "chineseName": "背巾/背婴带/腰凳",
+          "translatedName": "Back towel/baby belt/waist stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 201163109,
+          "chineseName": "单杆轻便式推车",
+          "translatedName": "Single-pole portable cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 201306303,
+          "chineseName": "学步带",
+          "translatedName": "Toddler belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 201584201,
+          "chineseName": "儿童平衡车",
+          "translatedName": "Children's balance car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 201591202,
+          "chineseName": "儿童独轮车",
+          "translatedName": "Children's unicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        },
+        {
+          "categoryId": 201310102,
+          "chineseName": "防走失用品",
+          "translatedName": "Anti-lost supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122962004
+        }
+      ]
+    }
+  }
+}

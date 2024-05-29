@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921002,
+      "chineseName": "烙铁架",
+      "translatedName": "soldering iron rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201924501"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037110,
+      "chineseName": "脂肪醇聚氧乙烯醚",
+      "translatedName": "fatty alcohol polyoxyethylene ether",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80316"
+    }
+  }
+}

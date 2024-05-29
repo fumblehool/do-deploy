@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126596001,
+      "chineseName": "宝宝剪刀/指甲钳",
+      "translatedName": "Baby scissors/nail clippers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043162"
+    }
+  }
+}

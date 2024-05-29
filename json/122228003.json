@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122228003,
+      "chineseName": "海绵床垫",
+      "translatedName": "Sponge mattress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123088001"
+    }
+  }
+}

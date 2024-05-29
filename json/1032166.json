@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032166,
+      "chineseName": "万向节",
+      "translatedName": "Universal Joint",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10105"
+    }
+  }
+}

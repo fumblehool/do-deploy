@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036964,
+      "chineseName": "其他生物化工",
+      "translatedName": "Other Biochemical",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "832"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160102,
+      "chineseName": "娃娃及娃娃配件",
+      "translatedName": "Dolls and doll accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201157607,
+          "chineseName": "娃娃屋",
+          "translatedName": "Doll House",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160102
+        },
+        {
+          "categoryId": 201157706,
+          "chineseName": "娃娃玩具配件",
+          "translatedName": "doll toy accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160102
+        },
+        {
+          "categoryId": 201155904,
+          "chineseName": "娃娃公仔",
+          "translatedName": "Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160102
+        },
+        {
+          "categoryId": 201159104,
+          "chineseName": "娃娃家具",
+          "translatedName": "Doll Furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160102
+        },
+        {
+          "categoryId": 201159804,
+          "chineseName": "娃娃车",
+          "translatedName": "Doll car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160102
+        }
+      ]
+    }
+  }
+}

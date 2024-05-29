@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125492003,
+      "chineseName": "钥匙配饰",
+      "translatedName": "Key Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10340,
+          "chineseName": "钥匙扣及钥匙扣配件",
+          "translatedName": "Key chains and key chain accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492003
+        },
+        {
+          "categoryId": 125070008,
+          "chineseName": "车用钥匙扣",
+          "translatedName": "Car Keychain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492003
+        },
+        {
+          "categoryId": 201160301,
+          "chineseName": "钥匙扣",
+          "translatedName": "Keychain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492003
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10076,
+      "chineseName": "其他酒类",
+      "translatedName": "Other alcoholic drinks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10071"
+    }
+  }
+}

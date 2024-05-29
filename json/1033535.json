@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033535,
+      "chineseName": "弹拨类乐器",
+      "translatedName": "plucked stringed musical instruments",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1805"
+    }
+  }
+}

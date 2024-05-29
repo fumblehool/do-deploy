@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032633,
+      "chineseName": "排水系统",
+      "translatedName": "Drainage system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1350"
+    }
+  }
+}

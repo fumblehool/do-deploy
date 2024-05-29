@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033757,
+      "chineseName": "户外花架",
+      "translatedName": "Outdoor flower stand",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122796003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033233,
+      "chineseName": "反偷拍、反窃听器材",
+      "translatedName": "Anti-candid camera and anti-eavesdropping equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3001"
+    }
+  }
+}

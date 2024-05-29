@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141,
+      "chineseName": "农药制剂",
+      "translatedName": "pesticide formulation",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033704,
+          "chineseName": "其他农药制剂",
+          "translatedName": "Other pesticide formulations",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141
+        },
+        {
+          "categoryId": 1033705,
+          "chineseName": "杀虫、杀螨混剂",
+          "translatedName": "Insecticidal and acaricidal mixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141
+        },
+        {
+          "categoryId": 1033706,
+          "chineseName": "杀菌剂混剂",
+          "translatedName": "fungicide mixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141
+        },
+        {
+          "categoryId": 1033707,
+          "chineseName": "除草剂混剂",
+          "translatedName": "herbicide mixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141
+        },
+        {
+          "categoryId": 201158608,
+          "chineseName": "卫生用农药",
+          "translatedName": "Pesticides for health",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141
+        }
+      ]
+    }
+  }
+}

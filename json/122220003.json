@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122220003,
+      "chineseName": "其他枕芯",
+      "translatedName": "Other Pillow Core",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123086001"
+    }
+  }
+}

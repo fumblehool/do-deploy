@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202050901,
+      "chineseName": "洛丽塔Lolita",
+      "translatedName": "Lolita Lolita",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201230506,
+          "chineseName": "其它洛丽塔lolita",
+          "translatedName": "Other Lolita Lolita",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202055601,
+          "chineseName": "lolita洛丽塔套装",
+          "translatedName": "lolita lolita set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202055701,
+          "chineseName": "lolita衬衫/内搭",
+          "translatedName": "Lolita Shirt/Interior",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202055901,
+          "chineseName": "lolita洛丽塔大衣",
+          "translatedName": "Lolita Lolita Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202054901,
+          "chineseName": "lolita洛丽塔裤子",
+          "translatedName": "lolita lolita pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202054902,
+          "chineseName": "lolita洛丽塔连衣裙",
+          "translatedName": "lolita lolita dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202055001,
+          "chineseName": "lolita洛丽塔半身裙",
+          "translatedName": "Lolita Lolita Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        },
+        {
+          "categoryId": 202051402,
+          "chineseName": "lolita洛丽塔外套",
+          "translatedName": "Lolita Lolita Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202050901
+        }
+      ]
+    }
+  }
+}

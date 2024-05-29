@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201914502,
+      "chineseName": "瑜伽拉力带",
+      "translatedName": "Yoga Rally Belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044713"
+    }
+  }
+}

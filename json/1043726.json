@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043726,
+      "chineseName": "集成电路(IC)",
+      "translatedName": "Integrated Circuit (IC)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126628001"
+    }
+  }
+}

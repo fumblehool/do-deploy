@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043176,
+      "chineseName": "睫毛夹、烫睫毛器",
+      "translatedName": "Eyelash curler, curler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

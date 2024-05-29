@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305102,
+      "chineseName": "洗碗粉",
+      "translatedName": "Dishwashing powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122212003"
+    }
+  }
+}

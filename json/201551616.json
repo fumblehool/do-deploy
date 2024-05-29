@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201551616,
+      "chineseName": "学生书包",
+      "translatedName": "Student schoolbag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031750,
+          "chineseName": "小学书包",
+          "translatedName": "Primary school bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        },
+        {
+          "categoryId": 1033086,
+          "chineseName": "其他学生包袋",
+          "translatedName": "Other student bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        },
+        {
+          "categoryId": 126128003,
+          "chineseName": "拉杆书包",
+          "translatedName": "Trolley Schoolbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        },
+        {
+          "categoryId": 201560009,
+          "chineseName": "中大学生书包",
+          "translatedName": "college student schoolbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        },
+        {
+          "categoryId": 201553108,
+          "chineseName": "幼儿园书包",
+          "translatedName": "Kindergarten Schoolbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        },
+        {
+          "categoryId": 126150001,
+          "chineseName": "书包",
+          "translatedName": "Schoolbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551616
+        }
+      ]
+    }
+  }
+}

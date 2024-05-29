@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122482001,
+      "chineseName": "商务袜",
+      "translatedName": "Business Socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043349"
+    }
+  }
+}

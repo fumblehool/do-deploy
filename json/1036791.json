@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036791,
+      "chineseName": "灯具玻璃",
+      "translatedName": "Lamp glass",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10402"
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1426,
+      "chineseName": "机床",
+      "translatedName": "Machine tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032484,
+          "chineseName": "螺纹加工机床",
+          "translatedName": "thread processing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032485,
+          "chineseName": "齿轮加工机床",
+          "translatedName": "gear processing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032486,
+          "chineseName": "木工机床",
+          "translatedName": "woodworking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032487,
+          "chineseName": "铸造机床",
+          "translatedName": "casting machine tool",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032488,
+          "chineseName": "锻压机床",
+          "translatedName": "forging machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032489,
+          "chineseName": "卷板机床",
+          "translatedName": "plate bending machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032490,
+          "chineseName": "刨床、插床",
+          "translatedName": "Planer, Planer",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032491,
+          "chineseName": "拉床",
+          "translatedName": "Break",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032492,
+          "chineseName": "锯床",
+          "translatedName": "sawing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032493,
+          "chineseName": "磨床",
+          "translatedName": "grinding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032494,
+          "chineseName": "镗床",
+          "translatedName": "boring machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032475,
+          "chineseName": "其他机床",
+          "translatedName": "Other Machine Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032477,
+          "chineseName": "进口机床",
+          "translatedName": "imported machine tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032478,
+          "chineseName": "电火花、线切割",
+          "translatedName": "Electric spark, wire cutting",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032479,
+          "chineseName": "剪板、折弯",
+          "translatedName": "Shear plate, bend",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032480,
+          "chineseName": "专用机床",
+          "translatedName": "special machine tool",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032481,
+          "chineseName": "组合机床",
+          "translatedName": "combination machine tool",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032482,
+          "chineseName": "数控机床",
+          "translatedName": "CNC machine tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032483,
+          "chineseName": "加工中心",
+          "translatedName": "machining center",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032495,
+          "chineseName": "钻床",
+          "translatedName": "drilling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032496,
+          "chineseName": "铣床",
+          "translatedName": "Milling Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1032497,
+          "chineseName": "车床",
+          "translatedName": "Lathe",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 1038374,
+          "chineseName": "冲床",
+          "translatedName": "Punch",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        },
+        {
+          "categoryId": 124014011,
+          "chineseName": "小型机床",
+          "translatedName": "small machine tool",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 1426
+        }
+      ]
+    }
+  }
+}

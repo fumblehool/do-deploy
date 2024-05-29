@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127742004,
+      "chineseName": "危险废物回收",
+      "translatedName": "hazardous waste recycling",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "64"
+    }
+  }
+}

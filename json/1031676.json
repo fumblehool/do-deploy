@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031676,
+      "chineseName": "不饱和聚酯树脂",
+      "translatedName": "unsaturated polyester resin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031672"
+    }
+  }
+}

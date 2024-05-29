@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036428,
+      "chineseName": "地胶、脚垫",
+      "translatedName": "Ground glue, foot pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3307"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126026003,
+      "chineseName": "儿童尤克里里",
+      "translatedName": "Children's Ukulele",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1805"
+    }
+  }
+}

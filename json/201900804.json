@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201900804,
+      "chineseName": "预制菜/半成品菜",
+      "translatedName": "Prefabricated/semi-finished dishes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201330623,
+          "chineseName": "熟食/即食菜",
+          "translatedName": "Cooked food/ready-to-eat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201161207,
+          "chineseName": "方便料理包类",
+          "translatedName": "Convenient food bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201306106,
+          "chineseName": "半成品菜",
+          "translatedName": "semi-finished dishes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201909802,
+          "chineseName": "半成品食材",
+          "translatedName": "Semi-finished ingredients",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201904106,
+          "chineseName": "串串食材",
+          "translatedName": "String ingredients",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201904303,
+          "chineseName": "火锅食材",
+          "translatedName": "Hot pot ingredients",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201900106,
+          "chineseName": "净菜/盆菜",
+          "translatedName": "Clean Vegetable/Poted Vegetable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        },
+        {
+          "categoryId": 201906604,
+          "chineseName": "烧烤食材",
+          "translatedName": "Barbecue Ingredients",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201900804
+        }
+      ]
+    }
+  }
+}

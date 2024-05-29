@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034886,
+      "chineseName": "通用无机试剂",
+      "translatedName": "General inorganic reagent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "817"
+    }
+  }
+}

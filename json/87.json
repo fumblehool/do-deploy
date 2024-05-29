@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 87,
+      "chineseName": "包装成型机械",
+      "translatedName": "packaging forming machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032581,
+          "chineseName": "其他包装成型机械",
+          "translatedName": "Other packaging forming machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        },
+        {
+          "categoryId": 1032582,
+          "chineseName": "金属包装机械",
+          "translatedName": "Metal Packaging Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        },
+        {
+          "categoryId": 1032583,
+          "chineseName": "塑料包装机械",
+          "translatedName": "Plastic Packaging Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        },
+        {
+          "categoryId": 1032584,
+          "chineseName": "纸包装机械",
+          "translatedName": "paper packaging machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        },
+        {
+          "categoryId": 1036399,
+          "chineseName": "食品药品包装机",
+          "translatedName": "Food and Drug Packaging Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        },
+        {
+          "categoryId": 201958507,
+          "chineseName": "食品药品成型机",
+          "translatedName": "Food and Drug Forming Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 87
+        }
+      ]
+    }
+  }
+}

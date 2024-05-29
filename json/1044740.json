@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044740,
+      "chineseName": "涉水运动用品",
+      "translatedName": "Wading Sports Goods",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044742,
+          "chineseName": "冲浪、滑水、帆板",
+          "translatedName": "Surfing, water skiing, windsurfing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 1044748,
+          "chineseName": "漂流船、皮划艇、充气艇",
+          "translatedName": "Drifting boat, kayak, inflatable boat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 1048083,
+          "chineseName": "潜水服",
+          "translatedName": "diving suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122116002,
+          "chineseName": "游船配件",
+          "translatedName": "cruise ship accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122118002,
+          "chineseName": "潜水袜",
+          "translatedName": "diving socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122118003,
+          "chineseName": "潜水手套",
+          "translatedName": "diving gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122120002,
+          "chineseName": "浮潜套装",
+          "translatedName": "Snorkeling Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122108005,
+          "chineseName": "龙舟",
+          "translatedName": "Dragon Boat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122078005,
+          "chineseName": "桨、舵",
+          "translatedName": "Paddle, rudder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122084003,
+          "chineseName": "脚蹼、手蹼",
+          "translatedName": "Flippers, flippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122086003,
+          "chineseName": "帆船",
+          "translatedName": "Sailboat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 123176001,
+          "chineseName": "潜水照明装备",
+          "translatedName": "Diving Lighting Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122124002,
+          "chineseName": "摩托艇",
+          "translatedName": "Motorboat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122126002,
+          "chineseName": "潜水箱包",
+          "translatedName": "Diving bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122132001,
+          "chineseName": "独木舟",
+          "translatedName": "Canoe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 122134001,
+          "chineseName": "水上充气床、充气浮排",
+          "translatedName": "Water inflatable bed, inflatable floating row",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 2028,
+          "chineseName": "其他水上运动用品",
+          "translatedName": "Other Water Sports Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        },
+        {
+          "categoryId": 2051,
+          "chineseName": "潜水用品",
+          "translatedName": "Diving Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044740
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042886,
+      "chineseName": "棉副产品",
+      "translatedName": "Cotton by-product",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "415"
+    }
+  }
+}

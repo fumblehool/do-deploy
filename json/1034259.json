@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034259,
+      "chineseName": "其他化工废料",
+      "translatedName": "Other Chemical Waste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10239"
+    }
+  }
+}

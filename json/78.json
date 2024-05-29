@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 78,
+      "chineseName": "摩托车",
+      "translatedName": "Motorcycle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032217,
+          "chineseName": "其他摩托车",
+          "translatedName": "Other Motorcycles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        },
+        {
+          "categoryId": 1032218,
+          "chineseName": "正三轮摩托车",
+          "translatedName": "three-wheeled motorcycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        },
+        {
+          "categoryId": 1032220,
+          "chineseName": "两轮摩托车",
+          "translatedName": "two-wheeled motorcycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        },
+        {
+          "categoryId": 1032221,
+          "chineseName": "轻便摩托车",
+          "translatedName": "Moped",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        },
+        {
+          "categoryId": 1036932,
+          "chineseName": "沙滩车",
+          "translatedName": "Beach buggy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        },
+        {
+          "categoryId": 178,
+          "chineseName": "二手摩托车",
+          "translatedName": "Used motorcycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 78
+        }
+      ]
+    }
+  }
+}

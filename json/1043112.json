@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043112,
+      "chineseName": "无害化处理设备",
+      "translatedName": "Harmless treatment equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "64",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043116,
+          "chineseName": "湿化机",
+          "translatedName": "Wetting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043112
+        }
+      ]
+    }
+  }
+}

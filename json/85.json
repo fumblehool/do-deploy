@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 85,
+      "chineseName": "烫金、烫印材料",
+      "translatedName": "Bronzing, hot stamping materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036274,
+          "chineseName": "其他烫金、烫印材料",
+          "translatedName": "Other bronzing and hot stamping materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036275,
+          "chineseName": "拉丝",
+          "translatedName": "Wire drawing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036276,
+          "chineseName": "镭射纸",
+          "translatedName": "laser paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036277,
+          "chineseName": "烫印膜",
+          "translatedName": "Hot Stamping Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036278,
+          "chineseName": "烫金箔",
+          "translatedName": "Hot gold foil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036279,
+          "chineseName": "电化铝",
+          "translatedName": "anodized aluminum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        },
+        {
+          "categoryId": 1036280,
+          "chineseName": "烫金纸",
+          "translatedName": "bronzing paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 85
+        }
+      ]
+    }
+  }
+}

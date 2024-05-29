@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 77,
+      "chineseName": "污水处理设备",
+      "translatedName": "Sewage treatment equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032559,
+          "chineseName": "污泥处理设备",
+          "translatedName": "Sludge treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1032560,
+          "chineseName": "曝气设备",
+          "translatedName": "Aeration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1032561,
+          "chineseName": "油水分离设备",
+          "translatedName": "Oil-water separation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1032562,
+          "chineseName": "气浮设备",
+          "translatedName": "air flotation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1032566,
+          "chineseName": "污水处理成套设备",
+          "translatedName": "Sewage treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1034253,
+          "chineseName": "沉淀池",
+          "translatedName": "Sedimentation tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1034254,
+          "chineseName": "滗水器",
+          "translatedName": "Decanter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1032558,
+          "chineseName": "其他污水处理设备",
+          "translatedName": "Other sewage treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        },
+        {
+          "categoryId": 1045760,
+          "chineseName": "污水处理设备配件",
+          "translatedName": "Sewage treatment equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 77
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034859,
+      "chineseName": "合成材料抗氧化剂",
+      "translatedName": "synthetic material antioxidant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10371"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201339616,
+      "chineseName": "邮箱/邮筒/收件箱",
+      "translatedName": "Mailbox/Post Box/Inbox",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201333016"
+    }
+  }
+}

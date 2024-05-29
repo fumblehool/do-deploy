@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032257,
+      "chineseName": "高压接触器",
+      "translatedName": "High-voltage contactor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "525"
+    }
+  }
+}

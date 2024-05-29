@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031810,
+      "chineseName": "金属材料代理加盟",
+      "translatedName": "Metal materials agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "9"
+    }
+  }
+}

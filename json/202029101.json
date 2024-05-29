@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202029101,
+      "chineseName": "其他纹绣用品",
+      "translatedName": "Other tattoo supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202027801"
+    }
+  }
+}

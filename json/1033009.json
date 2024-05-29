@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033009,
+      "chineseName": "纸袋",
+      "translatedName": "paper bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10364",
+      "fromCache": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036664,
+      "chineseName": "防静电服及配件",
+      "translatedName": "Anti-static clothing and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3019"
+    }
+  }
+}

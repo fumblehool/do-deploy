@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201221702,
+      "chineseName": "学习考试",
+      "translatedName": "study exam",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045647"
+    }
+  }
+}

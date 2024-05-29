@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202019102,
+      "chineseName": "保健品礼品包装",
+      "translatedName": "Health care products gift packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202021701"
+    }
+  }
+}

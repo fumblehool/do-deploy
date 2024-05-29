@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202025403,
+      "chineseName": "盐水液体敷料（械字号）",
+      "translatedName": "Saline liquid dressing (mechanical size)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201962701"
+    }
+  }
+}

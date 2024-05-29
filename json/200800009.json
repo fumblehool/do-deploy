@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200800009,
+      "chineseName": "晶闸管(可控硅)",
+      "translatedName": "Thyristor (Silicon Controlled Thyristor)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032242,
+          "chineseName": "其他晶闸管",
+          "translatedName": "Other thyristors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        },
+        {
+          "categoryId": 200804008,
+          "chineseName": "普通晶闸管(SCR)",
+          "translatedName": "Ordinary thyristor (SCR)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        },
+        {
+          "categoryId": 200804009,
+          "chineseName": "高压触发二极管(SIDAC)",
+          "translatedName": "High Voltage Trigger Diode (SIDAC)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        },
+        {
+          "categoryId": 200768009,
+          "chineseName": "SCR模块",
+          "translatedName": "SCR module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        },
+        {
+          "categoryId": 200776006,
+          "chineseName": "双向触发二极管(DIAC)",
+          "translatedName": "Bidirectional Trigger Diode (DIAC)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        },
+        {
+          "categoryId": 200776007,
+          "chineseName": "双向晶闸管(TRIAC)",
+          "translatedName": "Bidirectional thyristor (TRIAC)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200800009
+        }
+      ]
+    }
+  }
+}

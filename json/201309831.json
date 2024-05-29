@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309831,
+      "chineseName": "面部精华加工定制",
+      "translatedName": "Facial Essence Processing Customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125070013"
+    }
+  }
+}

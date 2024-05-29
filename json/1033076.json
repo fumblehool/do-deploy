@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033076,
+      "chineseName": "其他簿、本、册",
+      "translatedName": "Other books, books, books",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10336"
+    }
+  }
+}

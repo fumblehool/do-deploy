@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055518,
+      "chineseName": "猫/狗主粮",
+      "translatedName": "cat/dog staple food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001"
+    }
+  }
+}

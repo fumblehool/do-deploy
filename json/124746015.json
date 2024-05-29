@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746015,
+      "chineseName": "素肉",
+      "translatedName": "vegetarian meat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742011"
+    }
+  }
+}

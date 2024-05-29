@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062013,
+      "chineseName": "一次性酒店用品套装",
+      "translatedName": "Disposable hotel supplies set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045268"
+    }
+  }
+}

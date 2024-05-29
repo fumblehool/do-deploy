@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202035904,
+      "chineseName": "余热锅炉",
+      "translatedName": "Waste heat boiler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1421"
+    }
+  }
+}

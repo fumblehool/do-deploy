@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 97,
+      "chineseName": "美容护肤/彩妆",
+      "translatedName": "Beauty skin care/makeup",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042950,
+          "chineseName": "美容代理加盟",
+          "translatedName": "Beauty agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 1043162,
+          "chineseName": "美甲产品",
+          "translatedName": "Nail products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 1043171,
+          "chineseName": "美妆工具",
+          "translatedName": "Beauty Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 1042634,
+          "chineseName": "面部护理",
+          "translatedName": "Facial Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 1043498,
+          "chineseName": "唇部护理",
+          "translatedName": "Lip Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 123650003,
+          "chineseName": "专业线护肤",
+          "translatedName": "Professional line skin care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 125070013,
+          "chineseName": "美妆日化加工",
+          "translatedName": "Beauty Cosmetic Processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 121702001,
+          "chineseName": "男士护肤",
+          "translatedName": "Men's Skin Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201304705,
+          "chineseName": "唇部彩妆",
+          "translatedName": "Lip makeup",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201307015,
+          "chineseName": "美容仪器",
+          "translatedName": "beauty instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201309707,
+          "chineseName": "精油芳疗",
+          "translatedName": "Essential Oil Aromatherapy",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201308310,
+          "chineseName": "面部精华",
+          "translatedName": "facial essence",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201307604,
+          "chineseName": "眼部彩妆",
+          "translatedName": "Eye makeup",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201303115,
+          "chineseName": "香水",
+          "translatedName": "Perfume",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201303117,
+          "chineseName": "眼部护理",
+          "translatedName": "Eye Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201308710,
+          "chineseName": "面膜、面膜粉",
+          "translatedName": "Mask, mask powder",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 202027801,
+          "chineseName": "纹绣用品",
+          "translatedName": "Embroidery supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 201962701,
+          "chineseName": "外用液体敷料（医疗器械）",
+          "translatedName": "Liquid Dressing for External Use (medical devices)",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        },
+        {
+          "categoryId": 82101,
+          "chineseName": "面部彩妆",
+          "translatedName": "facial makeup",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 97
+        }
+      ]
+    }
+  }
+}

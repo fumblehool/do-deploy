@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034827,
+      "chineseName": "电子磁性材料(电磁铁)",
+      "translatedName": "Electronic magnetic materials (electromagnets)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1037160"
+    }
+  }
+}

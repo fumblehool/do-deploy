@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048300,
+      "chineseName": "运动户外包",
+      "translatedName": "Sports outdoor bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

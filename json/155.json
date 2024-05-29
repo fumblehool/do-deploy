@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 155,
+      "chineseName": "干电池",
+      "translatedName": "dry battery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10204"
+    }
+  }
+}

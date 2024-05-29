@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303115,
+      "chineseName": "香水",
+      "translatedName": "Perfume",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201309513,
+          "chineseName": "固体香膏",
+          "translatedName": "solid balm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303115
+        },
+        {
+          "categoryId": 201302810,
+          "chineseName": "其他香水",
+          "translatedName": "Other perfumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303115
+        },
+        {
+          "categoryId": 201308508,
+          "chineseName": "男士香水",
+          "translatedName": "Men's perfume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303115
+        },
+        {
+          "categoryId": 201305309,
+          "chineseName": "中性香水",
+          "translatedName": "Neutral perfume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303115
+        },
+        {
+          "categoryId": 82105,
+          "chineseName": "女士香水",
+          "translatedName": "Ladies perfume",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303115
+        }
+      ]
+    }
+  }
+}

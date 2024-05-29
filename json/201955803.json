@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201955803,
+      "chineseName": "液体类敷料",
+      "translatedName": "liquid dressing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201962701"
+    }
+  }
+}

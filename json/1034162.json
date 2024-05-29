@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034162,
+      "chineseName": "羽绒服",
+      "translatedName": "Down jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127360010"
+    }
+  }
+}

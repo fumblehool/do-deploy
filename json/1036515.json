@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036515,
+      "chineseName": "建筑安装维修",
+      "translatedName": "Building installation and maintenance",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2823"
+    }
+  }
+}

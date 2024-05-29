@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033182,
+      "chineseName": "其他楼宇对讲设备",
+      "translatedName": "Other building intercom equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3020"
+    }
+  }
+}

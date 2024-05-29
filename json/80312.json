@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80312,
+      "chineseName": "羧酸",
+      "translatedName": "carboxylic acid",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035963,
+          "chineseName": "甲酸",
+          "translatedName": "formic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035964,
+          "chineseName": "醋酸",
+          "translatedName": "Acetic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035965,
+          "chineseName": "丙酸",
+          "translatedName": "propionic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035966,
+          "chineseName": "丙烯酸",
+          "translatedName": "Acrylic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035967,
+          "chineseName": "苯甲酸",
+          "translatedName": "Benzoic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035968,
+          "chineseName": "酒石酸",
+          "translatedName": "Tartaric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035969,
+          "chineseName": "草酸",
+          "translatedName": "Oxalic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035971,
+          "chineseName": "硬脂酸",
+          "translatedName": "Stearic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035972,
+          "chineseName": "水杨酸",
+          "translatedName": "Salicylic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035974,
+          "chineseName": "油酸",
+          "translatedName": "Oleic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1035975,
+          "chineseName": "其他羧酸",
+          "translatedName": "Other carboxylic acids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036459,
+          "chineseName": "壬二酸",
+          "translatedName": "azelaic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036460,
+          "chineseName": "己酸",
+          "translatedName": "Caproic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036461,
+          "chineseName": "辛酸",
+          "translatedName": "Caprylic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036463,
+          "chineseName": "丁二酸",
+          "translatedName": "succinic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036464,
+          "chineseName": "戊酸",
+          "translatedName": "pentanoic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036465,
+          "chineseName": "月桂酸",
+          "translatedName": "lauric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1036775,
+          "chineseName": "脂肪酸",
+          "translatedName": "Fatty acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        },
+        {
+          "categoryId": 1041587,
+          "chineseName": "对苯二甲酸",
+          "translatedName": "Terephthalic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80312
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032634,
+      "chineseName": "燃气系统",
+      "translatedName": "Gas system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1350"
+    }
+  }
+}

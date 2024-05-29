@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194012,
+      "chineseName": "角度测量仪",
+      "translatedName": "Angle measuring instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121488001"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201346017,
+      "chineseName": "建材",
+      "translatedName": "Building Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032653,
+          "chineseName": "设施及施工材料",
+          "translatedName": "Facilities and construction materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        },
+        {
+          "categoryId": 1038388,
+          "chineseName": "砌筑材料",
+          "translatedName": "Masonry Materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        },
+        {
+          "categoryId": 10435,
+          "chineseName": "建筑、建材",
+          "translatedName": "Construction, building materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        },
+        {
+          "categoryId": 127896013,
+          "chineseName": "古建筑材料",
+          "translatedName": "ancient building materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        },
+        {
+          "categoryId": 201605608,
+          "chineseName": "水泥制品",
+          "translatedName": "Cement Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        },
+        {
+          "categoryId": 1315,
+          "chineseName": "建筑玻璃",
+          "translatedName": "Architectural glass",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 201346017
+        }
+      ]
+    }
+  }
+}

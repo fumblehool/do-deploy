@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200826001,
+      "chineseName": "肖特基整流器",
+      "translatedName": "Schottky Rectifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200798002"
+    }
+  }
+}

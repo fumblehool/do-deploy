@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045905,
+      "chineseName": "塑料板(卷)",
+      "translatedName": "Plastic plate (roll)",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045926,
+          "chineseName": "PEEK塑料板(卷)",
+          "translatedName": "PEEK plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045927,
+          "chineseName": "PVDF塑料板(卷)",
+          "translatedName": "PVDF plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045928,
+          "chineseName": "其他塑料板(卷)",
+          "translatedName": "Other plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045911,
+          "chineseName": "PC塑料板(卷)",
+          "translatedName": "PC plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045912,
+          "chineseName": "PP塑料板(卷)",
+          "translatedName": "PP plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045913,
+          "chineseName": "PE塑料板(卷)",
+          "translatedName": "PE plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045916,
+          "chineseName": "PVC塑料板(卷)",
+          "translatedName": "PVC plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045921,
+          "chineseName": "ABS塑料板(卷)",
+          "translatedName": "ABS plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045922,
+          "chineseName": "POM塑料板(卷)",
+          "translatedName": "POM plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045923,
+          "chineseName": "PS塑料板(卷)",
+          "translatedName": "PS plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045924,
+          "chineseName": "PMMA塑料板(卷)",
+          "translatedName": "PMMA plastic plate (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1045925,
+          "chineseName": "PTFE塑料板(卷)",
+          "translatedName": "PTFE plastic sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 1048105,
+          "chineseName": "尼龙塑料板(卷)",
+          "translatedName": "Nylon Plastic Sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 201466003,
+          "chineseName": "HDPE板(卷)",
+          "translatedName": "HDPE Sheet (Roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        },
+        {
+          "categoryId": 201471703,
+          "chineseName": "UHMWPE板(卷)",
+          "translatedName": "UHMWPE sheet (roll)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045905
+        }
+      ]
+    }
+  }
+}

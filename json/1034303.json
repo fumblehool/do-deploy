@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034303,
+      "chineseName": "道路清扫车",
+      "translatedName": "road sweeper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1209"
+    }
+  }
+}

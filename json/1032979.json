@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032979,
+      "chineseName": "书写纸",
+      "translatedName": "writing paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2112"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2840,
+      "chineseName": "商旅服务",
+      "translatedName": "Business Travel Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 281901,
+          "chineseName": "宾馆服务",
+          "translatedName": "Hotel Service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2840
+        },
+        {
+          "categoryId": 281902,
+          "chineseName": "票务服务",
+          "translatedName": "Ticketing Service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2840
+        },
+        {
+          "categoryId": 281903,
+          "chineseName": "旅游服务",
+          "translatedName": "Tourism Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2840
+        }
+      ]
+    }
+  }
+}

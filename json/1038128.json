@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038128,
+      "chineseName": "背景墙",
+      "translatedName": "background wall",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127124001,
+          "chineseName": "PVC壁纸",
+          "translatedName": "PVC wallpaper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038128
+        },
+        {
+          "categoryId": 1303,
+          "chineseName": "墙纸、壁纸",
+          "translatedName": "Wallpaper, wallpaper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038128
+        },
+        {
+          "categoryId": 201306904,
+          "chineseName": "墙布",
+          "translatedName": "Wall Cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038128
+        },
+        {
+          "categoryId": 201232303,
+          "chineseName": "软包",
+          "translatedName": "soft bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038128
+        },
+        {
+          "categoryId": 201232701,
+          "chineseName": "壁画",
+          "translatedName": "Murals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038128
+        }
+      ]
+    }
+  }
+}

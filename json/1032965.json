@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032965,
+      "chineseName": "透明纸",
+      "translatedName": "transparent paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10359"
+    }
+  }
+}

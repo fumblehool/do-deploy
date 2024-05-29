@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121782003,
+      "chineseName": "猫猫医疗药用",
+      "translatedName": "Cat Medical Medicinal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125270017"
+    }
+  }
+}

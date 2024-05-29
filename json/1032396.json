@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032396,
+      "chineseName": "流量仪表",
+      "translatedName": "Flow meter",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033909,
+          "chineseName": "其他流量仪表",
+          "translatedName": "Other flow meters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        },
+        {
+          "categoryId": 1033910,
+          "chineseName": "煤气表",
+          "translatedName": "Gas meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        },
+        {
+          "categoryId": 1033911,
+          "chineseName": "水表",
+          "translatedName": "Water meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        },
+        {
+          "categoryId": 1033914,
+          "chineseName": "流量计",
+          "translatedName": "Flowmeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        },
+        {
+          "categoryId": 1036130,
+          "chineseName": "节流装置",
+          "translatedName": "Throttling device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        },
+        {
+          "categoryId": 1036131,
+          "chineseName": "检定装置",
+          "translatedName": "Verification device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032396
+        }
+      ]
+    }
+  }
+}

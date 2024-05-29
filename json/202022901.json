@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202022901,
+      "chineseName": "化妆品礼盒包装",
+      "translatedName": "Cosmetic gift box packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202021701"
+    }
+  }
+}

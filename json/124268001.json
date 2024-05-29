@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124268001,
+      "chineseName": "微景观瓶",
+      "translatedName": "Micro landscape bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125496001"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123618004,
+      "chineseName": "LED广告标识",
+      "translatedName": "LED advertising logo",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122198006,
+          "chineseName": "LED灯箱",
+          "translatedName": "LED light box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 122276001,
+          "chineseName": "LED广告牌",
+          "translatedName": "LED billboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 121192022,
+          "chineseName": "LED指示灯",
+          "translatedName": "LED indicator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 123612007,
+          "chineseName": "LED招牌",
+          "translatedName": "LED signboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 123622008,
+          "chineseName": "其他LED广告标识",
+          "translatedName": "Other LED advertising signs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 122196009,
+          "chineseName": "LED告示牌",
+          "translatedName": "LED sign",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 122264002,
+          "chineseName": "LED发光字",
+          "translatedName": "LED luminous word",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 122268003,
+          "chineseName": "LED标识",
+          "translatedName": "LED identification",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 123610016,
+          "chineseName": "LED信号灯",
+          "translatedName": "LED signal lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        },
+        {
+          "categoryId": 126584001,
+          "chineseName": "LOGO灯/图案灯",
+          "translatedName": "LOGO light/pattern light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123618004
+        }
+      ]
+    }
+  }
+}

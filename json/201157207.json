@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157207,
+      "chineseName": "泡沫板",
+      "translatedName": "Foam board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201157906"
+    }
+  }
+}

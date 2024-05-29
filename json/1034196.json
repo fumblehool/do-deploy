@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034196,
+      "chineseName": "防伪商标",
+      "translatedName": "anti-counterfeit trademark",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3401"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121488003,
+      "chineseName": "校验仪表",
+      "translatedName": "Calibration instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121486001"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3015,
+      "chineseName": "交通安全设施",
+      "translatedName": "Traffic safety facilities",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033222,
+          "chineseName": "其他交通安全设施",
+          "translatedName": "Other traffic safety facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033223,
+          "chineseName": "安全凸面镜",
+          "translatedName": "safety convex mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033224,
+          "chineseName": "路障",
+          "translatedName": "Barricade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033225,
+          "chineseName": "防撞设施",
+          "translatedName": "Collision Avoidance Facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033226,
+          "chineseName": "防护栏",
+          "translatedName": "Protective fence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033227,
+          "chineseName": "道路减速设备",
+          "translatedName": "Road deceleration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1033229,
+          "chineseName": "交通安全服装",
+          "translatedName": "Traffic Safety Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1036742,
+          "chineseName": "道钉",
+          "translatedName": "Spike",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 1035639,
+          "chineseName": "反光材料",
+          "translatedName": "reflective material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 201275448,
+          "chineseName": "声屏障",
+          "translatedName": "Sound Barrier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 201828501,
+          "chineseName": "驱鸟器",
+          "translatedName": "bird repellent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202037202,
+          "chineseName": "道口标柱",
+          "translatedName": "crossing post",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 201810102,
+          "chineseName": "道闸",
+          "translatedName": "Gate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202027003,
+          "chineseName": "道路反光玻璃微珠",
+          "translatedName": "Road reflective glass beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202027203,
+          "chineseName": "可导向防撞垫",
+          "translatedName": "Directable crash pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202035303,
+          "chineseName": "隧道轮廓带",
+          "translatedName": "tunnel contour strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202036302,
+          "chineseName": "升降路桩",
+          "translatedName": "Lifting pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202032506,
+          "chineseName": "示警桩",
+          "translatedName": "Warning pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202028802,
+          "chineseName": "水马",
+          "translatedName": "Water Horse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202029104,
+          "chineseName": "示警墩",
+          "translatedName": "Warning pier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202030103,
+          "chineseName": "雾区防撞诱导装置",
+          "translatedName": "Anti-collision induction device in fog area",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202026407,
+          "chineseName": "交通指挥棒",
+          "translatedName": "traffic baton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202034503,
+          "chineseName": "线形诱导标",
+          "translatedName": "Linear induction standard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202030803,
+          "chineseName": "交通事故勘查箱",
+          "translatedName": "Traffic accident survey box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        },
+        {
+          "categoryId": 202030902,
+          "chineseName": "防眩板",
+          "translatedName": "Anti-glare board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3015
+        }
+      ]
+    }
+  }
+}

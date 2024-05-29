@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122350007,
+      "chineseName": "浴缸",
+      "translatedName": "Bathtub",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122384004"
+    }
+  }
+}

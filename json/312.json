@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 312,
+      "chineseName": "内衣",
+      "translatedName": "Underwear",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031904,
+          "chineseName": "其他内衣",
+          "translatedName": "Other Underwear",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 1043349,
+          "chineseName": "袜子",
+          "translatedName": "Socks",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122528003,
+          "chineseName": "胸垫、胸贴、肩带、吊袜带",
+          "translatedName": "Chest pad, chest patch, shoulder strap, garter belt",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 124188007,
+          "chineseName": "文胸",
+          "translatedName": "Bra",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122450001,
+          "chineseName": "女士内裤",
+          "translatedName": "Ladies Panties",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122478003,
+          "chineseName": "背心、裹胸、抹胸、冰丝袖套",
+          "translatedName": "Vest, breast wrap, tube top, ice silk sleeve",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122484001,
+          "chineseName": "塑身内衣",
+          "translatedName": "Body Shaping Underwear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122450002,
+          "chineseName": "轻薄材质内衣",
+          "translatedName": "Thin material underwear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122500001,
+          "chineseName": "睡衣、家居服、睡袍、浴袍",
+          "translatedName": "Pajamas, home clothes, nightgowns, bathrobes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 122558002,
+          "chineseName": "保暖内衣",
+          "translatedName": "Thermal underwear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 201909602,
+          "chineseName": "丝袜/打底袜",
+          "translatedName": "Stockings/bottomed socks",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 201835213,
+          "chineseName": "男士内裤",
+          "translatedName": "Men's Underwear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        },
+        {
+          "categoryId": 202053806,
+          "chineseName": "内衣加工定制",
+          "translatedName": "Underwear processing customization",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 312
+        }
+      ]
+    }
+  }
+}

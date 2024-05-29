@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201917002,
+      "chineseName": "液压拉伸器",
+      "translatedName": "Hydraulic Tensioner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124194006"
+    }
+  }
+}

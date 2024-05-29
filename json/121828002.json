@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121828002,
+      "chineseName": "龙猫窝、笼",
+      "translatedName": "Dragon cat's nest, cage",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121814002"
+    }
+  }
+}

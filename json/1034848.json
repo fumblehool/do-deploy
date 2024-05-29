@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034848,
+      "chineseName": "无机化工用催化剂",
+      "translatedName": "inorganic chemical catalyst",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031687"
+    }
+  }
+}

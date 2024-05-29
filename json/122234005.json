@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122234005,
+      "chineseName": "足球门、足球网",
+      "translatedName": "Football gate, football net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122226003"
+    }
+  }
+}

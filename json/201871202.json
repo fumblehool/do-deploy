@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201871202,
+      "chineseName": "天然水晶耳饰",
+      "translatedName": "Natural Crystal Earrings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648701"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3010,
+      "chineseName": "锁具",
+      "translatedName": "Locks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032177,
+          "chineseName": "锁具配件",
+          "translatedName": "Lock Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1032178,
+          "chineseName": "摩托车锁",
+          "translatedName": "Motorcycle lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1032179,
+          "chineseName": "箱包锁",
+          "translatedName": "Luggage lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1032180,
+          "chineseName": "密码锁",
+          "translatedName": "Password lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033161,
+          "chineseName": "其他锁具",
+          "translatedName": "Other locks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033162,
+          "chineseName": "磁卡锁",
+          "translatedName": "Magnetic card lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033163,
+          "chineseName": "IC卡锁",
+          "translatedName": "IC card lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033164,
+          "chineseName": "指纹锁",
+          "translatedName": "Fingerprint lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033165,
+          "chineseName": "挂锁",
+          "translatedName": "Padlock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1032181,
+          "chineseName": "自行车锁",
+          "translatedName": "Bicycle lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033166,
+          "chineseName": "家具锁、办公锁",
+          "translatedName": "Furniture lock, office lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033167,
+          "chineseName": "窗锁",
+          "translatedName": "Window lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1033168,
+          "chineseName": "机械门锁",
+          "translatedName": "Mechanical door lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 1036845,
+          "chineseName": "磁力锁",
+          "translatedName": "Magnetic lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        },
+        {
+          "categoryId": 124908001,
+          "chineseName": "智能挂锁",
+          "translatedName": "Smart Padlock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3010
+        }
+      ]
+    }
+  }
+}

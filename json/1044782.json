@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044782,
+      "chineseName": "记分牌、换人牌、战术板",
+      "translatedName": "Scoreboard, substitution card, tactical board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044780"
+    }
+  }
+}

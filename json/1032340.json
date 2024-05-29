@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032340,
+      "chineseName": "电子五金材料",
+      "translatedName": "Electronic hardware materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1037160"
+    }
+  }
+}

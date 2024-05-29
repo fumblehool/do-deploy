@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126508001,
+      "chineseName": "饮料玻璃瓶",
+      "translatedName": "beverage glass bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126506001"
+    }
+  }
+}

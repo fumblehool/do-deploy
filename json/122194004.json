@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122194004,
+      "chineseName": "毛巾毯",
+      "translatedName": "Towel Blanket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127870016"
+    }
+  }
+}

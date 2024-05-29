@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127452005,
+      "chineseName": "工作帽/职业帽",
+      "translatedName": "Working cap/occupational cap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127464010"
+    }
+  }
+}

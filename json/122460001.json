@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122460001,
+      "chineseName": "壁挂、壁饰",
+      "translatedName": "Wall hanging, wall decoration",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043469"
+    }
+  }
+}

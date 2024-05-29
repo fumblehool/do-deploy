@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034155,
+      "chineseName": "硅藻土",
+      "translatedName": "Diatomite",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "908"
+    }
+  }
+}

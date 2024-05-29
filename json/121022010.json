@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022010,
+      "chineseName": "型材",
+      "translatedName": "Profile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018005,
+          "chineseName": "槽钢",
+          "translatedName": "channel steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121018006,
+          "chineseName": "钢轨",
+          "translatedName": "Rail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121018007,
+          "chineseName": "方钢",
+          "translatedName": "square steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121046004,
+          "chineseName": "角钢",
+          "translatedName": "Angle steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121012013,
+          "chineseName": "其他型材",
+          "translatedName": "Other profiles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121046003,
+          "chineseName": "工字钢",
+          "translatedName": "I-beam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121022011,
+          "chineseName": "扁钢",
+          "translatedName": "Flat steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121022012,
+          "chineseName": "H型钢",
+          "translatedName": "H-beam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121022013,
+          "chineseName": "异型钢",
+          "translatedName": "profiled steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        },
+        {
+          "categoryId": 121022014,
+          "chineseName": "冷弯型钢",
+          "translatedName": "cold-formed steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022010
+        }
+      ]
+    }
+  }
+}

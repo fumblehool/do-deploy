@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043054,
+      "chineseName": "气动黄油枪",
+      "translatedName": "Pneumatic grease gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10355"
+    }
+  }
+}

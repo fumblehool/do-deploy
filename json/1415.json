@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1415,
+      "chineseName": "节能设备",
+      "translatedName": "Energy-saving equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034819,
+          "chineseName": "其他节能设备",
+          "translatedName": "Other energy-saving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1415
+        },
+        {
+          "categoryId": 1034820,
+          "chineseName": "节水设备",
+          "translatedName": "water saving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1415
+        },
+        {
+          "categoryId": 1034821,
+          "chineseName": "节油设备",
+          "translatedName": "Fuel-saving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1415
+        },
+        {
+          "categoryId": 1034822,
+          "chineseName": "节电设备",
+          "translatedName": "Power saving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1415
+        },
+        {
+          "categoryId": 1036431,
+          "chineseName": "节煤设备",
+          "translatedName": "Coal saving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1415
+        }
+      ]
+    }
+  }
+}

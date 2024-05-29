@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202062207,
+      "chineseName": "汽车大灯保护膜",
+      "translatedName": "Car headlight protective film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3311"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053805,
+      "chineseName": "锌铝镁",
+      "translatedName": "Zinc Aluminum Magnesium",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202057413,
+          "chineseName": "锌铝镁卷材",
+          "translatedName": "zinc aluminum magnesium coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053805
+        },
+        {
+          "categoryId": 202059905,
+          "chineseName": "锌铝镁管材",
+          "translatedName": "Zinc Aluminum Magnesium Pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053805
+        },
+        {
+          "categoryId": 202060411,
+          "chineseName": "锌铝镁钢板",
+          "translatedName": "zinc aluminum magnesium steel plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053805
+        }
+      ]
+    }
+  }
+}

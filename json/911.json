@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 911,
+      "chineseName": "磁性材料",
+      "translatedName": "magnetic material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033433,
+          "chineseName": "其他磁性材料",
+          "translatedName": "Other Magnetic Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 911
+        },
+        {
+          "categoryId": 1033434,
+          "chineseName": "软磁材料",
+          "translatedName": "soft magnetic material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 911
+        },
+        {
+          "categoryId": 1033435,
+          "chineseName": "永磁材料",
+          "translatedName": "permanent magnetic material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 911
+        }
+      ]
+    }
+  }
+}

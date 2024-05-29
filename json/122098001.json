@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122098001,
+      "chineseName": "骑行零件",
+      "translatedName": "Riding Parts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033576,
+          "chineseName": "其他非机动车配件",
+          "translatedName": "Other non-motor vehicle accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033577,
+          "chineseName": "调速转把",
+          "translatedName": "Speed control turn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033578,
+          "chineseName": "车圈",
+          "translatedName": "Rings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033579,
+          "chineseName": "闸把",
+          "translatedName": "Brake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033580,
+          "chineseName": "前叉",
+          "translatedName": "Front fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033581,
+          "chineseName": "辐条",
+          "translatedName": "Spoke",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033582,
+          "chineseName": "飞轮",
+          "translatedName": "Flywheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033583,
+          "chineseName": "车篮",
+          "translatedName": "Basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033584,
+          "chineseName": "车轴",
+          "translatedName": "Axle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033585,
+          "chineseName": "反光镜",
+          "translatedName": "Reflectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033586,
+          "chineseName": "减震器",
+          "translatedName": "shock absorber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1033587,
+          "chineseName": "车铃",
+          "translatedName": "Bell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1042212,
+          "chineseName": "自行车灯",
+          "translatedName": "Bicycle light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036031,
+          "chineseName": "自行车轮毂",
+          "translatedName": "Bicycle wheel hub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036032,
+          "chineseName": "车刹",
+          "translatedName": "Car brake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036033,
+          "chineseName": "鞍座",
+          "translatedName": "Saddle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036034,
+          "chineseName": "链条",
+          "translatedName": "Chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036035,
+          "chineseName": "曲柄",
+          "translatedName": "Crank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036036,
+          "chineseName": "车架",
+          "translatedName": "Frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 1036037,
+          "chineseName": "脚蹬",
+          "translatedName": "Pedal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 122098003,
+          "chineseName": "自行车装饰",
+          "translatedName": "Bicycle Decoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 122262001,
+          "chineseName": "自行车码表",
+          "translatedName": "Bicycle code table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 123184001,
+          "chineseName": "自行车修车工具",
+          "translatedName": "Bicycle Repair Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        },
+        {
+          "categoryId": 123866003,
+          "chineseName": "自行车轮胎",
+          "translatedName": "bicycle tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122098001
+        }
+      ]
+    }
+  }
+}

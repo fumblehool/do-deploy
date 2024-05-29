@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055111,
+      "chineseName": "水力能源",
+      "translatedName": "Hydraulic energy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202060417,
+          "chineseName": "水轮发电机",
+          "translatedName": "Hydro-generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055111
+        },
+        {
+          "categoryId": 202051308,
+          "chineseName": "其他水力能源产品",
+          "translatedName": "Other Hydro Energy Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055111
+        },
+        {
+          "categoryId": 202054111,
+          "chineseName": "水泵发电机",
+          "translatedName": "Water pump generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055111
+        },
+        {
+          "categoryId": 202064010,
+          "chineseName": "波浪发电机",
+          "translatedName": "wave generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055111
+        },
+        {
+          "categoryId": 202051615,
+          "chineseName": "涡轮发电机",
+          "translatedName": "turbine generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055111
+        }
+      ]
+    }
+  }
+}

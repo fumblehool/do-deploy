@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201559209,
+      "chineseName": "头花",
+      "translatedName": "flower head",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1752"
+    }
+  }
+}

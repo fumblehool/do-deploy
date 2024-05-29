@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033221,
+      "chineseName": "防火设备",
+      "translatedName": "FIRE PROTECTION EQUIPMENT",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "90"
+    }
+  }
+}

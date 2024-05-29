@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121184001,
+      "chineseName": "滚压刀",
+      "translatedName": "rolling knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10350"
+    }
+  }
+}

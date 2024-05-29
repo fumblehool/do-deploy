@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033434,
+      "chineseName": "软磁材料",
+      "translatedName": "soft magnetic material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "911"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033887,
+      "chineseName": "压力试验机",
+      "translatedName": "Pressure testing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10210"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610012,
+      "chineseName": "LED测试服务",
+      "translatedName": "LED Testing Services",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616014"
+    }
+  }
+}

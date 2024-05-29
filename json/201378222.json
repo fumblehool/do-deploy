@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201378222,
+      "chineseName": "男式民族服装",
+      "translatedName": "men's national costume",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201388502,
+          "chineseName": "其他民族服装",
+          "translatedName": "Other national costumes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201378222
+        },
+        {
+          "categoryId": 201389901,
+          "chineseName": "男式汉服",
+          "translatedName": "Men's Hanfu",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201378222
+        },
+        {
+          "categoryId": 201373524,
+          "chineseName": "男式唐装",
+          "translatedName": "men's tang suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201378222
+        },
+        {
+          "categoryId": 201371829,
+          "chineseName": "中山装",
+          "translatedName": "Zhongshan Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201378222
+        }
+      ]
+    }
+  }
+}

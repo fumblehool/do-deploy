@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201834402,
+      "chineseName": "工业用清洗剂",
+      "translatedName": "Industrial cleaning agent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036727,
+          "chineseName": "金属清洗剂",
+          "translatedName": "metal cleaning agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201834402
+        },
+        {
+          "categoryId": 834,
+          "chineseName": "其他工业用清洗剂",
+          "translatedName": "Other industrial cleaning agents",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201834402
+        }
+      ]
+    }
+  }
+}

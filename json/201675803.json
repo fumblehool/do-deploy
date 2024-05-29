@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201675803,
+      "chineseName": "小军鼓",
+      "translatedName": "snare drum",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201649001"
+    }
+  }
+}

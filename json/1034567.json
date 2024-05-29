@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034567,
+      "chineseName": "石油产品添加剂",
+      "translatedName": "Petroleum Product Additives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 100110,
+          "chineseName": "其他添加剂",
+          "translatedName": "Other Additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1036455,
+          "chineseName": "沥青添加剂",
+          "translatedName": "asphalt additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1036456,
+          "chineseName": "汽油添加剂",
+          "translatedName": "gasoline additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1036457,
+          "chineseName": "柴油添加剂",
+          "translatedName": "diesel additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1036458,
+          "chineseName": "煤油添加剂",
+          "translatedName": "kerosene additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1037255,
+          "chineseName": "燃气添加剂",
+          "translatedName": "gas additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1035626,
+          "chineseName": "润滑油添加剂",
+          "translatedName": "lubricating oil additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        },
+        {
+          "categoryId": 1035627,
+          "chineseName": "燃料油添加剂",
+          "translatedName": "fuel oil additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034567
+        }
+      ]
+    }
+  }
+}

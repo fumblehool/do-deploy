@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201626851,
+      "chineseName": "直播声卡套装",
+      "translatedName": "Live Sound Card Package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201626003"
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045579,
+      "chineseName": "商业、办公家具",
+      "translatedName": "Commercial, office furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045580,
+          "chineseName": "办公沙发",
+          "translatedName": "Office Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045581,
+          "chineseName": "大班桌",
+          "translatedName": "Taipan Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045582,
+          "chineseName": "办公桌",
+          "translatedName": "Desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045583,
+          "chineseName": "办公屏风",
+          "translatedName": "Office screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045584,
+          "chineseName": "大班椅",
+          "translatedName": "Big chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045585,
+          "chineseName": "办公椅",
+          "translatedName": "Office Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1045586,
+          "chineseName": "办公柜",
+          "translatedName": "Office cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 1046398,
+          "chineseName": "办公案、台",
+          "translatedName": "Office case, desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122794007,
+          "chineseName": "按摩床",
+          "translatedName": "Massage bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122796005,
+          "chineseName": "药柜",
+          "translatedName": "Medicine cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 121488007,
+          "chineseName": "美发椅",
+          "translatedName": "Hairdressing Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 123608023,
+          "chineseName": "电脑桌",
+          "translatedName": "computer desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 121496010,
+          "chineseName": "排椅、等候椅",
+          "translatedName": "Rown chair, waiting chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 121494016,
+          "chineseName": "酒吧椅",
+          "translatedName": "Bar Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122932002,
+          "chineseName": "美发镜台",
+          "translatedName": "Hairdressing Mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122936002,
+          "chineseName": "铁艺/钢木床",
+          "translatedName": "Iron/steel wood bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122936004,
+          "chineseName": "洗头床",
+          "translatedName": "shampoo bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 122816001,
+          "chineseName": "讲台",
+          "translatedName": "Podium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201170824,
+          "chineseName": "学校讲台",
+          "translatedName": "School podium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201309602,
+          "chineseName": "培训椅",
+          "translatedName": "Training Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201353218,
+          "chineseName": "娱乐/酒吧/KTV家具",
+          "translatedName": "Entertainment/Bar/KTV Furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201306207,
+          "chineseName": "护理床",
+          "translatedName": "nursing bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201351509,
+          "chineseName": "接待椅",
+          "translatedName": "Reception Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201357516,
+          "chineseName": "餐饮/烘焙家具",
+          "translatedName": "Catering/baking furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201357911,
+          "chineseName": "火锅桌",
+          "translatedName": "Hot pot table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201623802,
+          "chineseName": "电竞桌",
+          "translatedName": "E-sports table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201348916,
+          "chineseName": "美甲台",
+          "translatedName": "Nail table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201348917,
+          "chineseName": "网咖桌",
+          "translatedName": "Internet Cafe Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201469307,
+          "chineseName": "书桌",
+          "translatedName": "Desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201306504,
+          "chineseName": "会议桌",
+          "translatedName": "Conference table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201352114,
+          "chineseName": "琴桌",
+          "translatedName": "piano table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201352214,
+          "chineseName": "护理屏风",
+          "translatedName": "Nursing Screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201348823,
+          "chineseName": "沙发卡座",
+          "translatedName": "Sofa card holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201355312,
+          "chineseName": "花箱",
+          "translatedName": "Flower box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201355507,
+          "chineseName": "培训台",
+          "translatedName": "Training Desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201355717,
+          "chineseName": "电话亭",
+          "translatedName": "Telephone Booth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201355814,
+          "chineseName": "酒店家具",
+          "translatedName": "Hotel Furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201301905,
+          "chineseName": "培训桌",
+          "translatedName": "Training table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201355116,
+          "chineseName": "复健椅",
+          "translatedName": "Rehabilitation Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201306205,
+          "chineseName": "电竞椅",
+          "translatedName": "E-sports chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201350112,
+          "chineseName": "酒吧台",
+          "translatedName": "Bar counter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 201770702,
+          "chineseName": "升降桌",
+          "translatedName": "Lifting table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        },
+        {
+          "categoryId": 202062716,
+          "chineseName": "更衣柜",
+          "translatedName": "Locker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045579
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035509,
+      "chineseName": "雕刻刀",
+      "translatedName": "carving knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10352"
+    }
+  }
+}

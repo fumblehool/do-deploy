@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201152312,
+      "chineseName": "斗篷",
+      "translatedName": "Cloak",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127508004"
+    }
+  }
+}

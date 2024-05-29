@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038778,
+      "chineseName": "易拉得、易拉扣",
+      "translatedName": "Easy pull, easy pull buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124904001"
+    }
+  }
+}

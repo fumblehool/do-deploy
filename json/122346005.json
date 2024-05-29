@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122346005,
+      "chineseName": "酒架",
+      "translatedName": "Wine Rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122320004"
+    }
+  }
+}

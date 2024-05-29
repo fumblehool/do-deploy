@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123286006,
+      "chineseName": "不锈钢弹簧线",
+      "translatedName": "Stainless steel spring wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123284006"
+    }
+  }
+}

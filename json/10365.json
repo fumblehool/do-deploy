@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10365,
+      "chineseName": "塑料包装",
+      "translatedName": "Plastic Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033016,
+          "chineseName": "其他塑料包装容器",
+          "translatedName": "Other Plastic Packaging Containers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1033018,
+          "chineseName": "塑料桶",
+          "translatedName": "plastic bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1033019,
+          "chineseName": "塑料瓶、壶",
+          "translatedName": "Plastic bottles, pots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1033020,
+          "chineseName": "塑料箱",
+          "translatedName": "Plastic box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1033021,
+          "chineseName": "塑料盒",
+          "translatedName": "plastic box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1033023,
+          "chineseName": "塑料包装杯",
+          "translatedName": "plastic packaging cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1042825,
+          "chineseName": "塑料罐",
+          "translatedName": "Plastic cans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        },
+        {
+          "categoryId": 1036061,
+          "chineseName": "塑料软管包装",
+          "translatedName": "Plastic Hose Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10365
+        }
+      ]
+    }
+  }
+}

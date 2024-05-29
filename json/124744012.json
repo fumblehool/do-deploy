@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744012,
+      "chineseName": "婴幼儿果肉条",
+      "translatedName": "Infant pulp strip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734007"
+    }
+  }
+}

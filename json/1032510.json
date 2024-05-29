@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032510,
+      "chineseName": "拖拉机",
+      "translatedName": "Tractor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "138"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122252003,
+      "chineseName": "羽毛球网、球柱",
+      "translatedName": "Badminton net, ball column",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044819"
+    }
+  }
+}

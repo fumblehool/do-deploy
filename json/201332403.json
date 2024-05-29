@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201332403,
+      "chineseName": "生命科学",
+      "translatedName": "Life science",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201336604,
+          "chineseName": "酶抑制剂",
+          "translatedName": "enzyme inhibitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201337103,
+          "chineseName": "色谱耗材",
+          "translatedName": "Chromatography Consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201345401,
+          "chineseName": "细胞培养",
+          "translatedName": "cell culture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201331206,
+          "chineseName": "生物缓冲液",
+          "translatedName": "Biological buffer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201335205,
+          "chineseName": "分子生物学",
+          "translatedName": "Molecular Biology",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201335403,
+          "chineseName": "蛋白质研究",
+          "translatedName": "protein research",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201333305,
+          "chineseName": "细胞生物学",
+          "translatedName": "Cell Biology",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201333304,
+          "chineseName": "微生物检测",
+          "translatedName": "Microbiological detection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        },
+        {
+          "categoryId": 201337902,
+          "chineseName": "酶",
+          "translatedName": "Enzyme",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201332403
+        }
+      ]
+    }
+  }
+}

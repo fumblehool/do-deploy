@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033909,
+      "chineseName": "其他流量仪表",
+      "translatedName": "Other flow meters",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032396"
+    }
+  }
+}

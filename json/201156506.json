@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156506,
+      "chineseName": "其他3D打印线材",
+      "translatedName": "Other 3D Printing Wires",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201156305"
+    }
+  }
+}

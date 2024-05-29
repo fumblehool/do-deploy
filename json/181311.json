@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 181311,
+      "chineseName": "其他过家家玩具",
+      "translatedName": "Other house toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962011"
+    }
+  }
+}

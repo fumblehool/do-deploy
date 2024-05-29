@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123104002,
+      "chineseName": "风琴包、文件包",
+      "translatedName": "Organ bag, file bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2122"
+    }
+  }
+}

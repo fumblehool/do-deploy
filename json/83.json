@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 83,
+      "chineseName": "纸浆",
+      "translatedName": "Pulp",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032944,
+          "chineseName": "其他纸浆",
+          "translatedName": "Other Pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 1032945,
+          "chineseName": "草浆",
+          "translatedName": "Straw pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 1032946,
+          "chineseName": "木浆",
+          "translatedName": "wood pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 1032947,
+          "chineseName": "废纸浆",
+          "translatedName": "waste paper pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202028102,
+          "chineseName": "蔗渣浆",
+          "translatedName": "bagasse pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202036701,
+          "chineseName": "稻草浆",
+          "translatedName": "rice straw pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202036801,
+          "chineseName": "苇浆",
+          "translatedName": "reed pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202033702,
+          "chineseName": "蛋白质纸浆",
+          "translatedName": "protein pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202033901,
+          "chineseName": "矿物纸浆",
+          "translatedName": "mineral pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202029303,
+          "chineseName": "竹浆",
+          "translatedName": "bamboo pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202029703,
+          "chineseName": "麻浆",
+          "translatedName": "hemp pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202025804,
+          "chineseName": "棉浆",
+          "translatedName": "cotton pulp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        },
+        {
+          "categoryId": 202034001,
+          "chineseName": "破布浆",
+          "translatedName": "rag slurry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 83
+        }
+      ]
+    }
+  }
+}

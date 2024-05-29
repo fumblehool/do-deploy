@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033625,
+      "chineseName": "二手船舶",
+      "translatedName": "Second-hand ship",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10103"
+    }
+  }
+}

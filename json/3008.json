@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3008,
+      "chineseName": "集成防盗报警系统",
+      "translatedName": "Integrated Burglar Alarm System",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3002"
+    }
+  }
+}

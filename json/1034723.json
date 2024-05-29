@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034723,
+      "chineseName": "制冷压缩机",
+      "translatedName": "Refrigeration compressor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031664"
+    }
+  }
+}

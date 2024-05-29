@@ -1,0 +1,433 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123754001,
+      "chineseName": "智能设备",
+      "translatedName": "Smart Devices",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037157,
+          "chineseName": "智能网络设备",
+          "translatedName": "intelligent network equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 121624001,
+          "chineseName": "智能手表",
+          "translatedName": "Smart Watch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123736004,
+          "chineseName": "智能项链",
+          "translatedName": "Smart Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123736005,
+          "chineseName": "智能钱包",
+          "translatedName": "Smart Wallet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123736006,
+          "chineseName": "智能肌肤测试仪",
+          "translatedName": "Smart skin tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123736007,
+          "chineseName": "老人智能穿戴设备",
+          "translatedName": "Smart wearable devices for the elderly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124734030,
+          "chineseName": "智能插座",
+          "translatedName": "Intelligent socket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124810005,
+          "chineseName": "智能手表保护壳/套",
+          "translatedName": "Smart Watch Case/Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124810006,
+          "chineseName": "智能手表表带",
+          "translatedName": "Smart Watch Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124810007,
+          "chineseName": "智能设备充电器",
+          "translatedName": "Smart Device Charger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124736056,
+          "chineseName": "MID电话机",
+          "translatedName": "MID Telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124776005,
+          "chineseName": "智能手环腕带",
+          "translatedName": "Smart bracelet wristband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124776006,
+          "chineseName": "智能设备数据线",
+          "translatedName": "Smart device data cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124806003,
+          "chineseName": "智能手表贴膜",
+          "translatedName": "Smart Watch Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123760002,
+          "chineseName": "智能计步器",
+          "translatedName": "Intelligent pedometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123760003,
+          "chineseName": "保健穿戴设备",
+          "translatedName": "Health care wearable equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123760004,
+          "chineseName": "智能设备配件",
+          "translatedName": "Smart Device Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124908002,
+          "chineseName": "智能摄像头",
+          "translatedName": "Intelligent camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123650001,
+          "chineseName": "智能防丢器",
+          "translatedName": "Intelligent anti-loss device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124736033,
+          "chineseName": "智能语音设备",
+          "translatedName": "Intelligent voice devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124746027,
+          "chineseName": "智能报警器",
+          "translatedName": "Intelligent alarm",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123756001,
+          "chineseName": "智能手环",
+          "translatedName": "Smart bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123756003,
+          "chineseName": "智能手镯",
+          "translatedName": "Smart Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123758004,
+          "chineseName": "智能头箍",
+          "translatedName": "Smart headband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123758003,
+          "chineseName": "智能眼镜",
+          "translatedName": "Smart Glasses",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124740027,
+          "chineseName": "智能家教机",
+          "translatedName": "Intelligent family education machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124740028,
+          "chineseName": "智能触碰设备",
+          "translatedName": "Smart Touch Devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124744043,
+          "chineseName": "智能排插",
+          "translatedName": "Intelligent row and plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124744046,
+          "chineseName": "智能路由器",
+          "translatedName": "intelligent router",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124744047,
+          "chineseName": "智能摄像机",
+          "translatedName": "Intelligent camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124902001,
+          "chineseName": "智能按摩贴",
+          "translatedName": "Smart Massage Paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124904002,
+          "chineseName": "智能夹子",
+          "translatedName": "Smart Clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124906001,
+          "chineseName": "智能眼罩",
+          "translatedName": "Intelligent eye mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123648002,
+          "chineseName": "智能遥控器",
+          "translatedName": "Intelligent remote control",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123860004,
+          "chineseName": "智能耳机",
+          "translatedName": "Smart headphones",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124580001,
+          "chineseName": "智能影音",
+          "translatedName": "Smart AV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124582001,
+          "chineseName": "智能安防监控",
+          "translatedName": "Intelligent security monitoring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124746022,
+          "chineseName": "智能安防监控配件",
+          "translatedName": "Intelligent security monitoring accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123752002,
+          "chineseName": "智能跟踪器",
+          "translatedName": "Smart Tracker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123752003,
+          "chineseName": "智能戒指",
+          "translatedName": "Smart Ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123752004,
+          "chineseName": "其他智能设备",
+          "translatedName": "Other Smart Devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123754004,
+          "chineseName": "智能标签、名片",
+          "translatedName": "Smart labels, business cards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123754005,
+          "chineseName": "儿童智能穿戴设备",
+          "translatedName": "Children's smart wearable devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 123754006,
+          "chineseName": "头戴式显示设备",
+          "translatedName": "Head-mounted display device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 124824005,
+          "chineseName": "3C智能机器人",
+          "translatedName": "3C intelligent robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        },
+        {
+          "categoryId": 201133701,
+          "chineseName": "4G智能设备",
+          "translatedName": "4G Smart Devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123754001
+        }
+      ]
+    }
+  }
+}

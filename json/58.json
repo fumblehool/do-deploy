@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 58,
+      "chineseName": "灯饰照明",
+      "translatedName": "Lighting",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10217,
+          "chineseName": "室外照明灯具",
+          "translatedName": "Outdoor lighting fixtures",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 10219,
+          "chineseName": "白炽灯",
+          "translatedName": "Incandescent lamp",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 10220,
+          "chineseName": "灯具灯饰",
+          "translatedName": "Lamps and lanterns lighting",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1035087,
+          "chineseName": "冷光源",
+          "translatedName": "cold light source",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 10227,
+          "chineseName": "灯具配附件",
+          "translatedName": "Lighting accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1034962,
+          "chineseName": "其他照明工业",
+          "translatedName": "Other lighting industries",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1034964,
+          "chineseName": "专门用途灯具",
+          "translatedName": "Special Purpose Lamps",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1034967,
+          "chineseName": "指示灯具",
+          "translatedName": "INDICATING LIGHTING",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1034980,
+          "chineseName": "库存照明器材",
+          "translatedName": "Inventory Lighting Fixtures",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1034981,
+          "chineseName": "照明器材项目合作",
+          "translatedName": "Lighting equipment project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1035250,
+          "chineseName": "电光源材料",
+          "translatedName": "Electric light source material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123610013,
+          "chineseName": "LED封装器件",
+          "translatedName": "LED Packaging Devices",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123620004,
+          "chineseName": "LED原料与辅料",
+          "translatedName": "LED raw materials and accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123620013,
+          "chineseName": "LED生产及检测设备",
+          "translatedName": "LED production and testing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 124268005,
+          "chineseName": "照明电筒",
+          "translatedName": "lighting flashlight",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123616005,
+          "chineseName": "LED外延及芯片",
+          "translatedName": "LED epitaxial and chip",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123616020,
+          "chineseName": "LED照明模组",
+          "translatedName": "LED lighting module",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 121192010,
+          "chineseName": "独立光源",
+          "translatedName": "Independent light source",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123612008,
+          "chineseName": "LED显示屏",
+          "translatedName": "LED display",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123612012,
+          "chineseName": "OLED",
+          "translatedName": "OLED",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 122250002,
+          "chineseName": "其他LED",
+          "translatedName": "Other LEDs",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123616010,
+          "chineseName": "LED驱动与控制",
+          "translatedName": "LED driver and control",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123616014,
+          "chineseName": "LED配套服务",
+          "translatedName": "LED supporting services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123608008,
+          "chineseName": "LED背光源",
+          "translatedName": "LED backlight",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 123618004,
+          "chineseName": "LED广告标识",
+          "translatedName": "LED advertising logo",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 201303723,
+          "chineseName": "LED灯串",
+          "translatedName": "LED light string",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 1330,
+          "chineseName": "台灯夜灯",
+          "translatedName": "Table Lamp Night Lamp",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 201270263,
+          "chineseName": "商业照明",
+          "translatedName": "Commercial Lighting",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 201903201,
+          "chineseName": "无主灯照明",
+          "translatedName": "Lighting without main lamp",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        },
+        {
+          "categoryId": 527,
+          "chineseName": "气体放电灯",
+          "translatedName": "gas discharge lamp",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 58
+        }
+      ]
+    }
+  }
+}

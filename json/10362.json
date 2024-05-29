@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10362,
+      "chineseName": "绳索、扎带",
+      "translatedName": "Ropes, ties",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036292,
+          "chineseName": "束线带",
+          "translatedName": "cable tie",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036258,
+          "chineseName": "其他绳索、扎带",
+          "translatedName": "Other ropes, ties",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036259,
+          "chineseName": "捆扎绳",
+          "translatedName": "Strapping rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036260,
+          "chineseName": "结束带",
+          "translatedName": "end belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036261,
+          "chineseName": "行李绳",
+          "translatedName": "Luggage rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036262,
+          "chineseName": "捆绑带",
+          "translatedName": "Bundling Strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        },
+        {
+          "categoryId": 1036263,
+          "chineseName": "打包带",
+          "translatedName": "packing belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10362
+        }
+      ]
+    }
+  }
+}

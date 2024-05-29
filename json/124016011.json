@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016011,
+      "chineseName": "身体防护",
+      "translatedName": "Body Protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033211,
+          "chineseName": "其他身体防护",
+          "translatedName": "Other body protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124022011,
+          "chineseName": "防化服",
+          "translatedName": "Chemical protective clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124022012,
+          "chineseName": "医用防护服",
+          "translatedName": "Medical protective clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124020008,
+          "chineseName": "隔热服",
+          "translatedName": "Insulation clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124020009,
+          "chineseName": "防静电服",
+          "translatedName": "Anti-static clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124014014,
+          "chineseName": "防尘服",
+          "translatedName": "Dust-proof clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124000013,
+          "chineseName": "消防服",
+          "translatedName": "Fire Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 124000014,
+          "chineseName": "电焊服",
+          "translatedName": "Welding clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        },
+        {
+          "categoryId": 201306234,
+          "chineseName": "劳保服",
+          "translatedName": "Labor protection clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016011
+        }
+      ]
+    }
+  }
+}

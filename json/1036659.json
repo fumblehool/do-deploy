@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036659,
+      "chineseName": "身份证识别仪",
+      "translatedName": "ID card recognition instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3001"
+    }
+  }
+}

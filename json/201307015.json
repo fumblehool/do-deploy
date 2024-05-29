@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201307015,
+      "chineseName": "美容仪器",
+      "translatedName": "beauty instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123696002,
+          "chineseName": "瘦脸工具",
+          "translatedName": "Face-lift tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307015
+        },
+        {
+          "categoryId": 123702001,
+          "chineseName": "美容棒",
+          "translatedName": "Beauty Stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307015
+        },
+        {
+          "categoryId": 201302408,
+          "chineseName": "纹身工具",
+          "translatedName": "Tattoo Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307015
+        }
+      ]
+    }
+  }
+}

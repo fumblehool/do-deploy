@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201153906,
+      "chineseName": "一次性浴巾",
+      "translatedName": "Disposable bath towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201148907"
+    }
+  }
+}

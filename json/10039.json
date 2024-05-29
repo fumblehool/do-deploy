@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10039,
+      "chineseName": "其他果酱",
+      "translatedName": "Other Jams",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125390001"
+    }
+  }
+}

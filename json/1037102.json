@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037102,
+      "chineseName": "氯化亚砜",
+      "translatedName": "Thionyl chloride",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80304"
+    }
+  }
+}

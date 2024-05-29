@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125730002,
+      "chineseName": "情侣/制服/表演服",
+      "translatedName": "Couple/Uniform/Performance Clothes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043051,
+      "chineseName": "气动铆钉枪",
+      "translatedName": "pneumatic rivet gun",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10355"
+    }
+  }
+}

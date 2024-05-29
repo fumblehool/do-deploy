@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034279,
+      "chineseName": "废镍",
+      "translatedName": "Scrap Nickel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "912"
+    }
+  }
+}

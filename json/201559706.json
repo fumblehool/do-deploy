@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201559706,
+      "chineseName": "羽绒马甲",
+      "translatedName": "Down vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552814"
+    }
+  }
+}

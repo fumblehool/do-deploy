@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303725,
+      "chineseName": "口罩呼吸阀",
+      "translatedName": "Mask breathing valve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124014010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201239402,
+      "chineseName": "饰品扣",
+      "translatedName": "Jewelry buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201233908"
+    }
+  }
+}

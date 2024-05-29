@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036079,
+      "chineseName": "转让",
+      "translatedName": "Transfer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032073,
+          "chineseName": "商标转让",
+          "translatedName": "trademark transfer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036079
+        },
+        {
+          "categoryId": 1032074,
+          "chineseName": "技术转让",
+          "translatedName": "Technology transfer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036079
+        },
+        {
+          "categoryId": 1036080,
+          "chineseName": "其他转让",
+          "translatedName": "Other transfers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036079
+        },
+        {
+          "categoryId": 177,
+          "chineseName": "专利版权转让",
+          "translatedName": "transfer of patent copyright",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036079
+        },
+        {
+          "categoryId": 2837,
+          "chineseName": "产权债权转让",
+          "translatedName": "Transfer of property rights claims",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036079
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125492001,
+      "chineseName": "盆栽、盆景",
+      "translatedName": "Potted plants, bonsai",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045490,
+          "chineseName": "观赏凤梨",
+          "translatedName": "Ornamental pineapple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492001
+        },
+        {
+          "categoryId": 1045491,
+          "chineseName": "兰科植物",
+          "translatedName": "orchid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492001
+        },
+        {
+          "categoryId": 1045487,
+          "chineseName": "盆景",
+          "translatedName": "Bonsai",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492001
+        },
+        {
+          "categoryId": 124190012,
+          "chineseName": "盆栽",
+          "translatedName": "potted plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125492001
+        }
+      ]
+    }
+  }
+}

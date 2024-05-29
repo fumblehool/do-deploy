@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034125,
+      "chineseName": "频道转换器",
+      "translatedName": "Channel Changer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3419"
+    }
+  }
+}

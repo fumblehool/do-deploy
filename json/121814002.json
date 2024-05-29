@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121814002,
+      "chineseName": "小宠及用品",
+      "translatedName": "Small pets and supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121852001,
+          "chineseName": "兔子",
+          "translatedName": "Rabbit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121854001,
+          "chineseName": "鸟类",
+          "translatedName": "Birds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121854002,
+          "chineseName": "鸟食",
+          "translatedName": "Bird food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121856001,
+          "chineseName": "兔子窝、笼",
+          "translatedName": "Rabbit nest, cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121860001,
+          "chineseName": "仓鼠玩具",
+          "translatedName": "Hamster toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121844002,
+          "chineseName": "仓鼠零食",
+          "translatedName": "Hamster Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121850002,
+          "chineseName": "仓鼠清洁用品",
+          "translatedName": "Hamster Cleaning Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121782004,
+          "chineseName": "龙猫",
+          "translatedName": "Totoro",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121784005,
+          "chineseName": "仓鼠",
+          "translatedName": "Hamster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121814003,
+          "chineseName": "仓鼠主粮",
+          "translatedName": "hamster staple food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121814004,
+          "chineseName": "其他小宠用品",
+          "translatedName": "Other small pet supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121828002,
+          "chineseName": "龙猫窝、笼",
+          "translatedName": "Dragon cat's nest, cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121774004,
+          "chineseName": "其他小宠",
+          "translatedName": "Other small pets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121774005,
+          "chineseName": "兔子主粮",
+          "translatedName": "rabbit staple food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121776004,
+          "chineseName": "仓鼠窝、笼",
+          "translatedName": "Hamster nest, cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121778006,
+          "chineseName": "龙猫主粮",
+          "translatedName": "chinchilla staple food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121778007,
+          "chineseName": "龙猫清洁用品",
+          "translatedName": "chinchilla cleaning supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121810005,
+          "chineseName": "鸟笼",
+          "translatedName": "Birdcage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121836004,
+          "chineseName": "龙猫零食",
+          "translatedName": "Chinchilla Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121862004,
+          "chineseName": "龙猫生活用品",
+          "translatedName": "Totoro daily necessities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        },
+        {
+          "categoryId": 121864001,
+          "chineseName": "仓鼠生活用品",
+          "translatedName": "Hamster life supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121814002
+        }
+      ]
+    }
+  }
+}

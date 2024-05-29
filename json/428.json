@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 428,
+      "chineseName": "人造毛皮",
+      "translatedName": "artificial fur",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031715"
+    }
+  }
+}

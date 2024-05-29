@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122208005,
+      "chineseName": "羽毛球帽、网球帽",
+      "translatedName": "Badminton cap, tennis cap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044819"
+    }
+  }
+}

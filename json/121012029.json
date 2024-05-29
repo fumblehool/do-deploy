@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121012029,
+      "chineseName": "螺纹钢",
+      "translatedName": "Threaded steel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121018019,
+          "chineseName": "四级螺纹钢",
+          "translatedName": "Grade IV rebar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012029
+        },
+        {
+          "categoryId": 121018020,
+          "chineseName": "其他螺纹钢",
+          "translatedName": "Other rebar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012029
+        },
+        {
+          "categoryId": 121046015,
+          "chineseName": "精轧螺纹钢",
+          "translatedName": "finish rolling rebar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012029
+        },
+        {
+          "categoryId": 121046016,
+          "chineseName": "盘螺",
+          "translatedName": "Pan snail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012029
+        },
+        {
+          "categoryId": 121022024,
+          "chineseName": "三级螺纹钢",
+          "translatedName": "Grade III rebar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121012029
+        }
+      ]
+    }
+  }
+}

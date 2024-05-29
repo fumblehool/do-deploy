@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034968,
+      "chineseName": "设备指示灯",
+      "translatedName": "Device indicator light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034967"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201973702,
+      "chineseName": "耳挂",
+      "translatedName": "Ear Hanging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122704002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035806,
+      "chineseName": "服装加工设备零部件",
+      "translatedName": "Garment processing equipment parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "329"
+    }
+  }
+}

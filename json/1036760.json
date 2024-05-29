@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036760,
+      "chineseName": "工业润滑脂",
+      "translatedName": "industrial grease",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033682"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042703,
+      "chineseName": "烘焙原辅料",
+      "translatedName": "Baking raw materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042708,
+          "chineseName": "可可豆",
+          "translatedName": "cocoa beans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042703
+        },
+        {
+          "categoryId": 125394002,
+          "chineseName": "烘焙辅料类",
+          "translatedName": "Baking Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042703
+        },
+        {
+          "categoryId": 201337401,
+          "chineseName": "烘焙原料",
+          "translatedName": "baking raw materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042703
+        }
+      ]
+    }
+  }
+}

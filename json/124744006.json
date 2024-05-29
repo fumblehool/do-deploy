@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744006,
+      "chineseName": "男士手拿包",
+      "translatedName": "Men's Clutch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121658001"
+    }
+  }
+}

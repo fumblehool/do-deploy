@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032954,
+      "chineseName": "水印纸",
+      "translatedName": "Watermark Paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10358"
+    }
+  }
+}

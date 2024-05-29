@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200778003,
+      "chineseName": "变容二极管",
+      "translatedName": "varactor diode",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200804003"
+    }
+  }
+}

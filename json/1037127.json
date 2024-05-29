@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037127,
+      "chineseName": "对硝基苯酚",
+      "translatedName": "p-Nitrophenol",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80308"
+    }
+  }
+}

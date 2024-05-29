@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80204,
+      "chineseName": "氧化物",
+      "translatedName": "Oxide",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034636,
+          "chineseName": "锑氧化物",
+          "translatedName": "antimony oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034637,
+          "chineseName": "铬氧化物",
+          "translatedName": "chromium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034638,
+          "chineseName": "铅氧化物",
+          "translatedName": "lead oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034639,
+          "chineseName": "锰氧化物",
+          "translatedName": "manganese oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034640,
+          "chineseName": "钙氧化物",
+          "translatedName": "calcium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034641,
+          "chineseName": "钡氧化物",
+          "translatedName": "barium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034642,
+          "chineseName": "铝氧化物",
+          "translatedName": "aluminum oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034643,
+          "chineseName": "锌氧化物",
+          "translatedName": "Zinc oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034644,
+          "chineseName": "镁氧化物",
+          "translatedName": "magnesium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034645,
+          "chineseName": "铜氧化物",
+          "translatedName": "copper oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034646,
+          "chineseName": "铁氧化物",
+          "translatedName": "iron oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034630,
+          "chineseName": "其他氧化物",
+          "translatedName": "Other oxides",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034631,
+          "chineseName": "硒氧化物",
+          "translatedName": "selenium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034632,
+          "chineseName": "硅氧化物",
+          "translatedName": "silicon oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034633,
+          "chineseName": "磷氧化物",
+          "translatedName": "phosphorus oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034634,
+          "chineseName": "钛氧化物",
+          "translatedName": "titanium oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        },
+        {
+          "categoryId": 1034635,
+          "chineseName": "钴氧化物",
+          "translatedName": "cobalt oxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80204
+        }
+      ]
+    }
+  }
+}

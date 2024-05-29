@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3311,
+      "chineseName": "安全/应急/自驾",
+      "translatedName": "Safety/Emergency/Self-driving",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032106,
+          "chineseName": "其他汽车安全用品",
+          "translatedName": "Other Automotive Safety Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1032108,
+          "chineseName": "警示牌",
+          "translatedName": "Warning sign",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1032109,
+          "chineseName": "汽车安全带",
+          "translatedName": "car seat belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1032110,
+          "chineseName": "车用灭火器",
+          "translatedName": "Vehicle fire extinguisher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1032111,
+          "chineseName": "倒车镜/后视镜",
+          "translatedName": "Rearview mirror/rearview mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1032114,
+          "chineseName": "汽车防盗器",
+          "translatedName": "Car anti-theft device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1036929,
+          "chineseName": "轮胎防滑链",
+          "translatedName": "tire snow chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1044056,
+          "chineseName": "汽车钥匙",
+          "translatedName": "Car Keys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1035604,
+          "chineseName": "胎压监测系统",
+          "translatedName": "Tire pressure monitoring system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1041516,
+          "chineseName": "中控锁",
+          "translatedName": "Central locking",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1041517,
+          "chineseName": "汽车儿童安全座椅",
+          "translatedName": "Car child safety seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 1041518,
+          "chineseName": "安全锤工具",
+          "translatedName": "Safety Hammer Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 123926007,
+          "chineseName": "婴童安全座椅",
+          "translatedName": "Baby Safety Seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 124742028,
+          "chineseName": "维修工具箱",
+          "translatedName": "Repair kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 124898001,
+          "chineseName": "儿童安全座椅附件",
+          "translatedName": "Child safety seat accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 124736044,
+          "chineseName": "拖车绳/网/绑带",
+          "translatedName": "Trailer rope/net/strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 124878004,
+          "chineseName": "其他车辆座椅",
+          "translatedName": "Other vehicle seats",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 201353217,
+          "chineseName": "汽车搭火线",
+          "translatedName": "Car on the line of fire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 201349501,
+          "chineseName": "车用头盔",
+          "translatedName": "car helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 201891601,
+          "chineseName": "车顶箱",
+          "translatedName": "Roof box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 3320,
+          "chineseName": "自驾装备",
+          "translatedName": "Self-driving equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 201878608,
+          "chineseName": "车顶架",
+          "translatedName": "Roof rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 3310,
+          "chineseName": "汽车锁",
+          "translatedName": "Car lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 201881607,
+          "chineseName": "车载应急尿袋",
+          "translatedName": "On-board emergency urine bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 202056207,
+          "chineseName": "汽车漆面保护膜",
+          "translatedName": "Car paint protective film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 202062207,
+          "chineseName": "汽车大灯保护膜",
+          "translatedName": "Car headlight protective film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        },
+        {
+          "categoryId": 202064008,
+          "chineseName": "汽车改色膜",
+          "translatedName": "Auto Color Change Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3311
+        }
+      ]
+    }
+  }
+}

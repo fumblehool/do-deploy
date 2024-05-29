@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037924,
+      "chineseName": "女士家居服",
+      "translatedName": "Ladies Home Clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122500001"
+    }
+  }
+}

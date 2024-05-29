@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201649701,
+      "chineseName": "圣诞树裙",
+      "translatedName": "Christmas Tree Skirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196001"
+    }
+  }
+}

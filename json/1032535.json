@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032535,
+      "chineseName": "筛分设备",
+      "translatedName": "Screening equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "915"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122404005,
+      "chineseName": "洗衣机组合柜",
+      "translatedName": "Washing machine combination cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122384004"
+    }
+  }
+}

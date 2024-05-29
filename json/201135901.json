@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201135901,
+      "chineseName": "商铺装修服务",
+      "translatedName": "Shop decoration services",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201135601"
+    }
+  }
+}

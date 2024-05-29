@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123692001,
+      "chineseName": "男式商务西服",
+      "translatedName": "Men's Business Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123694001"
+    }
+  }
+}

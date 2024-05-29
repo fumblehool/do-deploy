@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126444002,
+      "chineseName": "防走失背包",
+      "translatedName": "Anti-Lost Backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201556615"
+    }
+  }
+}

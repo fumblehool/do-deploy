@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123930005,
+      "chineseName": "耐低温手套",
+      "translatedName": "Low temperature resistant gloves",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926002"
+    }
+  }
+}

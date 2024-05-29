@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042727,
+      "chineseName": "包装辅助物",
+      "translatedName": "Packaging aids",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032999,
+          "chineseName": "辅助包装材料",
+          "translatedName": "Auxiliary packaging materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        },
+        {
+          "categoryId": 1033012,
+          "chineseName": "木塞",
+          "translatedName": "cork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        },
+        {
+          "categoryId": 1033017,
+          "chineseName": "塑料盖",
+          "translatedName": "plastic cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        },
+        {
+          "categoryId": 1033030,
+          "chineseName": "金属盖",
+          "translatedName": "Metal cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        },
+        {
+          "categoryId": 1036291,
+          "chineseName": "胶垫",
+          "translatedName": "Rubber pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        },
+        {
+          "categoryId": 165,
+          "chineseName": "包装制品配附件",
+          "translatedName": "Packaging products with accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042727
+        }
+      ]
+    }
+  }
+}

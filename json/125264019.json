@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125264019,
+      "chineseName": "架空线连接器",
+      "translatedName": "Overhead line connector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125278011"
+    }
+  }
+}

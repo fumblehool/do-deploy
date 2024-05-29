@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201923202,
+      "chineseName": "测量量具辅件",
+      "translatedName": "Measuring tool accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201914203"
+    }
+  }
+}

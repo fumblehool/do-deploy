@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122984001,
+      "chineseName": "玩具电动车",
+      "translatedName": "Electric toy car",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962001"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124014003,
+      "chineseName": "汽车配件",
+      "translatedName": "car accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124014004,
+          "chineseName": "非工业轮胎",
+          "translatedName": "Non-industrial tires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124014003
+        },
+        {
+          "categoryId": 124018001,
+          "chineseName": "车用HID氙气灯",
+          "translatedName": "Vehicle HID Xenon Lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124014003
+        },
+        {
+          "categoryId": 124736046,
+          "chineseName": "车用轮胎",
+          "translatedName": "vehicle tire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124014003
+        }
+      ]
+    }
+  }
+}

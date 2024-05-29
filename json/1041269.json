@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041269,
+      "chineseName": "监控传输设备",
+      "translatedName": "Monitoring and transmission equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033204,
+          "chineseName": "光端机",
+          "translatedName": "Optical Terminal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041269
+        },
+        {
+          "categoryId": 1041270,
+          "chineseName": "无线传输系统",
+          "translatedName": "wireless transmission system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041269
+        },
+        {
+          "categoryId": 1041271,
+          "chineseName": "其他传输设备",
+          "translatedName": "Other transmission equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041269
+        }
+      ]
+    }
+  }
+}

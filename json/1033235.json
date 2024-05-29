@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033235,
+      "chineseName": "安检门",
+      "translatedName": "Security gate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3001"
+    }
+  }
+}

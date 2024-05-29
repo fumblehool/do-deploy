@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1613,
+      "chineseName": "医用材料",
+      "translatedName": "Medical Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033334,
+          "chineseName": "其他医用材料",
+          "translatedName": "Other Medical Materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1033335,
+          "chineseName": "急救箱、急救包",
+          "translatedName": "First aid kit, first aid kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1033336,
+          "chineseName": "一次性医用耗材",
+          "translatedName": "Disposable medical consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1033337,
+          "chineseName": "手术卫生用品",
+          "translatedName": "Surgical Hygiene Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1033338,
+          "chineseName": "导管、介入性材料",
+          "translatedName": "Catheters, interventional materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1033339,
+          "chineseName": "敷料、护创材料",
+          "translatedName": "Dressings, wound protection materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1037351,
+          "chineseName": "医用箱",
+          "translatedName": "Medical box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        },
+        {
+          "categoryId": 1037358,
+          "chineseName": "医用包",
+          "translatedName": "Medical bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1613
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045968,
+      "chineseName": "塑料异型材",
+      "translatedName": "Plastic profile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045970,
+          "chineseName": "PVC塑料异型材",
+          "translatedName": "PVC plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045971,
+          "chineseName": "PP塑料异型材",
+          "translatedName": "PP plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045972,
+          "chineseName": "ABS塑料异型材",
+          "translatedName": "ABS plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045973,
+          "chineseName": "珍珠棉异型材",
+          "translatedName": "Pearl cotton profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045974,
+          "chineseName": "PC塑料异型材",
+          "translatedName": "PC plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045975,
+          "chineseName": "PS塑料异型材",
+          "translatedName": "PS plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 1045976,
+          "chineseName": "其他塑料异型材",
+          "translatedName": "Other Plastic Profiles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        },
+        {
+          "categoryId": 201494101,
+          "chineseName": "UPE塑料异型材",
+          "translatedName": "UPE plastic profile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045968
+        }
+      ]
+    }
+  }
+}

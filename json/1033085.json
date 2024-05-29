@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033085,
+      "chineseName": "笔记本、记事本",
+      "translatedName": "Notebook, Notepad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10336"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036763,
+      "chineseName": "真空泵油及扩散泵油",
+      "translatedName": "Vacuum pump oil and diffusion pump oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033682"
+    }
+  }
+}

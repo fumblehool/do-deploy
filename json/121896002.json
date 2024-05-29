@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121896002,
+      "chineseName": "羽毛球鞋",
+      "translatedName": "Badminton Shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121876002"
+    }
+  }
+}

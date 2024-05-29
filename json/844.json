@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 844,
+      "chineseName": "化工中间体",
+      "translatedName": "chemical intermediate",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035959,
+          "chineseName": "合成材料中间体",
+          "translatedName": "synthetic material intermediate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        },
+        {
+          "categoryId": 1035960,
+          "chineseName": "香精和香料中间体",
+          "translatedName": "Flavor and Fragrance Intermediates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        },
+        {
+          "categoryId": 1035961,
+          "chineseName": "染料中间体",
+          "translatedName": "dye intermediate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        },
+        {
+          "categoryId": 1035962,
+          "chineseName": "农药中间体",
+          "translatedName": "pesticide intermediate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        },
+        {
+          "categoryId": 1035958,
+          "chineseName": "其它化工中间体",
+          "translatedName": "Other chemical intermediates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        },
+        {
+          "categoryId": 1604,
+          "chineseName": "医药中间体",
+          "translatedName": "pharmaceutical intermediates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 844
+        }
+      ]
+    }
+  }
+}

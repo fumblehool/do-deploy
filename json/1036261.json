@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036261,
+      "chineseName": "行李绳",
+      "translatedName": "Luggage rope",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10362"
+    }
+  }
+}

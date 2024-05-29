@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034288,
+      "chineseName": "杀菌灭藻剂",
+      "translatedName": "bactericidal algaecide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10380"
+    }
+  }
+}

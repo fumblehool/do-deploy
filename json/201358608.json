@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201358608,
+      "chineseName": "男性护理",
+      "translatedName": "Male Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201353913,
+          "chineseName": "男士美发用品",
+          "translatedName": "Men's Hair Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201353613,
+          "chineseName": "男士止汗香体",
+          "translatedName": "Men's Antiperspirant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201353753,
+          "chineseName": "男士洗衣液",
+          "translatedName": "Men's laundry detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201351440,
+          "chineseName": "男性私处洗液",
+          "translatedName": "Male Private Lotion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201355613,
+          "chineseName": "男士私处护理",
+          "translatedName": "Men's Private Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201355216,
+          "chineseName": "男士身体清洁",
+          "translatedName": "Men's Body Cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        },
+        {
+          "categoryId": 201895001,
+          "chineseName": "男士洗发水",
+          "translatedName": "Men's Shampoo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201358608
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122220001,
+      "chineseName": "通用双肩背包",
+      "translatedName": "Universal Backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201956604"
+    }
+  }
+}

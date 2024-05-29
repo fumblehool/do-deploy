@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 181302,
+      "chineseName": "模型玩具",
+      "translatedName": "Model Toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033666,
+          "chineseName": "其他模型玩具",
+          "translatedName": "Other Model Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1033667,
+          "chineseName": "军事模型",
+          "translatedName": "Military Model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1033668,
+          "chineseName": "车模型",
+          "translatedName": "Car model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1033669,
+          "chineseName": "航海模型",
+          "translatedName": "nautical model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1033670,
+          "chineseName": "航空模型",
+          "translatedName": "aviation model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1045648,
+          "chineseName": "建筑模型",
+          "translatedName": "Building model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 1045669,
+          "chineseName": "机器人模型",
+          "translatedName": "robot model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 122984003,
+          "chineseName": "手办模型",
+          "translatedName": "Hand model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 122990002,
+          "chineseName": "动物/植物仿真模型",
+          "translatedName": "Animal/Plant Simulation Model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201351650,
+          "chineseName": "仿真人物工艺品",
+          "translatedName": "Simulation character crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201351742,
+          "chineseName": "仿真刀剑",
+          "translatedName": "Simulation sword",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201375301,
+          "chineseName": "恐龙玩具",
+          "translatedName": "Dinosaur Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201375401,
+          "chineseName": "萌粒",
+          "translatedName": "Moe grain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201375501,
+          "chineseName": "仿真果蔬/食物玩具",
+          "translatedName": "Simulation of fruits and vegetables/food toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201375601,
+          "chineseName": "其它仿真模型玩具",
+          "translatedName": "Other simulation model toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201352037,
+          "chineseName": "仿真食物工艺品",
+          "translatedName": "Simulation food crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        },
+        {
+          "categoryId": 201357140,
+          "chineseName": "仿真动物工艺品",
+          "translatedName": "Simulation of animal crafts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 181302
+        }
+      ]
+    }
+  }
+}

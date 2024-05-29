@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127782004,
+      "chineseName": "铁芯/非晶/磁性材料",
+      "translatedName": "iron core/amorphous/magnetic material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064006"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032398,
+      "chineseName": "温湿度仪表",
+      "translatedName": "Temperature and humidity instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033931,
+          "chineseName": "玻璃温度计",
+          "translatedName": "glass thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033922,
+          "chineseName": "其他温湿度仪表",
+          "translatedName": "Other temperature and humidity instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033923,
+          "chineseName": "温度校验仪表",
+          "translatedName": "Temperature calibration instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033925,
+          "chineseName": "温湿度控制（调节）器",
+          "translatedName": "Temperature and humidity control (regulator)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033926,
+          "chineseName": "非接触式温度计",
+          "translatedName": "Non-contact thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033927,
+          "chineseName": "热电偶",
+          "translatedName": "Thermocouple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033928,
+          "chineseName": "热电阻",
+          "translatedName": "Thermal resistance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033929,
+          "chineseName": "压力式温度计",
+          "translatedName": "pressure type thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1033930,
+          "chineseName": "双金属温度计",
+          "translatedName": "Bimetal thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1036228,
+          "chineseName": "温湿度计",
+          "translatedName": "temperature and humidity meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 1036173,
+          "chineseName": "红外测温仪",
+          "translatedName": "infrared thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 121504003,
+          "chineseName": "热像仪",
+          "translatedName": "thermal imager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        },
+        {
+          "categoryId": 201896601,
+          "chineseName": "医用测温计/仪",
+          "translatedName": "Medical thermometer/instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032398
+        }
+      ]
+    }
+  }
+}

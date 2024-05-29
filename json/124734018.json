@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734018,
+      "chineseName": "果冻布丁",
+      "translatedName": "Jelly Pudding",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032913,
+          "chineseName": "果冻",
+          "translatedName": "Jelly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734018
+        },
+        {
+          "categoryId": 124734025,
+          "chineseName": "布丁",
+          "translatedName": "Pudding",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124734018
+        }
+      ]
+    }
+  }
+}

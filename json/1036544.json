@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036544,
+      "chineseName": "电缆分接箱",
+      "translatedName": "Cable tap box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "525"
+    }
+  }
+}

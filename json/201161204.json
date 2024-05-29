@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201161204,
+      "chineseName": "家用菜刀",
+      "translatedName": "household kitchen knife",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764003"
+    }
+  }
+}

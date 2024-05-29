@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304114,
+      "chineseName": "木雕/根雕",
+      "translatedName": "Wood Carving/Root Carving",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232601"
+    }
+  }
+}

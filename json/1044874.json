@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044874,
+      "chineseName": "羽毛球拍、网球拍",
+      "translatedName": "Badminton racket, tennis racket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044819"
+    }
+  }
+}

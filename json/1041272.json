@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041272,
+      "chineseName": "监控记录设备",
+      "translatedName": "Monitoring and recording equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1041275,
+          "chineseName": "拾音器",
+          "translatedName": "pickup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041272
+        },
+        {
+          "categoryId": 1041276,
+          "chineseName": "音频卡",
+          "translatedName": "Audio card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041272
+        },
+        {
+          "categoryId": 1041277,
+          "chineseName": "板卡",
+          "translatedName": "Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041272
+        },
+        {
+          "categoryId": 1041278,
+          "chineseName": "其他记录设备",
+          "translatedName": "Other recording equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041272
+        },
+        {
+          "categoryId": 1041273,
+          "chineseName": "硬盘录像机",
+          "translatedName": "hard disk video recorder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041272
+        }
+      ]
+    }
+  }
+}

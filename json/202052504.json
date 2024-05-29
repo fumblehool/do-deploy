@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052504,
+      "chineseName": "鱼油/深海鱼油（食品）",
+      "translatedName": "Fish Oil/Deep Sea Fish Oil (Food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

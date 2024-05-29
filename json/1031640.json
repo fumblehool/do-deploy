@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031640,
+      "chineseName": "再生塑料",
+      "translatedName": "Recycled plastic",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034906,
+          "chineseName": "其他再生塑料",
+          "translatedName": "Other recycled plastics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034907,
+          "chineseName": "PPS再生料",
+          "translatedName": "PPS recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034908,
+          "chineseName": "PPO再生料",
+          "translatedName": "PPO recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034909,
+          "chineseName": "PET再生料",
+          "translatedName": "PET recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034910,
+          "chineseName": "PC再生料",
+          "translatedName": "PC recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034911,
+          "chineseName": "PA再生料",
+          "translatedName": "PA regeneration material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034912,
+          "chineseName": "ABS再生料",
+          "translatedName": "ABS recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034913,
+          "chineseName": "PE再生料",
+          "translatedName": "PE recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034914,
+          "chineseName": "PP再生料",
+          "translatedName": "PP recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034915,
+          "chineseName": "PS再生料",
+          "translatedName": "PS recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1034916,
+          "chineseName": "PVC再生料",
+          "translatedName": "PVC recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045118,
+          "chineseName": "PP-R再生料",
+          "translatedName": "PP-R recycled materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045119,
+          "chineseName": "PTFE再生料",
+          "translatedName": "PTFE recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045107,
+          "chineseName": "PMMA再生料",
+          "translatedName": "PMMA recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045116,
+          "chineseName": "PBT再生料",
+          "translatedName": "PBT recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045117,
+          "chineseName": "POM再生料",
+          "translatedName": "POM recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045020,
+          "chineseName": "EPS再生料",
+          "translatedName": "EPS recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 1045022,
+          "chineseName": "EVA再生料",
+          "translatedName": "EVA recycled material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        },
+        {
+          "categoryId": 202028501,
+          "chineseName": "HIPS再生塑料",
+          "translatedName": "HIPS recycled plastic",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031640
+        }
+      ]
+    }
+  }
+}

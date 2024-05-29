@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 936,
+      "chineseName": "黑色金属",
+      "translatedName": "Black Metal",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035887,
+          "chineseName": "锰",
+          "translatedName": "Manganese",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 936
+        },
+        {
+          "categoryId": 1035888,
+          "chineseName": "铬",
+          "translatedName": "Chromium",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 936
+        },
+        {
+          "categoryId": 1036816,
+          "chineseName": "铁",
+          "translatedName": "Iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 936
+        }
+      ]
+    }
+  }
+}

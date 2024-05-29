@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034286,
+      "chineseName": "阻垢剂",
+      "translatedName": "scale inhibitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10380"
+    }
+  }
+}

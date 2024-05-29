@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202056708,
+      "chineseName": "稳压器IC",
+      "translatedName": "Voltage regulator IC",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126628001"
+    }
+  }
+}

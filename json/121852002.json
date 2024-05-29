@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121852002,
+      "chineseName": "其他宠物周边用品",
+      "translatedName": "Other Pet Peripheral Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121776006"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202045301,
+      "chineseName": "汉服套装",
+      "translatedName": "Hanfu Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202041302"
+    }
+  }
+}

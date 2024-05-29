@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921403,
+      "chineseName": "隧道检测仪器",
+      "translatedName": "Tunnel detection instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10212"
+    }
+  }
+}

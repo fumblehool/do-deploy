@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036875,
+      "chineseName": "缠绕胶管",
+      "translatedName": "Winding hose",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032600"
+    }
+  }
+}

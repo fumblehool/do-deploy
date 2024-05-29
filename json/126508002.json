@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126508002,
+      "chineseName": "运动服饰加工定制",
+      "translatedName": "Sportswear processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

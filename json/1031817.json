@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031817,
+      "chineseName": "特许经营",
+      "translatedName": "Franchising",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031818,
+          "chineseName": "零售、百货、超市加盟",
+          "translatedName": "Retail, department stores, supermarkets join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        },
+        {
+          "categoryId": 1031819,
+          "chineseName": "餐饮娱乐加盟",
+          "translatedName": "Food and entertainment to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        },
+        {
+          "categoryId": 1031820,
+          "chineseName": "美容健身馆加盟",
+          "translatedName": "Beauty gym to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        },
+        {
+          "categoryId": 1031821,
+          "chineseName": "教育培训加盟",
+          "translatedName": "Education and training to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        },
+        {
+          "categoryId": 1031822,
+          "chineseName": "中介服务加盟",
+          "translatedName": "Intermediary services to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        },
+        {
+          "categoryId": 1032067,
+          "chineseName": "其他特许经营",
+          "translatedName": "Other Franchises",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031817
+        }
+      ]
+    }
+  }
+}

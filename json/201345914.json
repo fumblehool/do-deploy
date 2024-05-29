@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201345914,
+      "chineseName": "古董/古玩/收藏",
+      "translatedName": "Antique/Curio/Collection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201336815,
+          "chineseName": "票证",
+          "translatedName": "Ticket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201337210,
+          "chineseName": "金石篆刻",
+          "translatedName": "Stone Seal Engraving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201412501,
+          "chineseName": "核雕/橄榄雕",
+          "translatedName": "Nuclear carving/olive carving",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201306621,
+          "chineseName": "仿古青铜器",
+          "translatedName": "Antique Bronze",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201345114,
+          "chineseName": "球星球队周边收藏",
+          "translatedName": "Star team surrounding collection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201303520,
+          "chineseName": "仿古钱币",
+          "translatedName": "Antique Coins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201308925,
+          "chineseName": "红色收藏",
+          "translatedName": "Red Collection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201340121,
+          "chineseName": "收藏品鉴定/保养工具",
+          "translatedName": "Collectible Identification/Maintenance Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201335712,
+          "chineseName": "古书/古籍",
+          "translatedName": "ancient books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201358111,
+          "chineseName": "文玩手把件",
+          "translatedName": "Wen Play Handpiece",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201381015,
+          "chineseName": "仿古书画",
+          "translatedName": "Antique Painting and Calligraphy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201466307,
+          "chineseName": "元宝",
+          "translatedName": "Yuanbao",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        },
+        {
+          "categoryId": 201334813,
+          "chineseName": "定位册",
+          "translatedName": "Location Book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345914
+        }
+      ]
+    }
+  }
+}

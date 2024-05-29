@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10414,
+      "chineseName": "储运设备",
+      "translatedName": "Storage and transportation equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034750,
+          "chineseName": "其他储运设备",
+          "translatedName": "Other storage and transportation equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 1034751,
+          "chineseName": "箱体",
+          "translatedName": "Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 1034752,
+          "chineseName": "瓶体",
+          "translatedName": "Bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 1034753,
+          "chineseName": "储罐",
+          "translatedName": "Tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 1034754,
+          "chineseName": "储运容器",
+          "translatedName": "Storage and transportation container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 202027803,
+          "chineseName": "堆垛机",
+          "translatedName": "Stacker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 202037104,
+          "chineseName": "托盘分配机",
+          "translatedName": "Pallet Dispensing Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        },
+        {
+          "categoryId": 202038903,
+          "chineseName": "外形检测门架",
+          "translatedName": "Contour inspection door frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10414
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037028,
+      "chineseName": "尺码圈",
+      "translatedName": "Size circle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "345"
+    }
+  }
+}

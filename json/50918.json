@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50918,
+      "chineseName": "通信线缆",
+      "translatedName": "Communication cable",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033939,
+          "chineseName": "其他通信线缆",
+          "translatedName": "Other communication cables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50918
+        },
+        {
+          "categoryId": 1033940,
+          "chineseName": "电话线",
+          "translatedName": "Telephone line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50918
+        },
+        {
+          "categoryId": 1033941,
+          "chineseName": "网络线",
+          "translatedName": "network line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50918
+        },
+        {
+          "categoryId": 1033942,
+          "chineseName": "光缆",
+          "translatedName": "optical fiber cable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50918
+        }
+      ]
+    }
+  }
+}

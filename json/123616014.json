@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616014,
+      "chineseName": "LED配套服务",
+      "translatedName": "LED supporting services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123610012,
+          "chineseName": "LED测试服务",
+          "translatedName": "LED Testing Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        },
+        {
+          "categoryId": 123620014,
+          "chineseName": "照明设计",
+          "translatedName": "Lighting Design",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        },
+        {
+          "categoryId": 123622015,
+          "chineseName": "LED认证服务",
+          "translatedName": "LED Certification Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        },
+        {
+          "categoryId": 123622016,
+          "chineseName": "其他LED配套服务",
+          "translatedName": "Other LED supporting services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        },
+        {
+          "categoryId": 123612011,
+          "chineseName": "照明工程招标",
+          "translatedName": "Bidding for lighting works",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        },
+        {
+          "categoryId": 123616015,
+          "chineseName": "LED研究报告",
+          "translatedName": "LED Research Report",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616014
+        }
+      ]
+    }
+  }
+}

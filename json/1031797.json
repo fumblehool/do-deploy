@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031797,
+      "chineseName": "电工电气产品代理加盟",
+      "translatedName": "Electrician Electrical Products Agent Joins",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "5"
+    }
+  }
+}

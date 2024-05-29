@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032170,
+      "chineseName": "汽摩离合器",
+      "translatedName": "Auto-Friction Clutch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10105"
+    }
+  }
+}

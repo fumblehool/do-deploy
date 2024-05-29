@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010301,
+      "chineseName": "智能模块（DIY）",
+      "translatedName": "Intelligent Module (DIY)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126574002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201329920,
+      "chineseName": "单人床+床头柜+梳妆台+衣柜",
+      "translatedName": "Single Bed Bedside Table Dresser Wardrobe",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345303"
+    }
+  }
+}

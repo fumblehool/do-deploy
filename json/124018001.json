@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124018001,
+      "chineseName": "车用HID氙气灯",
+      "translatedName": "Vehicle HID Xenon Lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124014003"
+    }
+  }
+}

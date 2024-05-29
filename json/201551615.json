@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201551615,
+      "chineseName": "童家居裤/睡裤",
+      "translatedName": "Children's Home Pants/Pajama Pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201552907"
+    }
+  }
+}

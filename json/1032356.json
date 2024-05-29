@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032356,
+      "chineseName": "发电机组零部件",
+      "translatedName": "Generator set parts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1008"
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043661,
+      "chineseName": "客厅家具",
+      "translatedName": "Living room furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043663,
+          "chineseName": "沙发类",
+          "translatedName": "Sofa Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 1043664,
+          "chineseName": "桌类、茶几",
+          "translatedName": "Table, coffee table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 1043665,
+          "chineseName": "其他椅、凳、榻",
+          "translatedName": "Other chairs, stools, couches",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 1043667,
+          "chineseName": "其他案、台类",
+          "translatedName": "Other cases, Taiwan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 1043669,
+          "chineseName": "屏风、隔断类",
+          "translatedName": "Screen, partition class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123608017,
+          "chineseName": "鞋柜",
+          "translatedName": "Shoe cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123608018,
+          "chineseName": "鼓墩、绣墩",
+          "translatedName": "Drum pier, embroidered pier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123608019,
+          "chineseName": "茶桌、茶台",
+          "translatedName": "Tea table, tea table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123618015,
+          "chineseName": "电视柜",
+          "translatedName": "TV cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123618016,
+          "chineseName": "玄关",
+          "translatedName": "Entrance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123618017,
+          "chineseName": "供桌",
+          "translatedName": "Supply Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123612019,
+          "chineseName": "CD架",
+          "translatedName": "CD rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123612020,
+          "chineseName": "花窗",
+          "translatedName": "flower window",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123622019,
+          "chineseName": "博古架",
+          "translatedName": "Antique Shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123616024,
+          "chineseName": "贵妃榻",
+          "translatedName": "imperial concubine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 121492007,
+          "chineseName": "脚榻",
+          "translatedName": "Foot couch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123620018,
+          "chineseName": "罗汉床",
+          "translatedName": "Lohan Bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123620019,
+          "chineseName": "炕几",
+          "translatedName": "Kang several",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 123620020,
+          "chineseName": "神龛、佛龛",
+          "translatedName": "Shrine, shrine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201337003,
+          "chineseName": "角几/边几",
+          "translatedName": "Corner/Side",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201354345,
+          "chineseName": "皮布沙发",
+          "translatedName": "Leather sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201160906,
+          "chineseName": "布艺沙发",
+          "translatedName": "Fabric Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201360150,
+          "chineseName": "圈椅",
+          "translatedName": "Circle Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201163105,
+          "chineseName": "实木沙发",
+          "translatedName": "Solid wood sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201306208,
+          "chineseName": "铁艺沙发",
+          "translatedName": "Wrought Iron Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201686202,
+          "chineseName": "接待桌",
+          "translatedName": "Reception Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201155907,
+          "chineseName": "沙发床",
+          "translatedName": "Sofa bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201302803,
+          "chineseName": "功能沙发",
+          "translatedName": "Functional Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201356348,
+          "chineseName": "交椅",
+          "translatedName": "top chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201358751,
+          "chineseName": "门厅/玄关/玄关架",
+          "translatedName": "foyer/porch/porch rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201358840,
+          "chineseName": "根雕家具",
+          "translatedName": "Carved Root Furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201355441,
+          "chineseName": "围椅",
+          "translatedName": "Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201304909,
+          "chineseName": "藤/竹沙发",
+          "translatedName": "Rattan/Bamboo Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201156106,
+          "chineseName": "皮艺沙发",
+          "translatedName": "Leather art sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201350241,
+          "chineseName": "壁炉架/壁炉柜/暖气罩",
+          "translatedName": "mantelpiece/closet/heating hood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201350367,
+          "chineseName": "条案",
+          "translatedName": "Article",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201356649,
+          "chineseName": "角柜",
+          "translatedName": "Corner cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201357048,
+          "chineseName": "沙发椅",
+          "translatedName": "Sofa chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        },
+        {
+          "categoryId": 201357248,
+          "chineseName": "矮凳",
+          "translatedName": "Low stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043661
+        }
+      ]
+    }
+  }
+}

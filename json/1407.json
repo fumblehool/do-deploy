@@ -1,0 +1,334 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1407,
+      "chineseName": "开关",
+      "translatedName": "Switch",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032311,
+          "chineseName": "其他开关",
+          "translatedName": "Other Switches",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032312,
+          "chineseName": "脚踏开关",
+          "translatedName": "Foot switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032313,
+          "chineseName": "复位开关(点开关)",
+          "translatedName": "Reset switch (point switch)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032314,
+          "chineseName": "倒顺开关",
+          "translatedName": "Reverse switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032315,
+          "chineseName": "墙壁开关",
+          "translatedName": "Wall switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032316,
+          "chineseName": "微动开关",
+          "translatedName": "microswitch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032317,
+          "chineseName": "光电开关",
+          "translatedName": "photoelectric switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032318,
+          "chineseName": "压力开关",
+          "translatedName": "Pressure switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032319,
+          "chineseName": "按钮开关",
+          "translatedName": "Pushbutton switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032320,
+          "chineseName": "行程开关(限位开关)",
+          "translatedName": "Travel switch (limit switch)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032322,
+          "chineseName": "接近开关",
+          "translatedName": "Proximity switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032323,
+          "chineseName": "隔离开关(刀开关)",
+          "translatedName": "Isolating switch (knife switch)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032324,
+          "chineseName": "转换开关(组合开关)",
+          "translatedName": "Transfer switch (combination switch)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034982,
+          "chineseName": "薄膜开关",
+          "translatedName": "Membrane switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034983,
+          "chineseName": "拨动开关",
+          "translatedName": "Toggle switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034984,
+          "chineseName": "温控开关",
+          "translatedName": "Temperature control switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034985,
+          "chineseName": "调速开关",
+          "translatedName": "speed control switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034986,
+          "chineseName": "旋转开关",
+          "translatedName": "Rotary switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034987,
+          "chineseName": "船型开关",
+          "translatedName": "Boat switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034988,
+          "chineseName": "波段开关",
+          "translatedName": "band switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1032325,
+          "chineseName": "负荷开关",
+          "translatedName": "Load switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034989,
+          "chineseName": "浮球开关",
+          "translatedName": "float switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034990,
+          "chineseName": "流量开关",
+          "translatedName": "Flow switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034991,
+          "chineseName": "钮子开关",
+          "translatedName": "toggle switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034992,
+          "chineseName": "遥控开关",
+          "translatedName": "Remote control switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1034993,
+          "chineseName": "电动工具开关",
+          "translatedName": "Power tool switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1035899,
+          "chineseName": "震动开关",
+          "translatedName": "Vibration switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1035900,
+          "chineseName": "直键开关",
+          "translatedName": "Straight Key Switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1035898,
+          "chineseName": "轻触开关",
+          "translatedName": "Tactile switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 1036657,
+          "chineseName": "感应开关",
+          "translatedName": "Inductive switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 127766004,
+          "chineseName": "wifi开关",
+          "translatedName": "wifi switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 127752005,
+          "chineseName": "智能开关",
+          "translatedName": "intelligent switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 201218927,
+          "chineseName": "控制开关（保护开关）",
+          "translatedName": "Control switch (protection switch)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 201232216,
+          "chineseName": "复合开关",
+          "translatedName": "compound switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        },
+        {
+          "categoryId": 201220927,
+          "chineseName": "漏电保护开关",
+          "translatedName": "Leakage protection switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1407
+        }
+      ]
+    }
+  }
+}

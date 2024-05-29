@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200828001,
+      "chineseName": "整流器阵列",
+      "translatedName": "rectifier array",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200798002"
+    }
+  }
+}

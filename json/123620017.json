@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620017,
+      "chineseName": "LED隧道灯模组",
+      "translatedName": "LED Tunnel Light Module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616020"
+    }
+  }
+}

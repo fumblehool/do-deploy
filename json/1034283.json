@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034283,
+      "chineseName": "其他水处理化学品",
+      "translatedName": "Other water treatment chemicals",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10380"
+    }
+  }
+}

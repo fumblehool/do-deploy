@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121546006,
+      "chineseName": "烧烤用具",
+      "translatedName": "Barbecue utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033563,
+          "chineseName": "组合烤具",
+          "translatedName": "Combination baking tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1033564,
+          "chineseName": "烧烤叉、签",
+          "translatedName": "Barbecue fork, signature",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1033565,
+          "chineseName": "烧烤架、烧烤网",
+          "translatedName": "Barbecue grill, barbecue net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1033567,
+          "chineseName": "烧烤炉",
+          "translatedName": "Grill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1036809,
+          "chineseName": "烧烤盘",
+          "translatedName": "BBQ pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1044653,
+          "chineseName": "烧烤刷",
+          "translatedName": "Barbecue brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 1044994,
+          "chineseName": "多功能野营刀具",
+          "translatedName": "Multi-functional camping knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 125086003,
+          "chineseName": "一次性签子",
+          "translatedName": "One-time signature",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 125750005,
+          "chineseName": "其他烧烤用具",
+          "translatedName": "Other Barbecue Utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201572922,
+          "chineseName": "竹签子",
+          "translatedName": "Bamboo Skebab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201304310,
+          "chineseName": "烧烤炭",
+          "translatedName": "Barbecue Charcoal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201598504,
+          "chineseName": "固态酒精",
+          "translatedName": "Solid Alcohol",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201977004,
+          "chineseName": "一次性烧烤炉",
+          "translatedName": "Disposable barbecue oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201823203,
+          "chineseName": "焚火台",
+          "translatedName": "Burning Fire Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202048502,
+          "chineseName": "烧烤垫",
+          "translatedName": "Barbecue mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202043304,
+          "chineseName": "防火垫",
+          "translatedName": "Fireproof Mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202043502,
+          "chineseName": "卡式炉气罐",
+          "translatedName": "Card furnace gas tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201835301,
+          "chineseName": "烟熏盒、烟熏篮、烟熏管",
+          "translatedName": "Smoke box, smoke basket, smoke pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201835401,
+          "chineseName": "烟熏木屑",
+          "translatedName": "Smoked sawdust",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202041202,
+          "chineseName": "烧烤用具套装",
+          "translatedName": "Barbecue set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202044502,
+          "chineseName": "自发热包",
+          "translatedName": "Self-heating package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202044503,
+          "chineseName": "烧烤笼",
+          "translatedName": "Barbecue cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 202045503,
+          "chineseName": "气罐套/包",
+          "translatedName": "Gas tank set/bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201859303,
+          "chineseName": "烧烤挡风板",
+          "translatedName": "Barbecue Windshield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        },
+        {
+          "categoryId": 201967807,
+          "chineseName": "厨房点火器/打火石/点火棒",
+          "translatedName": "Galley igniter/flint/ignition stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121546006
+        }
+      ]
+    }
+  }
+}

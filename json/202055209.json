@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055209,
+      "chineseName": "无线及射频IC",
+      "translatedName": "Wireless and RF IC",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126628001"
+    }
+  }
+}

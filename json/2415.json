@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2415,
+      "chineseName": "广告、展览器材",
+      "translatedName": "Advertising, exhibition equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034212,
+          "chineseName": "其他广告、展览器材",
+          "translatedName": "Other advertising and exhibition equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034214,
+          "chineseName": "广告机",
+          "translatedName": "Advertising machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034215,
+          "chineseName": "广告板",
+          "translatedName": "Advertising board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034216,
+          "chineseName": "广告条幅",
+          "translatedName": "advertising banners",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034217,
+          "chineseName": "广告旗杆",
+          "translatedName": "advertising flagpole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034218,
+          "chineseName": "充气模型",
+          "translatedName": "inflatable model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034219,
+          "chineseName": "易拉宝",
+          "translatedName": "Yi Labao",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034220,
+          "chineseName": "促销台",
+          "translatedName": "Promotion Desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034221,
+          "chineseName": "展示柜",
+          "translatedName": "Display cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034222,
+          "chineseName": "广告牌",
+          "translatedName": "Billboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034223,
+          "chineseName": "灯箱布",
+          "translatedName": "light box cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1034224,
+          "chineseName": "灯箱",
+          "translatedName": "Light box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 10308,
+          "chineseName": "展示架",
+          "translatedName": "Display rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1042930,
+          "chineseName": "拉网展架",
+          "translatedName": "Pull-net display rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1042576,
+          "chineseName": "条幅机",
+          "translatedName": "banner machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        },
+        {
+          "categoryId": 1045002,
+          "chineseName": "展览帐篷",
+          "translatedName": "Exhibition Tent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2415
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041501,
+      "chineseName": "后桥",
+      "translatedName": "Rear axle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3321"
+    }
+  }
+}

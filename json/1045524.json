@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045524,
+      "chineseName": "复读机",
+      "translatedName": "Repeater",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045523"
+    }
+  }
+}

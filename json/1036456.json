@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036456,
+      "chineseName": "汽油添加剂",
+      "translatedName": "gasoline additive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034567"
+    }
+  }
+}

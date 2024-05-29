@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122192009,
+      "chineseName": "牙粉",
+      "translatedName": "Dental powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122268004"
+    }
+  }
+}

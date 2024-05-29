@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122706007,
+      "chineseName": "电子灭蚊器、灭蚊灯",
+      "translatedName": "Electronic mosquito killer, mosquito lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047981"
+    }
+  }
+}

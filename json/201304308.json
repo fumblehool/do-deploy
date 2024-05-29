@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304308,
+      "chineseName": "创意贴纸",
+      "translatedName": "Creative Stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201857705"
+    }
+  }
+}

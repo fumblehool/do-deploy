@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123928001,
+      "chineseName": "钳类工具",
+      "translatedName": "Pliers tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042746,
+          "chineseName": "其他钳类工具",
+          "translatedName": "Other Pliers Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123930001,
+          "chineseName": "钢丝钳",
+          "translatedName": "wire pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123930002,
+          "chineseName": "鲤鱼钳",
+          "translatedName": "carp forceps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 124270002,
+          "chineseName": "尖嘴钳",
+          "translatedName": "needle-nose pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123924002,
+          "chineseName": "断线钳",
+          "translatedName": "bolt cutters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123924003,
+          "chineseName": "剥线钳",
+          "translatedName": "Wire stripping pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123924004,
+          "chineseName": "卡簧钳",
+          "translatedName": "Circlip pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123924005,
+          "chineseName": "大力钳",
+          "translatedName": "Hercules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123924006,
+          "chineseName": "水泵钳",
+          "translatedName": "Water pump pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 124264007,
+          "chineseName": "斜口钳",
+          "translatedName": "diagonal pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 123932001,
+          "chineseName": "压接钳",
+          "translatedName": "crimping pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201354151,
+          "chineseName": "顶切钳",
+          "translatedName": "Top cutting pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201354546,
+          "chineseName": "平口钳",
+          "translatedName": "flat-nose pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201351345,
+          "chineseName": "圆嘴钳",
+          "translatedName": "round nose pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201349548,
+          "chineseName": "扁嘴钳",
+          "translatedName": "flat-nose pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201350045,
+          "chineseName": "台虎钳",
+          "translatedName": "bench vise",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        },
+        {
+          "categoryId": 201917303,
+          "chineseName": "取出器",
+          "translatedName": "fetcher",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123928001
+        }
+      ]
+    }
+  }
+}

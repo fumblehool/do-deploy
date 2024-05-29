@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032983,
+      "chineseName": "其他标签、标牌",
+      "translatedName": "Other labels, placards",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "84"
+    }
+  }
+}

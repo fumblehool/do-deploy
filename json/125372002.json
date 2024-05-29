@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125372002,
+      "chineseName": "女鞋",
+      "translatedName": "Women's Shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032755,
+          "chineseName": "女式雨鞋",
+          "translatedName": "Women's rain boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 1034340,
+          "chineseName": "平底凉鞋",
+          "translatedName": "Flat Sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 1034353,
+          "chineseName": "女式皮靴",
+          "translatedName": "women's leather boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 10170,
+          "chineseName": "女式棉鞋",
+          "translatedName": "women's cotton shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 1043193,
+          "chineseName": "女式板鞋",
+          "translatedName": "Women's board shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 125274013,
+          "chineseName": "运动休闲鞋",
+          "translatedName": "Sports Casual Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 123616001,
+          "chineseName": "中老年妈妈鞋",
+          "translatedName": "Middle-aged mother shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 121890002,
+          "chineseName": "平底拖鞋",
+          "translatedName": "Flat Slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 121916001,
+          "chineseName": "女式帆布鞋",
+          "translatedName": "Women's canvas shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 123648008,
+          "chineseName": "女式布鞋",
+          "translatedName": "women's cloth shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 125396003,
+          "chineseName": "复古经典运动鞋",
+          "translatedName": "Vintage Classic Sneakers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 123666005,
+          "chineseName": "女式雪地靴",
+          "translatedName": "Women's snow boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 126506005,
+          "chineseName": "女式时装单鞋",
+          "translatedName": "Women's fashion shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201548405,
+          "chineseName": "坡跟凉鞋",
+          "translatedName": "Wedge Sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 126482003,
+          "chineseName": "女式休闲单鞋",
+          "translatedName": "Women's casual shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201534902,
+          "chineseName": "女式Cosplay鞋",
+          "translatedName": "Women's Cosplay shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201536601,
+          "chineseName": "女式制服皮鞋",
+          "translatedName": "Women's uniform shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201305915,
+          "chineseName": "女式健步鞋",
+          "translatedName": "women's walking shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201555212,
+          "chineseName": "高跟凉鞋",
+          "translatedName": "High Heeled Sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201555511,
+          "chineseName": "高跟拖鞋",
+          "translatedName": "High-heeled slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201561411,
+          "chineseName": "坡跟拖鞋",
+          "translatedName": "Wedge slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 126552002,
+          "chineseName": "女式运动单鞋",
+          "translatedName": "Women's sports shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201556614,
+          "chineseName": "厚底凉鞋",
+          "translatedName": "Platform Sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201557412,
+          "chineseName": "厚底拖鞋",
+          "translatedName": "Thick-soles slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201898903,
+          "chineseName": "乐福鞋",
+          "translatedName": "Loafers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        },
+        {
+          "categoryId": 201843201,
+          "chineseName": "女士洞洞鞋",
+          "translatedName": "Women's hole shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125372002
+        }
+      ]
+    }
+  }
+}

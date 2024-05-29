@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200794002,
+      "chineseName": "标准整流器",
+      "translatedName": "standard rectifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200798002"
+    }
+  }
+}

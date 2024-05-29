@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610022,
+      "chineseName": "LED车顶灯",
+      "translatedName": "LED roof lights",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620015"
+    }
+  }
+}

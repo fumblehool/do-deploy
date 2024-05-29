@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055610,
+      "chineseName": "太阳能应用",
+      "translatedName": "solar energy application",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202054308,
+          "chineseName": "太阳能定位器",
+          "translatedName": "Solar Positioner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202062209,
+          "chineseName": "太阳能监控",
+          "translatedName": "Solar monitoring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202028118,
+          "chineseName": "太阳能水泵",
+          "translatedName": "solar water pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202051808,
+          "chineseName": "太阳能工业应用",
+          "translatedName": "Industrial Applications of Solar Energy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202051613,
+          "chineseName": "太阳能市政/物业应用",
+          "translatedName": "Solar Municipal/Property Applications",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202061608,
+          "chineseName": "太阳能折叠包",
+          "translatedName": "solar folding bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        },
+        {
+          "categoryId": 202057614,
+          "chineseName": "太阳能农业应用",
+          "translatedName": "Solar Agricultural Applications",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202055610
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127380008,
+      "chineseName": "女式打底裤",
+      "translatedName": "women's leggings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037024,
+          "chineseName": "打底裤",
+          "translatedName": "Leggings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127380008
+        },
+        {
+          "categoryId": 127364009,
+          "chineseName": "一体裤",
+          "translatedName": "One-piece pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127380008
+        }
+      ]
+    }
+  }
+}

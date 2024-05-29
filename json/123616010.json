@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616010,
+      "chineseName": "LED驱动与控制",
+      "translatedName": "LED driver and control",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121190020,
+          "chineseName": "LED灯具控制器",
+          "translatedName": "LED lamp controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        },
+        {
+          "categoryId": 121188016,
+          "chineseName": "调光、调色器",
+          "translatedName": "Dimmer, color palette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        },
+        {
+          "categoryId": 121188017,
+          "chineseName": "LED驱动电源",
+          "translatedName": "LED drive power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        },
+        {
+          "categoryId": 123612006,
+          "chineseName": "LED控制系统",
+          "translatedName": "LED control system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        },
+        {
+          "categoryId": 123616013,
+          "chineseName": "LED驱动IC",
+          "translatedName": "LED driver IC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        },
+        {
+          "categoryId": 123618002,
+          "chineseName": "其他LED驱动与控制",
+          "translatedName": "Other LED Drivers and Controls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616010
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043951,
+      "chineseName": "其他秤",
+      "translatedName": "Other scales",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124284003"
+    }
+  }
+}

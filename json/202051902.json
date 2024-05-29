@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051902,
+      "chineseName": "AR / VR头显保护壳",
+      "translatedName": "AR / VR Head Display Case",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202047604"
+    }
+  }
+}

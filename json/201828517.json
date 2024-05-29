@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201828517,
+      "chineseName": "性感透视睡衣",
+      "translatedName": "Sexy perspective pajamas",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450002"
+    }
+  }
+}

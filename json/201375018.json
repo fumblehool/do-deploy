@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201375018,
+      "chineseName": "防爆盾牌",
+      "translatedName": "Explosion proof shield",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373126"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032772,
+      "chineseName": "普通照明台灯",
+      "translatedName": "General lighting table lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1330"
+    }
+  }
+}

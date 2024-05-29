@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201878412,
+      "chineseName": "手账点胶笔",
+      "translatedName": "Hand account dispensing pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201857705"
+    }
+  }
+}

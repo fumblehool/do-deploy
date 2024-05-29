@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163104,
+      "chineseName": "塑料塞子、脚塞",
+      "translatedName": "Plastic stopper, foot plug",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160507"
+    }
+  }
+}

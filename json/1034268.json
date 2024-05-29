@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034268,
+      "chineseName": "真皮废料",
+      "translatedName": "Leather waste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10238"
+    }
+  }
+}

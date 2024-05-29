@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124600001,
+      "chineseName": "塑料食品袋",
+      "translatedName": "Plastic food bags",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124594001"
+    }
+  }
+}

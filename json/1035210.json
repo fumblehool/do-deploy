@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035210,
+      "chineseName": "充磁机",
+      "translatedName": "magnetizing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10236"
+    }
+  }
+}

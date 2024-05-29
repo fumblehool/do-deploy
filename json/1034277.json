@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034277,
+      "chineseName": "废锌",
+      "translatedName": "waste zinc",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "912"
+    }
+  }
+}

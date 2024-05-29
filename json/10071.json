@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10071,
+      "chineseName": "酒类",
+      "translatedName": "Wine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032873,
+          "chineseName": "黄酒",
+          "translatedName": "Yellow rice wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 1032874,
+          "chineseName": "果酒",
+          "translatedName": "Fruit wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 10072,
+          "chineseName": "白酒",
+          "translatedName": "white wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 10073,
+          "chineseName": "啤酒",
+          "translatedName": "Beer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 10074,
+          "chineseName": "葡萄酒",
+          "translatedName": "Wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 10075,
+          "chineseName": "保健酒",
+          "translatedName": "Health wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 10076,
+          "chineseName": "其他酒类",
+          "translatedName": "Other alcoholic drinks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 1046149,
+          "chineseName": "洋酒",
+          "translatedName": "foreign wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 124734008,
+          "chineseName": "配制酒/浸泡酒",
+          "translatedName": "Wine preparation/steeping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 201689002,
+          "chineseName": "清酒",
+          "translatedName": "Sake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        },
+        {
+          "categoryId": 201449212,
+          "chineseName": "米酒",
+          "translatedName": "rice wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10071
+        }
+      ]
+    }
+  }
+}

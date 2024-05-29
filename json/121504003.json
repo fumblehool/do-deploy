@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121504003,
+      "chineseName": "热像仪",
+      "translatedName": "thermal imager",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032398"
+    }
+  }
+}

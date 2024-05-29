@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 918,
+      "chineseName": "其他冶金矿产",
+      "translatedName": "Other Metallurgical Minerals",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "9"
+    }
+  }
+}

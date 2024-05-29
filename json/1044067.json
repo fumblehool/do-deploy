@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044067,
+      "chineseName": "面部护理加工定制",
+      "translatedName": "Facial care processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125070013"
+    }
+  }
+}

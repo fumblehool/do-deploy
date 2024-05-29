@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035026,
+      "chineseName": "电热圈",
+      "translatedName": "Electric heating ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10233"
+    }
+  }
+}

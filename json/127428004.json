@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127428004,
+      "chineseName": "腰包、臂包、拎包",
+      "translatedName": "Waist bag, arm bag, handbag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127406010"
+    }
+  }
+}

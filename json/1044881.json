@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044881,
+      "chineseName": "棒垒球棍、曲棍球棒",
+      "translatedName": "Baseball and softball sticks, hockey sticks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044823"
+    }
+  }
+}

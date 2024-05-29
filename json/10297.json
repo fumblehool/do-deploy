@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10297,
+      "chineseName": "烘焙用具",
+      "translatedName": "Baking utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033562,
+          "chineseName": "其他烘焙用具",
+          "translatedName": "Other baking utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 1048288,
+          "chineseName": "蛋糕模",
+          "translatedName": "cake mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 1048289,
+          "chineseName": "裱花嘴、裱花袋、裱花枪",
+          "translatedName": "decorating nozzle, decorating bag, decorating gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 125730004,
+          "chineseName": "面粉筛",
+          "translatedName": "Flour sieve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 122160001,
+          "chineseName": "手动打蛋器",
+          "translatedName": "Manual egg beater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 125748004,
+          "chineseName": "烘焙用纸",
+          "translatedName": "baking paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 121536005,
+          "chineseName": "烘焙套装",
+          "translatedName": "Baking Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 122634003,
+          "chineseName": "蛋清分离器",
+          "translatedName": "egg white separator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 125750004,
+          "chineseName": "烘焙量勺量杯",
+          "translatedName": "Baking measuring spoon measuring cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 127762002,
+          "chineseName": "烘焙烤盘",
+          "translatedName": "Baking pan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 127754003,
+          "chineseName": "披萨铲",
+          "translatedName": "Pizza Shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201156605,
+          "chineseName": "打蛋盆",
+          "translatedName": "Egg basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201160403,
+          "chineseName": "烘焙转台",
+          "translatedName": "Baking turntable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201163304,
+          "chineseName": "巧克力模具",
+          "translatedName": "Chocolate mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201159304,
+          "chineseName": "饼干模具",
+          "translatedName": "Cookie Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201658802,
+          "chineseName": "蛋挞模具",
+          "translatedName": "Egg Tart Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201661002,
+          "chineseName": "甜甜圈模具",
+          "translatedName": "Donut mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201661301,
+          "chineseName": "鸡蛋仔模具",
+          "translatedName": "Egg Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201661401,
+          "chineseName": "雪花酥模具",
+          "translatedName": "Snowflake crisp mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201661501,
+          "chineseName": "香肠模具",
+          "translatedName": "sausage mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 127774003,
+          "chineseName": "烘焙刮刀",
+          "translatedName": "Baking Scraper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201217809,
+          "chineseName": "月饼模具",
+          "translatedName": "Mooncake Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201307603,
+          "chineseName": "烘焙刮板",
+          "translatedName": "Baking Scraper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201310207,
+          "chineseName": "烘焙铲",
+          "translatedName": "Baking shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201160005,
+          "chineseName": "面包模具",
+          "translatedName": "Bread Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201303113,
+          "chineseName": "花嘴转换器",
+          "translatedName": "flower mouth converter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201819803,
+          "chineseName": "烤碗",
+          "translatedName": "Baking bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201822203,
+          "chineseName": "烤垫/烘焙垫",
+          "translatedName": "Baking mat/baking mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 202045803,
+          "chineseName": "电子称量勺/勺子称",
+          "translatedName": "Electronic scale measuring spoon/spoon scale",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        },
+        {
+          "categoryId": 201713701,
+          "chineseName": "蛋糕上色喷笔",
+          "translatedName": "Cake color spray pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10297
+        }
+      ]
+    }
+  }
+}

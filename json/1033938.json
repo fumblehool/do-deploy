@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033938,
+      "chineseName": "通信器材代理加盟",
+      "translatedName": "Communication equipment agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "509"
+    }
+  }
+}

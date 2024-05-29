@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033792,
+      "chineseName": "其他中介服务",
+      "translatedName": "Other Intermediary Services",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2803"
+    }
+  }
+}

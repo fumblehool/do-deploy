@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202060416,
+      "chineseName": "风电产品",
+      "translatedName": "Wind Power Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1004,
+          "chineseName": "风能设备",
+          "translatedName": "Wind energy equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202026817,
+          "chineseName": "风光发电系统",
+          "translatedName": "wind power generation system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202062505,
+          "chineseName": "风力发电应用",
+          "translatedName": "Wind Power Applications",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202054012,
+          "chineseName": "风力风力塔架",
+          "translatedName": "wind wind tower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202056509,
+          "chineseName": "风力发电机配件",
+          "translatedName": "Wind Turbine Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202053108,
+          "chineseName": "风力发电逆变器",
+          "translatedName": "wind power inverter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202055611,
+          "chineseName": "风力发电系统",
+          "translatedName": "wind power generation system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202059214,
+          "chineseName": "其他风电产品",
+          "translatedName": "Other Wind Power Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202063012,
+          "chineseName": "风力发电机控制器",
+          "translatedName": "Wind generator controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        },
+        {
+          "categoryId": 202059812,
+          "chineseName": "风力发电机",
+          "translatedName": "wind power generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202060416
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034721,
+      "chineseName": "冷冻机",
+      "translatedName": "Freezer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031664"
+    }
+  }
+}

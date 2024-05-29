@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123622006,
+      "chineseName": "LED红光芯片",
+      "translatedName": "LED red chip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620004"
+    }
+  }
+}

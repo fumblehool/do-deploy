@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122248001,
+      "chineseName": "排球用品",
+      "translatedName": "Volleyball Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044843,
+          "chineseName": "排球",
+          "translatedName": "Volleyball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122248001
+        },
+        {
+          "categoryId": 121910001,
+          "chineseName": "排球鞋",
+          "translatedName": "volleyball shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122248001
+        }
+      ]
+    }
+  }
+}

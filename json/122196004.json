@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122196004,
+      "chineseName": "孕妇装",
+      "translatedName": "Maternity clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122214007,
+          "chineseName": "孕妇套装",
+          "translatedName": "Pregnant women suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 122248002,
+          "chineseName": "孕妇裤",
+          "translatedName": "Maternity pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 124584001,
+          "chineseName": "防辐射服",
+          "translatedName": "anti-radiation clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 122196005,
+          "chineseName": "孕妇裙",
+          "translatedName": "Pregnant women's skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 201721805,
+          "chineseName": "孕妇打底裤",
+          "translatedName": "Pregnant Women Leggings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202040701,
+          "chineseName": "孕妇家居服",
+          "translatedName": "Pregnant women's home clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202040901,
+          "chineseName": "孕妇外套/风衣",
+          "translatedName": "Maternity coat/windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041001,
+          "chineseName": "孕妇针织衫",
+          "translatedName": "pregnant women's knitwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041101,
+          "chineseName": "哺乳衣",
+          "translatedName": "Lactation clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041201,
+          "chineseName": "孕妇棉服",
+          "translatedName": "pregnant women cotton-padded jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 342,
+          "chineseName": "孕妇T恤",
+          "translatedName": "Maternity T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041401,
+          "chineseName": "孕妇衬衫/雪纺衫",
+          "translatedName": "Maternity Shirt/Chiffon Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041402,
+          "chineseName": "孕妇卫衣/绒衫",
+          "translatedName": "Pregnant women's sweater/sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041501,
+          "chineseName": "孕妇羽绒服",
+          "translatedName": "Down Jacket for Pregnant Women",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202041601,
+          "chineseName": "孕妇吊带/背心",
+          "translatedName": "Pregnant women's suspenders/vests",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202042101,
+          "chineseName": "孕妇半身裙",
+          "translatedName": "Maternity Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        },
+        {
+          "categoryId": 202042501,
+          "chineseName": "孕妇毛衣",
+          "translatedName": "Maternity Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122196004
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126484001,
+      "chineseName": "汽车用品包装",
+      "translatedName": "Automotive Supplies Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126392001"
+    }
+  }
+}

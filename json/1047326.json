@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047326,
+      "chineseName": "其他电子用塑胶制品",
+      "translatedName": "Other plastic products for electronic use",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047322"
+    }
+  }
+}

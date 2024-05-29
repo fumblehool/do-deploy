@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121706001,
+      "chineseName": "男士洁面",
+      "translatedName": "Men's Face Cleansing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121702001"
+    }
+  }
+}

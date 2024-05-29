@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202043001,
+      "chineseName": "拉丁舞表演服",
+      "translatedName": "Latin Dance Dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548501"
+    }
+  }
+}

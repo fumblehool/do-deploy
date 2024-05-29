@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 921,
+      "chineseName": "地矿勘测设备",
+      "translatedName": "geological and mineral survey equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032532,
+          "chineseName": "矿业物探仪器",
+          "translatedName": "mining geophysical prospecting instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 921
+        },
+        {
+          "categoryId": 1032542,
+          "chineseName": "矿业测量仪器",
+          "translatedName": "Mining measuring instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 921
+        },
+        {
+          "categoryId": 1032544,
+          "chineseName": "钻探机",
+          "translatedName": "drilling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 921
+        },
+        {
+          "categoryId": 1033357,
+          "chineseName": "其他地矿勘测设备",
+          "translatedName": "Other geological and mineral survey equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 921
+        }
+      ]
+    }
+  }
+}

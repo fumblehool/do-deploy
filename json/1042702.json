@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042702,
+      "chineseName": "鞋辅件",
+      "translatedName": "Shoe accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125730003"
+    }
+  }
+}

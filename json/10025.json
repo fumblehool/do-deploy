@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10025,
+      "chineseName": "面粉",
+      "translatedName": "Flour",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "228"
+    }
+  }
+}

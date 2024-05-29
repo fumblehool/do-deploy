@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304234,
+      "chineseName": "个护家清加工",
+      "translatedName": "A protective family clean processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125086009,
+          "chineseName": "生活用纸加工",
+          "translatedName": "Living paper processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        },
+        {
+          "categoryId": 125086010,
+          "chineseName": "日化用品加工",
+          "translatedName": "Daily chemical products processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        },
+        {
+          "categoryId": 125064009,
+          "chineseName": "女性护理加工",
+          "translatedName": "female nursing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        },
+        {
+          "categoryId": 125066012,
+          "chineseName": "个人护理加工",
+          "translatedName": "Personal Care Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        },
+        {
+          "categoryId": 201337117,
+          "chineseName": "假发加工",
+          "translatedName": "Wig processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        },
+        {
+          "categoryId": 201303036,
+          "chineseName": "消毒抑菌用品加工",
+          "translatedName": "Processing of disinfection and antibacterial products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304234
+        }
+      ]
+    }
+  }
+}

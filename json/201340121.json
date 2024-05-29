@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201340121,
+      "chineseName": "收藏品鉴定/保养工具",
+      "translatedName": "Collectible Identification/Maintenance Tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201345914"
+    }
+  }
+}

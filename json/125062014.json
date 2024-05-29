@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062014,
+      "chineseName": "大视野后视辅助镜",
+      "translatedName": "Large field of view rear view auxiliary mirror",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3308"
+    }
+  }
+}

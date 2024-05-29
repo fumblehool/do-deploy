@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042956,
+      "chineseName": "线性电源",
+      "translatedName": "Linear power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "529"
+    }
+  }
+}

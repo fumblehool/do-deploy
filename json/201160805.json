@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160805,
+      "chineseName": "塑料网",
+      "translatedName": "plastic net",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035661,
+          "chineseName": "其他塑料网",
+          "translatedName": "Other plastic nets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160805
+        },
+        {
+          "categoryId": 201158105,
+          "chineseName": "塑料网套",
+          "translatedName": "plastic mesh sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160805
+        },
+        {
+          "categoryId": 201161111,
+          "chineseName": "防雹网",
+          "translatedName": "anti-hail net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160805
+        },
+        {
+          "categoryId": 201156103,
+          "chineseName": "农业塑料网",
+          "translatedName": "agricultural plastic net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160805
+        },
+        {
+          "categoryId": 201157009,
+          "chineseName": "工业塑料网",
+          "translatedName": "industrial plastic net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160805
+        }
+      ]
+    }
+  }
+}

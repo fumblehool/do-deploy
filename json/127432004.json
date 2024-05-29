@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127432004,
+      "chineseName": "儿童运动套装",
+      "translatedName": "Children's sports suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127420011"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548507,
+      "chineseName": "呢大衣",
+      "translatedName": "tweed coat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201551614"
+    }
+  }
+}

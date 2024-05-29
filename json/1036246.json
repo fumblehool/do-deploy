@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036246,
+      "chineseName": "一氧化碳检测仪",
+      "translatedName": "Carbon monoxide detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033898"
+    }
+  }
+}

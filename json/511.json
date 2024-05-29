@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 511,
+      "chineseName": "商业专用设备",
+      "translatedName": "Commercial Special Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033770,
+          "chineseName": "其他商业专用设备",
+          "translatedName": "Other commercial-specific equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033771,
+          "chineseName": "出入口机",
+          "translatedName": "Entrance and exit machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033772,
+          "chineseName": "标价机",
+          "translatedName": "Pricing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033773,
+          "chineseName": "扎口机",
+          "translatedName": "tie-in machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033774,
+          "chineseName": "商用购物篮",
+          "translatedName": "Commercial shopping basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033776,
+          "chineseName": "活动围栏",
+          "translatedName": "Activity fence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033777,
+          "chineseName": "存包柜",
+          "translatedName": "Bag storage cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033778,
+          "chineseName": "自动售货机",
+          "translatedName": "Vending Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033781,
+          "chineseName": "商超货架",
+          "translatedName": "Supermarket Shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1033782,
+          "chineseName": "收银台",
+          "translatedName": "Cashier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1032528,
+          "chineseName": "结算设备",
+          "translatedName": "Settlement equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1032529,
+          "chineseName": "点钞机、验钞机",
+          "translatedName": "Money counter, money detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1036827,
+          "chineseName": "排队机、叫号机",
+          "translatedName": "Queuing machine, calling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 1429,
+          "chineseName": "超市购物车",
+          "translatedName": "Supermarket Shopping Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        },
+        {
+          "categoryId": 201958601,
+          "chineseName": "地坪打磨机",
+          "translatedName": "Floor grinding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 511
+        }
+      ]
+    }
+  }
+}

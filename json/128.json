@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 128,
+      "chineseName": "农业用具",
+      "translatedName": "agricultural utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033760,
+          "chineseName": "其他农业用具",
+          "translatedName": "Other Agricultural Appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 128
+        },
+        {
+          "categoryId": 1033761,
+          "chineseName": "防虫网",
+          "translatedName": "insect net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 128
+        },
+        {
+          "categoryId": 1033762,
+          "chineseName": "温室、大棚",
+          "translatedName": "Greenhouse, greenhouse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 128
+        },
+        {
+          "categoryId": 1046601,
+          "chineseName": "农用遮阳网",
+          "translatedName": "Agricultural shade net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 128
+        },
+        {
+          "categoryId": 142,
+          "chineseName": "渔业用具",
+          "translatedName": "fishing utensils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 128
+        }
+      ]
+    }
+  }
+}

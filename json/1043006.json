@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043006,
+      "chineseName": "鲜蛋类",
+      "translatedName": "fresh eggs",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043007,
+          "chineseName": "鸭蛋",
+          "translatedName": "Duck Egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        },
+        {
+          "categoryId": 1043008,
+          "chineseName": "鹅蛋",
+          "translatedName": "Goose Egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        },
+        {
+          "categoryId": 1043009,
+          "chineseName": "鹌鹑蛋",
+          "translatedName": "Quail Egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        },
+        {
+          "categoryId": 1043010,
+          "chineseName": "其他鲜蛋类",
+          "translatedName": "Other fresh eggs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        },
+        {
+          "categoryId": 112,
+          "chineseName": "鸡蛋",
+          "translatedName": "Eggs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        },
+        {
+          "categoryId": 125064003,
+          "chineseName": "鸽蛋",
+          "translatedName": "Pigeon Egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043006
+        }
+      ]
+    }
+  }
+}

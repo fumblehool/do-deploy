@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127864016,
+      "chineseName": "创意类毛巾",
+      "translatedName": "Creative towel",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122200003,
+          "chineseName": "礼品、广告毛巾",
+          "translatedName": "Gifts, advertising towels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127864016
+        },
+        {
+          "categoryId": 122228004,
+          "chineseName": "其他巾类",
+          "translatedName": "Other towel classes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127864016
+        },
+        {
+          "categoryId": 122228006,
+          "chineseName": "真丝毛巾、蚕丝毛巾",
+          "translatedName": "Silk towel, silk towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127864016
+        },
+        {
+          "categoryId": 122196003,
+          "chineseName": "蛋糕毛巾、造型毛巾",
+          "translatedName": "Cake towel, styling towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127864016
+        },
+        {
+          "categoryId": 122218005,
+          "chineseName": "变色毛巾、创意毛巾",
+          "translatedName": "Color change towel, creative towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127864016
+        }
+      ]
+    }
+  }
+}

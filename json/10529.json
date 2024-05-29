@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10529,
+      "chineseName": "制药辅料",
+      "translatedName": "Pharmaceutical Excipients",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

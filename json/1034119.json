@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034119,
+      "chineseName": "特技切换台",
+      "translatedName": "Stunt switcher",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3418"
+    }
+  }
+}

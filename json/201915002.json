@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201915002,
+      "chineseName": "环保油墨包材",
+      "translatedName": "Environmental protection ink package material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201900010"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201346711,
+      "chineseName": "古币",
+      "translatedName": "Ancient Coin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201333016"
+    }
+  }
+}

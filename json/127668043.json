@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127668043,
+      "chineseName": "铝电解电容器",
+      "translatedName": "aluminum electrolytic capacitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127676048"
+    }
+  }
+}

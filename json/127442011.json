@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127442011,
+      "chineseName": "儿童围巾",
+      "translatedName": "Children's scarf",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564422"
+    }
+  }
+}

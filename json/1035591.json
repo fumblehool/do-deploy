@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035591,
+      "chineseName": "电动螺丝刀、起子机",
+      "translatedName": "Electric screwdriver, screwdriver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032336"
+    }
+  }
+}

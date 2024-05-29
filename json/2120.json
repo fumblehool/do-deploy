@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2120,
+      "chineseName": "奖状、证书",
+      "translatedName": "Certificate, certificate",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124904001"
+    }
+  }
+}

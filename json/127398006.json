@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127398006,
+      "chineseName": "数码包",
+      "translatedName": "Digital Bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036596,
+          "chineseName": "摄影包",
+          "translatedName": "Photography Pack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127398006
+        },
+        {
+          "categoryId": 127416009,
+          "chineseName": "单反相机包",
+          "translatedName": "SLR camera bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127398006
+        },
+        {
+          "categoryId": 127402009,
+          "chineseName": "数码相机包",
+          "translatedName": "Digital Camera Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127398006
+        },
+        {
+          "categoryId": 201556710,
+          "chineseName": "无人机包",
+          "translatedName": "Drone package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127398006
+        }
+      ]
+    }
+  }
+}

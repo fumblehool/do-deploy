@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126510002,
+      "chineseName": "饰品包装",
+      "translatedName": "Jewelry packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126484004,
+          "chineseName": "围巾包装",
+          "translatedName": "Scarf packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510002
+        },
+        {
+          "categoryId": 126514001,
+          "chineseName": "手表包装",
+          "translatedName": "Watch packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126510002
+        }
+      ]
+    }
+  }
+}

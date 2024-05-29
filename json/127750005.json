@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127750005,
+      "chineseName": "云母和特氟龙电容器",
+      "translatedName": "Mica and Teflon Capacitors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127676048"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10532,
+      "chineseName": "矿物原药材",
+      "translatedName": "raw mineral herbs",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

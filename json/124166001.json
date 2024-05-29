@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124166001,
+      "chineseName": "足部防护",
+      "translatedName": "Foot Protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033212,
+          "chineseName": "其他足部防护",
+          "translatedName": "Other foot protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 1036663,
+          "chineseName": "防静电鞋",
+          "translatedName": "Anti-static shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 124158004,
+          "chineseName": "绝缘鞋",
+          "translatedName": "Insulated shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 124158005,
+          "chineseName": "防化鞋",
+          "translatedName": "Anti-chemical shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 124158006,
+          "chineseName": "防砸防刺穿鞋",
+          "translatedName": "Smash-resistant and puncture-resistant shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 124152008,
+          "chineseName": "防护靴",
+          "translatedName": "Protective boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        },
+        {
+          "categoryId": 124162004,
+          "chineseName": "防尘鞋",
+          "translatedName": "Dust shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124166001
+        }
+      ]
+    }
+  }
+}

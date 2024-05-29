@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044996,
+      "chineseName": "美体瘦身器具",
+      "translatedName": "Body Slimming Appliance",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1608"
+    }
+  }
+}

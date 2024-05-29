@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041268,
+      "chineseName": "其他周边配件",
+      "translatedName": "Other peripheral accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3011"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201308710,
+      "chineseName": "面膜、面膜粉",
+      "translatedName": "Mask, mask powder",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034765,
+          "chineseName": "贴片面膜",
+          "translatedName": "patch mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308710
+        },
+        {
+          "categoryId": 201309107,
+          "chineseName": "面膜套装",
+          "translatedName": "Mask Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308710
+        },
+        {
+          "categoryId": 201305009,
+          "chineseName": "涂抹面膜",
+          "translatedName": "Apply mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308710
+        },
+        {
+          "categoryId": 201306109,
+          "chineseName": "面膜粉",
+          "translatedName": "facial mask powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201308710
+        }
+      ]
+    }
+  }
+}

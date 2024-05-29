@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50916,
+      "chineseName": "RF通信模块",
+      "translatedName": "RF Communication Module",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033943,
+          "chineseName": "RF/射频模块",
+          "translatedName": "RF/RF Modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 1033944,
+          "chineseName": "CDMA模块",
+          "translatedName": "CDMA Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 1033945,
+          "chineseName": "GSM模块",
+          "translatedName": "GSM module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126572001,
+          "chineseName": "3G/4G模块",
+          "translatedName": "3G/4G module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126574001,
+          "chineseName": "其他通信模块",
+          "translatedName": "Other communication modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126564001,
+          "chineseName": "wifi模块",
+          "translatedName": "wifi module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126566001,
+          "chineseName": "zigbee模块",
+          "translatedName": "zigbee module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126566002,
+          "chineseName": "LoRa模块",
+          "translatedName": "LoRa Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126568001,
+          "chineseName": "NB-IoT模块",
+          "translatedName": "NB-IoT module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126570001,
+          "chineseName": "GPS模块",
+          "translatedName": "GPS module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126570002,
+          "chineseName": "GPRS模块",
+          "translatedName": "GPRS module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        },
+        {
+          "categoryId": 126562001,
+          "chineseName": "蓝牙模块",
+          "translatedName": "bluetooth module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50916
+        }
+      ]
+    }
+  }
+}

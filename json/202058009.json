@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058009,
+      "chineseName": "女装洗水加工",
+      "translatedName": "Women's Wash Water Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056910"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1040236,
+      "chineseName": "光电器件",
+      "translatedName": "photoelectric device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061303"
+    }
+  }
+}

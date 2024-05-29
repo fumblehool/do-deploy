@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124952008,
+      "chineseName": "UPS（不间断）电源",
+      "translatedName": "UPS (uninterruptible) power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "529"
+    }
+  }
+}

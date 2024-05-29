@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046168,
+      "chineseName": "橡胶捆绑带",
+      "translatedName": "Rubber Bundling Strap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046165"
+    }
+  }
+}

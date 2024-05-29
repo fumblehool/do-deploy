@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036158,
+      "chineseName": "汽车传感器",
+      "translatedName": "Automotive Sensors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10109",
+      "fromCache": true
+    }
+  }
+}

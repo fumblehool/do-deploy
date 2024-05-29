@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044819,
+      "chineseName": "羽毛球、网球用品",
+      "translatedName": "Badminton, tennis supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044858,
+          "chineseName": "羽毛球",
+          "translatedName": "Badminton",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 1044862,
+          "chineseName": "网球",
+          "translatedName": "Tennis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 1044874,
+          "chineseName": "羽毛球拍、网球拍",
+          "translatedName": "Badminton racket, tennis racket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 121846005,
+          "chineseName": "羽毛球服",
+          "translatedName": "Badminton clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122200007,
+          "chineseName": "球拍手胶、吸汗带",
+          "translatedName": "Racket hand glue, sweat band",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122200008,
+          "chineseName": "避震器",
+          "translatedName": "shock absorber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122230004,
+          "chineseName": "羽毛球包",
+          "translatedName": "Badminton bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122230005,
+          "chineseName": "网球包",
+          "translatedName": "tennis bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122246004,
+          "chineseName": "其他网球配件",
+          "translatedName": "Other Tennis Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122258002,
+          "chineseName": "网球网、球柱",
+          "translatedName": "Tennis net, ball column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122260002,
+          "chineseName": "其他羽毛球装备",
+          "translatedName": "Other Badminton Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122240004,
+          "chineseName": "网球赛事纪念",
+          "translatedName": "Tennis Tournament Commemoration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122252003,
+          "chineseName": "羽毛球网、球柱",
+          "translatedName": "Badminton net, ball column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 121870001,
+          "chineseName": "网球服",
+          "translatedName": "tennis clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122206005,
+          "chineseName": "羽毛球、网球拍线",
+          "translatedName": "Badminton, tennis racket line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 122208005,
+          "chineseName": "羽毛球帽、网球帽",
+          "translatedName": "Badminton cap, tennis cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 202057510,
+          "chineseName": "匹克球",
+          "translatedName": "Pick Ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        },
+        {
+          "categoryId": 202059811,
+          "chineseName": "匹克球拍",
+          "translatedName": "Pick racket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044819
+        }
+      ]
+    }
+  }
+}

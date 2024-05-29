@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201,
+      "chineseName": "待煮面条",
+      "translatedName": "Noodles to be boiled",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124000009"
+    }
+  }
+}

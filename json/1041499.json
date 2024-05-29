@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041499,
+      "chineseName": "车架总成",
+      "translatedName": "Frame Assembly",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3321"
+    }
+  }
+}

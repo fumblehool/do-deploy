@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80205,
+      "chineseName": "单质",
+      "translatedName": "simple substance",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034607,
+          "chineseName": "其他单质",
+          "translatedName": "Other simple substance",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80205
+        },
+        {
+          "categoryId": 1034609,
+          "chineseName": "汞",
+          "translatedName": "Mercury",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80205
+        },
+        {
+          "categoryId": 1034611,
+          "chineseName": "磷",
+          "translatedName": "Phosphorus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80205
+        },
+        {
+          "categoryId": 1034612,
+          "chineseName": "碳",
+          "translatedName": "Carbon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80205
+        }
+      ]
+    }
+  }
+}

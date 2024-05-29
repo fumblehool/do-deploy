@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122384005,
+      "chineseName": "拉篮",
+      "translatedName": "pull basket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374009"
+    }
+  }
+}

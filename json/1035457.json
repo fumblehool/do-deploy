@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035457,
+      "chineseName": "密封垫片",
+      "translatedName": "Sealing gasket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032468"
+    }
+  }
+}

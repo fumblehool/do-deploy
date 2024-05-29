@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033365,
+      "chineseName": "矿物代理加盟",
+      "translatedName": "Mineral agents join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "9"
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10037,
+      "chineseName": "水果",
+      "translatedName": "Fruit",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032825,
+          "chineseName": "柑桔",
+          "translatedName": "Citrus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 1032832,
+          "chineseName": "菠萝蜜",
+          "translatedName": "Jackfruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 10034,
+          "chineseName": "雪莲果",
+          "translatedName": "yacon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 10036,
+          "chineseName": "人参果",
+          "translatedName": "ginseng fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 1036622,
+          "chineseName": "其他水果",
+          "translatedName": "Other Fruits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 1036642,
+          "chineseName": "苹果",
+          "translatedName": "Apple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125062001,
+          "chineseName": "牛油果",
+          "translatedName": "avocado",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125062002,
+          "chineseName": "枇杷",
+          "translatedName": "loquat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125062003,
+          "chineseName": "椰子/椰青",
+          "translatedName": "Coconut/Coconut Green",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125062004,
+          "chineseName": "菠萝/凤梨",
+          "translatedName": "Pineapple/Pineapple",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125062005,
+          "chineseName": "桃子",
+          "translatedName": "Peach",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960009,
+          "chineseName": "西番莲/百香果",
+          "translatedName": "Passionflower/Passion Fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960010,
+          "chineseName": "柠檬",
+          "translatedName": "Lemon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960011,
+          "chineseName": "柚",
+          "translatedName": "Pomelo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960012,
+          "chineseName": "鲜枣",
+          "translatedName": "fresh jujube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125012006,
+          "chineseName": "哈密瓜",
+          "translatedName": "Hami Melon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125012007,
+          "chineseName": "新鲜龙眼",
+          "translatedName": "Fresh Longan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125012008,
+          "chineseName": "莲雾",
+          "translatedName": "Lotus Mist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125012009,
+          "chineseName": "香蕉",
+          "translatedName": "Banana",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124952009,
+          "chineseName": "草莓",
+          "translatedName": "Strawberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124952010,
+          "chineseName": "柿子",
+          "translatedName": "Persimmon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125068001,
+          "chineseName": "李子/布林",
+          "translatedName": "Plum/Brin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125070001,
+          "chineseName": "水果果干制品",
+          "translatedName": "Dried fruit products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954011,
+          "chineseName": "石榴",
+          "translatedName": "Pomegranate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954012,
+          "chineseName": "蓝莓",
+          "translatedName": "Blueberry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954013,
+          "chineseName": "山竹",
+          "translatedName": "Mangosteen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954014,
+          "chineseName": "橙",
+          "translatedName": "Orange",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124958016,
+          "chineseName": "西瓜",
+          "translatedName": "Watermelon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124734044,
+          "chineseName": "葡萄、提子",
+          "translatedName": "Grapes, raisins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124952011,
+          "chineseName": "红毛丹",
+          "translatedName": "rambutan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124952012,
+          "chineseName": "榴莲",
+          "translatedName": "Durian",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124952013,
+          "chineseName": "释迦",
+          "translatedName": "Sakyamuni",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954009,
+          "chineseName": "梨",
+          "translatedName": "Pear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124954010,
+          "chineseName": "芒果",
+          "translatedName": "Mango",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124958018,
+          "chineseName": "杨桃",
+          "translatedName": "Carambola",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124958019,
+          "chineseName": "荔枝",
+          "translatedName": "Litchi",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124958020,
+          "chineseName": "火龙果",
+          "translatedName": "dragon fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124958021,
+          "chineseName": "番石榴/芭乐",
+          "translatedName": "Guava/Guava",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960007,
+          "chineseName": "奇异果/猕猴桃",
+          "translatedName": "Kiwi Fruit/Kiwi Fruit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 124960008,
+          "chineseName": "木瓜",
+          "translatedName": "Papaya",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 125064001,
+          "chineseName": "车厘子/樱桃",
+          "translatedName": "Cherry/Cherry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 201162006,
+          "chineseName": "水果玉米",
+          "translatedName": "Fruit Corn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        },
+        {
+          "categoryId": 201308410,
+          "chineseName": "甘蔗",
+          "translatedName": "Sugarcane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10037
+        }
+      ]
+    }
+  }
+}

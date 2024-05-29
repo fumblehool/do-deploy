@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123622020,
+      "chineseName": "LED大灯、前照灯",
+      "translatedName": "LED headlamps, headlamps",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620015"
+    }
+  }
+}

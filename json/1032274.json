@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032274,
+      "chineseName": "氖灯",
+      "translatedName": "neon lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "527"
+    }
+  }
+}

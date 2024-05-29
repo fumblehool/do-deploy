@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122360002,
+      "chineseName": "色丁布袋",
+      "translatedName": "satin cloth bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047293"
+    }
+  }
+}

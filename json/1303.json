@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1303,
+      "chineseName": "墙纸、壁纸",
+      "translatedName": "Wallpaper, wallpaper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1038128"
+    }
+  }
+}

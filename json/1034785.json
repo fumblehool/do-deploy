@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034785,
+      "chineseName": "粉底",
+      "translatedName": "Foundation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82101"
+    }
+  }
+}

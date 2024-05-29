@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035960,
+      "chineseName": "香精和香料中间体",
+      "translatedName": "Flavor and Fragrance Intermediates",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "844"
+    }
+  }
+}

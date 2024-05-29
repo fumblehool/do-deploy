@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121876002,
+      "chineseName": "运动鞋",
+      "translatedName": "Sneakers",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125296002,
+          "chineseName": "童/青少年鞋",
+          "translatedName": "Children's/Teen Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 122102004,
+          "chineseName": "舞蹈鞋",
+          "translatedName": "Dance shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121896002,
+          "chineseName": "羽毛球鞋",
+          "translatedName": "Badminton Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121908001,
+          "chineseName": "篮球鞋",
+          "translatedName": "basketball shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121884002,
+          "chineseName": "棒球鞋",
+          "translatedName": "Baseball Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121888002,
+          "chineseName": "乒乓球鞋",
+          "translatedName": "table tennis shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121894002,
+          "chineseName": "网球鞋",
+          "translatedName": "Tennis Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121910002,
+          "chineseName": "足球鞋",
+          "translatedName": "football shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121910003,
+          "chineseName": "综合训练鞋、室内健身鞋",
+          "translatedName": "Comprehensive training shoes, indoor fitness shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121910004,
+          "chineseName": "其它运动鞋",
+          "translatedName": "Other sports shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 121912001,
+          "chineseName": "跑步鞋",
+          "translatedName": "Running shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        },
+        {
+          "categoryId": 125470004,
+          "chineseName": "军迷作训鞋",
+          "translatedName": "Military fan training shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121876002
+        }
+      ]
+    }
+  }
+}

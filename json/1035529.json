@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035529,
+      "chineseName": "曲线锯条",
+      "translatedName": "Jig saw blade",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042817"
+    }
+  }
+}

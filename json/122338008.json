@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122338008,
+      "chineseName": "假发",
+      "translatedName": "Wig",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043508,
+          "chineseName": "其他假发",
+          "translatedName": "Other Wig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122400002,
+          "chineseName": "真发假发",
+          "translatedName": "Real Hair Wig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122390007,
+          "chineseName": "假发长卷发",
+          "translatedName": "Wig Long Curls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122372008,
+          "chineseName": "假发短直发",
+          "translatedName": "Wig Short Straight Hair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122376005,
+          "chineseName": "假发片",
+          "translatedName": "Wig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122310011,
+          "chineseName": "cos假发",
+          "translatedName": "cos wig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122310010,
+          "chineseName": "假发刘海",
+          "translatedName": "Wig bangs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122310012,
+          "chineseName": "男士假发",
+          "translatedName": "Men's Wig",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122374006,
+          "chineseName": "假发长直发",
+          "translatedName": "Wig Long Straight Hair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122348006,
+          "chineseName": "假发短卷发",
+          "translatedName": "Wig Short Curly Hair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 122354012,
+          "chineseName": "假发马尾",
+          "translatedName": "Wig ponytail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        },
+        {
+          "categoryId": 201304626,
+          "chineseName": "假发护理用品",
+          "translatedName": "Wig Care Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122338008
+        }
+      ]
+    }
+  }
+}

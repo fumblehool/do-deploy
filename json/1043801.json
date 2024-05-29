@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043801,
+      "chineseName": "月子帽、妈咪包",
+      "translatedName": "Moon cap, Mummy bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1042954"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048070,
+      "chineseName": "户外服装",
+      "translatedName": "Outdoor Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1048075,
+          "chineseName": "户外休闲衣裤",
+          "translatedName": "Outdoor Casual Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 1048077,
+          "chineseName": "其他户外服装",
+          "translatedName": "Other Outdoor Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 1037037,
+          "chineseName": "赛车服",
+          "translatedName": "Racing Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 121896001,
+          "chineseName": "登山服",
+          "translatedName": "Mountaineering Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 123110001,
+          "chineseName": "运动户外功能服",
+          "translatedName": "Sports outdoor functional clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 123114001,
+          "chineseName": "软壳衣裤",
+          "translatedName": "Soft-Shell Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 1048085,
+          "chineseName": "速干衣裤",
+          "translatedName": "Quick-drying pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 1048087,
+          "chineseName": "迷彩服、军迷服、作训服",
+          "translatedName": "Camouflage uniform, military fan uniform, training uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 121892001,
+          "chineseName": "速干t恤",
+          "translatedName": "Quick-drying T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 122078002,
+          "chineseName": "户外皮肤衣/防晒衣",
+          "translatedName": "Outdoor skin clothing/sun protection clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 122096002,
+          "chineseName": "抓绒衣裤",
+          "translatedName": "Fleece Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        },
+        {
+          "categoryId": 1048073,
+          "chineseName": "冲锋衣、裤",
+          "translatedName": "Charge clothes, pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048070
+        }
+      ]
+    }
+  }
+}

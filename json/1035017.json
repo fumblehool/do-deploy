@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035017,
+      "chineseName": "硅碳棒",
+      "translatedName": "silicon carbon rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10233"
+    }
+  }
+}

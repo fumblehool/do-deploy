@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201551818,
+      "chineseName": "男式大码套装",
+      "translatedName": "Men's Plus Size Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201470102"
+    }
+  }
+}

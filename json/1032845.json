@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032845,
+      "chineseName": "辣椒彩椒",
+      "translatedName": "Pepper color pepper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10028"
+    }
+  }
+}

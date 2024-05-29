@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126482002,
+      "chineseName": "玩具加工定制",
+      "translatedName": "Toy processing customization",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1813"
+    }
+  }
+}

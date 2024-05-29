@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 407,
+      "chineseName": "家用地毯",
+      "translatedName": "Household carpet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900016"
+    }
+  }
+}

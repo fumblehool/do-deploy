@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746006,
+      "chineseName": "羊奶粉",
+      "translatedName": "goat milk powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740008"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 345,
+      "chineseName": "服装展示道具",
+      "translatedName": "Costume display props",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037027,
+          "chineseName": "其它服装展示道具",
+          "translatedName": "Other costume display props",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037028,
+          "chineseName": "尺码圈",
+          "translatedName": "Size circle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037030,
+          "chineseName": "服装展示柜",
+          "translatedName": "Clothing display cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037031,
+          "chineseName": "服装陈列架、中岛架",
+          "translatedName": "Clothing display rack, Nakajima rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037032,
+          "chineseName": "展示裤架",
+          "translatedName": "Show trouser rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037033,
+          "chineseName": "展示衣架",
+          "translatedName": "Display hanger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        },
+        {
+          "categoryId": 1037034,
+          "chineseName": "模特",
+          "translatedName": "Model",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 345
+        }
+      ]
+    }
+  }
+}

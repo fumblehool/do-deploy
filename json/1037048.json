@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037048,
+      "chineseName": "环己酮",
+      "translatedName": "Cyclohexanone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80310"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044823,
+      "chineseName": "棒垒球、曲棍球用品",
+      "translatedName": "Baseball, Softball, Hockey Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044878,
+          "chineseName": "垒球",
+          "translatedName": "Softball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044823
+        },
+        {
+          "categoryId": 1044879,
+          "chineseName": "棒球",
+          "translatedName": "Baseball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044823
+        },
+        {
+          "categoryId": 1044880,
+          "chineseName": "曲棍球",
+          "translatedName": "Hockey",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044823
+        },
+        {
+          "categoryId": 1044881,
+          "chineseName": "棒垒球棍、曲棍球棒",
+          "translatedName": "Baseball and softball sticks, hockey sticks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044823
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127874003,
+      "chineseName": "变频器功率模块",
+      "translatedName": "Frequency converter power module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127880002"
+    }
+  }
+}

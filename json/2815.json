@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2815,
+      "chineseName": "教育培训",
+      "translatedName": "education and training",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033802,
+          "chineseName": "其他教育培训",
+          "translatedName": "Other education and training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1033803,
+          "chineseName": "拓展培训",
+          "translatedName": "Outward Bound Training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1033805,
+          "chineseName": "资格考试培训",
+          "translatedName": "Qualification Examination Training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1033806,
+          "chineseName": "语言培训",
+          "translatedName": "Language Training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1033807,
+          "chineseName": "职业培训",
+          "translatedName": "vocational training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1033808,
+          "chineseName": "管理培训",
+          "translatedName": "Management training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1036499,
+          "chineseName": "内审员培训",
+          "translatedName": "Internal Auditor Training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1036500,
+          "chineseName": "专业技能培训",
+          "translatedName": "Professional skills training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        },
+        {
+          "categoryId": 1036501,
+          "chineseName": "经理人培训",
+          "translatedName": "Manager Training",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2815
+        }
+      ]
+    }
+  }
+}

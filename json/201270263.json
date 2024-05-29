@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201270263,
+      "chineseName": "商业照明",
+      "translatedName": "Commercial Lighting",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046765,
+          "chineseName": "LED面板灯",
+          "translatedName": "LED Panel Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 123610002,
+          "chineseName": "LED一体化支架灯",
+          "translatedName": "LED integrated bracket lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 122938005,
+          "chineseName": "美发转灯",
+          "translatedName": "Hairdressing Turn Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 123862004,
+          "chineseName": "天棚灯",
+          "translatedName": "canopy lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 121192019,
+          "chineseName": "商用吊线灯",
+          "translatedName": "Commercial Chandelier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 123618011,
+          "chineseName": "LED应急灯",
+          "translatedName": "LED emergency light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 126576003,
+          "chineseName": "窗台灯",
+          "translatedName": "Window sill lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        },
+        {
+          "categoryId": 126580002,
+          "chineseName": "展柜灯",
+          "translatedName": "Display cabinet lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201270263
+        }
+      ]
+    }
+  }
+}

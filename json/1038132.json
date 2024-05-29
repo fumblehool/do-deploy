@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038132,
+      "chineseName": "其他类型家具",
+      "translatedName": "Other types of furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043670,
+          "chineseName": "其他成套家具",
+          "translatedName": "Other sets of furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038132
+        },
+        {
+          "categoryId": 1043671,
+          "chineseName": "其他家具",
+          "translatedName": "Other Furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038132
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041495,
+      "chineseName": "驱动桥",
+      "translatedName": "Drive axle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10105"
+    }
+  }
+}

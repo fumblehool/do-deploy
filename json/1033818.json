@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033818,
+      "chineseName": "仪表壳体",
+      "translatedName": "Instrument housing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032380"
+    }
+  }
+}

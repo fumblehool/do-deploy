@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122254006,
+      "chineseName": "其他空气净化用品",
+      "translatedName": "Other Air Purification Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122194007"
+    }
+  }
+}

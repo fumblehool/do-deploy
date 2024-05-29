@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746007,
+      "chineseName": "菜粉/水果粉",
+      "translatedName": "Vegetable powder/fruit powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742005"
+    }
+  }
+}

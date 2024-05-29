@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122268004,
+      "chineseName": "口腔清洁护理",
+      "translatedName": "Oral cleaning care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10317,
+          "chineseName": "牙刷",
+          "translatedName": "Toothbrush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 1036619,
+          "chineseName": "牙签、牙线",
+          "translatedName": "Toothpick, dental floss",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122216007,
+          "chineseName": "牙膏",
+          "translatedName": "Toothpaste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122706001,
+          "chineseName": "牙齿美白笔",
+          "translatedName": "tooth whitening pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122192009,
+          "chineseName": "牙粉",
+          "translatedName": "Dental powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122220009,
+          "chineseName": "漱口水",
+          "translatedName": "Mouthwash",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 123662003,
+          "chineseName": "假牙清洁",
+          "translatedName": "Denture cleaning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 123858005,
+          "chineseName": "月子牙刷",
+          "translatedName": "Moon Toothbrush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122264003,
+          "chineseName": "其他口腔护理",
+          "translatedName": "Other Oral Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122282004,
+          "chineseName": "口腔清新剂",
+          "translatedName": "oral freshener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 122702002,
+          "chineseName": "口腔护理套装",
+          "translatedName": "Oral Care Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 201308501,
+          "chineseName": "牙贴",
+          "translatedName": "Toothpaste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 201306321,
+          "chineseName": "舌苔清洁器",
+          "translatedName": "Tongue Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 201309304,
+          "chineseName": "口喷",
+          "translatedName": "Mouth spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 201335522,
+          "chineseName": "旅行（便携）手动牙刷/套装",
+          "translatedName": "Travel (portable) manual toothbrush/set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 126564002,
+          "chineseName": "婴儿牙刷/牙膏",
+          "translatedName": "Baby toothbrush/toothpaste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        },
+        {
+          "categoryId": 201306002,
+          "chineseName": "口腔凝胶",
+          "translatedName": "Oral Gel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122268004
+        }
+      ]
+    }
+  }
+}

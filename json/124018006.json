@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124018006,
+      "chineseName": "速冻西点类",
+      "translatedName": "Frozen West Point Class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "216"
+    }
+  }
+}

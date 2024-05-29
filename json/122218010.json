@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122218010,
+      "chineseName": "乒乓球拍套、包",
+      "translatedName": "Table tennis racket set, bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044825"
+    }
+  }
+}

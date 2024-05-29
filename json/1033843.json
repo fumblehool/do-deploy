@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033843,
+      "chineseName": "吊秤",
+      "translatedName": "Hanging scale",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032372"
+    }
+  }
+}

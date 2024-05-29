@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122986004,
+      "chineseName": "儿童滑板车",
+      "translatedName": "Children's Scooter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962004"
+    }
+  }
+}

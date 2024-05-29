@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045747,
+      "chineseName": "电子制造设备配附件",
+      "translatedName": "Accessories for electronic manufacturing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10236"
+    }
+  }
+}

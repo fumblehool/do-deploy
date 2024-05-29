@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548601,
+      "chineseName": "情侣服装",
+      "translatedName": "Couples clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037038,
+          "chineseName": "情侣装",
+          "translatedName": "Couple wear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548601
+        }
+      ]
+    }
+  }
+}

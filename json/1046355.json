@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046355,
+      "chineseName": "生皮、毛皮",
+      "translatedName": "Hides, fur",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "415"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201233908,
+      "chineseName": "半成品饰品配件",
+      "translatedName": "Semi-finished jewelry accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201238802,
+          "chineseName": "链子/链条",
+          "translatedName": "Chain/Chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201239002,
+          "chineseName": "装饰配件",
+          "translatedName": "Decorative Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201239402,
+          "chineseName": "饰品扣",
+          "translatedName": "Jewelry buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201239901,
+          "chineseName": "散珠/串珠",
+          "translatedName": "loose/beaded",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201240001,
+          "chineseName": "水钻",
+          "translatedName": "Rhinestone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201240101,
+          "chineseName": "绳/线",
+          "translatedName": "Rope/line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201240201,
+          "chineseName": "diy饰品",
+          "translatedName": "DIY Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201235503,
+          "chineseName": "饰品针",
+          "translatedName": "Jewelry needle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201237303,
+          "chineseName": "连接件",
+          "translatedName": "CONNECTIONS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201237804,
+          "chineseName": "挂件/坠子",
+          "translatedName": "Pendant/pendant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201238002,
+          "chineseName": "发饰、头饰配件",
+          "translatedName": "Hair accessories, headwear accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201238102,
+          "chineseName": "其他饰品配件",
+          "translatedName": "Other Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201238603,
+          "chineseName": "耳饰配件",
+          "translatedName": "Earrings Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        },
+        {
+          "categoryId": 201233604,
+          "chineseName": "工具",
+          "translatedName": "Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201233908
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124152006,
+      "chineseName": "防化学眼镜",
+      "translatedName": "Chemical-resistant glasses",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124154004"
+    }
+  }
+}

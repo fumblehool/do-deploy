@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127882018,
+      "chineseName": "角速度传感器（陀螺仪）",
+      "translatedName": "Angular velocity sensor (gyroscope)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126696001"
+    }
+  }
+}

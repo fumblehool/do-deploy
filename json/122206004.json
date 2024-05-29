@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122206004,
+      "chineseName": "羊毛被、羊绒被",
+      "translatedName": "Wool quilt, cashmere quilt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084001"
+    }
+  }
+}

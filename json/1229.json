@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1229,
+      "chineseName": "集装整理设备",
+      "translatedName": "Container finishing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "12",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033610,
+          "chineseName": "其他集装整理设备",
+          "translatedName": "Other container finishing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1229
+        },
+        {
+          "categoryId": 1033612,
+          "chineseName": "集装桶",
+          "translatedName": "Container Bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1229
+        },
+        {
+          "categoryId": 1033613,
+          "chineseName": "集装袋",
+          "translatedName": "Container Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1229
+        },
+        {
+          "categoryId": 152,
+          "chineseName": "集装箱",
+          "translatedName": "Container",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1229
+        }
+      ]
+    }
+  }
+}

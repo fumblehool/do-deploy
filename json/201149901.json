@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201149901,
+      "chineseName": "交互式白板/智能会议平板",
+      "translatedName": "Interactive Whiteboard/Smart Meeting Tablet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "732"
+    }
+  }
+}

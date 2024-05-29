@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201338616,
+      "chineseName": "POP广告纸/爆炸贴",
+      "translatedName": "POP advertising paper/explosive stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229008"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335914,
+      "chineseName": "第二套人民币",
+      "translatedName": "The second set of RMB",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201333016"
+    }
+  }
+}

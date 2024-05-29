@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10295,
+      "chineseName": "厨房整理",
+      "translatedName": "Kitchen Finishing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10301,
+          "chineseName": "其他厨房整理用品",
+          "translatedName": "Other Kitchen Finishing Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 1032647,
+          "chineseName": "厨房挂架",
+          "translatedName": "Kitchen rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 1043775,
+          "chineseName": "厨房置物架",
+          "translatedName": "Kitchen Storage Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 1043776,
+          "chineseName": "调味盒、调料瓶",
+          "translatedName": "Seasoning box, seasoning bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 1046729,
+          "chineseName": "油壶",
+          "translatedName": "Oil jug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122166002,
+          "chineseName": "米桶、储米箱",
+          "translatedName": "Rice bucket, rice storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122168001,
+          "chineseName": "封口夹",
+          "translatedName": "Seal Clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122308008,
+          "chineseName": "沥水碗架",
+          "translatedName": "Drain bowl rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122362007,
+          "chineseName": "锅盖架",
+          "translatedName": "Pot cover rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122574001,
+          "chineseName": "微波炉层架",
+          "translatedName": "Microwave oven shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122328010,
+          "chineseName": "沥水架、篮、盆",
+          "translatedName": "Draining rack, basket, basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122650001,
+          "chineseName": "密封盒、储物罐",
+          "translatedName": "Sealed box, storage tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122306010,
+          "chineseName": "筷笼",
+          "translatedName": "Chopsticks cage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 122354013,
+          "chineseName": "调味架",
+          "translatedName": "Seasoning rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 201160704,
+          "chineseName": "冰箱收纳盒",
+          "translatedName": "Refrigerator storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 201340215,
+          "chineseName": "蛋托",
+          "translatedName": "Egg tray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 126572004,
+          "chineseName": "奶粉储存盒/奶粉盒",
+          "translatedName": "Milk powder storage box/milk powder box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 201160404,
+          "chineseName": "沥水篮、盆",
+          "translatedName": "Draining basket, basin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 201752702,
+          "chineseName": "锅具收纳架",
+          "translatedName": "Pot Storage Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        },
+        {
+          "categoryId": 202052502,
+          "chineseName": "饺子收纳盒",
+          "translatedName": "Dumpling storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10295
+        }
+      ]
+    }
+  }
+}

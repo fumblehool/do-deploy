@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034090,
+      "chineseName": "电晕笔",
+      "translatedName": "corona pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3407"
+    }
+  }
+}

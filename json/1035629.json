@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035629,
+      "chineseName": "其他索具",
+      "translatedName": "Other rigging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192003"
+    }
+  }
+}

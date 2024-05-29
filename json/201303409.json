@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303409,
+      "chineseName": "消毒抑菌用品",
+      "translatedName": "Disinfection and bacteriostasis supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122210008,
+          "chineseName": "厨卫消毒液",
+          "translatedName": "Kitchen and bathroom disinfectant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201309807,
+          "chineseName": "衣物消毒液",
+          "translatedName": "clothing disinfectant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201332305,
+          "chineseName": "免洗抑菌凝胶",
+          "translatedName": "wash-free bacteriostatic gel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201303506,
+          "chineseName": "家居消毒液",
+          "translatedName": "Home Disinfectant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201304005,
+          "chineseName": "抑菌洗手液",
+          "translatedName": "Bacteriostatic hand sanitizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201339019,
+          "chineseName": "消毒抑菌用品套装",
+          "translatedName": "Disinfection and bacteriostasis supplies set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201309509,
+          "chineseName": "抑菌洗衣液、洗衣粉",
+          "translatedName": "Bacteriostatic laundry detergent, washing powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        },
+        {
+          "categoryId": 201308211,
+          "chineseName": "抑菌皂、粉",
+          "translatedName": "Bacteriostatic soap, powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303409
+        }
+      ]
+    }
+  }
+}

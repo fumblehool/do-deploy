@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122124001,
+      "chineseName": "骑行鞋",
+      "translatedName": "Cycling shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201564924"
+    }
+  }
+}

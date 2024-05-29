@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125316002,
+      "chineseName": "订制窗纱",
+      "translatedName": "Custom-made window screens",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10440"
+    }
+  }
+}

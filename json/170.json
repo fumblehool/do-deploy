@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 170,
+      "chineseName": "财务咨询",
+      "translatedName": "Financial Advisory",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "76"
+    }
+  }
+}

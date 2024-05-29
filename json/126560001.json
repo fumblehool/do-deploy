@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126560001,
+      "chineseName": "母婴用品加工",
+      "translatedName": "Processing of Maternal and Infant Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1501"
+    }
+  }
+}

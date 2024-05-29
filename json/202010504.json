@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010504,
+      "chineseName": "烘焙半成品/小吃半成品",
+      "translatedName": "Baking semi-finished products/snacks semi-finished products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202003806,
+          "chineseName": "丸子类",
+          "translatedName": "Meatballs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202011004,
+          "chineseName": "其他小吃半成品",
+          "translatedName": "Other semi-finished snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202011005,
+          "chineseName": "预制披萨/面团",
+          "translatedName": "Pre-made pizza/dough",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202012104,
+          "chineseName": "珍珠粉圆类",
+          "translatedName": "Pearl powder round class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202012204,
+          "chineseName": "面包/糕点/蛋糕类预制品",
+          "translatedName": "Bread/pastry/cake preproducts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202013205,
+          "chineseName": "炸物类",
+          "translatedName": "Fried things",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202000805,
+          "chineseName": "西点馅料类",
+          "translatedName": "West Point Filling Category",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202001206,
+          "chineseName": "关东煮",
+          "translatedName": "Kwantung Boiled",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202006704,
+          "chineseName": "饼干类预制品",
+          "translatedName": "biscuit type preproducts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202007605,
+          "chineseName": "其他烘焙半成品",
+          "translatedName": "Other baked semi-finished products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202002204,
+          "chineseName": "蛋挞皮/蛋挞液",
+          "translatedName": "Egg tart skin/egg tart liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        },
+        {
+          "categoryId": 202002505,
+          "chineseName": "烤肠类",
+          "translatedName": "Roasted sausage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202010504
+        }
+      ]
+    }
+  }
+}

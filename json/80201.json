@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80201,
+      "chineseName": "无机酸",
+      "translatedName": "Inorganic acids",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034656,
+          "chineseName": "其他无机酸",
+          "translatedName": "Other inorganic acids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034657,
+          "chineseName": "亚磷酸",
+          "translatedName": "phosphorous acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034658,
+          "chineseName": "钨酸",
+          "translatedName": "tungstic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034659,
+          "chineseName": "氢溴酸",
+          "translatedName": "hydrobromic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034660,
+          "chineseName": "硼酸",
+          "translatedName": "boric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034661,
+          "chineseName": "氢氟酸",
+          "translatedName": "hydrofluoric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1034662,
+          "chineseName": "磷酸",
+          "translatedName": "phosphoric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036980,
+          "chineseName": "碲酸",
+          "translatedName": "telluric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036981,
+          "chineseName": "碘酸",
+          "translatedName": "iodic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036982,
+          "chineseName": "氢碘酸",
+          "translatedName": "hydroiodic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036983,
+          "chineseName": "亚硫酸",
+          "translatedName": "sulfurous acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036973,
+          "chineseName": "氯铂酸",
+          "translatedName": "chloroplatinic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036974,
+          "chineseName": "氯金酸",
+          "translatedName": "Chloroauric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036975,
+          "chineseName": "焦磷酸",
+          "translatedName": "Pyrophosphoric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036976,
+          "chineseName": "高氯酸",
+          "translatedName": "perchloric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036977,
+          "chineseName": "氟硼酸",
+          "translatedName": "fluoboric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036978,
+          "chineseName": "偏磷酸",
+          "translatedName": "metaphosphoric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1036979,
+          "chineseName": "钼酸",
+          "translatedName": "Molybdic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1035939,
+          "chineseName": "氟硅酸",
+          "translatedName": "fluosilicic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 1035940,
+          "chineseName": "铬酸",
+          "translatedName": "Chromic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        },
+        {
+          "categoryId": 201964706,
+          "chineseName": "次氯酸",
+          "translatedName": "hypochlorous acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80201
+        }
+      ]
+    }
+  }
+}

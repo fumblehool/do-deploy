@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1732,
+      "chineseName": "旗帜",
+      "translatedName": "Flag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124904001"
+    }
+  }
+}

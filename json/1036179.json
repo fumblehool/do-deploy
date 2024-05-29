@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036179,
+      "chineseName": "试验箱及气候环境设备",
+      "translatedName": "Test chamber and climate environment equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033866,
+          "chineseName": "腐蚀试验箱",
+          "translatedName": "Corrosion test chamber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1033870,
+          "chineseName": "恒温试验设备",
+          "translatedName": "Constant temperature test equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036825,
+          "chineseName": "高低温箱",
+          "translatedName": "High and low temperature box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036181,
+          "chineseName": "盐雾试验仪器",
+          "translatedName": "Salt spray test instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036182,
+          "chineseName": "湿热试验箱",
+          "translatedName": "Damp heat test chamber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036183,
+          "chineseName": "老化箱",
+          "translatedName": "aging box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036184,
+          "chineseName": "干燥箱",
+          "translatedName": "Drying box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        },
+        {
+          "categoryId": 1036180,
+          "chineseName": "其他试验箱及气候设备",
+          "translatedName": "Other test chambers and climate equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036179
+        }
+      ]
+    }
+  }
+}

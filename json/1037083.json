@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037083,
+      "chineseName": "其他醛",
+      "translatedName": "Other Aldehydes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80309"
+    }
+  }
+}

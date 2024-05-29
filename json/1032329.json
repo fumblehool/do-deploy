@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032329,
+      "chineseName": "扬声器(喇叭)",
+      "translatedName": "Speaker (horn)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202058705"
+    }
+  }
+}

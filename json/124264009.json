@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124264009,
+      "chineseName": "窗帘门帘及配件",
+      "translatedName": "Curtains, Door Curtains and Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10142,
+          "chineseName": "布艺窗帘",
+          "translatedName": "Fabric Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 1043542,
+          "chineseName": "门帘、小窗帘",
+          "translatedName": "Door Curtain, Small Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 124270008,
+          "chineseName": "竹窗帘",
+          "translatedName": "Bamboo Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 124270009,
+          "chineseName": "其他窗帘",
+          "translatedName": "Other Curtains",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 124262010,
+          "chineseName": "布艺窗纱",
+          "translatedName": "Fabric Window Screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 124262011,
+          "chineseName": "百叶窗帘",
+          "translatedName": "blinds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 122406004,
+          "chineseName": "帘钩",
+          "translatedName": "Curtain hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 127880015,
+          "chineseName": "窗帘杆/罗马杆",
+          "translatedName": "Curtain Rod/Roman Rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 201308409,
+          "chineseName": "窗帘绑带",
+          "translatedName": "Curtain strap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 127912019,
+          "chineseName": "其他窗帘配件",
+          "translatedName": "Other Curtain Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 201301206,
+          "chineseName": "珠帘/挂帘",
+          "translatedName": "Bead Curtain/Hanging Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 201306405,
+          "chineseName": "窗帘扣",
+          "translatedName": "Curtain buckle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 201235906,
+          "chineseName": "电动窗帘整体套装",
+          "translatedName": "Electric curtain whole set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 201311301,
+          "chineseName": "全屋窗帘套餐",
+          "translatedName": "Whole House Curtain Package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 127866022,
+          "chineseName": "成品窗帘",
+          "translatedName": "Finished curtains",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        },
+        {
+          "categoryId": 127900014,
+          "chineseName": "卷帘",
+          "translatedName": "roller blind",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124264009
+        }
+      ]
+    }
+  }
+}

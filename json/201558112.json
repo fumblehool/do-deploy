@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201558112,
+      "chineseName": "时尚口红包",
+      "translatedName": "Fashion mouth red envelope",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "1042954"
+    }
+  }
+}

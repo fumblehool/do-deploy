@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031801,
+      "chineseName": "电脑产品代理加盟",
+      "translatedName": "Computer products agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "736"
+    }
+  }
+}

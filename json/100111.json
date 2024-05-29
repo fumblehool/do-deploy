@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 100111,
+      "chineseName": "其他石油燃料",
+      "translatedName": "Other petroleum fuels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1001",
+      "fromCache": true
+    }
+  }
+}

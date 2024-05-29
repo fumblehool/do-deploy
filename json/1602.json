@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1602,
+      "chineseName": "中成药",
+      "translatedName": "Chinese patent medicine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "66"
+    }
+  }
+}

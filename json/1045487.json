@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045487,
+      "chineseName": "盆景",
+      "translatedName": "Bonsai",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125492001"
+    }
+  }
+}

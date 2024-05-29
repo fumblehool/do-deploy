@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124284002,
+      "chineseName": "座钟、立钟、落地钟",
+      "translatedName": "Clock, standing clock, floor clock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124282001"
+    }
+  }
+}

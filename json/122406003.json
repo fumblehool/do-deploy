@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122406003,
+      "chineseName": "化纤床垫",
+      "translatedName": "chemical fiber mattress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123088001"
+    }
+  }
+}

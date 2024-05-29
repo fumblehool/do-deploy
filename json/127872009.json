@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127872009,
+      "chineseName": "充电夜灯",
+      "translatedName": "Charging night light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1330"
+    }
+  }
+}

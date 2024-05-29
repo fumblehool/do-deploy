@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123928002,
+      "chineseName": "管子钳",
+      "translatedName": "pipe tong",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124270007"
+    }
+  }
+}

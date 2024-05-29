@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036196,
+      "chineseName": "变送器",
+      "translatedName": "Transmitter",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033912,
+          "chineseName": "流量变送器",
+          "translatedName": "Flow transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1033918,
+          "chineseName": "差压变送器",
+          "translatedName": "Differential pressure transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1033919,
+          "chineseName": "压力变送器",
+          "translatedName": "Pressure transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1033924,
+          "chineseName": "温湿度变送器",
+          "translatedName": "Temperature and humidity transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036197,
+          "chineseName": "其他变送器",
+          "translatedName": "Other Transmitters",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036198,
+          "chineseName": "气体变送器",
+          "translatedName": "Gas transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036200,
+          "chineseName": "电量变送器",
+          "translatedName": "Electrical quantity transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036201,
+          "chineseName": "物位变送器",
+          "translatedName": "level transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036202,
+          "chineseName": "液位变送器",
+          "translatedName": "Level transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036203,
+          "chineseName": "电容式变送器",
+          "translatedName": "Capacitive Transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        },
+        {
+          "categoryId": 1036205,
+          "chineseName": "露点变送器",
+          "translatedName": "Dew point transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036196
+        }
+      ]
+    }
+  }
+}

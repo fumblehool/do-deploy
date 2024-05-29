@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1324,
+      "chineseName": "绝缘材料",
+      "translatedName": "Insulation material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032990,
+          "chineseName": "电工胶带",
+          "translatedName": "Electrical tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1032260,
+          "chineseName": "其他绝缘材料",
+          "translatedName": "Other insulating materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035222,
+          "chineseName": "绝缘垫片",
+          "translatedName": "Insulating gasket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035223,
+          "chineseName": "绝缘板",
+          "translatedName": "Insulation board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035224,
+          "chineseName": "云母片",
+          "translatedName": "mica sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035225,
+          "chineseName": "绝缘带",
+          "translatedName": "Insulating tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035227,
+          "chineseName": "绝缘隔离柱",
+          "translatedName": "Insulating isolation column",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035226,
+          "chineseName": "绝缘子",
+          "translatedName": "Insulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 1035228,
+          "chineseName": "绝缘套管",
+          "translatedName": "Insulating Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        },
+        {
+          "categoryId": 201936002,
+          "chineseName": "环氧板",
+          "translatedName": "Epoxy board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1324
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059107,
+      "chineseName": "母线槽",
+      "translatedName": "bus duct",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064006"
+    }
+  }
+}

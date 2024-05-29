@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123616020,
+      "chineseName": "LED照明模组",
+      "translatedName": "LED lighting module",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123618014,
+          "chineseName": "LED吸顶灯模组",
+          "translatedName": "LED ceiling lamp module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123622018,
+          "chineseName": "LED球泡灯模组",
+          "translatedName": "LED bulb lamp module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123616021,
+          "chineseName": "LED面板灯模组",
+          "translatedName": "LED Panel Light Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123616022,
+          "chineseName": "LED路灯模组",
+          "translatedName": "LED street lamp module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123612017,
+          "chineseName": "其他LED照明模组",
+          "translatedName": "Other LED Lighting Modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123608013,
+          "chineseName": "LED筒灯模组",
+          "translatedName": "LED downlight module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123618013,
+          "chineseName": "LED日光灯模组",
+          "translatedName": "LED fluorescent lamp module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123610018,
+          "chineseName": "LED射灯模组",
+          "translatedName": "LED spotlight module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        },
+        {
+          "categoryId": 123620017,
+          "chineseName": "LED隧道灯模组",
+          "translatedName": "LED Tunnel Light Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123616020
+        }
+      ]
+    }
+  }
+}

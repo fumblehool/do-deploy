@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201829522,
+      "chineseName": "凝胶、软膏",
+      "translatedName": "Gel, ointment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1042634"
+    }
+  }
+}

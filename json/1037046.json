@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037046,
+      "chineseName": "丙二酮",
+      "translatedName": "propanedione",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80310"
+    }
+  }
+}

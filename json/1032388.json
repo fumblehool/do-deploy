@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032388,
+      "chineseName": "执行机构",
+      "translatedName": "implementing agency",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121486001"
+    }
+  }
+}

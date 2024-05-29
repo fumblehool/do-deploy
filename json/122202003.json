@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122202003,
+      "chineseName": "三件套",
+      "translatedName": "three-piece set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10132"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201217707,
+      "chineseName": "二次元动漫服装/配件",
+      "translatedName": "Two-dimensional animation clothing/accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201160604,
+          "chineseName": "动漫角色扮演服",
+          "translatedName": "Anime Role Playing Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201217707
+        },
+        {
+          "categoryId": 201228007,
+          "chineseName": "卡通人偶服装/配件",
+          "translatedName": "Cartoon doll clothing/accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201217707
+        },
+        {
+          "categoryId": 201218111,
+          "chineseName": "动漫人物角色服装/配件",
+          "translatedName": "Anime Character Clothing/Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201217707
+        }
+      ]
+    }
+  }
+}

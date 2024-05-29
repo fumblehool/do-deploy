@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156606,
+      "chineseName": "塑料封头",
+      "translatedName": "plastic head",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201160507"
+    }
+  }
+}

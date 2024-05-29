@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045107,
+      "chineseName": "PMMA再生料",
+      "translatedName": "PMMA recycled material",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031640"
+    }
+  }
+}

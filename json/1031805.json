@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031805,
+      "chineseName": "环保设备代理加盟",
+      "translatedName": "Environmental protection equipment agent to join",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "64"
+    }
+  }
+}

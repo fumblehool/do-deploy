@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035597,
+      "chineseName": "其他电焊、切割设备",
+      "translatedName": "Other welding and cutting equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1456"
+    }
+  }
+}

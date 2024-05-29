@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123648005,
+      "chineseName": "彩妆玩具",
+      "translatedName": "make-up toys",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962011"
+    }
+  }
+}

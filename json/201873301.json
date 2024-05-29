@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201873301,
+      "chineseName": "天然水晶半成品饰品",
+      "translatedName": "Natural crystal semi-finished jewelry",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201648701"
+    }
+  }
+}

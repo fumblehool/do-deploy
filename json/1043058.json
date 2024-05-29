@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043058,
+      "chineseName": "身体清洁",
+      "translatedName": "Body Cleansing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034756,
+          "chineseName": "爽身粉",
+          "translatedName": "talcum powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1034760,
+          "chineseName": "止汗香体",
+          "translatedName": "Antiperspirant body",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1043156,
+          "chineseName": "磨脚石、足部磨砂工具",
+          "translatedName": "Foot stone, foot sanding tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1043798,
+          "chineseName": "其他婴幼儿洗护用品",
+          "translatedName": "Other Baby Care Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1036814,
+          "chineseName": "浴盐",
+          "translatedName": "bath salt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1046966,
+          "chineseName": "沐浴液、沐浴露",
+          "translatedName": "Bath lotion, shower gel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1046967,
+          "chineseName": "香皂、皂花",
+          "translatedName": "Soap, soap flower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1046970,
+          "chineseName": "足部护理",
+          "translatedName": "Foot Care",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 1043503,
+          "chineseName": "身体护理套装",
+          "translatedName": "Body Care Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122282002,
+          "chineseName": "洗手液",
+          "translatedName": "Hand sanitizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122198008,
+          "chineseName": "足浴液、足浴剂",
+          "translatedName": "Foot bath liquid, foot bath agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122276003,
+          "chineseName": "泡澡用品/泡澡药包",
+          "translatedName": "Bath supplies/bath medicine bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 123650005,
+          "chineseName": "沐浴套装",
+          "translatedName": "Bath Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122706002,
+          "chineseName": "身体护理工具",
+          "translatedName": "Body Care Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122962009,
+          "chineseName": "宝宝洗浴护肤品",
+          "translatedName": "Baby bath skin care products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 122284001,
+          "chineseName": "搓泥浴宝",
+          "translatedName": "Rubbing mud bath treasure",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 201354741,
+          "chineseName": "宝宝爽身粉/痱子粉",
+          "translatedName": "Baby powder/prickly heat powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 201350044,
+          "chineseName": "儿童洗浴护肤礼盒",
+          "translatedName": "Children's bath skin care gift box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        },
+        {
+          "categoryId": 201899901,
+          "chineseName": "止汗走珠",
+          "translatedName": "Antiperspirant beads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043058
+        }
+      ]
+    }
+  }
+}

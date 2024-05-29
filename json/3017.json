@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3017,
+      "chineseName": "智能卡",
+      "translatedName": "Smart Card",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033169,
+          "chineseName": "其他智能卡",
+          "translatedName": "Other Smart Cards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3017
+        },
+        {
+          "categoryId": 1033170,
+          "chineseName": "条码卡",
+          "translatedName": "barcode card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3017
+        },
+        {
+          "categoryId": 1033171,
+          "chineseName": "射频卡",
+          "translatedName": "RF Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3017
+        },
+        {
+          "categoryId": 1033172,
+          "chineseName": "IC卡",
+          "translatedName": "IC Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3017
+        },
+        {
+          "categoryId": 1033173,
+          "chineseName": "磁卡",
+          "translatedName": "Magnetic card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3017
+        }
+      ]
+    }
+  }
+}

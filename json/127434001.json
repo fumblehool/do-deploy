@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127434001,
+      "chineseName": "彩色宝石/贵重宝石首饰套装",
+      "translatedName": "Colored Gem/Precious Gem Jewelry Set",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

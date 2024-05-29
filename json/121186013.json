@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121186013,
+      "chineseName": "LED灯具散热器",
+      "translatedName": "LED lamp radiator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10227"
+    }
+  }
+}

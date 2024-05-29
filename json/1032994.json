@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032994,
+      "chineseName": "金属托盘",
+      "translatedName": "Metal tray",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10363"
+    }
+  }
+}

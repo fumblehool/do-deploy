@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035339,
+      "chineseName": "联轴器",
+      "translatedName": "Coupling",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1455"
+    }
+  }
+}

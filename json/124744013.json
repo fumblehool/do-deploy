@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744013,
+      "chineseName": "米粉/米糊/汤粥",
+      "translatedName": "Rice noodles/rice paste/soup porridge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124742005"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958503,
+      "chineseName": "材料加工设备",
+      "translatedName": "Material processing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201976602,
+          "chineseName": "拉丝机",
+          "translatedName": "wire drawing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201977002,
+          "chineseName": "槽型板材成型机",
+          "translatedName": "Groove plate forming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 202038702,
+          "chineseName": "其他材料加工设备",
+          "translatedName": "Other Materials Processing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201975803,
+          "chineseName": "整平/压花机",
+          "translatedName": "Leveling/embossing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 202026905,
+          "chineseName": "模切设备",
+          "translatedName": "Die-cutting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 202027505,
+          "chineseName": "柔性材料加工设备",
+          "translatedName": "Flexible material processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201979801,
+          "chineseName": "卷板机",
+          "translatedName": "plate bending machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201979901,
+          "chineseName": "粉末成型机",
+          "translatedName": "powder forming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201980001,
+          "chineseName": "数控弯管机",
+          "translatedName": "CNC pipe bender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        },
+        {
+          "categoryId": 201969004,
+          "chineseName": "线材成型机",
+          "translatedName": "Wire Forming Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958503
+        }
+      ]
+    }
+  }
+}

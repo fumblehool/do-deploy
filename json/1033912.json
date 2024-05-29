@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033912,
+      "chineseName": "流量变送器",
+      "translatedName": "Flow transmitter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036196"
+    }
+  }
+}

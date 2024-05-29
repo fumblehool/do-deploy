@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201339112,
+      "chineseName": "祭祀香炉/鼎炉",
+      "translatedName": "Sacrificial incense burner/tripod burner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044217"
+    }
+  }
+}

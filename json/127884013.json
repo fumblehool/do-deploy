@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127884013,
+      "chineseName": "抗菌毛巾",
+      "translatedName": "antibacterial towel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900015"
+    }
+  }
+}

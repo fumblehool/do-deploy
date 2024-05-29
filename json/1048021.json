@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048021,
+      "chineseName": "运动、武术、球服",
+      "translatedName": "Sports, martial arts, uniform",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033486,
+          "chineseName": "武术服",
+          "translatedName": "Wushu Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 1033485,
+          "chineseName": "跆拳道、柔道服",
+          "translatedName": "Taekwondo, judo suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 1048027,
+          "chineseName": "排球服",
+          "translatedName": "volleyball suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 1048022,
+          "chineseName": "田径服",
+          "translatedName": "Track and Field Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 1048024,
+          "chineseName": "其他球服",
+          "translatedName": "Other Ball Clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 122204002,
+          "chineseName": "马术服",
+          "translatedName": "Equestrian Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 121890001,
+          "chineseName": "舞蹈服",
+          "translatedName": "Dance Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        },
+        {
+          "categoryId": 201960601,
+          "chineseName": "运动棒球服",
+          "translatedName": "sports baseball uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048021
+        }
+      ]
+    }
+  }
+}

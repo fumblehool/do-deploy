@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2053,
+      "chineseName": "登山、攀岩、攀冰用品",
+      "translatedName": "Mountain climbing, rock climbing, ice climbing supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "18"
+    }
+  }
+}

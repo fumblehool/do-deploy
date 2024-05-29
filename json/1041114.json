@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041114,
+      "chineseName": "沙林树脂",
+      "translatedName": "sarin resin",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031642"
+    }
+  }
+}

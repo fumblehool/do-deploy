@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039748,
+      "chineseName": "电感器",
+      "translatedName": "Inductors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061004"
+    }
+  }
+}

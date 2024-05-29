@@ -1,0 +1,289 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032476,
+      "chineseName": "机床附件",
+      "translatedName": "Machine tool accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042228,
+          "chineseName": "磁性分离器",
+          "translatedName": "magnetic separator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1042267,
+          "chineseName": "冷却管",
+          "translatedName": "Cooling pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1044050,
+          "chineseName": "花盘",
+          "translatedName": "disc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1044051,
+          "chineseName": "法兰盘",
+          "translatedName": "Flange",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1040240,
+          "chineseName": "机床槽板",
+          "translatedName": "machine tool groove plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035398,
+          "chineseName": "工装夹具",
+          "translatedName": "Fixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035400,
+          "chineseName": "夹头",
+          "translatedName": "Chuck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035402,
+          "chineseName": "刀杆",
+          "translatedName": "Cutter bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035401,
+          "chineseName": "刀柄",
+          "translatedName": "hilt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035477,
+          "chineseName": "机床主轴",
+          "translatedName": "machine tool spindle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035478,
+          "chineseName": "机床刀架",
+          "translatedName": "Machine tool rest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035479,
+          "chineseName": "机床丝杆",
+          "translatedName": "Machine tool screw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035480,
+          "chineseName": "拖链",
+          "translatedName": "Drag chain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035481,
+          "chineseName": "手轮",
+          "translatedName": "Handwheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035482,
+          "chineseName": "机床灯具",
+          "translatedName": "Machine tool lamps and lanterns",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035483,
+          "chineseName": "钻套",
+          "translatedName": "Drill sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035484,
+          "chineseName": "机床减震装置",
+          "translatedName": "Machine tool damping device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035485,
+          "chineseName": "卡盘",
+          "translatedName": "Chuck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035486,
+          "chineseName": "机床用虎钳",
+          "translatedName": "Machine tool vise",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035487,
+          "chineseName": "顶尖、顶针",
+          "translatedName": "Top, thimble",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1036059,
+          "chineseName": "工作台",
+          "translatedName": "Workbench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1036060,
+          "chineseName": "通用配件",
+          "translatedName": "General accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035469,
+          "chineseName": "其他机床附件",
+          "translatedName": "Other machine tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035470,
+          "chineseName": "吸盘",
+          "translatedName": "Suction cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035471,
+          "chineseName": "分度盘、分度头",
+          "translatedName": "indexing plate, indexing head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035472,
+          "chineseName": "皮带轮",
+          "translatedName": "Pulley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035473,
+          "chineseName": "导柱、导套",
+          "translatedName": "Guide pillar, guide sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035474,
+          "chineseName": "机床接杆",
+          "translatedName": "Machine tool connecting rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035475,
+          "chineseName": "机床护罩",
+          "translatedName": "Machine tool shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        },
+        {
+          "categoryId": 1035476,
+          "chineseName": "机床垫铁",
+          "translatedName": "Machine tool pad iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032476
+        }
+      ]
+    }
+  }
+}

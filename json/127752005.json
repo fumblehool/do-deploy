@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127752005,
+      "chineseName": "智能开关",
+      "translatedName": "intelligent switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1407"
+    }
+  }
+}

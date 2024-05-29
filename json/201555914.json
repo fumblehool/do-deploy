@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201555914,
+      "chineseName": "女士双肩包",
+      "translatedName": "Women's Backpack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201956604"
+    }
+  }
+}

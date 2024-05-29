@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194007,
+      "chineseName": "微型断路器（小型断路器）",
+      "translatedName": "Miniature Circuit Breaker (Miniature Circuit Breaker)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "524"
+    }
+  }
+}

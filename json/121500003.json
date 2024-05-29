@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121500003,
+      "chineseName": "洗车工具",
+      "translatedName": "Car wash tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032214,
+          "chineseName": "其他洗车工具",
+          "translatedName": "Other Car Wash Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 121486006,
+          "chineseName": "车载洗车器",
+          "translatedName": "Car washer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 121504009,
+          "chineseName": "汽车拖把",
+          "translatedName": "Car mop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 121494018,
+          "chineseName": "洗车水枪",
+          "translatedName": "Car wash water gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 201921404,
+          "chineseName": "水管收纳架",
+          "translatedName": "Water pipe storage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 201922601,
+          "chineseName": "洗车接头",
+          "translatedName": "Car wash connector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        },
+        {
+          "categoryId": 201916103,
+          "chineseName": "洗车水管",
+          "translatedName": "Car wash hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121500003
+        }
+      ]
+    }
+  }
+}

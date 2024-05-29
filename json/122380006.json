@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122380006,
+      "chineseName": "婴幼儿寝居/服饰",
+      "translatedName": "Infant Bedding/Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032763,
+          "chineseName": "隔尿用品",
+          "translatedName": "Urine barrier supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 1037002,
+          "chineseName": "围嘴围兜/口水巾",
+          "translatedName": "Bib bib/saliva towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 1042611,
+          "chineseName": "童睡袋",
+          "translatedName": "Children's sleeping bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 122344002,
+          "chineseName": "其他婴幼儿寝具/服饰",
+          "translatedName": "Other infant bedding/apparel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 124810001,
+          "chineseName": "尿布带",
+          "translatedName": "diaper belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 124958003,
+          "chineseName": "罩衣",
+          "translatedName": "Overalls",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 122462001,
+          "chineseName": "包巾、抱被、抱毯",
+          "translatedName": "Wraped towel, quilts, blankets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 124954003,
+          "chineseName": "吸汗巾",
+          "translatedName": "Sweat-absorbent towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 124774002,
+          "chineseName": "尿布",
+          "translatedName": "Diaper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        },
+        {
+          "categoryId": 124776002,
+          "chineseName": "布尿裤",
+          "translatedName": "cloth diapers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122380006
+        }
+      ]
+    }
+  }
+}

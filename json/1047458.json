@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047458,
+      "chineseName": "工商年检",
+      "translatedName": "Annual inspection of industry and commerce",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047443"
+    }
+  }
+}

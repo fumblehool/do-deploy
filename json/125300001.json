@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125300001,
+      "chineseName": "组合地垫",
+      "translatedName": "Combination Floor Mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900016"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10370,
+      "chineseName": "纸加工机械",
+      "translatedName": "paper processing machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034085,
+          "chineseName": "其他纸加工机械",
+          "translatedName": "Other Paper Processing Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10370
+        },
+        {
+          "categoryId": 1034086,
+          "chineseName": "纸成型机械",
+          "translatedName": "paper forming machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10370
+        },
+        {
+          "categoryId": 1034087,
+          "chineseName": "分纸机",
+          "translatedName": "Paper Split Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10370
+        }
+      ]
+    }
+  }
+}

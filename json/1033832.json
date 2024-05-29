@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033832,
+      "chineseName": "电阻测量仪表",
+      "translatedName": "resistance measuring instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032384"
+    }
+  }
+}

@@ -1,0 +1,631 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 732,
+      "chineseName": "办公设备",
+      "translatedName": "Office Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033264,
+          "chineseName": "其他打印机",
+          "translatedName": "Other Printers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033266,
+          "chineseName": "针式打印机",
+          "translatedName": "stylus printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033267,
+          "chineseName": "激光打印机",
+          "translatedName": "Laser Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033268,
+          "chineseName": "喷墨打印机",
+          "translatedName": "Inkjet Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 10261,
+          "chineseName": "触控产品",
+          "translatedName": "Touch Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1032526,
+          "chineseName": "扫描仪",
+          "translatedName": "Scanner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1032527,
+          "chineseName": "其他文化办公设备",
+          "translatedName": "Other cultural office equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1032530,
+          "chineseName": "过塑机、塑封机",
+          "translatedName": "Plastic overmolding machine, plastic sealing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033569,
+          "chineseName": "多功能一体机办公设备",
+          "translatedName": "Multi-function machine office equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 10337,
+          "chineseName": "打字机、刻字机",
+          "translatedName": "Typewriter, lettering machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1031802,
+          "chineseName": "办公文教用品代理加盟",
+          "translatedName": "Office stationery agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033118,
+          "chineseName": "晒图机",
+          "translatedName": "Bluespossible",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1033120,
+          "chineseName": "裁纸机",
+          "translatedName": "paper cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1036614,
+          "chineseName": "喷绘机",
+          "translatedName": "inkjet printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1035660,
+          "chineseName": "打印机配件",
+          "translatedName": "Printer Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1037195,
+          "chineseName": "其他办公设备",
+          "translatedName": "Other office equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1037146,
+          "chineseName": "证卡打印机",
+          "translatedName": "Card Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 1042511,
+          "chineseName": "热敏打印机",
+          "translatedName": "Thermal Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 122700003,
+          "chineseName": "手写板",
+          "translatedName": "Handwriting board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124740004,
+          "chineseName": "保险柜、防盗柜",
+          "translatedName": "Safe, anti-theft cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124740005,
+          "chineseName": "商用装订机",
+          "translatedName": "commercial binding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 10542,
+          "chineseName": "办公、文教项目合作",
+          "translatedName": "Office, cultural and educational project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124736009,
+          "chineseName": "条码扫描枪",
+          "translatedName": "barcode scanning gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124736010,
+          "chineseName": "商用点钞机",
+          "translatedName": "Commercial Money Counter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124736011,
+          "chineseName": "其他商用设备",
+          "translatedName": "Other commercial equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124746003,
+          "chineseName": "条码打印机",
+          "translatedName": "Barcode Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124744040,
+          "chineseName": "数码投影仪",
+          "translatedName": "Digital Projector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124736023,
+          "chineseName": "商用电话机",
+          "translatedName": "commercial telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 122702001,
+          "chineseName": "扫描仪配件",
+          "translatedName": "Scanner Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 124734031,
+          "chineseName": "智能投影仪",
+          "translatedName": "Intelligent Projector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149101,
+          "chineseName": "扫码支付盒子",
+          "translatedName": "Sweep code payment box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149201,
+          "chineseName": "点钞机配件",
+          "translatedName": "Money Counter Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149301,
+          "chineseName": "收款提示器/播报器",
+          "translatedName": "Receipt Reminder/Announcer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149401,
+          "chineseName": "点餐码",
+          "translatedName": "Order size",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149402,
+          "chineseName": "宽幅打印机",
+          "translatedName": "wide format printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149501,
+          "chineseName": "墨仓式打印机",
+          "translatedName": "ink cartridge printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149601,
+          "chineseName": "热升华照片打印机",
+          "translatedName": "thermal sublimation photo printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149701,
+          "chineseName": "热敏/热转印打印机",
+          "translatedName": "Thermal/Thermal Transfer Printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149801,
+          "chineseName": "会议电话产品",
+          "translatedName": "Conference Phone Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149901,
+          "chineseName": "交互式白板/智能会议平板",
+          "translatedName": "Interactive Whiteboard/Smart Meeting Tablet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201194501,
+          "chineseName": "收款机",
+          "translatedName": "Cash register",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201648901,
+          "chineseName": "幻灯机",
+          "translatedName": "slide projector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148301,
+          "chineseName": "投影机胶片",
+          "translatedName": "Projector Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148401,
+          "chineseName": "投影机DIY配件",
+          "translatedName": "DIY projector accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148501,
+          "chineseName": "投影机镜头",
+          "translatedName": "projector lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148601,
+          "chineseName": "投影机灯泡",
+          "translatedName": "Projector Lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148701,
+          "chineseName": "投影机幕布",
+          "translatedName": "Projector curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148801,
+          "chineseName": "投影机包",
+          "translatedName": "Projector package",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148901,
+          "chineseName": "数据采集器",
+          "translatedName": "Data Collector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201149001,
+          "chineseName": "条码扫描枪配件",
+          "translatedName": "Bar code scanning gun accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 127844005,
+          "chineseName": "高拍仪",
+          "translatedName": "High camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 127850003,
+          "chineseName": "激光笔",
+          "translatedName": "Laser Pointer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201147901,
+          "chineseName": "商用验钞机/笔",
+          "translatedName": "Commercial Money Detector/Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148001,
+          "chineseName": "投影机吊架",
+          "translatedName": "Projector Hanger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148101,
+          "chineseName": "投影机支架/三脚架",
+          "translatedName": "Projector bracket/tripod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201148201,
+          "chineseName": "投影机遥控器",
+          "translatedName": "Projector remote control",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201160509,
+          "chineseName": "3D打印耗材",
+          "translatedName": "3D Printing Consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 126136001,
+          "chineseName": "投影机配件",
+          "translatedName": "Projector Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 160,
+          "chineseName": "投影机/投影仪",
+          "translatedName": "Projector/Projector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201150001,
+          "chineseName": "纸质考勤卡",
+          "translatedName": "Paper Time Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 201649101,
+          "chineseName": "阅卷机",
+          "translatedName": "Marking machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 2104,
+          "chineseName": "复印机",
+          "translatedName": "Copier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 2106,
+          "chineseName": "考勤机",
+          "translatedName": "Attendance machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 2105,
+          "chineseName": "碎纸机",
+          "translatedName": "paper shredder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 2108,
+          "chineseName": "绘图机",
+          "translatedName": "plotter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 2109,
+          "chineseName": "视讯会议系统",
+          "translatedName": "video conference system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 290401,
+          "chineseName": "库存办公、文教用品",
+          "translatedName": "Inventory of office, stationery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        },
+        {
+          "categoryId": 50908,
+          "chineseName": "传真机",
+          "translatedName": "Fax machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 732
+        }
+      ]
+    }
+  }
+}

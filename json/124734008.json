@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734008,
+      "chineseName": "配制酒/浸泡酒",
+      "translatedName": "Wine preparation/steeping",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10071"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010701,
+      "chineseName": "工控板",
+      "translatedName": "industrial control board",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126574002"
+    }
+  }
+}

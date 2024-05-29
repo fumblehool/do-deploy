@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122320004,
+      "chineseName": "酒具",
+      "translatedName": "Wine utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043774,
+          "chineseName": "冰桶、冰夹",
+          "translatedName": "Ice bucket, ice clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122346005,
+          "chineseName": "酒架",
+          "translatedName": "Wine Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122396006,
+          "chineseName": "酒杯",
+          "translatedName": "Wine glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122162001,
+          "chineseName": "酒瓶塞",
+          "translatedName": "wine bottle stopper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122166001,
+          "chineseName": "调酒器",
+          "translatedName": "Carmour shaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122364004,
+          "chineseName": "醒酒器",
+          "translatedName": "Decanter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122406005,
+          "chineseName": "酒具套装",
+          "translatedName": "Wine Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122386003,
+          "chineseName": "酒壶",
+          "translatedName": "hip flask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 122404004,
+          "chineseName": "其他酒具",
+          "translatedName": "Other Wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201349519,
+          "chineseName": "滤酒器",
+          "translatedName": "Wine filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201351814,
+          "chineseName": "冰酒石",
+          "translatedName": "Ice Wine Stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201355314,
+          "chineseName": "煮酒器",
+          "translatedName": "Wine Boiling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201658403,
+          "chineseName": "不锈钢冰块",
+          "translatedName": "Stainless Steel Ice",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201657303,
+          "chineseName": "温酒器",
+          "translatedName": "Wine Warmer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201356913,
+          "chineseName": "酒提",
+          "translatedName": "Wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201357118,
+          "chineseName": "酒签",
+          "translatedName": "Wine Sign",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201830114,
+          "chineseName": "分酒器",
+          "translatedName": "Wine dispenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201998301,
+          "chineseName": "酒塞",
+          "translatedName": "Wine stopper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201955404,
+          "chineseName": "滤冰器",
+          "translatedName": "Ice filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        },
+        {
+          "categoryId": 201965107,
+          "chineseName": "橡木酒具",
+          "translatedName": "Oak Wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122320004
+        }
+      ]
+    }
+  }
+}

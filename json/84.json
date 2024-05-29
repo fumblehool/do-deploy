@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 84,
+      "chineseName": "标签、标牌",
+      "translatedName": "Labels, placards",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032983,
+          "chineseName": "其他标签、标牌",
+          "translatedName": "Other labels, placards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 84
+        },
+        {
+          "categoryId": 1032985,
+          "chineseName": "塑料、塑胶标签",
+          "translatedName": "Plastic, plastic label",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 84
+        },
+        {
+          "categoryId": 1032984,
+          "chineseName": "铭牌",
+          "translatedName": "Nameplate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 84
+        },
+        {
+          "categoryId": 1032986,
+          "chineseName": "纸类标签",
+          "translatedName": "Paper Label",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 84
+        },
+        {
+          "categoryId": 10454,
+          "chineseName": "不干胶标签",
+          "translatedName": "adhesive label",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 84
+        }
+      ]
+    }
+  }
+}

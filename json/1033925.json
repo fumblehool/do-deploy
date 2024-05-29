@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033925,
+      "chineseName": "温湿度控制（调节）器",
+      "translatedName": "Temperature and humidity control (regulator)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032398"
+    }
+  }
+}

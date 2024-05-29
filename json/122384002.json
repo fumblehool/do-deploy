@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122384002,
+      "chineseName": "项坠",
+      "translatedName": "Pendant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122322005"
+    }
+  }
+}

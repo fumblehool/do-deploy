@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126448001,
+      "chineseName": "粮油米面包装",
+      "translatedName": "Grain and Oil Rice Noodles Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390001"
+    }
+  }
+}

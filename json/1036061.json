@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036061,
+      "chineseName": "塑料软管包装",
+      "translatedName": "Plastic Hose Packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10365"
+    }
+  }
+}

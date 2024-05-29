@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122986010,
+      "chineseName": "保暖马甲、保暖背心",
+      "translatedName": "Warm vest, warm vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122558002"
+    }
+  }
+}

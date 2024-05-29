@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043162,
+      "chineseName": "美甲产品",
+      "translatedName": "Nail products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034781,
+          "chineseName": "指甲油、护甲油",
+          "translatedName": "Nail polish, nail polish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043163,
+          "chineseName": "指甲剪、钳、刀",
+          "translatedName": "Nail clippers, pliers, knives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043164,
+          "chineseName": "指甲锉",
+          "translatedName": "Nail file",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043165,
+          "chineseName": "指甲刷",
+          "translatedName": "Nail Brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043166,
+          "chineseName": "甲片",
+          "translatedName": "nail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043167,
+          "chineseName": "美甲饰品",
+          "translatedName": "Nail art accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043168,
+          "chineseName": "美甲工具套装",
+          "translatedName": "Nail tool set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043169,
+          "chineseName": "美甲机、光疗灯",
+          "translatedName": "nail machine, light therapy lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 1043170,
+          "chineseName": "其他美甲产品",
+          "translatedName": "Other Nail Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 124256002,
+          "chineseName": "卸甲用品",
+          "translatedName": "Armor removal supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 124186007,
+          "chineseName": "美甲笔",
+          "translatedName": "nail pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 124150002,
+          "chineseName": "甲油胶",
+          "translatedName": "Nail Polish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 201301310,
+          "chineseName": "美甲贴",
+          "translatedName": "nail stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        },
+        {
+          "categoryId": 126596001,
+          "chineseName": "宝宝剪刀/指甲钳",
+          "translatedName": "Baby scissors/nail clippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043162
+        }
+      ]
+    }
+  }
+}

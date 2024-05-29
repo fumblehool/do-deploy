@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054901,
+      "chineseName": "lolita洛丽塔裤子",
+      "translatedName": "lolita lolita pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202050901"
+    }
+  }
+}

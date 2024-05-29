@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126594004,
+      "chineseName": "电源模块",
+      "translatedName": "Power supply module",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126450002,
+          "chineseName": "其他电源模块",
+          "translatedName": "Other Power Modules",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126594004
+        },
+        {
+          "categoryId": 202010401,
+          "chineseName": "AC-DC模块",
+          "translatedName": "AC-DC module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126594004
+        },
+        {
+          "categoryId": 202010501,
+          "chineseName": "行业专用电源模块",
+          "translatedName": "Industry specific power module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126594004
+        },
+        {
+          "categoryId": 202009602,
+          "chineseName": "POE模块",
+          "translatedName": "POE Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126594004
+        },
+        {
+          "categoryId": 202002403,
+          "chineseName": "DC-DC模块",
+          "translatedName": "DC-DC module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126594004
+        }
+      ]
+    }
+  }
+}

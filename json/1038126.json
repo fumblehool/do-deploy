@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038126,
+      "chineseName": "地面砖",
+      "translatedName": "Floor tile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10405"
+    }
+  }
+}

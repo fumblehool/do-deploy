@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036129,
+      "chineseName": "差压表",
+      "translatedName": "differential pressure gauge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032397"
+    }
+  }
+}

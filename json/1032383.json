@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032383,
+      "chineseName": "实验仪器装置",
+      "translatedName": "experimental instrument device",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033865,
+          "chineseName": "其他实验仪器装置",
+          "translatedName": "Other experimental apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1033868,
+          "chineseName": "热量计",
+          "translatedName": "calorimeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1033869,
+          "chineseName": "真空测量仪器",
+          "translatedName": "vacuum measuring instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1033871,
+          "chineseName": "天平仪器",
+          "translatedName": "Balance instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1036144,
+          "chineseName": "教学仪器",
+          "translatedName": "teaching instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1036145,
+          "chineseName": "移液器",
+          "translatedName": "Pipettes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1036146,
+          "chineseName": "比重计",
+          "translatedName": "gravity meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        },
+        {
+          "categoryId": 1036147,
+          "chineseName": "滴定管",
+          "translatedName": "Burette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032383
+        }
+      ]
+    }
+  }
+}

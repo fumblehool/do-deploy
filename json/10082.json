@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10082,
+      "chineseName": "调味品",
+      "translatedName": "Condiment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10083,
+          "chineseName": "调味酱",
+          "translatedName": "Sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 10085,
+          "chineseName": "其他调味品",
+          "translatedName": "Other condiments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1032862,
+          "chineseName": "酱油",
+          "translatedName": "Soy sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1032863,
+          "chineseName": "醋",
+          "translatedName": "Vinegar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1032865,
+          "chineseName": "味精、鸡精",
+          "translatedName": "Monosodium glutamate, chicken essence",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1032866,
+          "chineseName": "其他香辛料",
+          "translatedName": "Other spices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1032867,
+          "chineseName": "调味油",
+          "translatedName": "seasoning oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1046298,
+          "chineseName": "料酒",
+          "translatedName": "cooking wine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 1046299,
+          "chineseName": "糖类",
+          "translatedName": "Carbohydrate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 124020003,
+          "chineseName": "复合调味料",
+          "translatedName": "compound seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 124000003,
+          "chineseName": "食品甜味剂",
+          "translatedName": "Food sweeteners",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 124000006,
+          "chineseName": "调味椒盐",
+          "translatedName": "Salt and pepper to taste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201304604,
+          "chineseName": "汤类调味料",
+          "translatedName": "Soup seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201307004,
+          "chineseName": "烧烤调味料",
+          "translatedName": "BBQ seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201307109,
+          "chineseName": "日韩式调味料",
+          "translatedName": "Japanese-Korean seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201346018,
+          "chineseName": "辣椒酱",
+          "translatedName": "chili sauce",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201168401,
+          "chineseName": "火锅调味料",
+          "translatedName": "Hot pot seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201159509,
+          "chineseName": "花椒/青椒",
+          "translatedName": "Zanthoxylum bungeanum/green pepper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201305208,
+          "chineseName": "咖喱",
+          "translatedName": "Curry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201162810,
+          "chineseName": "干辣椒",
+          "translatedName": "dried chili",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 201306108,
+          "chineseName": "西式调味料",
+          "translatedName": "western seasoning",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        },
+        {
+          "categoryId": 202052809,
+          "chineseName": "代糖/零卡糖（食品）",
+          "translatedName": "Sugar Substitutes/Zero Carb (Food)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10082
+        }
+      ]
+    }
+  }
+}

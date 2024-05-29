@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046352,
+      "chineseName": "畜牧业副产品",
+      "translatedName": "Animal husbandry by-products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046556,
+          "chineseName": "其他畜牧业副产品",
+          "translatedName": "Other animal husbandry by-products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046352
+        },
+        {
+          "categoryId": 1046356,
+          "chineseName": "肠衣",
+          "translatedName": "Casing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046352
+        }
+      ]
+    }
+  }
+}

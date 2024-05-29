@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200928004,
+      "chineseName": "餐具消毒柜/毛巾消毒柜",
+      "translatedName": "Tableware disinfection cabinet/towel disinfection cabinet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

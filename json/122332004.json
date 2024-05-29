@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122332004,
+      "chineseName": "水培植物瓶、生态瓶",
+      "translatedName": "Hydroponic plant bottle, ecological bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125496001"
+    }
+  }
+}

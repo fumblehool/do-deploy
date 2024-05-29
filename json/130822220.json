@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 130822220,
+      "chineseName": "个护/家清",
+      "translatedName": "A guard/home clear",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10313,
+          "chineseName": "美发产品",
+          "translatedName": "Hair Products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 1043058,
+          "chineseName": "身体清洁",
+          "translatedName": "Body Cleansing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122278002,
+          "chineseName": "地板清洁护理",
+          "translatedName": "Floor cleaning care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122268004,
+          "chineseName": "口腔清洁护理",
+          "translatedName": "Oral cleaning care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122338008,
+          "chineseName": "假发",
+          "translatedName": "Wig",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122194007,
+          "chineseName": "除臭芳香用品",
+          "translatedName": "deodorant aromatic products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122212003,
+          "chineseName": "厨卫清洁剂",
+          "translatedName": "Kitchen & Sanitary Cleaner",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122196011,
+          "chineseName": "衣物清洁护理",
+          "translatedName": "Clothing cleaning care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 122262003,
+          "chineseName": "家居清洁护理",
+          "translatedName": "Home cleaning care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 1513,
+          "chineseName": "纸品湿巾",
+          "translatedName": "Paper Wipes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 201231505,
+          "chineseName": "女性护理",
+          "translatedName": "Female Nursing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 201548001,
+          "chineseName": "驱虫防蚊灭鼠杀虫用品",
+          "translatedName": "insect repellent, anti-mosquito, rodent and insecticide supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 126182004,
+          "chineseName": "身体护理",
+          "translatedName": "Body Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 201304234,
+          "chineseName": "个护家清加工",
+          "translatedName": "A protective family clean processing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 201358608,
+          "chineseName": "男性护理",
+          "translatedName": "Male Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        },
+        {
+          "categoryId": 201303409,
+          "chineseName": "消毒抑菌用品",
+          "translatedName": "Disinfection and bacteriostasis supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 130822220
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032371,
+      "chineseName": "计量标准器具",
+      "translatedName": "Standard instruments of measurement",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032373,
+          "chineseName": "化学计量标准器具",
+          "translatedName": "chemical metrology standard instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032374,
+          "chineseName": "光学计量标准器具",
+          "translatedName": "optical standard instruments of measurement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032375,
+          "chineseName": "电离辐射计量标准器具",
+          "translatedName": "Standard instruments for measuring ionizing radiation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032376,
+          "chineseName": "时间频率计量标准器具",
+          "translatedName": "Time frequency measurement standard instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032377,
+          "chineseName": "电磁学计量标准器具",
+          "translatedName": "electromagnetics standard instruments of measurement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032378,
+          "chineseName": "力学计量标准器具",
+          "translatedName": "Mechanical standard instruments of measurement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1032379,
+          "chineseName": "热学计量标准器具",
+          "translatedName": "Thermal metrology standard instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        },
+        {
+          "categoryId": 1033809,
+          "chineseName": "其他计量标准器具",
+          "translatedName": "Other standard instruments of measurement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032371
+        }
+      ]
+    }
+  }
+}

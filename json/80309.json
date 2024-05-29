@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80309,
+      "chineseName": "醛",
+      "translatedName": "Aldehyde",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037083,
+          "chineseName": "其他醛",
+          "translatedName": "Other Aldehydes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037084,
+          "chineseName": "甘油醛",
+          "translatedName": "glyceraldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037085,
+          "chineseName": "香草醛",
+          "translatedName": "Vanillin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037086,
+          "chineseName": "茴香醛",
+          "translatedName": "anisaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037087,
+          "chineseName": "肉桂醛",
+          "translatedName": "cinnamaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037088,
+          "chineseName": "甲缩醛",
+          "translatedName": "methylal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037089,
+          "chineseName": "葵醛",
+          "translatedName": "sunflower aldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037090,
+          "chineseName": "壬醛",
+          "translatedName": "nonanal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037091,
+          "chineseName": "辛醛",
+          "translatedName": "octanal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037092,
+          "chineseName": "庚醛",
+          "translatedName": "heptanal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037093,
+          "chineseName": "己醛",
+          "translatedName": "Hexanal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037094,
+          "chineseName": "戊醛",
+          "translatedName": "valeraldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037095,
+          "chineseName": "丁醛",
+          "translatedName": "butyraldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037096,
+          "chineseName": "丙醛",
+          "translatedName": "Propionaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037097,
+          "chineseName": "乙醛",
+          "translatedName": "acetaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037098,
+          "chineseName": "多聚甲醛",
+          "translatedName": "paraformaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        },
+        {
+          "categoryId": 1037099,
+          "chineseName": "甲醛",
+          "translatedName": "Formaldehyde",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80309
+        }
+      ]
+    }
+  }
+}

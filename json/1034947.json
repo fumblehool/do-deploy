@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034947,
+      "chineseName": "橡胶压延机",
+      "translatedName": "Rubber calender",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10410"
+    }
+  }
+}

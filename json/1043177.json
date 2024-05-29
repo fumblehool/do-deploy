@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043177,
+      "chineseName": "眉刀、眉剪、眉夹",
+      "translatedName": "Eyebrow knife, eyebrow scissors, eyebrow clip",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043171"
+    }
+  }
+}

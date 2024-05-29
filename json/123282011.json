@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123282011,
+      "chineseName": "不锈钢圆管",
+      "translatedName": "Stainless steel round tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123290007"
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032077,
+      "chineseName": "运输搬运设备",
+      "translatedName": "Transportation and handling equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033618,
+          "chineseName": "其他运输搬运设备",
+          "translatedName": "Other transport handling equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1033619,
+          "chineseName": "堆高车",
+          "translatedName": "stacker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1033620,
+          "chineseName": "工具车",
+          "translatedName": "Tool cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1033621,
+          "chineseName": "物流手推车",
+          "translatedName": "Logistics Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1033622,
+          "chineseName": "物流台车",
+          "translatedName": "Logistics trolley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1033623,
+          "chineseName": "叉车",
+          "translatedName": "Forklift",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 1041761,
+          "chineseName": "叉车配件",
+          "translatedName": "Forklift accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 127658022,
+          "chineseName": "堆垛脚碗",
+          "translatedName": "Stacking Foot Bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 127688034,
+          "chineseName": "牵引拖钩",
+          "translatedName": "towing hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201913304,
+          "chineseName": "柜式推车",
+          "translatedName": "Cabinet cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 202038203,
+          "chineseName": "RGV分配车",
+          "translatedName": "RGV distribution car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201920702,
+          "chineseName": "油桶搬运车",
+          "translatedName": "Oil drum truck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 202028305,
+          "chineseName": "多层穿梭车",
+          "translatedName": "Multi-storey shuttle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 202038902,
+          "chineseName": "ACV料车",
+          "translatedName": "ACV material car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923301,
+          "chineseName": "手推车配件",
+          "translatedName": "Trolley Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923401,
+          "chineseName": "智能堆高车",
+          "translatedName": "Intelligent stacker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923501,
+          "chineseName": "智能叉车",
+          "translatedName": "Intelligent Forklift",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923601,
+          "chineseName": "智能移动机器人",
+          "translatedName": "intelligent mobile robot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923701,
+          "chineseName": "板料推车",
+          "translatedName": "Sheet metal cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923801,
+          "chineseName": "办公推车",
+          "translatedName": "Office Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201923901,
+          "chineseName": "铁屑车",
+          "translatedName": "iron chip car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 201920302,
+          "chineseName": "平板手推车",
+          "translatedName": "Flat Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 202034302,
+          "chineseName": "AGV小车",
+          "translatedName": "AGV trolley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        },
+        {
+          "categoryId": 202031602,
+          "chineseName": "IGV小车",
+          "translatedName": "IGV trolley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032077
+        }
+      ]
+    }
+  }
+}

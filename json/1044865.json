@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044865,
+      "chineseName": "乒乓球",
+      "translatedName": "table tennis",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044825"
+    }
+  }
+}

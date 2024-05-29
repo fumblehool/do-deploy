@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201925101,
+      "chineseName": "智慧包装",
+      "translatedName": "Smart Packaging",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201913003,
+          "chineseName": "活性包装",
+          "translatedName": "active packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201925101
+        },
+        {
+          "categoryId": 201913206,
+          "chineseName": "VOID/DR.LF等防伪标",
+          "translatedName": "VOID/DR.LF and other anti-counterfeiting labels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201925101
+        },
+        {
+          "categoryId": 201924102,
+          "chineseName": "互联包装",
+          "translatedName": "Connected Packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201925101
+        }
+      ]
+    }
+  }
+}

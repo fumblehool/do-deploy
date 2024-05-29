@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037255,
+      "chineseName": "燃气添加剂",
+      "translatedName": "gas additive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034567"
+    }
+  }
+}

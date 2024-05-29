@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123374001,
+      "chineseName": "不锈钢棒材",
+      "translatedName": "Stainless Steel Bar",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035766,
+          "chineseName": "其他不锈钢棒材",
+          "translatedName": "Other Stainless Steel Bars",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123374001
+        },
+        {
+          "categoryId": 1035767,
+          "chineseName": "不锈钢圆棒",
+          "translatedName": "Stainless steel round bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123374001
+        },
+        {
+          "categoryId": 123284007,
+          "chineseName": "不锈钢六角棒",
+          "translatedName": "Stainless steel hexagonal bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123374001
+        },
+        {
+          "categoryId": 123284009,
+          "chineseName": "不锈钢研磨棒",
+          "translatedName": "stainless steel grinding rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123374001
+        },
+        {
+          "categoryId": 123292003,
+          "chineseName": "不锈钢方棒",
+          "translatedName": "Stainless steel square bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123374001
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200544001,
+      "chineseName": "兽用益生菌",
+      "translatedName": "veterinary probiotics",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125278008"
+    }
+  }
+}

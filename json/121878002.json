@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121878002,
+      "chineseName": "营地鞋",
+      "translatedName": "Camp shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121900002"
+    }
+  }
+}

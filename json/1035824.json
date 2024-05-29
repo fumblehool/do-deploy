@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035824,
+      "chineseName": "铜及铜合金材",
+      "translatedName": "Copper and copper alloy materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10507"
+    }
+  }
+}

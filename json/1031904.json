@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031904,
+      "chineseName": "其他内衣",
+      "translatedName": "Other Underwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "312"
+    }
+  }
+}

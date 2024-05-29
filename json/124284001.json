@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124284001,
+      "chineseName": "闹钟、台钟",
+      "translatedName": "Alarm clock, desk clock",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124282001"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2803,
+      "chineseName": "中介服务",
+      "translatedName": "Intermediary Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033792,
+          "chineseName": "其他中介服务",
+          "translatedName": "Other Intermediary Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2803
+        },
+        {
+          "categoryId": 1033796,
+          "chineseName": "人才中介",
+          "translatedName": "talent intermediary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2803
+        },
+        {
+          "categoryId": 2723,
+          "chineseName": "房产中介",
+          "translatedName": "Real estate intermediary",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2803
+        }
+      ]
+    }
+  }
+}

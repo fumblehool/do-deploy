@@ -1,0 +1,253 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201345303,
+      "chineseName": "成套家具",
+      "translatedName": "Complete sets of furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201331913,
+          "chineseName": "书桌椅+书柜",
+          "translatedName": "Bookcase Desk Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201331914,
+          "chineseName": "书桌椅+书柜+休闲沙发",
+          "translatedName": "Desk Chair Bookcase Leisure Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201332116,
+          "chineseName": "餐桌椅+酒柜",
+          "translatedName": "Dining Table and Chair Wine Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201337119,
+          "chineseName": "单人床+床头柜+衣柜",
+          "translatedName": "single bed bedside table wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201346019,
+          "chineseName": "子母床+写字桌",
+          "translatedName": "Mother bed writing desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201331717,
+          "chineseName": "餐桌椅+餐边柜+酒柜",
+          "translatedName": "Dining Table and Chair Sideboard Wine Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201336218,
+          "chineseName": "书桌+写字椅",
+          "translatedName": "Desk Writing Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201345120,
+          "chineseName": "子母床+写字桌+衣柜",
+          "translatedName": "Mother Bed Writing Desk Wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201345620,
+          "chineseName": "单人床+床头柜+梳妆台",
+          "translatedName": "Single bed bedside table dressing table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201335117,
+          "chineseName": "双人床+床头柜+梳妆台",
+          "translatedName": "Double bed bedside table dresser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201340324,
+          "chineseName": "沙发+茶几+电视柜+角几",
+          "translatedName": "Sofa coffee table TV cabinet corner table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201351057,
+          "chineseName": "门厅柜+鞋柜",
+          "translatedName": "hall cabinet shoe cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201358040,
+          "chineseName": "隔断+鞋柜",
+          "translatedName": "Partition shoe cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201329920,
+          "chineseName": "单人床+床头柜+梳妆台+衣柜",
+          "translatedName": "Single Bed Bedside Table Dresser Wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201334520,
+          "chineseName": "餐桌+餐椅",
+          "translatedName": "Dining table chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201339022,
+          "chineseName": "沙发+茶几+电视柜",
+          "translatedName": "Sofa coffee table TV cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201331325,
+          "chineseName": "沙发+茶几",
+          "translatedName": "Sofa coffee table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201331415,
+          "chineseName": "沙发+角几",
+          "translatedName": "Sofa corner table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201331416,
+          "chineseName": "双人床+床头柜",
+          "translatedName": "Double bedside table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201338220,
+          "chineseName": "双人床+床头柜+梳妆台+衣柜",
+          "translatedName": "double bed bedside table dresser wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201347602,
+          "chineseName": "双人床+床头柜+衣柜",
+          "translatedName": "double bed bedside table wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201355442,
+          "chineseName": "玄关台+门厅柜+衣帽架",
+          "translatedName": "Entrance table, hall cabinet, coat rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201346115,
+          "chineseName": "茶几+电视柜",
+          "translatedName": "Coffee Table TV Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201346213,
+          "chineseName": "梳妆台+梳妆凳",
+          "translatedName": "Dressing table dressing stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201346413,
+          "chineseName": "餐桌椅+餐边柜",
+          "translatedName": "Dining table and chair sideboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        },
+        {
+          "categoryId": 201334916,
+          "chineseName": "单人床+床头柜",
+          "translatedName": "Single bed bedside table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201345303
+        }
+      ]
+    }
+  }
+}

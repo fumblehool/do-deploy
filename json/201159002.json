@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201159002,
+      "chineseName": "毛毛拖鞋",
+      "translatedName": "Mao Mao slippers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125312003"
+    }
+  }
+}

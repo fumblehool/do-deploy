@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "锟缴癸拷",
+    "result": {
+      "categoryId": 202061907,
+      "chineseName": "时锟斤拷/锟斤拷时IC",
+      "translatedName": "Clock/Timing IC",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126628001"
+    }
+  }
+}

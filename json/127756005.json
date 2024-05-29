@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127756005,
+      "chineseName": "悬吊金具",
+      "translatedName": "Hanging hardware",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127764004"
+    }
+  }
+}

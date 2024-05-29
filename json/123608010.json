@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123608010,
+      "chineseName": "LED芯片检测设备",
+      "translatedName": "LED chip testing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620013"
+    }
+  }
+}

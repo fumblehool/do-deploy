@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046977,
+      "chineseName": "组合工具",
+      "translatedName": "Combination tool",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046978,
+          "chineseName": "电讯组合工具",
+          "translatedName": "Telecommunications combination tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 1046982,
+          "chineseName": "家用组合工具",
+          "translatedName": "Household combination tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 1046983,
+          "chineseName": "机修组合工具",
+          "translatedName": "Repair Combination Tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 1046984,
+          "chineseName": "随车组合工具",
+          "translatedName": "On-board combination tool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 124190003,
+          "chineseName": "综合性组合工具",
+          "translatedName": "Comprehensive portfolio tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 201919203,
+          "chineseName": "工具托",
+          "translatedName": "Tool holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 201916202,
+          "chineseName": "电子维修套装",
+          "translatedName": "Electronic repair kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        },
+        {
+          "categoryId": 201917003,
+          "chineseName": "电梯维修保养套装",
+          "translatedName": "Elevator Maintenance Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046977
+        }
+      ]
+    }
+  }
+}

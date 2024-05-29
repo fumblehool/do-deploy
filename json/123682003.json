@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123682003,
+      "chineseName": "男式马甲",
+      "translatedName": "Men's Vest",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031901,
+          "chineseName": "男式休闲马甲",
+          "translatedName": "Men's Casual Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123682003
+        },
+        {
+          "categoryId": 201547712,
+          "chineseName": "男式羽绒马甲",
+          "translatedName": "Men's Down Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123682003
+        },
+        {
+          "categoryId": 201558609,
+          "chineseName": "男式棉服马甲",
+          "translatedName": "Men's cotton-padded jacket vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123682003
+        }
+      ]
+    }
+  }
+}

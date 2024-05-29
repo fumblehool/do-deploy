@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202026817,
+      "chineseName": "风光发电系统",
+      "translatedName": "wind power generation system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202060416"
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043151,
+      "chineseName": "卫浴整理用具",
+      "translatedName": "Bathroom Finishing Utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10320,
+          "chineseName": "剃须刀、除毛器",
+          "translatedName": "Shaver, hair remover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043154,
+          "chineseName": "沐浴球、浴擦、浴刷、澡巾",
+          "translatedName": "Bath ball, bath wipe, bath brush, bath towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043157,
+          "chineseName": "耳勺、洁耳器",
+          "translatedName": "Ear scoop, ear cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043952,
+          "chineseName": "肥皂盒、架、网",
+          "translatedName": "Soap box, rack, net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043953,
+          "chineseName": "牙刷架、牙具座",
+          "translatedName": "Toothbrush holder, tooth holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043954,
+          "chineseName": "其他卫浴洗漱用具",
+          "translatedName": "Other Bathroom Toiletries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1048039,
+          "chineseName": "挤牙膏器",
+          "translatedName": "Toothpaste Squeezer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1044043,
+          "chineseName": "卫浴套件",
+          "translatedName": "Bathroom kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1043153,
+          "chineseName": "浴帽",
+          "translatedName": "Shower cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 1035625,
+          "chineseName": "化妆镜",
+          "translatedName": "makeup mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122344009,
+          "chineseName": "足浴盆",
+          "translatedName": "Foot tub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 124270013,
+          "chineseName": "浴帘、浴帐",
+          "translatedName": "Shower curtain, bath account",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 123610001,
+          "chineseName": "浴室凳",
+          "translatedName": "Bathroom stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122324008,
+          "chineseName": "洗漱包、袋",
+          "translatedName": "Toiletry bag, bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122378006,
+          "chineseName": "厨卫挂钩",
+          "translatedName": "Kitchen and bathroom hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122638002,
+          "chineseName": "吸盘毛巾架",
+          "translatedName": "Suction cup towel rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122638003,
+          "chineseName": "吸盘肥皂盒",
+          "translatedName": "Suction cup soap box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 123864002,
+          "chineseName": "洗头帽",
+          "translatedName": "shampoo hat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122356005,
+          "chineseName": "卫浴置物架",
+          "translatedName": "Bathroom storage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122362008,
+          "chineseName": "拖把架",
+          "translatedName": "Mop rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122406008,
+          "chineseName": "马桶刷架、杯",
+          "translatedName": "Toilet brush holder, cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122616002,
+          "chineseName": "吸盘牙刷筒",
+          "translatedName": "suction cup toothbrush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 123860003,
+          "chineseName": "婴儿浴盆",
+          "translatedName": "Baby tub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 123862002,
+          "chineseName": "浴网、浴兜",
+          "translatedName": "Bath net, bath pocket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 124262003,
+          "chineseName": "一次性马桶垫",
+          "translatedName": "Disposable toilet mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122328009,
+          "chineseName": "吹风机架",
+          "translatedName": "Blower frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122982012,
+          "chineseName": "儿童座便器",
+          "translatedName": "Children's toilet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 122558001,
+          "chineseName": "泡脚盆、沐浴桶、折叠浴桶",
+          "translatedName": "Foot bath basin, bath barrel, folding bath barrel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 126594003,
+          "chineseName": "洗发杯/水勺",
+          "translatedName": "Shampoo Cup/Water Spoon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 201303612,
+          "chineseName": "浴罩",
+          "translatedName": "Bath cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        },
+        {
+          "categoryId": 201308607,
+          "chineseName": "儿童马桶架/梯",
+          "translatedName": "Children's toilet rack/ladder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043151
+        }
+      ]
+    }
+  }
+}

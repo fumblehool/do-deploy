@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202012104,
+      "chineseName": "珍珠粉圆类",
+      "translatedName": "Pearl powder round class",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202010504"
+    }
+  }
+}

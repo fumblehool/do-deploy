@@ -1,0 +1,271 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10217,
+      "chineseName": "室外照明灯具",
+      "translatedName": "Outdoor lighting fixtures",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10221,
+          "chineseName": "道路照明灯",
+          "translatedName": "Road lighting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1032287,
+          "chineseName": "其他室外照明灯具",
+          "translatedName": "Other Outdoor Lighting Fixtures",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1032271,
+          "chineseName": "太阳能灯",
+          "translatedName": "Solar Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1032291,
+          "chineseName": "码头/桥梁灯具",
+          "translatedName": "Jetty/Bridge Luminaires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1032292,
+          "chineseName": "景观灯",
+          "translatedName": "landscape lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1032293,
+          "chineseName": "庭院灯",
+          "translatedName": "Garden lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034969,
+          "chineseName": "高杆灯",
+          "translatedName": "high pole lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034970,
+          "chineseName": "埋地灯",
+          "translatedName": "Underground lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034971,
+          "chineseName": "草坪灯",
+          "translatedName": "Lawn lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034972,
+          "chineseName": "探照灯",
+          "translatedName": "Searchlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034973,
+          "chineseName": "投射灯/聚光灯",
+          "translatedName": "Projection lamp/spotlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034975,
+          "chineseName": "隧道灯具",
+          "translatedName": "Tunnel luminaires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1034974,
+          "chineseName": "泛光灯",
+          "translatedName": "Floodlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1046770,
+          "chineseName": "LED护栏管/轮廓灯",
+          "translatedName": "LED guardrail tube/contour light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1046771,
+          "chineseName": "投光灯",
+          "translatedName": "floodlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1046772,
+          "chineseName": "路灯",
+          "translatedName": "Street lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1036821,
+          "chineseName": "无极灯",
+          "translatedName": "non-electrode lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 1046793,
+          "chineseName": "洗墙灯",
+          "translatedName": "Wash wall lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 122272001,
+          "chineseName": "LED数码管",
+          "translatedName": "LED digital tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 121192020,
+          "chineseName": "水底灯",
+          "translatedName": "underwater lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 121192021,
+          "chineseName": "地脚灯/墙脚灯/台阶灯",
+          "translatedName": "Foot lamp/wall foot lamp/step lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 121188012,
+          "chineseName": "室外壁灯",
+          "translatedName": "Outdoor wall lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 121188013,
+          "chineseName": "地砖灯",
+          "translatedName": "Floor tile lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 126508003,
+          "chineseName": "户外灯带",
+          "translatedName": "Outdoor light strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 126476004,
+          "chineseName": "瓦楞灯/瓦片灯",
+          "translatedName": "Corrugated lamp/tile lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 126480002,
+          "chineseName": "点光源/像素灯",
+          "translatedName": "Point light source/pixel lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 126512002,
+          "chineseName": "线条灯/灯条",
+          "translatedName": "Line lamp/light bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        },
+        {
+          "categoryId": 201867202,
+          "chineseName": "室外夜灯",
+          "translatedName": "Outdoor night light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10217
+        }
+      ]
+    }
+  }
+}

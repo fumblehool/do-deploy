@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034333,
+      "chineseName": "过滤器",
+      "translatedName": "Filter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10347"
+    }
+  }
+}

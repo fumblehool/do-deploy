@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744008,
+      "chineseName": "男士腰包",
+      "translatedName": "Men's Fanny Pack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121658001"
+    }
+  }
+}

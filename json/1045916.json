@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045916,
+      "chineseName": "PVC塑料板(卷)",
+      "translatedName": "PVC plastic sheet (roll)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045905"
+    }
+  }
+}

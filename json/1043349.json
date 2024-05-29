@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043349,
+      "chineseName": "袜子",
+      "translatedName": "Socks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122438003,
+          "chineseName": "运动、休闲棉袜",
+          "translatedName": "Sports, leisure cotton socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122438005,
+          "chineseName": "美腿袜、压力袜",
+          "translatedName": "Leg socks, compression socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122438006,
+          "chineseName": "分趾袜",
+          "translatedName": "toe socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122482001,
+          "chineseName": "商务袜",
+          "translatedName": "Business Socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122430003,
+          "chineseName": "其他袜子",
+          "translatedName": "Other socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122468001,
+          "chineseName": "船袜、隐形袜",
+          "translatedName": "Boat socks, invisible socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122470001,
+          "chineseName": "袜套",
+          "translatedName": "Socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122962012,
+          "chineseName": "堆堆袜",
+          "translatedName": "Stacking stockings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122982013,
+          "chineseName": "睡眠袜",
+          "translatedName": "Sleep socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 122988007,
+          "chineseName": "鱼嘴袜、露趾袜",
+          "translatedName": "Fish mouth socks, toenails",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 201159802,
+          "chineseName": "地板袜",
+          "translatedName": "floor socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 201809301,
+          "chineseName": "洛丽塔袜",
+          "translatedName": "Lolita Socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 201809401,
+          "chineseName": "JK袜",
+          "translatedName": "JK Socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        },
+        {
+          "categoryId": 201886008,
+          "chineseName": "半掌袜",
+          "translatedName": "half-palm socks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043349
+        }
+      ]
+    }
+  }
+}

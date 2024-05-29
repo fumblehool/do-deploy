@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036603,
+      "chineseName": "物业管理",
+      "translatedName": "Property Management",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2841"
+    }
+  }
+}

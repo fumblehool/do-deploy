@@ -1,0 +1,388 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1548,
+      "chineseName": "收纳防尘",
+      "translatedName": "Dust-proof storage",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547901",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033571,
+          "chineseName": "家用购物袋、篮",
+          "translatedName": "Household shopping bags, baskets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1036892,
+          "chineseName": "其他收纳防尘",
+          "translatedName": "Other storage dustproof",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1036894,
+          "chineseName": "收纳袋、收纳包",
+          "translatedName": "Storage bag, storage bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1036896,
+          "chineseName": "收纳篮、置物篮、收纳筐",
+          "translatedName": "Storage basket, storage basket, storage basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1036898,
+          "chineseName": "真空压缩袋",
+          "translatedName": "Vacuum compression bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1043982,
+          "chineseName": "收纳盒",
+          "translatedName": "Storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1043984,
+          "chineseName": "收纳柜",
+          "translatedName": "Storage cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1037347,
+          "chineseName": "首饰箱、包、袋、盒",
+          "translatedName": "Jewelry boxes, bags, bags, boxes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121490001,
+          "chineseName": "收纳箱",
+          "translatedName": "Storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121490005,
+          "chineseName": "收纳瓶",
+          "translatedName": "Storage bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122344003,
+          "chineseName": "首饰架、首饰箱、首饰袋",
+          "translatedName": "Jewelry rack, jewelry box, jewelry bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122544001,
+          "chineseName": "简易衣橱",
+          "translatedName": "Simple Wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122546002,
+          "chineseName": "收纳层架",
+          "translatedName": "Storage shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122342007,
+          "chineseName": "储物挂袋",
+          "translatedName": "Storage hanging bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122522002,
+          "chineseName": "大衣、西服罩",
+          "translatedName": "Coat, suit cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121534005,
+          "chineseName": "收纳套装",
+          "translatedName": "Storage suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121542002,
+          "chineseName": "收纳桶",
+          "translatedName": "Storage Bucket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122326006,
+          "chineseName": "衣物防尘罩、袋、套",
+          "translatedName": "Clothing dust cover, bag, sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 124186005,
+          "chineseName": "医药箱",
+          "translatedName": "Medicine cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122406006,
+          "chineseName": "鞋靴罩、袋",
+          "translatedName": "Shoe cover, bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122410001,
+          "chineseName": "牙刷套",
+          "translatedName": "Toothbrush cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121542003,
+          "chineseName": "收纳凳、储物凳、收纳桌",
+          "translatedName": "Storage stool, storage stool, storage table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 121552002,
+          "chineseName": "收纳罐、玻璃密封罐",
+          "translatedName": "Storage cans, sealed glass cans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 122654001,
+          "chineseName": "防水袋",
+          "translatedName": "Waterproof bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 124194003,
+          "chineseName": "脏衣篮",
+          "translatedName": "Dirty clothes basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 124194004,
+          "chineseName": "饭盒袋",
+          "translatedName": "Lunch box bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201638360,
+          "chineseName": "收纳洞洞板",
+          "translatedName": "Storage Cave",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201558111,
+          "chineseName": "口红收纳包",
+          "translatedName": "Lipstick storage bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201686602,
+          "chineseName": "化妆品收纳盒",
+          "translatedName": "Cosmetic storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201305809,
+          "chineseName": "壁式收纳盒",
+          "translatedName": "Wall storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201340514,
+          "chineseName": "家用购物车",
+          "translatedName": "Home Shopping Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201545015,
+          "chineseName": "口红收纳盒",
+          "translatedName": "Lipstick storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201560909,
+          "chineseName": "口红收纳架",
+          "translatedName": "Lipstick storage rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201630960,
+          "chineseName": "胶囊咖啡收纳盒/架",
+          "translatedName": "Capsule coffee storage box/rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 1552,
+          "chineseName": "纸巾盒、纸巾抽、卷纸器",
+          "translatedName": "Tissue box, tissue extractor, paper reel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201308711,
+          "chineseName": "鞋子收纳架/盒",
+          "translatedName": "Shoes storage rack/box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201745202,
+          "chineseName": "食物收纳盒",
+          "translatedName": "Food storage box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201754401,
+          "chineseName": "钥匙收纳",
+          "translatedName": "Key storage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201760101,
+          "chineseName": "被子固定器",
+          "translatedName": "Quilt holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201762103,
+          "chineseName": "内衣收纳",
+          "translatedName": "Underwear storage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        },
+        {
+          "categoryId": 201766501,
+          "chineseName": "玩具收纳",
+          "translatedName": "Toy storage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1548
+        }
+      ]
+    }
+  }
+}

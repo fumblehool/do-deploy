@@ -1,0 +1,262 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10104,
+      "chineseName": "车身及附件",
+      "translatedName": "Body and accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032088,
+          "chineseName": "汽车喇叭/高音头",
+          "translatedName": "Car horn/tweeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 10111,
+          "chineseName": "其他车身及附件",
+          "translatedName": "Other body and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032101,
+          "chineseName": "雨刮器",
+          "translatedName": "Wiper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032102,
+          "chineseName": "座椅及附件",
+          "translatedName": "Seats and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032103,
+          "chineseName": "车牌架/牌照托",
+          "translatedName": "License plate holder/license plate holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032104,
+          "chineseName": "车镜",
+          "translatedName": "Car mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032105,
+          "chineseName": "汽车玻璃",
+          "translatedName": "automobile glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032123,
+          "chineseName": "车用天线",
+          "translatedName": "vehicle antenna",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1032137,
+          "chineseName": "汽车消声器",
+          "translatedName": "Car muffler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036021,
+          "chineseName": "排气管",
+          "translatedName": "Exhaust pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036926,
+          "chineseName": "轴承",
+          "translatedName": "Bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036927,
+          "chineseName": "驾驶室及配件",
+          "translatedName": "Cab and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036928,
+          "chineseName": "冲压件、挤压件",
+          "translatedName": "Stamping parts, extrusion parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036683,
+          "chineseName": "汽车电瓶/蓄电池",
+          "translatedName": "Car battery/battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036022,
+          "chineseName": "行李架",
+          "translatedName": "Luggage Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036023,
+          "chineseName": "保险杠",
+          "translatedName": "Bumper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036024,
+          "chineseName": "车用密封条",
+          "translatedName": "Vehicle Sealing Strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036415,
+          "chineseName": "玻璃升降器",
+          "translatedName": "Glass lifter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1035638,
+          "chineseName": "安全气囊",
+          "translatedName": "Airbag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1045036,
+          "chineseName": "气门嘴",
+          "translatedName": "valve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036416,
+          "chineseName": "叶子板",
+          "translatedName": "Fender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036417,
+          "chineseName": "中网",
+          "translatedName": "Zhongwang",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1036418,
+          "chineseName": "扶手、把手、拉手",
+          "translatedName": "Armrest, handle, handle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1041502,
+          "chineseName": "车壳",
+          "translatedName": "Car shell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 1041503,
+          "chineseName": "车门",
+          "translatedName": "Door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 126178007,
+          "chineseName": "倒车镜/后视镜总成",
+          "translatedName": "Rear mirror/rearview mirror assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        },
+        {
+          "categoryId": 126180005,
+          "chineseName": "汽车喇叭总成",
+          "translatedName": "Car horn assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10104
+        }
+      ]
+    }
+  }
+}

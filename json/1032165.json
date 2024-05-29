@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032165,
+      "chineseName": "取力器",
+      "translatedName": "Power take-off",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10105"
+    }
+  }
+}

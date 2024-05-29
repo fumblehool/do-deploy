@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 912,
+      "chineseName": "废金属",
+      "translatedName": "Scrap Metal",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034275,
+          "chineseName": "其他废金属",
+          "translatedName": "Other scrap metal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1034277,
+          "chineseName": "废锌",
+          "translatedName": "waste zinc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1034279,
+          "chineseName": "废镍",
+          "translatedName": "Scrap Nickel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1034280,
+          "chineseName": "废铝",
+          "translatedName": "aluminum scrap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1034281,
+          "chineseName": "废铜",
+          "translatedName": "Scrap copper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1034282,
+          "chineseName": "废铁",
+          "translatedName": "scrap iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1042737,
+          "chineseName": "废不锈钢",
+          "translatedName": "Waste stainless steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1036779,
+          "chineseName": "废锡",
+          "translatedName": "Waste Tin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1035816,
+          "chineseName": "废钼",
+          "translatedName": "waste molybdenum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        },
+        {
+          "categoryId": 1035817,
+          "chineseName": "废钢",
+          "translatedName": "steel scrap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 912
+        }
+      ]
+    }
+  }
+}

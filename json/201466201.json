@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201466201,
+      "chineseName": "电子鞭炮",
+      "translatedName": "Electronic firecrackers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122198001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032387,
+      "chineseName": "集中控制装置",
+      "translatedName": "centralized control device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121486001"
+    }
+  }
+}

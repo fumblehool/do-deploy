@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125392001,
+      "chineseName": "椰果椰浆",
+      "translatedName": "coconut coconut milk",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125390001"
+    }
+  }
+}

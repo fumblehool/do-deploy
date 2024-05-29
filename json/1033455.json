@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033455,
+      "chineseName": "高尔夫球车",
+      "translatedName": "Golf Cart",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2005"
+    }
+  }
+}

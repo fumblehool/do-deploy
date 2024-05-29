@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032290,
+      "chineseName": "广告灯具",
+      "translatedName": "Advertising lamps and lanterns",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034964"
+    }
+  }
+}

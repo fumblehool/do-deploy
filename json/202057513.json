@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202057513,
+      "chineseName": "女装皮革加工",
+      "translatedName": "Women's Leather Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202056910"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201384421,
+      "chineseName": "大棚网",
+      "translatedName": "Greenhouse net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201382304"
+    }
+  }
+}

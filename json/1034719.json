@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034719,
+      "chineseName": "淋水装置",
+      "translatedName": "water spraying device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031664"
+    }
+  }
+}

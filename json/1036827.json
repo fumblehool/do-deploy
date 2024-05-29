@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036827,
+      "chineseName": "排队机、叫号机",
+      "translatedName": "Queuing machine, calling machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "511"
+    }
+  }
+}

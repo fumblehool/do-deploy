@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033858,
+      "chineseName": "气象仪器",
+      "translatedName": "meteorological instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036225,
+          "chineseName": "其他气象仪器",
+          "translatedName": "Other meteorological instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 1036226,
+          "chineseName": "风量计",
+          "translatedName": "Air Gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 1036227,
+          "chineseName": "风速风向仪",
+          "translatedName": "Anemometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 121496005,
+          "chineseName": "百叶箱",
+          "translatedName": "louver box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 121496006,
+          "chineseName": "自动气象站",
+          "translatedName": "automatic weather station",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 121492005,
+          "chineseName": "雨量计",
+          "translatedName": "rain gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        },
+        {
+          "categoryId": 121492006,
+          "chineseName": "气压计",
+          "translatedName": "barometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033858
+        }
+      ]
+    }
+  }
+}

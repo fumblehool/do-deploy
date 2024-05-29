@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122986002,
+      "chineseName": "毛绒公仔、玩偶、娃娃",
+      "translatedName": "Plush doll, doll, doll",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122988002"
+    }
+  }
+}

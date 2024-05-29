@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3016,
+      "chineseName": "其他安全防护设备",
+      "translatedName": "Other safety protection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "70"
+    }
+  }
+}

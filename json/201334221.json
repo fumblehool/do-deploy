@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201334221,
+      "chineseName": "酷毙灯",
+      "translatedName": "Cool Light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1330"
+    }
+  }
+}

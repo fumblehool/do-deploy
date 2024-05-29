@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033624,
+      "chineseName": "其他二手交通工具",
+      "translatedName": "Other used transportation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10103"
+    }
+  }
+}

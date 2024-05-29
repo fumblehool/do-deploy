@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127676048,
+      "chineseName": "电容器",
+      "translatedName": "Capacitor",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1039392,
+          "chineseName": "其他电容器",
+          "translatedName": "Other Capacitors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127764007,
+          "chineseName": "电容配件/套件",
+          "translatedName": "Capacitor Accessories/Kits",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127742007,
+          "chineseName": "超级电容器",
+          "translatedName": "super capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127746007,
+          "chineseName": "电容器阵列/网络",
+          "translatedName": "Capacitor Array/Network",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127750005,
+          "chineseName": "云母和特氟龙电容器",
+          "translatedName": "Mica and Teflon Capacitors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127752006,
+          "chineseName": "薄膜电容器",
+          "translatedName": "film capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127752007,
+          "chineseName": "氧化铌电容器",
+          "translatedName": "Niobium oxide capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127668043,
+          "chineseName": "铝电解电容器",
+          "translatedName": "aluminum electrolytic capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127740009,
+          "chineseName": "陶瓷电容器",
+          "translatedName": "ceramic capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127786006,
+          "chineseName": "钽电容器",
+          "translatedName": "Tantalum Capacitors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127770008,
+          "chineseName": "可调式电容器",
+          "translatedName": "adjustable capacitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        },
+        {
+          "categoryId": 127778008,
+          "chineseName": "硅电容器",
+          "translatedName": "Silicon Capacitors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127676048
+        }
+      ]
+    }
+  }
+}

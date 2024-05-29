@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200818001,
+      "chineseName": "齐纳二极管(稳压)",
+      "translatedName": "Zener Diode (Regulated)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200804003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043474,
+      "chineseName": "浴巾、沙滩巾",
+      "translatedName": "Bath towels, beach towels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127874019"
+    }
+  }
+}

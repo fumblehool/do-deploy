@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032992,
+      "chineseName": "封装打包胶带",
+      "translatedName": "Packaging Tape",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186001"
+    }
+  }
+}

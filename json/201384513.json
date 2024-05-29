@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201384513,
+      "chineseName": "攀爬网",
+      "translatedName": "Climbing Net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201382304"
+    }
+  }
+}

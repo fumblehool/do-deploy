@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2834,
+      "chineseName": "会计服务",
+      "translatedName": "Accounting Services",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "76"
+    }
+  }
+}

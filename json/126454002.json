@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126454002,
+      "chineseName": "婴童装包装",
+      "translatedName": "Baby children's clothing packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390002"
+    }
+  }
+}

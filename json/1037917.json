@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037917,
+      "chineseName": "情趣睡衣",
+      "translatedName": "Fun Pajamas",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450002"
+    }
+  }
+}

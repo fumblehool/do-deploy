@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201914303,
+      "chineseName": "枪体",
+      "translatedName": "Gun body",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1427"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046868,
+      "chineseName": "离合器",
+      "translatedName": "Clutch",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046869,
+          "chineseName": "机械离合器",
+          "translatedName": "mechanical clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046870,
+          "chineseName": "电磁离合器",
+          "translatedName": "electromagnetic clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046871,
+          "chineseName": "磁粉离合器",
+          "translatedName": "magnetic powder clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046874,
+          "chineseName": "离心离合器",
+          "translatedName": "centrifugal clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046875,
+          "chineseName": "超越离合器",
+          "translatedName": "overrunning clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046877,
+          "chineseName": "安全离合器",
+          "translatedName": "safety clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046878,
+          "chineseName": "气动离合器",
+          "translatedName": "Pneumatic clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        },
+        {
+          "categoryId": 1046879,
+          "chineseName": "液压离合器",
+          "translatedName": "hydraulic clutch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046868
+        }
+      ]
+    }
+  }
+}

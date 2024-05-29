@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201901402,
+      "chineseName": "合成/培育钻石裸石",
+      "translatedName": "Synthetic/Cultivated Diamond Bare Stone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201885405"
+    }
+  }
+}

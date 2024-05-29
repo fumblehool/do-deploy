@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122270002,
+      "chineseName": "其他家居清洁护理",
+      "translatedName": "Other Home Cleaning Care",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122262003"
+    }
+  }
+}

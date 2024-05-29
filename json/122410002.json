@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122410002,
+      "chineseName": "记忆床垫",
+      "translatedName": "Memory mattress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123088001"
+    }
+  }
+}

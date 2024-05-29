@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202059610,
+      "chineseName": "IoT传感器",
+      "translatedName": "IoT sensors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201229709"
+    }
+  }
+}

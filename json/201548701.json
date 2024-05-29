@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548701,
+      "chineseName": "电脑包包",
+      "translatedName": "Computer Bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031747,
+          "chineseName": "电脑包",
+          "translatedName": "Computer bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548701
+        },
+        {
+          "categoryId": 127426006,
+          "chineseName": "平板电脑包",
+          "translatedName": "Tablet Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548701
+        },
+        {
+          "categoryId": 201550111,
+          "chineseName": "手提电脑包",
+          "translatedName": "Laptop Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548701
+        },
+        {
+          "categoryId": 201555613,
+          "chineseName": "内胆包",
+          "translatedName": "liner bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548701
+        }
+      ]
+    }
+  }
+}

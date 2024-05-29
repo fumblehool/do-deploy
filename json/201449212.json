@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201449212,
+      "chineseName": "米酒",
+      "translatedName": "rice wine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10071"
+    }
+  }
+}

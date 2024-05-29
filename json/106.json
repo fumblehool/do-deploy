@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 106,
+      "chineseName": "菌菇干货",
+      "translatedName": "dried mushroom",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032849,
+          "chineseName": "其他干货",
+          "translatedName": "Other Dry Goods",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1032850,
+          "chineseName": "黑木耳",
+          "translatedName": "black fungus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1032851,
+          "chineseName": "蘑菇",
+          "translatedName": "Mushrooms",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033714,
+          "chineseName": "银耳",
+          "translatedName": "Tremella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033715,
+          "chineseName": "姬松茸",
+          "translatedName": "Agaricus blazei",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033716,
+          "chineseName": "草菇",
+          "translatedName": "straw mushroom",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033717,
+          "chineseName": "鸡腿菇",
+          "translatedName": "Coprinus comatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033718,
+          "chineseName": "灰树花",
+          "translatedName": "Grifola fronfola",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033719,
+          "chineseName": "竹荪",
+          "translatedName": "Dictyophora",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033720,
+          "chineseName": "平菇",
+          "translatedName": "Pleurotus ostreatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033721,
+          "chineseName": "猴头菇",
+          "translatedName": "Hericium erinaceus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033722,
+          "chineseName": "金针菇",
+          "translatedName": "Flammulina velutipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1033723,
+          "chineseName": "香菇",
+          "translatedName": "Shiitake mushroom",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1036599,
+          "chineseName": "牛肝菌",
+          "translatedName": "Boletus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1036891,
+          "chineseName": "羊肚菌",
+          "translatedName": "Morchella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1046191,
+          "chineseName": "茶树菇",
+          "translatedName": "Agrocybe aegerita",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1036598,
+          "chineseName": "姬菇",
+          "translatedName": "Pleurotus ostreatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        },
+        {
+          "categoryId": 1041847,
+          "chineseName": "秀珍菇",
+          "translatedName": "Pleurotus ostreatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 106
+        }
+      ]
+    }
+  }
+}

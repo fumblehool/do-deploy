@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921802,
+      "chineseName": "磨具磨料",
+      "translatedName": "Abrasive Abrasive",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032936,
+          "chineseName": "砂纸",
+          "translatedName": "sandpaper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035419,
+          "chineseName": "其他磨料",
+          "translatedName": "Other abrasives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035420,
+          "chineseName": "抛光膏",
+          "translatedName": "polishing paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035421,
+          "chineseName": "研磨膏",
+          "translatedName": "Grinding paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035422,
+          "chineseName": "天然磨料",
+          "translatedName": "natural abrasive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035423,
+          "chineseName": "人造磨料",
+          "translatedName": "artificial abrasive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035424,
+          "chineseName": "其他磨具",
+          "translatedName": "Other Abrasives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035426,
+          "chineseName": "抛光轮",
+          "translatedName": "polishing wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035427,
+          "chineseName": "页轮、页片",
+          "translatedName": "Page wheel, sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035428,
+          "chineseName": "磨块",
+          "translatedName": "Grinding block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035429,
+          "chineseName": "砂带",
+          "translatedName": "Abrasive belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035430,
+          "chineseName": "磨片、切割片",
+          "translatedName": "Grinding disc, cutting disc",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035431,
+          "chineseName": "磨头",
+          "translatedName": "grinding head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035432,
+          "chineseName": "磨石、油石",
+          "translatedName": "Grinding stone, whipstone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035433,
+          "chineseName": "钢丝轮",
+          "translatedName": "wire wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035434,
+          "chineseName": "砂布",
+          "translatedName": "emery cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1035436,
+          "chineseName": "砂轮",
+          "translatedName": "Grinding wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 1046579,
+          "chineseName": "工业百洁布、擦拭布",
+          "translatedName": "Industrial scouring pad, wiping cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 125278009,
+          "chineseName": "海绵砂",
+          "translatedName": "sponge sand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 124184003,
+          "chineseName": "羊毛球",
+          "translatedName": "Wool ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 124194005,
+          "chineseName": "砂碟",
+          "translatedName": "Sand dish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 201920802,
+          "chineseName": "碗型砂轮",
+          "translatedName": "Bowl-shaped grinding wheel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 201916203,
+          "chineseName": "砂套",
+          "translatedName": "Sand sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 201923503,
+          "chineseName": "修整笔",
+          "translatedName": "Fit pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        },
+        {
+          "categoryId": 201919904,
+          "chineseName": "云石片",
+          "translatedName": "marble flakes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201921802
+        }
+      ]
+    }
+  }
+}

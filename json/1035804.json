@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035804,
+      "chineseName": "燃油锅炉",
+      "translatedName": "oil-fired boiler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1421"
+    }
+  }
+}

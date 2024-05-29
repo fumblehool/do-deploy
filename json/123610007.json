@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610007,
+      "chineseName": "LED异型屏",
+      "translatedName": "LED special-shaped screen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123612008"
+    }
+  }
+}

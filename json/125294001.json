@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125294001,
+      "chineseName": "线性机器人",
+      "translatedName": "linear robot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125276006"
+    }
+  }
+}

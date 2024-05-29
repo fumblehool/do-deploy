@@ -1,0 +1,307 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 4,
+      "chineseName": "纺织、皮革",
+      "translatedName": "Textile, leather",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031715,
+          "chineseName": "皮革",
+          "translatedName": "Leather",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10118,
+          "chineseName": "纱线",
+          "translatedName": "Yarn",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10237,
+          "chineseName": "纺织废料",
+          "translatedName": "Textile waste",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10238,
+          "chineseName": "皮革废料",
+          "translatedName": "Leather Scrap",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10127,
+          "chineseName": "坯布",
+          "translatedName": "gray cloth",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10131,
+          "chineseName": "印花、扎染布",
+          "translatedName": "Printed, tie-dyed cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1031770,
+          "chineseName": "毛毡",
+          "translatedName": "Felt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10155,
+          "chineseName": "库存皮革及制品",
+          "translatedName": "Stock leather and products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 10157,
+          "chineseName": "纺织辅料",
+          "translatedName": "Textile Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1031793,
+          "chineseName": "纺织、皮革制品代理加盟",
+          "translatedName": "Textile, leather products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1031696,
+          "chineseName": "针织面料",
+          "translatedName": "knitted fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1031700,
+          "chineseName": "无纺布",
+          "translatedName": "non-woven fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1046659,
+          "chineseName": "色织、提花布",
+          "translatedName": "Yarn-dyed, jacquard cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1046621,
+          "chineseName": "棉类面料",
+          "translatedName": "cotton fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 1046526,
+          "chineseName": "化纤面料",
+          "translatedName": "chemical fiber fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 121494017,
+          "chineseName": "窗帘面料",
+          "translatedName": "curtain fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 127420003,
+          "chineseName": "面料加工定制",
+          "translatedName": "Fabric processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 127422002,
+          "chineseName": "纺织原材料加工定制",
+          "translatedName": "Textile raw material processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 127406002,
+          "chineseName": "辅料加工定制",
+          "translatedName": "Accessories processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 290304,
+          "chineseName": "纺织皮革相关项目合作",
+          "translatedName": "Cooperation in textile and leather related projects",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 410,
+          "chineseName": "毛纺面料",
+          "translatedName": "wool fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 411,
+          "chineseName": "丝绸面料",
+          "translatedName": "Silk Fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 412,
+          "chineseName": "麻类面料",
+          "translatedName": "hemp fabric",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 415,
+          "chineseName": "天然纺织原料",
+          "translatedName": "natural textile raw materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 41508,
+          "chineseName": "化学纤维",
+          "translatedName": "chemical fiber",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 417,
+          "chineseName": "库存纺织品",
+          "translatedName": "Inventory of textiles",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 420,
+          "chineseName": "其他纺织、皮革",
+          "translatedName": "Other textiles, leather",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 422,
+          "chineseName": "功能性面料",
+          "translatedName": "Functional Fabrics",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 201963801,
+          "chineseName": "后整理工艺",
+          "translatedName": "finishing process",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 424,
+          "chineseName": "混纺、交织类面料",
+          "translatedName": "Blended and interwoven fabrics",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 429,
+          "chineseName": "复合面料",
+          "translatedName": "composite fabric",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        },
+        {
+          "categoryId": 430,
+          "chineseName": "绣花布",
+          "translatedName": "embroidered cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 4
+        }
+      ]
+    }
+  }
+}

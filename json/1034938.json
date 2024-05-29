@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034938,
+      "chineseName": "顺丁橡胶",
+      "translatedName": "butadiene rubber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031644"
+    }
+  }
+}

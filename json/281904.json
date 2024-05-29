@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 281904,
+      "chineseName": "山地、野营用品",
+      "translatedName": "Mountain, camping supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033504,
+          "chineseName": "其他户外用品",
+          "translatedName": "Other Outdoor Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033506,
+          "chineseName": "防潮垫、地席、野餐垫",
+          "translatedName": "Moisture-proof mat, floor mat, picnic mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033508,
+          "chineseName": "登山杖、滑雪杖",
+          "translatedName": "Mountaineering poles, ski poles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033510,
+          "chineseName": "指南针、户外标识",
+          "translatedName": "Compass, outdoor signs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033511,
+          "chineseName": "野营灯、露营灯",
+          "translatedName": "Camping lights, camping lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033512,
+          "chineseName": "吊床",
+          "translatedName": "Hammock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033513,
+          "chineseName": "野营睡袋",
+          "translatedName": "Camping sleeping bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1033514,
+          "chineseName": "帐篷、天幕、帐篷配件",
+          "translatedName": "Tents, canopy, tent accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 124812001,
+          "chineseName": "户外夜视仪",
+          "translatedName": "Outdoor night vision",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 122098004,
+          "chineseName": "野营折叠桌椅",
+          "translatedName": "Camping folding tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123110002,
+          "chineseName": "野餐炉具",
+          "translatedName": "Picnic Stove",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123118002,
+          "chineseName": "户外充气床",
+          "translatedName": "outdoor inflatable bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123122001,
+          "chineseName": "户外炊具",
+          "translatedName": "Outdoor Cookware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123122002,
+          "chineseName": "户外折叠床",
+          "translatedName": "Outdoor folding bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123162001,
+          "chineseName": "户外望远镜",
+          "translatedName": "Outdoor telescope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123168001,
+          "chineseName": "户外头灯",
+          "translatedName": "Outdoor Headlights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 123168002,
+          "chineseName": "野营信号灯、救生灯",
+          "translatedName": "Camping signal lights, lifelight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 122122002,
+          "chineseName": "登山表",
+          "translatedName": "Mountaineering Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 124856002,
+          "chineseName": "伪装网",
+          "translatedName": "camouflage net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 1816,
+          "chineseName": "登山扣、钩",
+          "translatedName": "Mountaineering buckle, hook",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 201909601,
+          "chineseName": "天幕",
+          "translatedName": "Sky Curtain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 201910202,
+          "chineseName": "营地推车",
+          "translatedName": "Camp Cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 201907602,
+          "chineseName": "户外充气垫",
+          "translatedName": "Outdoor inflatable cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 201909501,
+          "chineseName": "露营零配件",
+          "translatedName": "Camping Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        },
+        {
+          "categoryId": 201901404,
+          "chineseName": "帐篷",
+          "translatedName": "Tent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 281904
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201156304,
+      "chineseName": "晚礼服",
+      "translatedName": "Evening dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125740002"
+    }
+  }
+}

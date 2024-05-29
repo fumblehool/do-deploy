@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122380007,
+      "chineseName": "相机防水包装",
+      "translatedName": "Camera waterproof packaging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126512001"
+    }
+  }
+}

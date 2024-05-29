@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201551614,
+      "chineseName": "童外套/夹克/大衣",
+      "translatedName": "Children's coat/jacket/coat",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124188006,
+          "chineseName": "童皮草/皮毛一体",
+          "translatedName": "Children's fur/fur one",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        },
+        {
+          "categoryId": 201548507,
+          "chineseName": "呢大衣",
+          "translatedName": "tweed coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        },
+        {
+          "categoryId": 201547410,
+          "chineseName": "风衣",
+          "translatedName": "Windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        },
+        {
+          "categoryId": 201547411,
+          "chineseName": "西服/小西装",
+          "translatedName": "Suit/Small Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        },
+        {
+          "categoryId": 201554510,
+          "chineseName": "普通外套",
+          "translatedName": "Ordinary coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        },
+        {
+          "categoryId": 201561208,
+          "chineseName": "夹克/皮衣",
+          "translatedName": "Jacket/Leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201551614
+        }
+      ]
+    }
+  }
+}

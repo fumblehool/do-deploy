@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033047,
+      "chineseName": "帐簿",
+      "translatedName": "account book",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2121"
+    }
+  }
+}

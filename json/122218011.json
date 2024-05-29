@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122218011,
+      "chineseName": "贴片式LED灯珠",
+      "translatedName": "SMD LED lamp beads",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123610013"
+    }
+  }
+}

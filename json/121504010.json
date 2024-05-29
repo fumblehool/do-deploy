@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121504010,
+      "chineseName": "图文印刷",
+      "translatedName": "Graphic Printing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121574003,
+          "chineseName": "其他纸类印刷制品",
+          "translatedName": "Other Paper Printing Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121488008,
+          "chineseName": "宣传单/海报",
+          "translatedName": "flyer/poster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121488009,
+          "chineseName": "商业票据",
+          "translatedName": "commercial paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121552004,
+          "chineseName": "台历印刷",
+          "translatedName": "calendar printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121500004,
+          "chineseName": "说明书",
+          "translatedName": "Instructions",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121504011,
+          "chineseName": "宣传画册",
+          "translatedName": "Promotional album",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 122154001,
+          "chineseName": "信息商业用纸",
+          "translatedName": "Information commercial paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121542006,
+          "chineseName": "挂历印刷",
+          "translatedName": "Calendar Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 121542007,
+          "chineseName": "书刊杂志印刷",
+          "translatedName": "Books and Magazines Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 126594001,
+          "chineseName": "名片印刷",
+          "translatedName": "Business card printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 126570003,
+          "chineseName": "台牌/台签",
+          "translatedName": "Taiwan card/sign",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 126562003,
+          "chineseName": "菜谱",
+          "translatedName": "Recipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        },
+        {
+          "categoryId": 126584003,
+          "chineseName": "单据/收据",
+          "translatedName": "Documents/Receipts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121504010
+        }
+      ]
+    }
+  }
+}

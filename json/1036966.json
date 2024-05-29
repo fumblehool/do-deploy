@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036966,
+      "chineseName": "衣康酸",
+      "translatedName": "itaconic acid",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "832"
+    }
+  }
+}

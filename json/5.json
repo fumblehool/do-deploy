@@ -1,0 +1,316 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 5,
+      "chineseName": "电工电气",
+      "translatedName": "Electrician Electrical",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1008,
+          "chineseName": "发电机、发电机组",
+          "translatedName": "Generator, generator set",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 10204,
+          "chineseName": "电池",
+          "translatedName": "Battery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 10228,
+          "chineseName": "电动机",
+          "translatedName": "Motor",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 10233,
+          "chineseName": "电热设备",
+          "translatedName": "Electric heating equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1031797,
+          "chineseName": "电工电气产品代理加盟",
+          "translatedName": "Electrician Electrical Products Agent Joins",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 10197,
+          "chineseName": "电线、电缆",
+          "translatedName": "Wire and cable",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1036196,
+          "chineseName": "变送器",
+          "translatedName": "Transmitter",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1048230,
+          "chineseName": "变压器",
+          "translatedName": "Transformer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 125278011,
+          "chineseName": "中高压电力产品",
+          "translatedName": "Medium and high voltage power products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 125276006,
+          "chineseName": "工业机器人",
+          "translatedName": "Industrial Robots",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 125064006,
+          "chineseName": "电工电气辅材",
+          "translatedName": "Electrical auxiliary materials for electricians",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 124960005,
+          "chineseName": "电气控制方案",
+          "translatedName": "Electrical control scheme",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 127764004,
+          "chineseName": "电力金具",
+          "translatedName": "Power fittings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 127880002,
+          "chineseName": "变频器",
+          "translatedName": "Frequency converter",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1406,
+          "chineseName": "插头",
+          "translatedName": "Plug",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1407,
+          "chineseName": "开关",
+          "translatedName": "Switch",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 201605802,
+          "chineseName": "主令电器",
+          "translatedName": "Master Electric Appliance",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 201223340,
+          "chineseName": "阀用电磁铁（新）",
+          "translatedName": "Valve electromagnet (new)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 201227527,
+          "chineseName": "电磁铁",
+          "translatedName": "Electromagnet",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 201228337,
+          "chineseName": "变阻器",
+          "translatedName": "rheostat",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 1324,
+          "chineseName": "绝缘材料",
+          "translatedName": "Insulation material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 201332918,
+          "chineseName": "充电桩",
+          "translatedName": "Charging pile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 290305,
+          "chineseName": "电工电气项目合作",
+          "translatedName": "Electrician and Electrical Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 629,
+          "chineseName": "充电器",
+          "translatedName": "Charger",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 50918,
+          "chineseName": "通信线缆",
+          "translatedName": "Communication cable",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 515,
+          "chineseName": "库存电工电气产品",
+          "translatedName": "Stock Electrician Electrical Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 504,
+          "chineseName": "工控系统及装备",
+          "translatedName": "Industrial control system and equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 524,
+          "chineseName": "低压电器",
+          "translatedName": "Low-voltage electrical apparatus",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 525,
+          "chineseName": "高压电器",
+          "translatedName": "High-voltage electrical appliances",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 526,
+          "chineseName": "配电输电设备",
+          "translatedName": "Power distribution and transmission equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 528,
+          "chineseName": "插座",
+          "translatedName": "Socket",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 529,
+          "chineseName": "电源",
+          "translatedName": "Power",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        },
+        {
+          "categoryId": 530,
+          "chineseName": "电工电器成套设备",
+          "translatedName": "Electrical equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 5
+        }
+      ]
+    }
+  }
+}

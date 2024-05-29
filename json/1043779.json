@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043779,
+      "chineseName": "消毒器、暖奶器、小家电",
+      "translatedName": "Sterilizer, milk warmer, small household appliances",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201571222"
+    }
+  }
+}

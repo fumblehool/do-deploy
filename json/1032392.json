@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032392,
+      "chineseName": "控制（调节）仪表",
+      "translatedName": "Control (regulating) instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121486001"
+    }
+  }
+}

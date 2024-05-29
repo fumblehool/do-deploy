@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070012,
+      "chineseName": "电气联接",
+      "translatedName": "Electrical connection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064006"
+    }
+  }
+}

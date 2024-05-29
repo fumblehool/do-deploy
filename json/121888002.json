@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121888002,
+      "chineseName": "乒乓球鞋",
+      "translatedName": "table tennis shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121876002"
+    }
+  }
+}

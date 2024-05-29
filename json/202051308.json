@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051308,
+      "chineseName": "其他水力能源产品",
+      "translatedName": "Other Hydro Energy Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202055111"
+    }
+  }
+}

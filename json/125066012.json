@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125066012,
+      "chineseName": "个人护理加工",
+      "translatedName": "Personal Care Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304234"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 832,
+      "chineseName": "生物化工",
+      "translatedName": "biological chemical industry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035970,
+          "chineseName": "柠檬酸",
+          "translatedName": "Citric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036462,
+          "chineseName": "富马酸",
+          "translatedName": "fumaric acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036466,
+          "chineseName": "己二酸",
+          "translatedName": "adipic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036970,
+          "chineseName": "干扰素",
+          "translatedName": "Interferon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036971,
+          "chineseName": "抗生素",
+          "translatedName": "Antibiotics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036972,
+          "chineseName": "氨基酸",
+          "translatedName": "Amino Acids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036964,
+          "chineseName": "其他生物化工",
+          "translatedName": "Other Biochemical",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036965,
+          "chineseName": "抗坏血酸",
+          "translatedName": "Ascorbic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036966,
+          "chineseName": "衣康酸",
+          "translatedName": "itaconic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036967,
+          "chineseName": "琥珀酸",
+          "translatedName": "Succinic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036968,
+          "chineseName": "苹果酸",
+          "translatedName": "Malic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 1036969,
+          "chineseName": "乳酸",
+          "translatedName": "Lactic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        },
+        {
+          "categoryId": 201163202,
+          "chineseName": "植物提取物（原料）",
+          "translatedName": "Plant Extracts (Raw Material)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 832
+        }
+      ]
+    }
+  }
+}

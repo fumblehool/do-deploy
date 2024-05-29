@@ -1,0 +1,343 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 92,
+      "chineseName": "汽车内饰用品",
+      "translatedName": "Automotive Interior Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032115,
+          "chineseName": "其他汽车内饰用品",
+          "translatedName": "Other Automotive Interior Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1032116,
+          "chineseName": "车用置物袋/置物箱",
+          "translatedName": "Car storage bag/box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1032117,
+          "chineseName": "遮阳挡",
+          "translatedName": "Sun shade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1032118,
+          "chineseName": "车用香水香薰",
+          "translatedName": "Car Perfume Aromatherapy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1032119,
+          "chineseName": "方向盘套",
+          "translatedName": "Steering wheel cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1032121,
+          "chineseName": "腰靠",
+          "translatedName": "Waist support",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036930,
+          "chineseName": "迎宾踏板、脚踏板",
+          "translatedName": "Welcome pedal, foot pedal",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036426,
+          "chineseName": "扶手箱",
+          "translatedName": "Armrest box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036427,
+          "chineseName": "车用窗帘",
+          "translatedName": "Car curtains",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036429,
+          "chineseName": "车挂",
+          "translatedName": "Car hanging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1041520,
+          "chineseName": "方向盘助力器",
+          "translatedName": "Steering wheel booster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036422,
+          "chineseName": "安全带护肩",
+          "translatedName": "Seat belt shoulder pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036423,
+          "chineseName": "头枕",
+          "translatedName": "Headrest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036424,
+          "chineseName": "手刹套/档把套/套饰套装",
+          "translatedName": "Hand brake cover/gear handle cover/set decoration set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 1036425,
+          "chineseName": "车用水杯架/饮料架",
+          "translatedName": "Car cup holder/beverage holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123278005,
+          "chineseName": "车用温度计",
+          "translatedName": "Car thermometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 125086005,
+          "chineseName": "车用钥匙包",
+          "translatedName": "Car key bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 125086006,
+          "chineseName": "CD包/夹/袋",
+          "translatedName": "CD bag/clip/bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 125086011,
+          "chineseName": "汽车摆件",
+          "translatedName": "car ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123284005,
+          "chineseName": "车用烟灰缸",
+          "translatedName": "Car ashtray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 125066005,
+          "chineseName": "香水座",
+          "translatedName": "Perfplant seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123290001,
+          "chineseName": "车用眼镜夹/票据夹",
+          "translatedName": "Car Glasses Clip/Bill Clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123290005,
+          "chineseName": "静电棒/钥匙包",
+          "translatedName": "Static Rod/Key Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123280003,
+          "chineseName": "车用纸巾盒/套",
+          "translatedName": "Car tissue box/set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123282002,
+          "chineseName": "防滑垫",
+          "translatedName": "Anti-slip mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123282004,
+          "chineseName": "车用指南针/指南球",
+          "translatedName": "Car compass/compass ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 123282007,
+          "chineseName": "车用炭类吸附品",
+          "translatedName": "CARBON ADSORBED",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201324401,
+          "chineseName": "车载手机支架",
+          "translatedName": "Car phone holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201327101,
+          "chineseName": "临时停车牌",
+          "translatedName": "Temporary Stop Plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201307402,
+          "chineseName": "车载充气床",
+          "translatedName": "vehicle-mounted inflatable bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201979602,
+          "chineseName": "车载桌板",
+          "translatedName": "Car table board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201878101,
+          "chineseName": "扶手箱垫",
+          "translatedName": "Armrest box pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201878605,
+          "chineseName": "椅背防踢垫",
+          "translatedName": "Chair back anti-kick pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201880905,
+          "chineseName": "车载避光垫",
+          "translatedName": "Car light-proof pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 201881508,
+          "chineseName": "遮阳板后视镜",
+          "translatedName": "Sun visor rearview mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        },
+        {
+          "categoryId": 202054210,
+          "chineseName": "车底防护板/发动机挡板",
+          "translatedName": "Underbody guard/Engine guard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 92
+        }
+      ]
+    }
+  }
+}

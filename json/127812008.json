@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127812008,
+      "chineseName": "莫桑钻、仿真钻耳饰",
+      "translatedName": "Moussaint Drill, Simulation Drill Earrings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127290004"
+    }
+  }
+}

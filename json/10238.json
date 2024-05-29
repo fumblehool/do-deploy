@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10238,
+      "chineseName": "皮革废料",
+      "translatedName": "Leather Scrap",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034266,
+          "chineseName": "其他皮革废料",
+          "translatedName": "Other Leather Scrap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10238
+        },
+        {
+          "categoryId": 1034268,
+          "chineseName": "真皮废料",
+          "translatedName": "Leather waste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10238
+        }
+      ]
+    }
+  }
+}

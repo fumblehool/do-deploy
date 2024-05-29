@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200820001,
+      "chineseName": "TVS二极管（瞬变抑制）",
+      "translatedName": "TVS diode (transient suppression)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200804003"
+    }
+  }
+}

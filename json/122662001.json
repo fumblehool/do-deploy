@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122662001,
+      "chineseName": "替芯、笔芯",
+      "translatedName": "Refill",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "81"
+    }
+  }
+}

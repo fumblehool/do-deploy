@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031618,
+      "chineseName": "药物性添加剂",
+      "translatedName": "Drug additive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031617"
+    }
+  }
+}

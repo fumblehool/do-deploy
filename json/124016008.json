@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016008,
+      "chineseName": "水产罐头",
+      "translatedName": "Canned Aquatic Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022008"
+    }
+  }
+}

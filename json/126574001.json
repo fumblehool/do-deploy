@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126574001,
+      "chineseName": "其他通信模块",
+      "translatedName": "Other communication modules",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50916"
+    }
+  }
+}

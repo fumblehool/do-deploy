@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035984,
+      "chineseName": "数理化教学器材",
+      "translatedName": "mathematical physics and chemistry teaching equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2117"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036393,
+      "chineseName": "纺织配套电气仪表设备",
+      "translatedName": "Textile supporting electrical instrument equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10062"
+    }
+  }
+}

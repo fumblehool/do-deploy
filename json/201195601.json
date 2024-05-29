@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201195601,
+      "chineseName": "女式防晒衣、防晒服",
+      "translatedName": "Women's sun-protective clothing, sun-protective clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10166"
+    }
+  }
+}

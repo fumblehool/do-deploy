@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036602,
+      "chineseName": "家政服务",
+      "translatedName": "Housekeeping Service",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2841"
+    }
+  }
+}

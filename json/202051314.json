@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051314,
+      "chineseName": "呼吸机/止鼾器/呼吸训练",
+      "translatedName": "Ventilator/snoring device/breathing training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1612"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921404,
+      "chineseName": "水管收纳架",
+      "translatedName": "Water pipe storage rack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121500003"
+    }
+  }
+}

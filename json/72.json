@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 72,
+      "chineseName": "印刷",
+      "translatedName": "Printing",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032524,
+          "chineseName": "印后加工设备",
+          "translatedName": "Post-press processing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 1034095,
+          "chineseName": "印刷项目合作",
+          "translatedName": "Printing Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 1031813,
+          "chineseName": "印刷耗材代理加盟",
+          "translatedName": "Printing supplies agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3408,
+          "chineseName": "印刷配套设备",
+          "translatedName": "Printing supporting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3401,
+          "chineseName": "防伪技术产品",
+          "translatedName": "Anti-counterfeiting technology products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3402,
+          "chineseName": "版材",
+          "translatedName": "Plate",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3404,
+          "chineseName": "色标、色卡",
+          "translatedName": "Color code, color card",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3405,
+          "chineseName": "橡皮布",
+          "translatedName": "Blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3406,
+          "chineseName": "印前处理设备",
+          "translatedName": "prepress processing equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3407,
+          "chineseName": "印刷机械专用配件",
+          "translatedName": "Special accessories for printing machinery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 2211,
+          "chineseName": "其他印刷行业产品",
+          "translatedName": "Other Printing Industry Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        },
+        {
+          "categoryId": 3428,
+          "chineseName": "印刷耗材",
+          "translatedName": "Printing Consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 72
+        }
+      ]
+    }
+  }
+}

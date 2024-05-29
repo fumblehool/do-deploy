@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202046604,
+      "chineseName": "茶盘导水管",
+      "translatedName": "Tea tray aqueduct",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121548001"
+    }
+  }
+}

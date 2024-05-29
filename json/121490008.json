@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121490008,
+      "chineseName": "光栅光幕",
+      "translatedName": "grating light curtain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1904"
+    }
+  }
+}

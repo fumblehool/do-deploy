@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036955,
+      "chineseName": "无机复合材料",
+      "translatedName": "inorganic composite materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "848"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045793,
+      "chineseName": "织物、皮革印刷",
+      "translatedName": "Fabric, leather printing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045787"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201381514,
+      "chineseName": "防爆罐",
+      "translatedName": "Explosion-proof tank",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373126"
+    }
+  }
+}

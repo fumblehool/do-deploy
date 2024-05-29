@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043670,
+      "chineseName": "其他成套家具",
+      "translatedName": "Other sets of furniture",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1038132"
+    }
+  }
+}

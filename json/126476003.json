@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126476003,
+      "chineseName": "蜜饯果干包装",
+      "translatedName": "packaging of candied dried fruit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126390001"
+    }
+  }
+}

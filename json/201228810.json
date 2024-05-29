@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201228810,
+      "chineseName": "风水球",
+      "translatedName": "Feng Shui Ball",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201232601"
+    }
+  }
+}

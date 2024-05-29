@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121910003,
+      "chineseName": "综合训练鞋、室内健身鞋",
+      "translatedName": "Comprehensive training shoes, indoor fitness shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121876002"
+    }
+  }
+}

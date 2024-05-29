@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10541,
+      "chineseName": "安全防护产品项目合作",
+      "translatedName": "Safety protection product project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "70"
+    }
+  }
+}

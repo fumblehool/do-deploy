@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123276002,
+      "chineseName": "点火开关",
+      "translatedName": "Ignition switch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10107"
+    }
+  }
+}

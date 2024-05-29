@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202061307,
+      "chineseName": "发热鞋垫",
+      "translatedName": "Heating insole",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125730003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033766,
+      "chineseName": "密码键盘",
+      "translatedName": "Password Keyboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "510"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126478002,
+      "chineseName": "商用百洁布、擦拭布",
+      "translatedName": "Commercial scouring pad, wiping cloth",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3305"
+    }
+  }
+}

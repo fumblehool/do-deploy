@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201306907,
+      "chineseName": "精油皂",
+      "translatedName": "essential oil soap",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201309707"
+    }
+  }
+}

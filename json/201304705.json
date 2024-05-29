@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304705,
+      "chineseName": "唇部彩妆",
+      "translatedName": "Lip makeup",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034783,
+          "chineseName": "口红",
+          "translatedName": "Lipstick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304705
+        },
+        {
+          "categoryId": 1043504,
+          "chineseName": "唇笔、唇线笔",
+          "translatedName": "Lip pencil, lip liner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304705
+        },
+        {
+          "categoryId": 201306608,
+          "chineseName": "唇釉",
+          "translatedName": "Lip Glaze",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304705
+        },
+        {
+          "categoryId": 201308311,
+          "chineseName": "唇蜜",
+          "translatedName": "Lip Honey",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304705
+        },
+        {
+          "categoryId": 201310505,
+          "chineseName": "唇彩",
+          "translatedName": "Lip Gloss",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201304705
+        }
+      ]
+    }
+  }
+}

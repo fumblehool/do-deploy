@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201150101,
+      "chineseName": "电脑连打纸",
+      "translatedName": "Computer with paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2112"
+    }
+  }
+}

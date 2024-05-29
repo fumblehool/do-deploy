@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033176,
+      "chineseName": "一卡通管理系统",
+      "translatedName": "One-card management system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1336"
+    }
+  }
+}

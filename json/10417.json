@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10417,
+      "chineseName": "石油设备",
+      "translatedName": "Petroleum Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032555,
+          "chineseName": "其他石油设备",
+          "translatedName": "Other petroleum equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10417
+        },
+        {
+          "categoryId": 1032556,
+          "chineseName": "炼化设备",
+          "translatedName": "Refining equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10417
+        }
+      ]
+    }
+  }
+}

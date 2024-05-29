@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 290302,
+      "chineseName": "食品饮料项目合作",
+      "translatedName": "Food and beverage project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "2"
+    }
+  }
+}

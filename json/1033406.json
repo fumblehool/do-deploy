@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033406,
+      "chineseName": "锌合金",
+      "translatedName": "zinc alloy",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "906"
+    }
+  }
+}

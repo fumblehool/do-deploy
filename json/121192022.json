@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192022,
+      "chineseName": "LED指示灯",
+      "translatedName": "LED indicator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123618004"
+    }
+  }
+}

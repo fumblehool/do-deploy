@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742005,
+      "chineseName": "婴幼儿辅食",
+      "translatedName": "infant complementary food",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124740012,
+          "chineseName": "果/菜/肉混合泥",
+          "translatedName": "fruit/vegetable/meat mixed puree",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742005
+        },
+        {
+          "categoryId": 124740013,
+          "chineseName": "其他婴幼儿辅食",
+          "translatedName": "Other infant food supplement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742005
+        },
+        {
+          "categoryId": 124744013,
+          "chineseName": "米粉/米糊/汤粥",
+          "translatedName": "Rice noodles/rice paste/soup porridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742005
+        },
+        {
+          "categoryId": 124744014,
+          "chineseName": "磨牙棒饼干",
+          "translatedName": "molar stick biscuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742005
+        },
+        {
+          "categoryId": 124746007,
+          "chineseName": "菜粉/水果粉",
+          "translatedName": "Vegetable powder/fruit powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742005
+        }
+      ]
+    }
+  }
+}

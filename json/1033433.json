@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033433,
+      "chineseName": "其他磁性材料",
+      "translatedName": "Other Magnetic Materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "911"
+    }
+  }
+}

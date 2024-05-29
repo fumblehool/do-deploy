@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10352,
+      "chineseName": "刀",
+      "translatedName": "Knife",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035508,
+          "chineseName": "其他刀",
+          "translatedName": "Other Knives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 1035509,
+          "chineseName": "雕刻刀",
+          "translatedName": "carving knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 1035510,
+          "chineseName": "电工刀",
+          "translatedName": "Electro-worker knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 1035511,
+          "chineseName": "观赏刀具",
+          "translatedName": "ornamental cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 1035512,
+          "chineseName": "折刀",
+          "translatedName": "folding knife",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 1035514,
+          "chineseName": "多功能刀钳",
+          "translatedName": "Multi-function knife pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 124186018,
+          "chineseName": "刀片",
+          "translatedName": "Blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        },
+        {
+          "categoryId": 124272007,
+          "chineseName": "割刀",
+          "translatedName": "Cutter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10352
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201221006,
+      "chineseName": "耳廓、耳扩",
+      "translatedName": "Auricle, auricular enlargement",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231105"
+    }
+  }
+}

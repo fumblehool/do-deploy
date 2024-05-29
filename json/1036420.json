@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036420,
+      "chineseName": "定风翼",
+      "translatedName": "fixed wind wing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3308"
+    }
+  }
+}

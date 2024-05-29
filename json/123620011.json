@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620011,
+      "chineseName": "小尺寸背光模组",
+      "translatedName": "Small size backlight module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123608008"
+    }
+  }
+}

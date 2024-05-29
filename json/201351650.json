@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201351650,
+      "chineseName": "仿真人物工艺品",
+      "translatedName": "Simulation character crafts",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "181302"
+    }
+  }
+}

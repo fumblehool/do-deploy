@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034129,
+      "chineseName": "广电信号调制器",
+      "translatedName": "radio and television signal modulator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3419"
+    }
+  }
+}

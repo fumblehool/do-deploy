@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033486,
+      "chineseName": "武术服",
+      "translatedName": "Wushu Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048021"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036768,
+      "chineseName": "乳化油",
+      "translatedName": "emulsified oil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033682"
+    }
+  }
+}

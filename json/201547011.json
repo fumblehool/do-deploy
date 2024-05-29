@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201547011,
+      "chineseName": "童旗袍",
+      "translatedName": "Children's cheongsam",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201545714"
+    }
+  }
+}

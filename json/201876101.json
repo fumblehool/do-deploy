@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201876101,
+      "chineseName": "手账绘图模板",
+      "translatedName": "Hand account drawing template",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201857705"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034561,
+      "chineseName": "填料塔",
+      "translatedName": "packed tower",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10413"
+    }
+  }
+}

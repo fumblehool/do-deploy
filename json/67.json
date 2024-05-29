@@ -1,0 +1,406 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 67,
+      "chineseName": "办公、文化",
+      "translatedName": "Office, culture",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10336,
+          "chineseName": "纸品本册",
+          "translatedName": "Paper Products This Book",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 10260,
+          "chineseName": "耗材",
+          "translatedName": "Consumables",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1045647,
+          "chineseName": "书籍、出版物",
+          "translatedName": "Books, Publications",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1045707,
+          "chineseName": "实验室用品",
+          "translatedName": "Laboratory Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1044181,
+          "chineseName": "工艺品",
+          "translatedName": "Crafts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1044217,
+          "chineseName": "祭祀/殡葬用品",
+          "translatedName": "Sacrifice/Funeral Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1045523,
+          "chineseName": "学习类电子产品",
+          "translatedName": "Learning electronic products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 122194001,
+          "chineseName": "婚庆用品",
+          "translatedName": "Wedding Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 122196001,
+          "chineseName": "圣诞用品",
+          "translatedName": "Christmas Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 124904001,
+          "chineseName": "行政用品",
+          "translatedName": "Administrative Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 122192001,
+          "chineseName": "气氛、布置用品",
+          "translatedName": "Atmosphere, layout supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 122198001,
+          "chineseName": "春节用品",
+          "translatedName": "Spring Festival Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 125492003,
+          "chineseName": "钥匙配饰",
+          "translatedName": "Key Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 125064004,
+          "chineseName": "文化用品",
+          "translatedName": "Cultural supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201345914,
+          "chineseName": "古董/古玩/收藏",
+          "translatedName": "Antique/Curio/Collection",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201646101,
+          "chineseName": "MIDI乐器/电脑音乐",
+          "translatedName": "MIDI Instrument/Computer Music",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201648502,
+          "chineseName": "乐器配件",
+          "translatedName": "Musical Instrument Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201649001,
+          "chineseName": "西洋乐器",
+          "translatedName": "Western musical instruments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1805,
+          "chineseName": "乐器",
+          "translatedName": "Musical Instruments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201229008,
+          "chineseName": "商务礼品",
+          "translatedName": "Business Gifts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201304320,
+          "chineseName": "聚会/魔术/演出用品",
+          "translatedName": "Party/Magic/Show Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1725,
+          "chineseName": "民间工艺品",
+          "translatedName": "Folk crafts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201330711,
+          "chineseName": "宗教用品",
+          "translatedName": "Religious Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201162103,
+          "chineseName": "仿真园艺",
+          "translatedName": "simulation gardening",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201303011,
+          "chineseName": "动漫/影视/明星周边",
+          "translatedName": "Animation/film/star surrounding",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201305307,
+          "chineseName": "创意礼品",
+          "translatedName": "Creative gifts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201232601,
+          "chineseName": "工艺摆件",
+          "translatedName": "Process ornaments",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201333016,
+          "chineseName": "邮票/钱币/纪念币",
+          "translatedName": "Stamps/Coins/Commemorative Coins",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201649201,
+          "chineseName": "民族乐器",
+          "translatedName": "national musical instrument",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 1702,
+          "chineseName": "节庆用品",
+          "translatedName": "Festival Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201475501,
+          "chineseName": "工艺品配件",
+          "translatedName": "Craft Accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2121,
+          "chineseName": "财务用品",
+          "translatedName": "Financial Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2122,
+          "chineseName": "办公收纳",
+          "translatedName": "Office storage",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2127,
+          "chineseName": "美术、书法、绘图用品",
+          "translatedName": "Art, calligraphy, drawing supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2129,
+          "chineseName": "展示用品",
+          "translatedName": "Display supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2111,
+          "chineseName": "学习文具",
+          "translatedName": "Learning Stationery",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2112,
+          "chineseName": "办公用纸",
+          "translatedName": "Office Paper",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2113,
+          "chineseName": "装订、胶粘、桌面用品",
+          "translatedName": "Binding, adhesive, desktop supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 2117,
+          "chineseName": "教学模型、器材",
+          "translatedName": "Teaching model, equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 81,
+          "chineseName": "书写工具",
+          "translatedName": "Writing Tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 82,
+          "chineseName": "音像制品",
+          "translatedName": "audio-visual products",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 201857705,
+          "chineseName": "手账",
+          "translatedName": "Hand account",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        },
+        {
+          "categoryId": 732,
+          "chineseName": "办公设备",
+          "translatedName": "Office Equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 67
+        }
+      ]
+    }
+  }
+}

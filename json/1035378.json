@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035378,
+      "chineseName": "卡箍、抱箍",
+      "translatedName": "Clamp, Hoop",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10353"
+    }
+  }
+}

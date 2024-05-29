@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033337,
+      "chineseName": "手术卫生用品",
+      "translatedName": "Surgical Hygiene Supplies",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1613"
+    }
+  }
+}

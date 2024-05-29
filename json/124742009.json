@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742009,
+      "chineseName": "肉类零食",
+      "translatedName": "Meat snacks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032909,
+          "chineseName": "其他肉类零食",
+          "translatedName": "Other Meat Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 124734023,
+          "chineseName": "羊肉零食",
+          "translatedName": "Mutton snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 124742015,
+          "chineseName": "牛肉零食",
+          "translatedName": "Beef Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 124742016,
+          "chineseName": "猪肉零食",
+          "translatedName": "Pork Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 124742017,
+          "chineseName": "鸭肉零食",
+          "translatedName": "Duck snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 124740019,
+          "chineseName": "鸡肉零食",
+          "translatedName": "Chicken Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        },
+        {
+          "categoryId": 201333102,
+          "chineseName": "兔肉零食",
+          "translatedName": "Rabbit meat snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742009
+        }
+      ]
+    }
+  }
+}

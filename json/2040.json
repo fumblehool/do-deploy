@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2040,
+      "chineseName": "运动护具",
+      "translatedName": "Sports protective gear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033470,
+          "chineseName": "护腿",
+          "translatedName": "Leg guards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033471,
+          "chineseName": "护腰",
+          "translatedName": "Waist Protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033473,
+          "chineseName": "护肘",
+          "translatedName": "Elbow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033472,
+          "chineseName": "护腕",
+          "translatedName": "Bracer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033474,
+          "chineseName": "护手",
+          "translatedName": "Hand guard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033475,
+          "chineseName": "护肩",
+          "translatedName": "Shoulder pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033476,
+          "chineseName": "护头",
+          "translatedName": "Head protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033483,
+          "chineseName": "体操垫、运动垫子",
+          "translatedName": "Gymnastics mat, exercise mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033466,
+          "chineseName": "其他运动护具",
+          "translatedName": "Other Sports Protectors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033467,
+          "chineseName": "组合运动户外护具",
+          "translatedName": "combination sports outdoor protective gear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033468,
+          "chineseName": "护踝",
+          "translatedName": "Ankle protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        },
+        {
+          "categoryId": 1033469,
+          "chineseName": "运动护膝",
+          "translatedName": "Sports knee pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2040
+        }
+      ]
+    }
+  }
+}

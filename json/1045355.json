@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045355,
+      "chineseName": "鱼竿支架",
+      "translatedName": "Fishing rod holder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044658"
+    }
+  }
+}

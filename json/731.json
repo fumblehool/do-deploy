@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 731,
+      "chineseName": "电脑硬件及配件",
+      "translatedName": "Computer Hardware & Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033253,
+          "chineseName": "软驱",
+          "translatedName": "Floppy Drive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033254,
+          "chineseName": "其他显示器",
+          "translatedName": "Other displays",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033256,
+          "chineseName": "液晶显示器",
+          "translatedName": "LCD Display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033257,
+          "chineseName": "CRT显示器",
+          "translatedName": "CRT Monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033247,
+          "chineseName": "显卡",
+          "translatedName": "Graphics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033246,
+          "chineseName": "声卡",
+          "translatedName": "Sound Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1033249,
+          "chineseName": "光驱、刻录机",
+          "translatedName": "Optical drives, burners",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10244,
+          "chineseName": "机械硬盘",
+          "translatedName": "Mechanical Hard Disk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10243,
+          "chineseName": "CPU",
+          "translatedName": "CPU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10245,
+          "chineseName": "内存",
+          "translatedName": "Memory",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10246,
+          "chineseName": "主板",
+          "translatedName": "Motherboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10248,
+          "chineseName": "散热器",
+          "translatedName": "Radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 10249,
+          "chineseName": "机箱",
+          "translatedName": "Chassis",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1038217,
+          "chineseName": "电脑线材",
+          "translatedName": "computer wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1037194,
+          "chineseName": "服务器配件",
+          "translatedName": "Server Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1041274,
+          "chineseName": "磁盘阵列",
+          "translatedName": "disk array",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1037153,
+          "chineseName": "其他电脑配件",
+          "translatedName": "Other computer accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 1040820,
+          "chineseName": "固态硬盘",
+          "translatedName": "Solid State Drive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 124740030,
+          "chineseName": "其他电脑线材",
+          "translatedName": "Other computer wires",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 709,
+          "chineseName": "UPS电源",
+          "translatedName": "UPS power supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        },
+        {
+          "categoryId": 723,
+          "chineseName": "PC电源",
+          "translatedName": "PC Power Supply",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 731
+        }
+      ]
+    }
+  }
+}

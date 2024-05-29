@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 206,
+      "chineseName": "食用油",
+      "translatedName": "edible oil",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032884,
+          "chineseName": "其他食用油",
+          "translatedName": "Other edible oils",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 206
+        },
+        {
+          "categoryId": 1032885,
+          "chineseName": "动物油",
+          "translatedName": "animal oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 206
+        },
+        {
+          "categoryId": 1032886,
+          "chineseName": "调和油",
+          "translatedName": "Blending oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 206
+        },
+        {
+          "categoryId": 1046141,
+          "chineseName": "植物油",
+          "translatedName": "Vegetable oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 206
+        }
+      ]
+    }
+  }
+}

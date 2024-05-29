@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746009,
+      "chineseName": "婴幼儿配方粉",
+      "translatedName": "infant formula powder",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124744015,
+          "chineseName": "配方牛奶粉",
+          "translatedName": "cow milk formula",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746009
+        },
+        {
+          "categoryId": 124736013,
+          "chineseName": "配方羊奶粉",
+          "translatedName": "goat milk powder formula",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746009
+        },
+        {
+          "categoryId": 121442001,
+          "chineseName": "其他婴幼儿配方奶粉",
+          "translatedName": "Other infant formula",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746009
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201916104,
+      "chineseName": "划线盘",
+      "translatedName": "Sticle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921406"
+    }
+  }
+}

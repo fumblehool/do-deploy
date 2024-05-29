@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036138,
+      "chineseName": "雷达物位计",
+      "translatedName": "radar level meter",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032395"
+    }
+  }
+}

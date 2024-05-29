@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126450003,
+      "chineseName": "pvc女包",
+      "translatedName": "PVC Women's Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016002"
+    }
+  }
+}

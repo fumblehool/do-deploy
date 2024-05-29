@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055701,
+      "chineseName": "lolita衬衫/内搭",
+      "translatedName": "Lolita Shirt/Interior",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202050901"
+    }
+  }
+}

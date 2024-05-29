@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202044201,
+      "chineseName": "其它婚礼服饰",
+      "translatedName": "Other Wedding Costumes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125740002"
+    }
+  }
+}

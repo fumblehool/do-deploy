@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053303,
+      "chineseName": "冰粉/凉粉/龟苓膏/仙草冻粉",
+      "translatedName": "Ice Powder/Bean Powder/Guiling Cream/Xiancao Frozen Powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201164102"
+    }
+  }
+}

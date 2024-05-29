@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036247,
+      "chineseName": "可燃性气体检测仪",
+      "translatedName": "Combustible gas detector",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1033898"
+    }
+  }
+}

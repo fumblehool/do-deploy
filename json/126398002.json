@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126398002,
+      "chineseName": "男士钱包",
+      "translatedName": "Men's Wallet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122228002"
+    }
+  }
+}

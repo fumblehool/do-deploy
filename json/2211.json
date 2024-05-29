@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2211,
+      "chineseName": "其他印刷行业产品",
+      "translatedName": "Other Printing Industry Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "72"
+    }
+  }
+}

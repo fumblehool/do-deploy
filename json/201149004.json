@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201149004,
+      "chineseName": "儿童饰品",
+      "translatedName": "Children's jewelry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201230202,
+          "chineseName": "儿童发饰",
+          "translatedName": "Children's hair accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        },
+        {
+          "categoryId": 201229606,
+          "chineseName": "其他儿童饰品及配件",
+          "translatedName": "Other children's accessories and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        },
+        {
+          "categoryId": 201148002,
+          "chineseName": "儿童项饰",
+          "translatedName": "Children's Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        },
+        {
+          "categoryId": 201545016,
+          "chineseName": "儿童脚饰",
+          "translatedName": "Children's Foot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        },
+        {
+          "categoryId": 201151506,
+          "chineseName": "儿童手饰",
+          "translatedName": "Children's hand ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        },
+        {
+          "categoryId": 201151804,
+          "chineseName": "儿童耳饰",
+          "translatedName": "Children's Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201149004
+        }
+      ]
+    }
+  }
+}

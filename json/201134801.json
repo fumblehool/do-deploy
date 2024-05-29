@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201134801,
+      "chineseName": "玻璃幕墙",
+      "translatedName": "glass curtain wall",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1315"
+    }
+  }
+}

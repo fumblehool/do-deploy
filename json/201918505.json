@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201918505,
+      "chineseName": "智能扭矩套筒",
+      "translatedName": "Intelligent torque sleeve",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124194006"
+    }
+  }
+}

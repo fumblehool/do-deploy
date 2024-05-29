@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121192011,
+      "chineseName": "LED灯杯",
+      "translatedName": "LED light cup",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192010"
+    }
+  }
+}

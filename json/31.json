@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 31,
+      "chineseName": "其他家装建材",
+      "translatedName": "Other Home Decoration Building Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035774,
+          "chineseName": "艺术玻璃",
+          "translatedName": "Art Glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 1036802,
+          "chineseName": "壁炉",
+          "translatedName": "Fireplace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 1046307,
+          "chineseName": "家用采暖炉",
+          "translatedName": "Household heating stove",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 1353,
+          "chineseName": "信报箱",
+          "translatedName": "Letter Box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3101,
+          "chineseName": "公寓、花园、别墅",
+          "translatedName": "Apartment, Garden, Villa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3102,
+          "chineseName": "农场、牧场",
+          "translatedName": "Farm, Ranch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3103,
+          "chineseName": "山林",
+          "translatedName": "Mountain Forest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3104,
+          "chineseName": "土地",
+          "translatedName": "Land",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3105,
+          "chineseName": "写字楼",
+          "translatedName": "Office Building",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3106,
+          "chineseName": "商铺、营业房",
+          "translatedName": "Shop, business room",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3107,
+          "chineseName": "厂房",
+          "translatedName": "Plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        },
+        {
+          "categoryId": 3109,
+          "chineseName": "其他不动产",
+          "translatedName": "Other real property",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 31
+        }
+      ]
+    }
+  }
+}

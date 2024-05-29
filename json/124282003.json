@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124282003,
+      "chineseName": "手提秤",
+      "translatedName": "portable scale",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124284003"
+    }
+  }
+}

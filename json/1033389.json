@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033389,
+      "chineseName": "重有色金属矿产",
+      "translatedName": "heavy non-ferrous metal mineral",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "904"
+    }
+  }
+}

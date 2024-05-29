@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201561908,
+      "chineseName": "男式短裤",
+      "translatedName": "Men's Shorts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201573824,
+          "chineseName": "男式牛仔短裤",
+          "translatedName": "men's denim shorts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201561908
+        },
+        {
+          "categoryId": 201564521,
+          "chineseName": "男式休闲短裤",
+          "translatedName": "Men's Casual Shorts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201561908
+        }
+      ]
+    }
+  }
+}

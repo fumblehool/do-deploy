@@ -1,0 +1,352 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 69,
+      "chineseName": "商务服务",
+      "translatedName": "Business Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031816,
+          "chineseName": "其他代理加盟",
+          "translatedName": "Other agents join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1031817,
+          "chineseName": "特许经营",
+          "translatedName": "Franchising",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1031815,
+          "chineseName": "库存产品代理加盟",
+          "translatedName": "Inventory products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1036079,
+          "chineseName": "转让",
+          "translatedName": "Transfer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1047443,
+          "chineseName": "工商服务",
+          "translatedName": "Business Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1047452,
+          "chineseName": "检测认证",
+          "translatedName": "Testing and certification",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 174,
+          "chineseName": "翻译服务",
+          "translatedName": "Translation Services",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 1327,
+          "chineseName": "工程承包",
+          "translatedName": "Project Contracting",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 171,
+          "chineseName": "市场调研",
+          "translatedName": "Market research",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 201894402,
+          "chineseName": "增值服务",
+          "translatedName": "Value-added services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2843,
+          "chineseName": "展览服务",
+          "translatedName": "Exhibition Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2845,
+          "chineseName": "通讯服务",
+          "translatedName": "Communication Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2901,
+          "chineseName": "技术合作",
+          "translatedName": "Technical cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 290307,
+          "chineseName": "信息技术项目合作",
+          "translatedName": "Information Technology Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2828,
+          "chineseName": "设计服务",
+          "translatedName": "Design Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2833,
+          "chineseName": "摄影摄像服务",
+          "translatedName": "Photography services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2840,
+          "chineseName": "商旅服务",
+          "translatedName": "Business Travel Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2841,
+          "chineseName": "企业日常服务",
+          "translatedName": "Daily Service of Enterprise",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 89,
+          "chineseName": "物流服务",
+          "translatedName": "Logistics Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2803,
+          "chineseName": "中介服务",
+          "translatedName": "Intermediary Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 280507,
+          "chineseName": "软件开发",
+          "translatedName": "Software Development",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 75,
+          "chineseName": "展览会信息",
+          "translatedName": "Exhibition Information",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 76,
+          "chineseName": "财务服务",
+          "translatedName": "Financial Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 24,
+          "chineseName": "广告服务",
+          "translatedName": "Advertising Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 290328,
+          "chineseName": "服务项目合作",
+          "translatedName": "Service project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 290332,
+          "chineseName": "旅游项目合作",
+          "translatedName": "tourism project cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2907,
+          "chineseName": "招标、投标",
+          "translatedName": "Tendering, bidding",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 202059707,
+          "chineseName": "服务商品",
+          "translatedName": "Service Goods",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 202007201,
+          "chineseName": "服务市场",
+          "translatedName": "Service Market",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2815,
+          "chineseName": "教育培训",
+          "translatedName": "education and training",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2816,
+          "chineseName": "招聘职位",
+          "translatedName": "Recruitment Position",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2823,
+          "chineseName": "维修及安装服务",
+          "translatedName": "Maintenance and installation services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2825,
+          "chineseName": "其他商务服务",
+          "translatedName": "Other Business Services",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 88,
+          "chineseName": "租赁服务",
+          "translatedName": "Rental Services",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2701,
+          "chineseName": "进出口代理",
+          "translatedName": "Import and Export Agent",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 2702,
+          "chineseName": "区域代理加盟",
+          "translatedName": "Regional agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 69
+        },
+        {
+          "categoryId": 734,
+          "chineseName": "软件",
+          "translatedName": "Software",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 69
+        }
+      ]
+    }
+  }
+}

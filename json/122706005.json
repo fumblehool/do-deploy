@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122706005,
+      "chineseName": "戒指",
+      "translatedName": "Ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122706003"
+    }
+  }
+}

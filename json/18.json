@@ -1,0 +1,505 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 18,
+      "chineseName": "运动户外",
+      "translatedName": "Sports Outdoor",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033450,
+          "chineseName": "娱乐休闲产品代理加盟",
+          "translatedName": "Entertainment and leisure products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1033452,
+          "chineseName": "库存娱乐休闲产品",
+          "translatedName": "Inventory of entertainment and leisure products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1031803,
+          "chineseName": "体育运动产品代理加盟",
+          "translatedName": "Sports products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044810,
+          "chineseName": "篮球用品",
+          "translatedName": "Basketball Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044819,
+          "chineseName": "羽毛球、网球用品",
+          "translatedName": "Badminton, tennis supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044823,
+          "chineseName": "棒垒球、曲棍球用品",
+          "translatedName": "Baseball, Softball, Hockey Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044824,
+          "chineseName": "橄榄球、壁球、手球",
+          "translatedName": "Rugby, squash, handball",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044825,
+          "chineseName": "乒乓球用品",
+          "translatedName": "Table Tennis Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044730,
+          "chineseName": "保龄球用品",
+          "translatedName": "Bowling Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044740,
+          "chineseName": "涉水运动用品",
+          "translatedName": "Wading Sports Goods",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044780,
+          "chineseName": "裁判、计时、计步用具",
+          "translatedName": "Referee, timing, pedometer",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044785,
+          "chineseName": "球类配套器材",
+          "translatedName": "Ball matching equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044786,
+          "chineseName": "其他球类用品",
+          "translatedName": "Other Ball Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044794,
+          "chineseName": "冰鞋、轮滑、滑板",
+          "translatedName": "Skates, roller skate, skateboard",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044713,
+          "chineseName": "瑜伽用品",
+          "translatedName": "Yoga Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044639,
+          "chineseName": "场地铺设器材",
+          "translatedName": "Site laying equipment",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044642,
+          "chineseName": "台球用品",
+          "translatedName": "Billiards Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1044658,
+          "chineseName": "垂钓用品",
+          "translatedName": "Fishing Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1045017,
+          "chineseName": "舞蹈、戏剧用品",
+          "translatedName": "Dance, Drama Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1048021,
+          "chineseName": "运动、武术、球服",
+          "translatedName": "Sports, martial arts, uniform",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1048023,
+          "chineseName": "游泳用品",
+          "translatedName": "Swimming Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1048300,
+          "chineseName": "运动户外包",
+          "translatedName": "Sports outdoor bag",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 122226003,
+          "chineseName": "足球用品",
+          "translatedName": "Football Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 10538,
+          "chineseName": "库存体育运动产品",
+          "translatedName": "Stock Sports Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 10539,
+          "chineseName": "体育运动项目合作",
+          "translatedName": "Sports Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 121898001,
+          "chineseName": "运动户外辅助用品",
+          "translatedName": "Sports outdoor auxiliary supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 121900002,
+          "chineseName": "户外鞋",
+          "translatedName": "Outdoor shoes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 122248001,
+          "chineseName": "排球用品",
+          "translatedName": "Volleyball Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 122098001,
+          "chineseName": "骑行零件",
+          "translatedName": "Riding Parts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 122648001,
+          "chineseName": "户外眼镜",
+          "translatedName": "Outdoor Glasses",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1048069,
+          "chineseName": "运动休闲服装",
+          "translatedName": "sports leisure clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1048070,
+          "chineseName": "户外服装",
+          "translatedName": "Outdoor Clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 121876002,
+          "chineseName": "运动鞋",
+          "translatedName": "Sneakers",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 126508002,
+          "chineseName": "运动服饰加工定制",
+          "translatedName": "Sportswear processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1811,
+          "chineseName": "游艺设施",
+          "translatedName": "Recream facilities",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1809,
+          "chineseName": "棋牌、休闲运动",
+          "translatedName": "Chess, leisure sports",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 201564618,
+          "chineseName": "骑行整车",
+          "translatedName": "Ride vehicle",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 201564924,
+          "chineseName": "骑行服配",
+          "translatedName": "Riding Clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2005,
+          "chineseName": "高尔夫用品",
+          "translatedName": "Golf Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2013,
+          "chineseName": "滑雪用品",
+          "translatedName": "Ski Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 127394011,
+          "chineseName": "运动装备加工定制",
+          "translatedName": "Sports equipment processing customization",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 127890013,
+          "chineseName": "瑜伽/健身服",
+          "translatedName": "Yoga/Fitness Wear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1608,
+          "chineseName": "按摩保健",
+          "translatedName": "Massage Health Care",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1814,
+          "chineseName": "其他运动休闲用品",
+          "translatedName": "Other Sports and Leisure Products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1818,
+          "chineseName": "马术用品",
+          "translatedName": "Equestrian Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1820,
+          "chineseName": "体操用品",
+          "translatedName": "Gymnastics Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1821,
+          "chineseName": "射击、射箭用品",
+          "translatedName": "Shooting, archery supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 1828,
+          "chineseName": "田径用品",
+          "translatedName": "Track and Field Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2009,
+          "chineseName": "健身器材用品",
+          "translatedName": "Fitness Equipment Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2027,
+          "chineseName": "击剑、武术用品",
+          "translatedName": "Fencing, martial arts supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 74,
+          "chineseName": "极限运动用品",
+          "translatedName": "Extreme Sports Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2040,
+          "chineseName": "运动护具",
+          "translatedName": "Sports protective gear",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 2053,
+          "chineseName": "登山、攀岩、攀冰用品",
+          "translatedName": "Mountain climbing, rock climbing, ice climbing supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 18
+        },
+        {
+          "categoryId": 281904,
+          "chineseName": "山地、野营用品",
+          "translatedName": "Mountain, camping supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 18
+        }
+      ]
+    }
+  }
+}

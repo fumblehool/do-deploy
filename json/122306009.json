@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122306009,
+      "chineseName": "背景软包",
+      "translatedName": "Background soft bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043469"
+    }
+  }
+}

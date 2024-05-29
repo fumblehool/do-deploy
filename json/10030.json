@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10030,
+      "chineseName": "冷冻蔬菜",
+      "translatedName": "frozen vegetables",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "216"
+    }
+  }
+}

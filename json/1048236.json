@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048236,
+      "chineseName": "试验变压器",
+      "translatedName": "Test transformer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048230"
+    }
+  }
+}

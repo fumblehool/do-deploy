@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124286001,
+      "chineseName": "厨房秤",
+      "translatedName": "Kitchen Scale",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124284003"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122402002,
+      "chineseName": "项圈",
+      "translatedName": "Collar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122322005"
+    }
+  }
+}

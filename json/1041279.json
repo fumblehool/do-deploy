@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041279,
+      "chineseName": "其他接警、报警设备及系统",
+      "translatedName": "Other alarm receiving and alarming equipment and systems",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3002"
+    }
+  }
+}

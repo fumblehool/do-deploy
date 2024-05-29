@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036825,
+      "chineseName": "高低温箱",
+      "translatedName": "High and low temperature box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036179"
+    }
+  }
+}

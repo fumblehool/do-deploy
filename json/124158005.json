@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124158005,
+      "chineseName": "防化鞋",
+      "translatedName": "Anti-chemical shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124166001"
+    }
+  }
+}

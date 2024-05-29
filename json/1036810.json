@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036810,
+      "chineseName": "烫图、烫钻",
+      "translatedName": "Hot drawing, hot drilling",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10157"
+    }
+  }
+}

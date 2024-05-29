@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122638004,
+      "chineseName": "活动铅笔",
+      "translatedName": "Active Pencil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "81"
+    }
+  }
+}

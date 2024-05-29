@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1748,
+      "chineseName": "毛衣链",
+      "translatedName": "sweater chain",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122322004"
+    }
+  }
+}

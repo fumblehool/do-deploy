@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036229,
+      "chineseName": "橡塑专用仪器仪表",
+      "translatedName": "Special instruments and meters for rubber and plastic",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036230,
+          "chineseName": "其他橡塑专用仪器仪表",
+          "translatedName": "Other special instruments and meters for rubber and plastics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036229
+        },
+        {
+          "categoryId": 1036231,
+          "chineseName": "制样机",
+          "translatedName": "prototype",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036229
+        },
+        {
+          "categoryId": 1036232,
+          "chineseName": "硫化仪",
+          "translatedName": "Vulcanizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036229
+        },
+        {
+          "categoryId": 1036233,
+          "chineseName": "维卡软化点测定仪",
+          "translatedName": "Vicat softening point tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036229
+        }
+      ]
+    }
+  }
+}

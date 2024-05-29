@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048099,
+      "chineseName": "运动棉衣",
+      "translatedName": "Sports cotton-padded clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048069"
+    }
+  }
+}

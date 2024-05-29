@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032766,
+      "chineseName": "其他室内灯具",
+      "translatedName": "Other Indoor Luminaires",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10220"
+    }
+  }
+}

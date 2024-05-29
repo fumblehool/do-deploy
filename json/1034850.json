@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034850,
+      "chineseName": "合成材料阻燃剂",
+      "translatedName": "synthetic material flame retardant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10371"
+    }
+  }
+}

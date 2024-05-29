@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035033,
+      "chineseName": "电热管、发热管",
+      "translatedName": "Electric heating tube, heating tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10233"
+    }
+  }
+}

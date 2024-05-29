@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127882015,
+      "chineseName": "DIY/数字油画",
+      "translatedName": "DIY/Digital Oil Painting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127926016"
+    }
+  }
+}

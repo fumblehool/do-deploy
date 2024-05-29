@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201900201,
+      "chineseName": "合成/培育钻石耳饰",
+      "translatedName": "Synthetic/Cultivated Diamond Earrings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201885405"
+    }
+  }
+}

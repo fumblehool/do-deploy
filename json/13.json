@@ -1,0 +1,334 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 13,
+      "chineseName": "家装建材",
+      "translatedName": "Home improvement building materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032415,
+          "chineseName": "门窗五金",
+          "translatedName": "Door and window hardware",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1032416,
+          "chineseName": "水暖五金",
+          "translatedName": "Plumbing Hardware",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1038387,
+          "chineseName": "功能材料",
+          "translatedName": "Functional Materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10422,
+          "chineseName": "木质材料",
+          "translatedName": "Wooden materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10375,
+          "chineseName": "石材石料",
+          "translatedName": "Stone Stone",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10438,
+          "chineseName": "管件",
+          "translatedName": "Pipe fittings",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1037965,
+          "chineseName": "顶篷材料",
+          "translatedName": "canopy material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1038128,
+          "chineseName": "背景墙",
+          "translatedName": "background wall",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1038132,
+          "chineseName": "其他类型家具",
+          "translatedName": "Other types of furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10428,
+          "chineseName": "地板",
+          "translatedName": "Floor",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10440,
+          "chineseName": "门、窗",
+          "translatedName": "Doors and windows",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1046737,
+          "chineseName": "景观工程",
+          "translatedName": "Landscape Engineering",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 10405,
+          "chineseName": "瓷砖",
+          "translatedName": "Tile",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1043661,
+          "chineseName": "客厅家具",
+          "translatedName": "Living room furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1045579,
+          "chineseName": "商业、办公家具",
+          "translatedName": "Commercial, office furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122796003,
+          "chineseName": "休闲、户外家具",
+          "translatedName": "Leisure, outdoor furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122794001,
+          "chineseName": "儿童家具",
+          "translatedName": "Children's Furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 123608022,
+          "chineseName": "书房家具",
+          "translatedName": "Study Furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122380009,
+          "chineseName": "定制家具",
+          "translatedName": "Custom Furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122374009,
+          "chineseName": "厨卫五金",
+          "translatedName": "Kitchen & Sanitary Hardware",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122384004,
+          "chineseName": "卫浴洁具",
+          "translatedName": "Sanitary Ware",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122512002,
+          "chineseName": "简易家具",
+          "translatedName": "simple furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 122930001,
+          "chineseName": "卧室家具",
+          "translatedName": "Bedroom Furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 123610020,
+          "chineseName": "餐厅家具",
+          "translatedName": "Dining Room Furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1314,
+          "chineseName": "吊顶材料",
+          "translatedName": "ceiling material",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 201345303,
+          "chineseName": "成套家具",
+          "translatedName": "Complete sets of furniture",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 201135601,
+          "chineseName": "装修及工程",
+          "translatedName": "Decoration and engineering",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1346,
+          "chineseName": "家具五金、配件",
+          "translatedName": "Furniture hardware, accessories",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1348,
+          "chineseName": "建筑用粘合剂",
+          "translatedName": "Adhesives for construction",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1349,
+          "chineseName": "装饰线板",
+          "translatedName": "decorative wire board",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1350,
+          "chineseName": "管道系统",
+          "translatedName": "Piping system",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 1351,
+          "chineseName": "梯类",
+          "translatedName": "Ladder",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 290313,
+          "chineseName": "建筑项目合作",
+          "translatedName": "Construction Project Cooperation",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 3010,
+          "chineseName": "锁具",
+          "translatedName": "Locks",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        },
+        {
+          "categoryId": 31,
+          "chineseName": "其他家装建材",
+          "translatedName": "Other Home Decoration Building Materials",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 13
+        }
+      ]
+    }
+  }
+}

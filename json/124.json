@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124,
+      "chineseName": "园林植物",
+      "translatedName": "garden plant",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033748,
+          "chineseName": "灌木",
+          "translatedName": "Shrubs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033749,
+          "chineseName": "乔木",
+          "translatedName": "Arbor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033741,
+          "chineseName": "其他园林植物",
+          "translatedName": "Other Garden Plants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033743,
+          "chineseName": "草坪",
+          "translatedName": "Lawn",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033744,
+          "chineseName": "棕榈类植物",
+          "translatedName": "palm plants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033745,
+          "chineseName": "藤本植物",
+          "translatedName": "Vines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1033747,
+          "chineseName": "竹类植物",
+          "translatedName": "bamboo plants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1045488,
+          "chineseName": "仙人掌及多肉植物",
+          "translatedName": "Cactus and succulents",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1045489,
+          "chineseName": "蕨类植物",
+          "translatedName": "fern",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 1045514,
+          "chineseName": "水生植物",
+          "translatedName": "aquatic plant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        },
+        {
+          "categoryId": 126018001,
+          "chineseName": "园林果树",
+          "translatedName": "garden fruit tree",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124
+        }
+      ]
+    }
+  }
+}

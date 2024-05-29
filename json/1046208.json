@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046208,
+      "chineseName": "水果种子、种苗",
+      "translatedName": "Fruit Seeds, Seedlings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046204"
+    }
+  }
+}

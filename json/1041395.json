@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041395,
+      "chineseName": "其他智能交通设备",
+      "translatedName": "Other Intelligent Transportation Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041393"
+    }
+  }
+}

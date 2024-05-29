@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958502,
+      "chineseName": "生产线螺丝机",
+      "translatedName": "Production line screw machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121190004"
+    }
+  }
+}

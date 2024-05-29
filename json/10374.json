@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10374,
+      "chineseName": "表面活性剂",
+      "translatedName": "surface active agent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034840,
+          "chineseName": "其他表面活性剂",
+          "translatedName": "Other Surfactants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036437,
+          "chineseName": "洗涤剂",
+          "translatedName": "Detergent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036438,
+          "chineseName": "抗静电剂",
+          "translatedName": "antistatic agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036439,
+          "chineseName": "润湿、渗透剂",
+          "translatedName": "Wetting, penetrant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036433,
+          "chineseName": "分散剂",
+          "translatedName": "Dispersant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036434,
+          "chineseName": "增溶剂",
+          "translatedName": "solubilizing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036435,
+          "chineseName": "乳化剂",
+          "translatedName": "Emulsifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        },
+        {
+          "categoryId": 1036436,
+          "chineseName": "发泡、消泡剂",
+          "translatedName": "Foaming, defoaming agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10374
+        }
+      ]
+    }
+  }
+}

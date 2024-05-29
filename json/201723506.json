@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201723506,
+      "chineseName": "女士打底",
+      "translatedName": "Lady's backing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201195901,
+          "chineseName": "女式打底衫",
+          "translatedName": "women's bottoming shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201723506
+        },
+        {
+          "categoryId": 201750902,
+          "chineseName": "女士打底套装",
+          "translatedName": "Women's bottoming suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201723506
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041383,
+      "chineseName": "其他防雷电设备",
+      "translatedName": "Other lightning protection equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041377"
+    }
+  }
+}

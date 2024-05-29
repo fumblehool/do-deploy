@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124744038,
+      "chineseName": "营养液",
+      "translatedName": "nutrient solution",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125"
+    }
+  }
+}

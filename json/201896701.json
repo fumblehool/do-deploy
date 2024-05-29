@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201896701,
+      "chineseName": "医用电子测量仪器",
+      "translatedName": "medical electronic measuring instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032382"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046982,
+      "chineseName": "家用组合工具",
+      "translatedName": "Household combination tools",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046977"
+    }
+  }
+}

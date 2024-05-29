@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058705,
+      "chineseName": "音频器件",
+      "translatedName": "Audio Devices",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032329,
+          "chineseName": "扬声器(喇叭)",
+          "translatedName": "Speaker (horn)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058705
+        },
+        {
+          "categoryId": 1040005,
+          "chineseName": "电声器件",
+          "translatedName": "electroacoustic device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058705
+        },
+        {
+          "categoryId": 202061011,
+          "chineseName": "讯响器",
+          "translatedName": "Sounder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058705
+        },
+        {
+          "categoryId": 202061802,
+          "chineseName": "传声器(咪头)",
+          "translatedName": "Microphone (microphone)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058705
+        },
+        {
+          "categoryId": 202063203,
+          "chineseName": "送/受话器",
+          "translatedName": "Sending/receiver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202058705
+        }
+      ]
+    }
+  }
+}

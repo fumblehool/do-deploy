@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022007,
+      "chineseName": "酸奶",
+      "translatedName": "Yogurt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047204"
+    }
+  }
+}

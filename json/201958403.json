@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201958403,
+      "chineseName": "激光加工设备",
+      "translatedName": "laser processing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201979601,
+          "chineseName": "激光除锈设备",
+          "translatedName": "Laser derusting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958403
+        },
+        {
+          "categoryId": 201979701,
+          "chineseName": "激光热处理设备",
+          "translatedName": "Laser heat treatment equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958403
+        },
+        {
+          "categoryId": 201965106,
+          "chineseName": "激光打孔设备",
+          "translatedName": "Laser drilling equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201958403
+        }
+      ]
+    }
+  }
+}

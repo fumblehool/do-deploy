@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053411,
+      "chineseName": "光伏产品及核心组件",
+      "translatedName": "Photovoltaic products and core components",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202052815,
+          "chineseName": "太阳能逆变器",
+          "translatedName": "Solar Inverter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053411
+        },
+        {
+          "categoryId": 202061109,
+          "chineseName": "其他光伏产品",
+          "translatedName": "Other Photovoltaic Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053411
+        }
+      ]
+    }
+  }
+}

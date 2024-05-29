@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036219,
+      "chineseName": "甲醛检测仪器",
+      "translatedName": "Formaldehyde detection instrument",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126510005"
+    }
+  }
+}

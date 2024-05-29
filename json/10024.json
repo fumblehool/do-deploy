@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10024,
+      "chineseName": "番薯类",
+      "translatedName": "Sweet Potato",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10020"
+    }
+  }
+}

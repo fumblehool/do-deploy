@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034016,
+      "chineseName": "纺织加工",
+      "translatedName": "Textile Processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2805",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034017,
+          "chineseName": "其他纺织加工",
+          "translatedName": "Other Textile Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034018,
+          "chineseName": "手工编织加工",
+          "translatedName": "hand-woven processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034019,
+          "chineseName": "绣花加工",
+          "translatedName": "embroidery processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034020,
+          "chineseName": "绗缝加工",
+          "translatedName": "Quilting processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034021,
+          "chineseName": "染整加工",
+          "translatedName": "dyeing and finishing processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034022,
+          "chineseName": "织造加工",
+          "translatedName": "weaving processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        },
+        {
+          "categoryId": 1034023,
+          "chineseName": "纺纱加工",
+          "translatedName": "spinning processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1034016
+        }
+      ]
+    }
+  }
+}

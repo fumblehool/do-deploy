@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301601,
+      "chineseName": "鞋材",
+      "translatedName": "Shoe Material",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034057,
+          "chineseName": "鞋定制加工",
+          "translatedName": "Shoes custom processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        },
+        {
+          "categoryId": 1042695,
+          "chineseName": "鞋底",
+          "translatedName": "Sole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        },
+        {
+          "categoryId": 201301701,
+          "chineseName": "中底",
+          "translatedName": "midsole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        },
+        {
+          "categoryId": 201301501,
+          "chineseName": "大底",
+          "translatedName": "Undersole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        },
+        {
+          "categoryId": 201220104,
+          "chineseName": "鞋跟",
+          "translatedName": "Heel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        },
+        {
+          "categoryId": 201546512,
+          "chineseName": "防水台",
+          "translatedName": "Waterproof platform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201301601
+        }
+      ]
+    }
+  }
+}

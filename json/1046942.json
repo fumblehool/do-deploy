@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046942,
+      "chineseName": "隔离/妆前",
+      "translatedName": "Isolation/makeup front",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82101"
+    }
+  }
+}

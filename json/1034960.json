@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034960,
+      "chineseName": "切胶机",
+      "translatedName": "rubber cutting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10410"
+    }
+  }
+}

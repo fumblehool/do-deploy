@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032190,
+      "chineseName": "车用润滑油",
+      "translatedName": "automotive lubricating oil",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032191,
+          "chineseName": "防冻液(冷却液)",
+          "translatedName": "Antifreeze (coolant)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1042649,
+          "chineseName": "汽缸油",
+          "translatedName": "cylinder oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036743,
+          "chineseName": "其他车用润滑油",
+          "translatedName": "Other Automotive Lubricants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036744,
+          "chineseName": "车用润滑脂",
+          "translatedName": "vehicle grease",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036745,
+          "chineseName": "链条油",
+          "translatedName": "Chain oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036746,
+          "chineseName": "车用齿轮油",
+          "translatedName": "vehicle gear oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1042647,
+          "chineseName": "摩托车(艇)润滑油",
+          "translatedName": "Motorcycle (boat) lubricating oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036747,
+          "chineseName": "波箱油",
+          "translatedName": "gearbox oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036748,
+          "chineseName": "刹车及离合系统用油",
+          "translatedName": "Oil for brake and clutch system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036749,
+          "chineseName": "工程机械专用油",
+          "translatedName": "Special oil for construction machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036753,
+          "chineseName": "通用内燃机油",
+          "translatedName": "General purpose internal combustion engine oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036755,
+          "chineseName": "发电机油",
+          "translatedName": "Generator oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036756,
+          "chineseName": "柴油机油",
+          "translatedName": "Diesel Engine Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        },
+        {
+          "categoryId": 1036757,
+          "chineseName": "汽油机油",
+          "translatedName": "Gasoline engine oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032190
+        }
+      ]
+    }
+  }
+}

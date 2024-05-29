@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734040,
+      "chineseName": "气压表/胎压表",
+      "translatedName": "Air pressure gauge/tire pressure gauge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3312"
+    }
+  }
+}

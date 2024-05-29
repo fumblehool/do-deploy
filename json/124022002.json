@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022002,
+      "chineseName": "电子/发光玩具",
+      "translatedName": "Electronic/luminous toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124022003,
+          "chineseName": "电子玩具",
+          "translatedName": "Electronic Toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022002
+        },
+        {
+          "categoryId": 122992001,
+          "chineseName": "发光玩具",
+          "translatedName": "Luminous Toy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022002
+        },
+        {
+          "categoryId": 201155706,
+          "chineseName": "发光棒",
+          "translatedName": "glow stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022002
+        },
+        {
+          "categoryId": 201162208,
+          "chineseName": "发光手环",
+          "translatedName": "Luminous bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022002
+        }
+      ]
+    }
+  }
+}

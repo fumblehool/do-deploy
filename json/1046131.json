@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046131,
+      "chineseName": "耐磨胶板",
+      "translatedName": "Wear-resistant rubber sheet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046105"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202058801,
+      "chineseName": "AR / VR头显散热器",
+      "translatedName": "AR / VR Head Radiator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202047604"
+    }
+  }
+}

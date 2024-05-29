@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122708003,
+      "chineseName": "头纱",
+      "translatedName": "Veil",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1752"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 15,
+      "chineseName": "居家日用品",
+      "translatedName": "Home daily necessities",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045268,
+          "chineseName": "酒店用品",
+          "translatedName": "Hotel Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 1045059,
+          "chineseName": "USB新奇特",
+          "translatedName": "USB New Strange",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 122588001,
+          "chineseName": "一次性用品",
+          "translatedName": "Disposable supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 124284003,
+          "chineseName": "秤",
+          "translatedName": "Scale",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 124016003,
+          "chineseName": "挡风、遮阳、防雨工具",
+          "translatedName": "Windshield, sunshade and rainproof tools",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 124272009,
+          "chineseName": "打火机及烟具",
+          "translatedName": "Lighters and smoking utensils",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 201664803,
+          "chineseName": "保暖贴/怀炉/保暖用品",
+          "translatedName": "Warm Paste/Furnace/Warm Supplies",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        },
+        {
+          "categoryId": 1556,
+          "chineseName": "居家日用",
+          "translatedName": "Home daily use",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 15
+        }
+      ]
+    }
+  }
+}

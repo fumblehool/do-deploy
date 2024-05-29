@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045647,
+      "chineseName": "书籍、出版物",
+      "translatedName": "Books, Publications",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034096,
+          "chineseName": "图书代理加盟",
+          "translatedName": "Book agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 1034098,
+          "chineseName": "文学小说",
+          "translatedName": "literary novel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 1042687,
+          "chineseName": "儿童读物",
+          "translatedName": "Children's books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 124740007,
+          "chineseName": "商务印刷",
+          "translatedName": "Business Printing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201222801,
+          "chineseName": "育儿百科",
+          "translatedName": "Parenting Encyclopedia",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201222901,
+          "chineseName": "进口原版",
+          "translatedName": "imported original",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201532005,
+          "chineseName": "科普图书",
+          "translatedName": "Popular Science Books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201558912,
+          "chineseName": "农业农林图书",
+          "translatedName": "Agriculture Agriculture and Forestry Books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201219902,
+          "chineseName": "经管励志",
+          "translatedName": "Management Inspirational",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201561110,
+          "chineseName": "艺术图书",
+          "translatedName": "Art Books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201219202,
+          "chineseName": "社科生活",
+          "translatedName": "social science life",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201219602,
+          "chineseName": "教材教辅",
+          "translatedName": "Teaching materials and teaching aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201553910,
+          "chineseName": "医学图书",
+          "translatedName": "Medical Books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201549807,
+          "chineseName": "IT科技图书",
+          "translatedName": "IT science and technology books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201160104,
+          "chineseName": "地图",
+          "translatedName": "Map",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 201221702,
+          "chineseName": "学习考试",
+          "translatedName": "study exam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 3410,
+          "chineseName": "图片、画册",
+          "translatedName": "Picture, picture album",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        },
+        {
+          "categoryId": 3413,
+          "chineseName": "期刊、报纸",
+          "translatedName": "Periodicals, newspapers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045647
+        }
+      ]
+    }
+  }
+}

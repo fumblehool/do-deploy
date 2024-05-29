@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041282,
+      "chineseName": "交通控制管理设备",
+      "translatedName": "Traffic Control Management Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033228,
+          "chineseName": "交通指挥设备",
+          "translatedName": "traffic command equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041282
+        },
+        {
+          "categoryId": 1033230,
+          "chineseName": "交通警示灯",
+          "translatedName": "Traffic warning light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041282
+        },
+        {
+          "categoryId": 1041403,
+          "chineseName": "交通信号系统",
+          "translatedName": "traffic signal system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041282
+        },
+        {
+          "categoryId": 1041283,
+          "chineseName": "信号控制器",
+          "translatedName": "Signal controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041282
+        },
+        {
+          "categoryId": 1041284,
+          "chineseName": "其他交通控制管理设备",
+          "translatedName": "Other traffic control management equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1041282
+        }
+      ]
+    }
+  }
+}

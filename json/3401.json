@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3401,
+      "chineseName": "防伪技术产品",
+      "translatedName": "Anti-counterfeiting technology products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "72",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034191,
+          "chineseName": "其他防伪技术产品",
+          "translatedName": "Other anti-counterfeiting technology products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        },
+        {
+          "categoryId": 1034192,
+          "chineseName": "印章防伪",
+          "translatedName": "Seal anti-counterfeiting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        },
+        {
+          "categoryId": 1034193,
+          "chineseName": "有价证券防伪",
+          "translatedName": "Security of Securities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        },
+        {
+          "categoryId": 1034194,
+          "chineseName": "证件、单据、文件防伪",
+          "translatedName": "Certificate, document and document anti-counterfeiting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        },
+        {
+          "categoryId": 1034196,
+          "chineseName": "防伪商标",
+          "translatedName": "anti-counterfeit trademark",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        },
+        {
+          "categoryId": 1034197,
+          "chineseName": "防伪包装",
+          "translatedName": "anti-counterfeit packaging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3401
+        }
+      ]
+    }
+  }
+}

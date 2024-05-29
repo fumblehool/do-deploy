@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122432002,
+      "chineseName": "情趣文胸",
+      "translatedName": "Fun Bra",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450002"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125070009,
+      "chineseName": "水泵",
+      "translatedName": "Water pump",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "93"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121488006,
+      "chineseName": "焊接滚轮架",
+      "translatedName": "Welding roller frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121494014"
+    }
+  }
+}

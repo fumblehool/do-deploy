@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044794,
+      "chineseName": "冰鞋、轮滑、滑板",
+      "translatedName": "Skates, roller skate, skateboard",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033503,
+          "chineseName": "滑板车",
+          "translatedName": "Scooter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044794
+        },
+        {
+          "categoryId": 1033465,
+          "chineseName": "冰鞋",
+          "translatedName": "Skates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044794
+        },
+        {
+          "categoryId": 1044795,
+          "chineseName": "轮滑、速滑",
+          "translatedName": "Roller skating, speed skating",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044794
+        },
+        {
+          "categoryId": 121876001,
+          "chineseName": "暴走鞋",
+          "translatedName": "Mob shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044794
+        },
+        {
+          "categoryId": 2048,
+          "chineseName": "活力板、滑板",
+          "translatedName": "Activity board, skateboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044794
+        }
+      ]
+    }
+  }
+}

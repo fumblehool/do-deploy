@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201473006,
+      "chineseName": "中老年男装",
+      "translatedName": "Middle-aged men's clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201499508,
+          "chineseName": "男式中老年上装",
+          "translatedName": "Men's Middle-aged Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201473006
+        },
+        {
+          "categoryId": 201501604,
+          "chineseName": "男式中老年套装",
+          "translatedName": "Men's Middle-aged Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201473006
+        },
+        {
+          "categoryId": 201489705,
+          "chineseName": "男式中老年下装",
+          "translatedName": "Men's Middle-aged and Elderly Bottles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201473006
+        }
+      ]
+    }
+  }
+}

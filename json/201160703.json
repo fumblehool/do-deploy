@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160703,
+      "chineseName": "橡皮筋、橡皮管",
+      "translatedName": "Rubber band, rubber tube",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10396"
+    }
+  }
+}

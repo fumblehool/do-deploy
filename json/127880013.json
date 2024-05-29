@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127880013,
+      "chineseName": "地垫",
+      "translatedName": "Floor mat",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127900016"
+    }
+  }
+}

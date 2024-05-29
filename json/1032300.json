@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032300,
+      "chineseName": "电池配件及材料",
+      "translatedName": "Battery accessories and materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10204"
+    }
+  }
+}

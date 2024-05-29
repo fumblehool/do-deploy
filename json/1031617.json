@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031617,
+      "chineseName": "饲料添加剂",
+      "translatedName": "feed additive",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031618,
+          "chineseName": "药物性添加剂",
+          "translatedName": "Drug additive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031617
+        },
+        {
+          "categoryId": 1031619,
+          "chineseName": "营养性添加剂",
+          "translatedName": "Nutritional additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031617
+        },
+        {
+          "categoryId": 1034568,
+          "chineseName": "饲料保藏剂",
+          "translatedName": "feed preservation agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031617
+        },
+        {
+          "categoryId": 818,
+          "chineseName": "其他饲料添加剂",
+          "translatedName": "Other Feed Additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031617
+        }
+      ]
+    }
+  }
+}

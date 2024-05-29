@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201962902,
+      "chineseName": "水胶体类敷料",
+      "translatedName": "Hydrocolloid dressings",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201962701"
+    }
+  }
+}

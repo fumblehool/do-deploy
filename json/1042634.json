@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042634,
+      "chineseName": "面部护理",
+      "translatedName": "Facial Care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034755,
+          "chineseName": "其他面部护肤品",
+          "translatedName": "Other facial skin care products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1034761,
+          "chineseName": "防晒霜、防晒喷雾",
+          "translatedName": "Sunscreen, sunscreen spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1034762,
+          "chineseName": "润肤乳液",
+          "translatedName": "emollient lotion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1034763,
+          "chineseName": "面霜",
+          "translatedName": "Face Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1034766,
+          "chineseName": "化妆水、爽肤水",
+          "translatedName": "Toner, toner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1043434,
+          "chineseName": "面部按摩霜、乳",
+          "translatedName": "Facial massage cream, milk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1043435,
+          "chineseName": "面部磨砂、去角质",
+          "translatedName": "Facial scrub, exfoliation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1043436,
+          "chineseName": "鼻贴、鼻膜",
+          "translatedName": "Nasal patch, nasal membrane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1036807,
+          "chineseName": "面部护理套装",
+          "translatedName": "Facial Care Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1041750,
+          "chineseName": "卸妆水/乳/油",
+          "translatedName": "Makeup Remover/Milk/Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 1042655,
+          "chineseName": "洁面产品",
+          "translatedName": "Cleansing products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 122708002,
+          "chineseName": "手工皂",
+          "translatedName": "handmade soap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201336914,
+          "chineseName": "护肤旅行装",
+          "translatedName": "Skincare Travel Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201360455,
+          "chineseName": "儿童洗面奶",
+          "translatedName": "Children's facial cleanser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201355849,
+          "chineseName": "儿童乳液/面霜",
+          "translatedName": "Children's Lotion/Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201309108,
+          "chineseName": "T区护理套装",
+          "translatedName": "T-Zone Care Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201310409,
+          "chineseName": "黑头导出液",
+          "translatedName": "Blackhead eluate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201355051,
+          "chineseName": "宝宝防晒乳/露",
+          "translatedName": "Baby sunscreen/lotion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        },
+        {
+          "categoryId": 201829522,
+          "chineseName": "凝胶、软膏",
+          "translatedName": "Gel, ointment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042634
+        }
+      ]
+    }
+  }
+}

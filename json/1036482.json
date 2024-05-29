@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036482,
+      "chineseName": "红丹",
+      "translatedName": "Red Dan",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031632"
+    }
+  }
+}

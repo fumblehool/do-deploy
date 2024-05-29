@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3305,
+      "chineseName": "维护工具",
+      "translatedName": "Maintenance Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032209,
+          "chineseName": "其他维护工具",
+          "translatedName": "Other maintenance tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1032210,
+          "chineseName": "拖车绳",
+          "translatedName": "Trailer rope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1032211,
+          "chineseName": "胎压计",
+          "translatedName": "Tire pressure gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1032212,
+          "chineseName": "工具套件",
+          "translatedName": "Tool kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1032213,
+          "chineseName": "打蜡机",
+          "translatedName": "Waxing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1032216,
+          "chineseName": "充气泵",
+          "translatedName": "Air Pump",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1036931,
+          "chineseName": "绞盘",
+          "translatedName": "Winch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1036027,
+          "chineseName": "清洗机",
+          "translatedName": "Cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 1036839,
+          "chineseName": "手动黄油枪",
+          "translatedName": "Manual grease gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 124256013,
+          "chineseName": "卷管器",
+          "translatedName": "Coiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 126478002,
+          "chineseName": "商用百洁布、擦拭布",
+          "translatedName": "Commercial scouring pad, wiping cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 201915402,
+          "chineseName": "检视镜",
+          "translatedName": "inspection mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        },
+        {
+          "categoryId": 201916004,
+          "chineseName": "玻璃刮条",
+          "translatedName": "Glass Scraping Strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3305
+        }
+      ]
+    }
+  }
+}

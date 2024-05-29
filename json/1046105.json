@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046105,
+      "chineseName": "橡胶板",
+      "translatedName": "Rubber plate",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046132,
+          "chineseName": "防静电胶板",
+          "translatedName": "Anti-static rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046133,
+          "chineseName": "特种橡胶板",
+          "translatedName": "Special rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046134,
+          "chineseName": "防腐衬里",
+          "translatedName": "Corrosion resistant lining",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046106,
+          "chineseName": "夹布胶板",
+          "translatedName": "fabric plywood",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046107,
+          "chineseName": "绝缘胶板",
+          "translatedName": "Insulating rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046124,
+          "chineseName": "其他橡胶板",
+          "translatedName": "Other Rubber Sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046126,
+          "chineseName": "耐油胶板",
+          "translatedName": "Oil resistant rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046127,
+          "chineseName": "耐酸碱胶板",
+          "translatedName": "Acid and alkali resistant rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046128,
+          "chineseName": "防滑胶板",
+          "translatedName": "Anti-slip rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046129,
+          "chineseName": "防腐胶板",
+          "translatedName": "Anticorrosive rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046130,
+          "chineseName": "阻尼胶板",
+          "translatedName": "damping rubber plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        },
+        {
+          "categoryId": 1046131,
+          "chineseName": "耐磨胶板",
+          "translatedName": "Wear-resistant rubber sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046105
+        }
+      ]
+    }
+  }
+}

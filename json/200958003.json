@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200958003,
+      "chineseName": "商用甜甜圈机/华夫炉",
+      "translatedName": "Commercial Donut Machine/Waffle Oven",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10095"
+    }
+  }
+}

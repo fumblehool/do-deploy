@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10358,
+      "chineseName": "文化、印刷用纸",
+      "translatedName": "Culture, printing paper",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032948,
+          "chineseName": "其他文化、印刷用纸",
+          "translatedName": "Other culture, printing paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032949,
+          "chineseName": "宣纸",
+          "translatedName": "Xuan paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032950,
+          "chineseName": "热敏纸",
+          "translatedName": "Thermal paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032951,
+          "chineseName": "拷贝纸",
+          "translatedName": "copy paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032952,
+          "chineseName": "艺术纸",
+          "translatedName": "art paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032954,
+          "chineseName": "水印纸",
+          "translatedName": "Watermark Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032955,
+          "chineseName": "字典纸",
+          "translatedName": "Dictionary paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032956,
+          "chineseName": "书刊纸",
+          "translatedName": "book paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032957,
+          "chineseName": "铜版纸",
+          "translatedName": "coated paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032958,
+          "chineseName": "胶版纸",
+          "translatedName": "Offset paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1032959,
+          "chineseName": "新闻纸",
+          "translatedName": "Newsprint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        },
+        {
+          "categoryId": 1043578,
+          "chineseName": "热转印纸",
+          "translatedName": "thermal transfer paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10358
+        }
+      ]
+    }
+  }
+}

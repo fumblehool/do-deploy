@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309205,
+      "chineseName": "镜面贴",
+      "translatedName": "Mirror stickers",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1704"
+    }
+  }
+}

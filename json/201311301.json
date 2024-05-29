@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201311301,
+      "chineseName": "全屋窗帘套餐",
+      "translatedName": "Whole House Curtain Package",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124264009"
+    }
+  }
+}

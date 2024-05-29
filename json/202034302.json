@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202034302,
+      "chineseName": "AGV小车",
+      "translatedName": "AGV trolley",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032077"
+    }
+  }
+}

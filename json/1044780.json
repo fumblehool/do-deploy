@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044780,
+      "chineseName": "裁判、计时、计步用具",
+      "translatedName": "Referee, timing, pedometer",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033477,
+          "chineseName": "其他裁判、计时、计步用具",
+          "translatedName": "Other referees, timekeeping, pedometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044780
+        },
+        {
+          "categoryId": 1044781,
+          "chineseName": "口哨",
+          "translatedName": "Whistle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044780
+        },
+        {
+          "categoryId": 1044782,
+          "chineseName": "记分牌、换人牌、战术板",
+          "translatedName": "Scoreboard, substitution card, tactical board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044780
+        },
+        {
+          "categoryId": 1044783,
+          "chineseName": "秒表、码表、计时器",
+          "translatedName": "Stopwatch, code watch, timer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044780
+        },
+        {
+          "categoryId": 1044784,
+          "chineseName": "计步器",
+          "translatedName": "Pedometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044780
+        }
+      ]
+    }
+  }
+}

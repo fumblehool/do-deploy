@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034784,
+      "chineseName": "腮红、胭脂",
+      "translatedName": "Blush, rouge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "82101"
+    }
+  }
+}

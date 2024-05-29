@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201349101,
+      "chineseName": "儿童胸包、腰包",
+      "translatedName": "Children's chest bag, waist bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201556615"
+    }
+  }
+}

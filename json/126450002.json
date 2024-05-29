@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126450002,
+      "chineseName": "其他电源模块",
+      "translatedName": "Other Power Modules",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126594004"
+    }
+  }
+}

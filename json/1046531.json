@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046531,
+      "chineseName": "粘胶(人棉)面料",
+      "translatedName": "Viscose (rayon) fabric",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046526"
+    }
+  }
+}

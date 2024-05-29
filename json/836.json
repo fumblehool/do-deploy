@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 836,
+      "chineseName": "羧酸衍生物",
+      "translatedName": "carboxylic acid derivative",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034558,
+          "chineseName": "其他羧酸衍生物",
+          "translatedName": "Other carboxylic acid derivatives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 1034559,
+          "chineseName": "酰胺",
+          "translatedName": "amide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 1034560,
+          "chineseName": "酰卤",
+          "translatedName": "acyl halide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 1036735,
+          "chineseName": "植酸",
+          "translatedName": "phytic acid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 80314,
+          "chineseName": "酸酐",
+          "translatedName": "anhydride",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 80315,
+          "chineseName": "酯",
+          "translatedName": "Ester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        },
+        {
+          "categoryId": 80318,
+          "chineseName": "羧酸盐",
+          "translatedName": "Carboxylate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 836
+        }
+      ]
+    }
+  }
+}

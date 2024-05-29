@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310011,
+      "chineseName": "cos假发",
+      "translatedName": "cos wig",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122338008"
+    }
+  }
+}

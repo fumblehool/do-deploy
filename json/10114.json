@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10114,
+      "chineseName": "库存安防产品",
+      "translatedName": "Inventory security products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041364"
+    }
+  }
+}

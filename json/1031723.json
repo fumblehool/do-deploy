@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031723,
+      "chineseName": "剖层机",
+      "translatedName": "dissection machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031718"
+    }
+  }
+}

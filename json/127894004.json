@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127894004,
+      "chineseName": "模块式开关电源",
+      "translatedName": "modular switching power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "529"
+    }
+  }
+}

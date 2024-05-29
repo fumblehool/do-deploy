@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 82101,
+      "chineseName": "面部彩妆",
+      "translatedName": "facial makeup",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034778,
+          "chineseName": "其他彩妆",
+          "translatedName": "Other makeup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1034784,
+          "chineseName": "腮红、胭脂",
+          "translatedName": "Blush, rouge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1034785,
+          "chineseName": "粉底",
+          "translatedName": "Foundation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1040898,
+          "chineseName": "粉饼",
+          "translatedName": "Powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1040900,
+          "chineseName": "蜜粉、散粉、定妆粉",
+          "translatedName": "Honey powder, loose powder, makeup powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1043093,
+          "chineseName": "BB霜",
+          "translatedName": "BB cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1043094,
+          "chineseName": "彩妆套装、彩妆盘",
+          "translatedName": "Makeup set, makeup plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1043095,
+          "chineseName": "遮瑕",
+          "translatedName": "Concealer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 1046942,
+          "chineseName": "隔离/妆前",
+          "translatedName": "Isolation/makeup front",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 201304512,
+          "chineseName": "男士彩妆",
+          "translatedName": "Men's makeup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 201222619,
+          "chineseName": "修容",
+          "translatedName": "Repair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 201775001,
+          "chineseName": "定妆喷雾",
+          "translatedName": "Fixed Makeup Spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        },
+        {
+          "categoryId": 202017001,
+          "chineseName": "高光",
+          "translatedName": "Highlights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82101
+        }
+      ]
+    }
+  }
+}

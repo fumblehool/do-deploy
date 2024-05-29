@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033429,
+      "chineseName": "其他不锈钢线材",
+      "translatedName": "Other Stainless Steel Wire",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123284006"
+    }
+  }
+}

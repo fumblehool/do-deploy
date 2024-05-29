@@ -1,0 +1,307 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3304,
+      "chineseName": "摩托车配附件",
+      "translatedName": "Motorcycle accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036933,
+          "chineseName": "摩托车安全用品",
+          "translatedName": "Motorcycle Safety Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035778,
+          "chineseName": "摩托车用品与附件",
+          "translatedName": "Motorcycle Supplies and Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035779,
+          "chineseName": "摩托车通用件",
+          "translatedName": "Motorcycle General Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035780,
+          "chineseName": "摩托车电器与仪表",
+          "translatedName": "Motorcycle Electrical and Instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035781,
+          "chineseName": "摩托车操纵系统零件",
+          "translatedName": "Motorcycle Control System Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035782,
+          "chineseName": "摩托车行走系统零件",
+          "translatedName": "Motorcycle Walking System Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035783,
+          "chineseName": "摩托车传动系统零件",
+          "translatedName": "Motorcycle transmission system parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 1035784,
+          "chineseName": "摩托车发动机及配件",
+          "translatedName": "Motorcycle engine and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201360731,
+          "chineseName": "摩托车/电动车安全头盔",
+          "translatedName": "Motorcycle/Electric Vehicle Safety Helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 126128007,
+          "chineseName": "摩托车喇叭总成",
+          "translatedName": "Motorcycle horn assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 126136005,
+          "chineseName": "摩托车车灯总成",
+          "translatedName": "Motorcycle lamp assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201350542,
+          "chineseName": "摩托车头盔配件",
+          "translatedName": "Motorcycle Helmet Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201889605,
+          "chineseName": "摩托车保险杠",
+          "translatedName": "motorcycle bumper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201889702,
+          "chineseName": "摩托车头盔饰配",
+          "translatedName": "Motorcycle Helmet Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201890503,
+          "chineseName": "摩托车尾翼",
+          "translatedName": "motorcycle tail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201884007,
+          "chineseName": "摩托车牌照框",
+          "translatedName": "Motorcycle license plate frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201885804,
+          "chineseName": "摩托车车锁",
+          "translatedName": "Motorcycle Lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201885806,
+          "chineseName": "摩托车排气管",
+          "translatedName": "Motorcycle exhaust pipe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201876706,
+          "chineseName": "摩托车挡泥板",
+          "translatedName": "Motorcycle Fender",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201877606,
+          "chineseName": "摩托车钥匙",
+          "translatedName": "Motorcycle Key",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201878609,
+          "chineseName": "摩托车头盔耳机",
+          "translatedName": "Motorcycle Helmet Headset",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201898201,
+          "chineseName": "摩托车尾箱",
+          "translatedName": "Motorcycle trunk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201878610,
+          "chineseName": "摩托车前挡风",
+          "translatedName": "Motorcycle front windshield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201879807,
+          "chineseName": "摩托车化油器",
+          "translatedName": "Motorcycle Carburetor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201879907,
+          "chineseName": "摩托车车架",
+          "translatedName": "motorcycle frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201880303,
+          "chineseName": "摩托车把套",
+          "translatedName": "Motorcycle Handle Cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201880603,
+          "chineseName": "摩托车儿童座椅",
+          "translatedName": "Motorcycle child seat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201880909,
+          "chineseName": "摩托车后视镜",
+          "translatedName": "Motorcycle rearview mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201886007,
+          "chineseName": "摩托车坐垫",
+          "translatedName": "Motorcycle cushion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201888806,
+          "chineseName": "摩托车轮毂",
+          "translatedName": "Motorcycle wheel hub",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201883005,
+          "chineseName": "摩托车脚踏板",
+          "translatedName": "Motorcycle pedals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        },
+        {
+          "categoryId": 201883606,
+          "chineseName": "摩托车头盔防雾膜",
+          "translatedName": "Motorcycle helmet anti-fog film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3304
+        }
+      ]
+    }
+  }
+}

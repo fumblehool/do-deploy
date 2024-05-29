@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202043301,
+      "chineseName": "滴管瓶",
+      "translatedName": "Dropper bottle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126478003"
+    }
+  }
+}

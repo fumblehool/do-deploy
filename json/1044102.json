@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044102,
+      "chineseName": "保鲜剂",
+      "translatedName": "Preservative",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031607"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620015,
+      "chineseName": "LED车灯",
+      "translatedName": "LED lights",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123608021,
+          "chineseName": "LED仪表灯",
+          "translatedName": "LED instrument light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123618020,
+          "chineseName": "LED刹车灯",
+          "translatedName": "LED brake light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123618021,
+          "chineseName": "LED牌照灯",
+          "translatedName": "LED license plate lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123618022,
+          "chineseName": "LED日行灯",
+          "translatedName": "LED Daytime running lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123612021,
+          "chineseName": "LED倒车灯",
+          "translatedName": "LED reversing light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123612022,
+          "chineseName": "LED转向灯、角灯",
+          "translatedName": "LED turn signal lamp, corner lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123622020,
+          "chineseName": "LED大灯、前照灯",
+          "translatedName": "LED headlamps, headlamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123646001,
+          "chineseName": "其他LED车灯",
+          "translatedName": "Other LED lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123610015,
+          "chineseName": "LED汽车尾灯",
+          "translatedName": "LED car taillights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123610022,
+          "chineseName": "LED车顶灯",
+          "translatedName": "LED roof lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        },
+        {
+          "categoryId": 123620016,
+          "chineseName": "LED汽车雾灯",
+          "translatedName": "LED car fog lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620015
+        }
+      ]
+    }
+  }
+}

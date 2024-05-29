@@ -1,0 +1,361 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2829,
+      "chineseName": "二手设备转让",
+      "translatedName": "Transfer of used equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031837,
+          "chineseName": "二手农业机械",
+          "translatedName": "Used agricultural machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1033364,
+          "chineseName": "二手矿业设备",
+          "translatedName": "Used mining equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1033598,
+          "chineseName": "二手物流设备",
+          "translatedName": "Used logistics equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031838,
+          "chineseName": "二手食品机械",
+          "translatedName": "Used food machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031839,
+          "chineseName": "二手服装加工设备",
+          "translatedName": "Used clothing processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031840,
+          "chineseName": "二手纺织加工设备",
+          "translatedName": "Used textile processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031841,
+          "chineseName": "二手塑料机械",
+          "translatedName": "Used plastic machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031842,
+          "chineseName": "二手木工机械",
+          "translatedName": "Used woodworking machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031843,
+          "chineseName": "二手包装机械",
+          "translatedName": "Used packaging machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031844,
+          "chineseName": "二手电工电气产品",
+          "translatedName": "Used electrical electrical products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031845,
+          "chineseName": "二手冶炼设备",
+          "translatedName": "Used smelting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031846,
+          "chineseName": "二手机床",
+          "translatedName": "Used machine tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031847,
+          "chineseName": "二手化工设备",
+          "translatedName": "Used chemical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031848,
+          "chineseName": "二手建材加工设备",
+          "translatedName": "Used building materials processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034074,
+          "chineseName": "二手造纸设备",
+          "translatedName": "Used papermaking equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034075,
+          "chineseName": "二手纸加工设备",
+          "translatedName": "Used paper processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034076,
+          "chineseName": "二手仪器仪表",
+          "translatedName": "Used instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034077,
+          "chineseName": "二手制鞋设备",
+          "translatedName": "Used shoe making equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034078,
+          "chineseName": "二手通信器材",
+          "translatedName": "Used communication equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034079,
+          "chineseName": "二手工程机械",
+          "translatedName": "Used construction machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034080,
+          "chineseName": "二手锅炉",
+          "translatedName": "Used boiler",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034081,
+          "chineseName": "二手电动工具",
+          "translatedName": "Used electric tools",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031850,
+          "chineseName": "二手电子加工设备",
+          "translatedName": "Used electronic processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031851,
+          "chineseName": "二手办公设备",
+          "translatedName": "Used office equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031852,
+          "chineseName": "二手体育休闲设施",
+          "translatedName": "Used sports and leisure facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031853,
+          "chineseName": "二手安防产品",
+          "translatedName": "Used security products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031854,
+          "chineseName": "二手环保设备",
+          "translatedName": "Used environmental protection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031855,
+          "chineseName": "二手橡胶加工设备",
+          "translatedName": "Used rubber processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031857,
+          "chineseName": "二手制药设备",
+          "translatedName": "Used Pharmaceutical Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031856,
+          "chineseName": "二手通讯产品",
+          "translatedName": "Used communication products",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031858,
+          "chineseName": "二手家用电器",
+          "translatedName": "Used household appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1031859,
+          "chineseName": "其他二手设备",
+          "translatedName": "Other used equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1033304,
+          "chineseName": "二手医疗设备",
+          "translatedName": "Used medical equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034229,
+          "chineseName": "二手广电设备",
+          "translatedName": "Used radio and television equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1034892,
+          "chineseName": "二手照明器材",
+          "translatedName": "Used lighting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1033451,
+          "chineseName": "二手通用零部件",
+          "translatedName": "Used General Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 1033572,
+          "chineseName": "二手皮革加工设备",
+          "translatedName": "Used leather processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        },
+        {
+          "categoryId": 10456,
+          "chineseName": "二手印刷设备",
+          "translatedName": "Used printing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 2829
+        }
+      ]
+    }
+  }
+}

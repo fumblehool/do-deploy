@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124000012,
+      "chineseName": "防护面罩",
+      "translatedName": "Protective mask",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022010"
+    }
+  }
+}

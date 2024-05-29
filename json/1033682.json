@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033682,
+      "chineseName": "工业润滑油",
+      "translatedName": "Industrial Lubricants",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036886,
+          "chineseName": "食品级润滑油",
+          "translatedName": "Food grade lubricating oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1041707,
+          "chineseName": "船舶润滑油",
+          "translatedName": "marine lubricating oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036772,
+          "chineseName": "导热油",
+          "translatedName": "heat conduction oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036773,
+          "chineseName": "导轨油",
+          "translatedName": "Guide rail oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036758,
+          "chineseName": "其他工业润滑油",
+          "translatedName": "Other Industrial Lubricants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036759,
+          "chineseName": "液压油（传动油）",
+          "translatedName": "Hydraulic oil (transmission oil)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036760,
+          "chineseName": "工业润滑脂",
+          "translatedName": "industrial grease",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036761,
+          "chineseName": "脱模油",
+          "translatedName": "Demoulding oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036762,
+          "chineseName": "攻牙油",
+          "translatedName": "Tapping oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036763,
+          "chineseName": "真空泵油及扩散泵油",
+          "translatedName": "Vacuum pump oil and diffusion pump oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036767,
+          "chineseName": "轴承和离合器油",
+          "translatedName": "Bearing and Clutch Oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036768,
+          "chineseName": "乳化油",
+          "translatedName": "emulsified oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036769,
+          "chineseName": "工具油",
+          "translatedName": "tool oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036770,
+          "chineseName": "电器绝缘油",
+          "translatedName": "electrical insulating oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036771,
+          "chineseName": "冲压拉伸油",
+          "translatedName": "Stamping drawing oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1042645,
+          "chineseName": "工业齿轮油",
+          "translatedName": "industrial gear oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036750,
+          "chineseName": "压缩机油",
+          "translatedName": "Compressor oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036751,
+          "chineseName": "冷冻机油",
+          "translatedName": "Refrigeration oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036752,
+          "chineseName": "汽轮机油",
+          "translatedName": "turbine oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036849,
+          "chineseName": "机械油",
+          "translatedName": "mechanical oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036851,
+          "chineseName": "白油",
+          "translatedName": "white oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        },
+        {
+          "categoryId": 1036852,
+          "chineseName": "基础油",
+          "translatedName": "Base oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1033682
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 100115,
+      "chineseName": "汽油",
+      "translatedName": "Gasoline",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1001",
+      "fromCache": true
+    }
+  }
+}

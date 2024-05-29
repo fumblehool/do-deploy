@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201163406,
+      "chineseName": "预拌粉类",
+      "translatedName": "Pre-mixed powder",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "228"
+    }
+  }
+}

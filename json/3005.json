@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3005,
+      "chineseName": "其他防爆器材",
+      "translatedName": "Other explosion-proof equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373126"
+    }
+  }
+}

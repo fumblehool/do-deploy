@@ -1,0 +1,172 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045423,
+      "chineseName": "服饰配件",
+      "translatedName": "Apparel Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044775,
+          "chineseName": "吊裤带、背带",
+          "translatedName": "Suspenders, straps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 125752003,
+          "chineseName": "口袋巾",
+          "translatedName": "Pocket towel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 122310005,
+          "chineseName": "袖章",
+          "translatedName": "armband",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 122388003,
+          "chineseName": "袖扣",
+          "translatedName": "Cufflinks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 127294023,
+          "chineseName": "裙撑",
+          "translatedName": "Plinting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201156602,
+          "chineseName": "军迷配饰",
+          "translatedName": "Army fan accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201160401,
+          "chineseName": "运动颈环/手环/指环",
+          "translatedName": "Sports Neck Ring/Bracelet/Ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201222403,
+          "chineseName": "矫正带",
+          "translatedName": "Correction belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201159402,
+          "chineseName": "舞蹈/健美操/体操配饰",
+          "translatedName": "Dance/Aerobics/Gymnastics Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201159602,
+          "chineseName": "护膝",
+          "translatedName": "Knee pads",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201249108,
+          "chineseName": "婚庆服饰配件",
+          "translatedName": "Wedding Costume Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201251806,
+          "chineseName": "节庆服饰配件",
+          "translatedName": "Festive Costume Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201253103,
+          "chineseName": "DIY服饰配件",
+          "translatedName": "DIY Clothing Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201160501,
+          "chineseName": "情趣配饰",
+          "translatedName": "Fun Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201255802,
+          "chineseName": "cosplay服饰配件",
+          "translatedName": "cosplay Apparel Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 201257501,
+          "chineseName": "夜店服饰配件",
+          "translatedName": "Nightclub Clothing Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        },
+        {
+          "categoryId": 202029301,
+          "chineseName": "防晒腿套",
+          "translatedName": "Sunscreen Leg Sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045423
+        }
+      ]
+    }
+  }
+}

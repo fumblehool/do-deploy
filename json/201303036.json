@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303036,
+      "chineseName": "消毒抑菌用品加工",
+      "translatedName": "Processing of disinfection and antibacterial products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201304234"
+    }
+  }
+}

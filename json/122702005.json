@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122702005,
+      "chineseName": "发梳头饰",
+      "translatedName": "Hair Comb Headwear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1752"
+    }
+  }
+}

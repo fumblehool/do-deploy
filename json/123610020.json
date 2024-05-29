@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123610020,
+      "chineseName": "餐厅家具",
+      "translatedName": "Dining Room Furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032649,
+          "chineseName": "厨房操作台",
+          "translatedName": "Galley console",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 121486003,
+          "chineseName": "餐椅",
+          "translatedName": "Dining Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123608020,
+          "chineseName": "吧台",
+          "translatedName": "Bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123618018,
+          "chineseName": "餐桌",
+          "translatedName": "Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123618019,
+          "chineseName": "手推餐车",
+          "translatedName": "Push the dining car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123616025,
+          "chineseName": "餐边柜",
+          "translatedName": "Sideboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123610021,
+          "chineseName": "成套餐桌椅",
+          "translatedName": "Complete set of dining tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 123620021,
+          "chineseName": "酒柜",
+          "translatedName": "Wine Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201693302,
+          "chineseName": "酒吧桌",
+          "translatedName": "Bar Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201693703,
+          "chineseName": "壁式餐桌",
+          "translatedName": "Wall dining table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201693704,
+          "chineseName": "岛台",
+          "translatedName": "Island Platform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201357368,
+          "chineseName": "卡座",
+          "translatedName": "Card holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201691602,
+          "chineseName": "电磁炉餐桌",
+          "translatedName": "Induction Cooker Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201696002,
+          "chineseName": "龙虾桌",
+          "translatedName": "Lobster Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201699801,
+          "chineseName": "餐厅沙发",
+          "translatedName": "Restaurant Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201699901,
+          "chineseName": "上菜桌",
+          "translatedName": "serving table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201700101,
+          "chineseName": "食堂餐桌椅",
+          "translatedName": "Dining table and chair in canteen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201774601,
+          "chineseName": "咖啡桌",
+          "translatedName": "Coffee Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        },
+        {
+          "categoryId": 201774701,
+          "chineseName": "奶茶桌",
+          "translatedName": "Milk tea table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123610020
+        }
+      ]
+    }
+  }
+}

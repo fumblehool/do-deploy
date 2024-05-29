@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046160,
+      "chineseName": "液体容储气囊",
+      "translatedName": "Liquid-containing airbag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046156"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124600003,
+      "chineseName": "塑料手提袋",
+      "translatedName": "plastic tote bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124594001"
+    }
+  }
+}

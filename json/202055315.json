@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202055315,
+      "chineseName": "内衣针织加工",
+      "translatedName": "Underwear Knitting Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053806"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201205207,
+      "chineseName": "情侣家居服",
+      "translatedName": "Couple's Home Clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122500001"
+    }
+  }
+}

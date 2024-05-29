@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190004,
+      "chineseName": "铆接设备",
+      "translatedName": "riveting equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121186011,
+          "chineseName": "其他铆接设备",
+          "translatedName": "Other riveting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121190004
+        },
+        {
+          "categoryId": 121188014,
+          "chineseName": "气动铆钉机",
+          "translatedName": "pneumatic rivet machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121190004
+        },
+        {
+          "categoryId": 121188015,
+          "chineseName": "液压铆钉机",
+          "translatedName": "hydraulic rivet machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121190004
+        },
+        {
+          "categoryId": 201958502,
+          "chineseName": "生产线螺丝机",
+          "translatedName": "Production line screw machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121190004
+        }
+      ]
+    }
+  }
+}

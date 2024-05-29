@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032900,
+      "chineseName": "其他方便食品",
+      "translatedName": "Other Convenience Foods",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124000009"
+    }
+  }
+}

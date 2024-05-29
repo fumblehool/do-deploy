@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 118,
+      "chineseName": "植物提取物",
+      "translatedName": "Plant Extracts",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "130822002"
+    }
+  }
+}

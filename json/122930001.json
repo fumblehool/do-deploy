@@ -1,0 +1,298 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122930001,
+      "chineseName": "卧室家具",
+      "translatedName": "Bedroom Furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1047945,
+          "chineseName": "床垫、席梦思",
+          "translatedName": "Mattress, Simmons",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 1043662,
+          "chineseName": "其他床类",
+          "translatedName": "Other beds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 1043666,
+          "chineseName": "其他柜类",
+          "translatedName": "Other cabinets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 121498002,
+          "chineseName": "梳妆凳",
+          "translatedName": "Dressing stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 121498005,
+          "chineseName": "其他床榻",
+          "translatedName": "Other beds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122938002,
+          "chineseName": "衣柜",
+          "translatedName": "Wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122938003,
+          "chineseName": "顶箱柜",
+          "translatedName": "Top box cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122938004,
+          "chineseName": "斗柜",
+          "translatedName": "Bucket cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122942001,
+          "chineseName": "床头柜",
+          "translatedName": "Bedside table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122932001,
+          "chineseName": "实木床",
+          "translatedName": "solid wood bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122934001,
+          "chineseName": "板式床",
+          "translatedName": "plate bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122934002,
+          "chineseName": "梳妆台",
+          "translatedName": "Dresser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 122936001,
+          "chineseName": "布艺床",
+          "translatedName": "Cloth bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 124960001,
+          "chineseName": "床护栏",
+          "translatedName": "Bed guardrail",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 127122003,
+          "chineseName": "棕榈弹簧床垫",
+          "translatedName": "Palm spring mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 127132001,
+          "chineseName": "乳胶弹簧床垫",
+          "translatedName": "Latex spring mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201309905,
+          "chineseName": "3D床垫",
+          "translatedName": "3D Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201157707,
+          "chineseName": "皮艺床",
+          "translatedName": "Leather Art Bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201336105,
+          "chineseName": "藤艺床",
+          "translatedName": "Rattan Art Bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201359953,
+          "chineseName": "床架/床板",
+          "translatedName": "Bed frame/bed board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201359954,
+          "chineseName": "拔步床/架子床",
+          "translatedName": "Walking bed/frame bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201355848,
+          "chineseName": "衣箱",
+          "translatedName": "suitcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201355941,
+          "chineseName": "飘窗柜",
+          "translatedName": "Bay window cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201356055,
+          "chineseName": "记忆棉弹簧床垫",
+          "translatedName": "Memory foam spring mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201356347,
+          "chineseName": "床尾凳",
+          "translatedName": "bed end stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201335610,
+          "chineseName": "情趣家具",
+          "translatedName": "Fun furniture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201355847,
+          "chineseName": "卷包/折叠床垫",
+          "translatedName": "Rolls/Folding Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201354946,
+          "chineseName": "衣柜床",
+          "translatedName": "Wardrobe bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201306004,
+          "chineseName": "圆床垫",
+          "translatedName": "Round Mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201357047,
+          "chineseName": "组合衣架",
+          "translatedName": "Combination hanger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        },
+        {
+          "categoryId": 201699702,
+          "chineseName": "床边桌",
+          "translatedName": "Bedside table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122930001
+        }
+      ]
+    }
+  }
+}

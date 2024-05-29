@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036171,
+      "chineseName": "压缩试验机",
+      "translatedName": "Compression testing machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036167"
+    }
+  }
+}

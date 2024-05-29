@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031655,
+      "chineseName": "医用塑胶制品",
+      "translatedName": "Medical plastic products",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "55"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122194007,
+      "chineseName": "除臭芳香用品",
+      "translatedName": "deodorant aromatic products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122282003,
+          "chineseName": "家用除湿剂、干燥剂",
+          "translatedName": "Household desiccant, desiccant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122276004,
+          "chineseName": "樟脑丸",
+          "translatedName": "mothballs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122248005,
+          "chineseName": "竹炭包",
+          "translatedName": "bamboo charcoal bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122192008,
+          "chineseName": "香薰",
+          "translatedName": "Aromatherapy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122258008,
+          "chineseName": "除臭剂",
+          "translatedName": "Deodorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122212005,
+          "chineseName": "甲醛清除剂",
+          "translatedName": "Formaldehyde scavenger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122254006,
+          "chineseName": "其他空气净化用品",
+          "translatedName": "Other Air Purification Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 122286002,
+          "chineseName": "空气清新/净化剂",
+          "translatedName": "Air freshening/purifying agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201633251,
+          "chineseName": "熏香、盘香、塔香",
+          "translatedName": "Incense, coil incense, tower incense",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201301126,
+          "chineseName": "冰箱除味剂",
+          "translatedName": "Refrigerator deodorant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201774501,
+          "chineseName": "香薰补充液",
+          "translatedName": "Aromatherapy Replenishment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201733005,
+          "chineseName": "洁烟沙",
+          "translatedName": "Smoke sand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201734104,
+          "chineseName": "香片蜡片",
+          "translatedName": "Fragrant Wax Pieces",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201734304,
+          "chineseName": "无火香薰",
+          "translatedName": "No fire aromatherapy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201734305,
+          "chineseName": "香氛喷雾",
+          "translatedName": "Fragrance Spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201747701,
+          "chineseName": "香薰石",
+          "translatedName": "aromatherapy stone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201770802,
+          "chineseName": "除菌卡",
+          "translatedName": "sterilization card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        },
+        {
+          "categoryId": 201771303,
+          "chineseName": "香薰膏",
+          "translatedName": "Aromatherapy Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122194007
+        }
+      ]
+    }
+  }
+}

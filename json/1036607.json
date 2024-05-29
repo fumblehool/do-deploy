@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036607,
+      "chineseName": "传媒、广电项目合作",
+      "translatedName": "Media, radio and television project cooperation",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "53"
+    }
+  }
+}

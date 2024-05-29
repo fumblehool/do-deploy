@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127420019,
+      "chineseName": "其他包、包具配件",
+      "translatedName": "Other bags, accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127406010"
+    }
+  }
+}

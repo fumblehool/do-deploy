@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10398,
+      "chineseName": "文教用橡胶制品",
+      "translatedName": "Rubber products for culture and education",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "55"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 91,
+      "chineseName": "汽摩检测设备",
+      "translatedName": "Automobile and Friction Testing Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032194,
+          "chineseName": "其他检测设备",
+          "translatedName": "Other testing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032195,
+          "chineseName": "分析仪",
+          "translatedName": "Analyzer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032196,
+          "chineseName": "诊断仪",
+          "translatedName": "diagnostic instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032197,
+          "chineseName": "定位仪",
+          "translatedName": "Locator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032198,
+          "chineseName": "试验台",
+          "translatedName": "Test bench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032199,
+          "chineseName": "检测台",
+          "translatedName": "Testing table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        },
+        {
+          "categoryId": 1032200,
+          "chineseName": "检测仪",
+          "translatedName": "Tester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 91
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201918202,
+      "chineseName": "钢丝绳索具",
+      "translatedName": "Wire rope rigging",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121192003"
+    }
+  }
+}

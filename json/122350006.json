@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122350006,
+      "chineseName": "卫生棉条",
+      "translatedName": "Tampons",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201231505"
+    }
+  }
+}

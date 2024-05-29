@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127372010,
+      "chineseName": "大码女装",
+      "translatedName": "Women's Plus Size",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046799,
+          "chineseName": "大码连衣裙",
+          "translatedName": "Plus Size Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127362011,
+          "chineseName": "大码卫衣、绒衣",
+          "translatedName": "Large size sweater, sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127364007,
+          "chineseName": "大码西装",
+          "translatedName": "Plus Size Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127364008,
+          "chineseName": "大码针织衫",
+          "translatedName": "Plus size sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127366007,
+          "chineseName": "大码毛衣",
+          "translatedName": "Plus-size sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127370007,
+          "chineseName": "大码时尚休闲套装",
+          "translatedName": "Large size fashion casual suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127372011,
+          "chineseName": "大码小背心/吊带/抹胸",
+          "translatedName": "Large Size Vest/Sling/Tube Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127376007,
+          "chineseName": "大码休闲裤",
+          "translatedName": "Plus Size Casual Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127376008,
+          "chineseName": "大码其他女式裤装",
+          "translatedName": "Women's Plus Size Other Trousers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127350007,
+          "chineseName": "大码夹克/棒球服",
+          "translatedName": "Plus Size Jacket/Baseball Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127354007,
+          "chineseName": "大码羽绒服",
+          "translatedName": "Large-size Down Jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127352008,
+          "chineseName": "大码皮衣",
+          "translatedName": "Plus Size Leather Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127354008,
+          "chineseName": "大码打底裤",
+          "translatedName": "Plus-size Leggings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127356010,
+          "chineseName": "大码T恤",
+          "translatedName": "Large size T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127356011,
+          "chineseName": "大码蕾丝衫、雪纺",
+          "translatedName": "Plus-size lace shirt, chiffon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127360007,
+          "chineseName": "大码其他女式上装",
+          "translatedName": "Women's Plus Size Other Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127360008,
+          "chineseName": "大码外套",
+          "translatedName": "Plus Size Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127340007,
+          "chineseName": "大码棉服",
+          "translatedName": "Plus-size cotton-padded jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127342011,
+          "chineseName": "大码风衣",
+          "translatedName": "Plus-size windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127348009,
+          "chineseName": "大码马甲",
+          "translatedName": "Plus-size vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127348010,
+          "chineseName": "大码皮草",
+          "translatedName": "Plus Size Fur",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127380006,
+          "chineseName": "大码毛呢外套",
+          "translatedName": "Plus Size Woolen Coat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127380007,
+          "chineseName": "大码牛仔裤",
+          "translatedName": "Plus Size Jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127382007,
+          "chineseName": "大码衬衫",
+          "translatedName": "Plus Size Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        },
+        {
+          "categoryId": 127384002,
+          "chineseName": "大码半身裙",
+          "translatedName": "Plus Size Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127372010
+        }
+      ]
+    }
+  }
+}

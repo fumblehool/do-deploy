@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50909,
+      "chineseName": "传输、交换设备",
+      "translatedName": "Transmission, switching equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033960,
+          "chineseName": "其他传输、交换设备",
+          "translatedName": "Other transmission and switching equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1033961,
+          "chineseName": "分配器",
+          "translatedName": "Distributor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1033962,
+          "chineseName": "网桥",
+          "translatedName": "Network Bridge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1033963,
+          "chineseName": "光纤收发器",
+          "translatedName": "fiber optic transceiver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1033964,
+          "chineseName": "复用设备",
+          "translatedName": "multiplexing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1034137,
+          "chineseName": "光发射机",
+          "translatedName": "optical transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 1034138,
+          "chineseName": "光接收机",
+          "translatedName": "optical receiver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 202036504,
+          "chineseName": "接收器",
+          "translatedName": "Receiver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 202032404,
+          "chineseName": "发射器",
+          "translatedName": "Transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 50901,
+          "chineseName": "网络交换机",
+          "translatedName": "Network Switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        },
+        {
+          "categoryId": 50904,
+          "chineseName": "电话交换机",
+          "translatedName": "Telephone exchange",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50909
+        }
+      ]
+    }
+  }
+}

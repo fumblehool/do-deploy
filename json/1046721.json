@@ -1,0 +1,433 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046721,
+      "chineseName": "饮水用具",
+      "translatedName": "Drinking utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201547801",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032764,
+          "chineseName": "奶嘴",
+          "translatedName": "pacifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 10288,
+          "chineseName": "其他杯子",
+          "translatedName": "Other cups.",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1042957,
+          "chineseName": "奶瓶",
+          "translatedName": "Bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1045278,
+          "chineseName": "一次性杯垫、盖",
+          "translatedName": "Disposable coasters, covers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1041768,
+          "chineseName": "吸管",
+          "translatedName": "Straw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1046723,
+          "chineseName": "运动水壶",
+          "translatedName": "Sports kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1046724,
+          "chineseName": "冷水壶",
+          "translatedName": "Cold kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1046725,
+          "chineseName": "热水壶/瓶",
+          "translatedName": "Hot water kettle/bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1046727,
+          "chineseName": "不锈钢水壶、鸣音壶",
+          "translatedName": "Stainless steel kettle, sound kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1046733,
+          "chineseName": "保温壶/瓶",
+          "translatedName": "Thermos pot/bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 1043766,
+          "chineseName": "保温杯",
+          "translatedName": "Thermos Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 122200006,
+          "chineseName": "牙胶",
+          "translatedName": "gutar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125278007,
+          "chineseName": "玻璃杯",
+          "translatedName": "Glass",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125748002,
+          "chineseName": "折叠水袋",
+          "translatedName": "Folding water bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 122980005,
+          "chineseName": "婴幼儿学饮杯",
+          "translatedName": "Infant drinking cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125264016,
+          "chineseName": "塑料杯",
+          "translatedName": "plastic cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125066001,
+          "chineseName": "一次性纸杯",
+          "translatedName": "Disposable paper cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125066002,
+          "chineseName": "一次性塑杯",
+          "translatedName": "Disposable plastic cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 125274009,
+          "chineseName": "陶瓷杯",
+          "translatedName": "ceramic cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201158007,
+          "chineseName": "吸管杯",
+          "translatedName": "Suction cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201354344,
+          "chineseName": "摇摇杯",
+          "translatedName": "Shake cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201304407,
+          "chineseName": "太空杯",
+          "translatedName": "Space Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201306809,
+          "chineseName": "马克杯",
+          "translatedName": "Mug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201309510,
+          "chineseName": "隔热杯",
+          "translatedName": "heat insulation cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201156803,
+          "chineseName": "杯套/壶套/保温套",
+          "translatedName": "Cup cover/pot cover/insulation cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201306304,
+          "chineseName": "手动榨汁杯",
+          "translatedName": "Manual Juicing Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201357549,
+          "chineseName": "喷雾水杯",
+          "translatedName": "Spray cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201539102,
+          "chineseName": "漱口杯",
+          "translatedName": "Mouthwash Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201303111,
+          "chineseName": "奶杯/牛奶杯",
+          "translatedName": "Milk cup/milk cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201161705,
+          "chineseName": "杯盖",
+          "translatedName": "cup lid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201302305,
+          "chineseName": "水具套装",
+          "translatedName": "Water Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201308309,
+          "chineseName": "水素杯",
+          "translatedName": "Hydroelement Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201310304,
+          "chineseName": "奶瓶相关",
+          "translatedName": "Bottle Related",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201659002,
+          "chineseName": "柠檬杯/雪克杯",
+          "translatedName": "Lemon Cup/Chirk Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201305110,
+          "chineseName": "旅行壶",
+          "translatedName": "Travel Pot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201307602,
+          "chineseName": "随手杯",
+          "translatedName": "Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201310105,
+          "chineseName": "防漏杯/密封杯",
+          "translatedName": "Leak-proof cup/sealing cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201270892,
+          "chineseName": "焖烧杯",
+          "translatedName": "braised beaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201303112,
+          "chineseName": "杯子套装/情侣对杯",
+          "translatedName": "Cup set/couple cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202028104,
+          "chineseName": "搅拌杯",
+          "translatedName": "Mixing Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202046002,
+          "chineseName": "暖暖杯",
+          "translatedName": "Warm Cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202046303,
+          "chineseName": "户外烧水壶",
+          "translatedName": "Outdoor kettle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202048402,
+          "chineseName": "热水瓶及配件",
+          "translatedName": "Hot water bottles and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 201971804,
+          "chineseName": "杯垫",
+          "translatedName": "Coaster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202031908,
+          "chineseName": "智能水杯",
+          "translatedName": "Smart water cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        },
+        {
+          "categoryId": 202042802,
+          "chineseName": "闷茶壶",
+          "translatedName": "stuffy teapot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046721
+        }
+      ]
+    }
+  }
+}

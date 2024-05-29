@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042770,
+      "chineseName": "PA1010",
+      "translatedName": "PA1010",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031642"
+    }
+  }
+}

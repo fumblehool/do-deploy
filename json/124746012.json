@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746012,
+      "chineseName": "栗子",
+      "translatedName": "Chestnut",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734016"
+    }
+  }
+}

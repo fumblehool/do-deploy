@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80301,
+      "chineseName": "烷烃",
+      "translatedName": "alkane",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "803"
+    }
+  }
+}

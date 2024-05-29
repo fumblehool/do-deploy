@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034574,
+      "chineseName": "硫化染料",
+      "translatedName": "sulfur dye",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031681"
+    }
+  }
+}

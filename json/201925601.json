@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201925601,
+      "chineseName": "沙发/布艺/地毯清洗机",
+      "translatedName": "Sofa/fabric/carpet cleaning machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "652"
+    }
+  }
+}

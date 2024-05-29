@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201886008,
+      "chineseName": "半掌袜",
+      "translatedName": "half-palm socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043349"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036183,
+      "chineseName": "老化箱",
+      "translatedName": "aging box",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036179"
+    }
+  }
+}

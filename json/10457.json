@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10457,
+      "chineseName": "其他传媒、广电设备",
+      "translatedName": "Other media, radio and television equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "53"
+    }
+  }
+}

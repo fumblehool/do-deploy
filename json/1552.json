@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1552,
+      "chineseName": "纸巾盒、纸巾抽、卷纸器",
+      "translatedName": "Tissue box, tissue extractor, paper reel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1548"
+    }
+  }
+}

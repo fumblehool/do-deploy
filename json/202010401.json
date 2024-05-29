@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202010401,
+      "chineseName": "AC-DC模块",
+      "translatedName": "AC-DC module",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126594004"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10455,
+      "chineseName": "照排机",
+      "translatedName": "phototypesetting machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3406"
+    }
+  }
+}

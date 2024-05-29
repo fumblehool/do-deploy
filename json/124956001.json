@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124956001,
+      "chineseName": "婴儿监护器",
+      "translatedName": "baby monitor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201571222"
+    }
+  }
+}

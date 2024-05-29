@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330213,
+      "chineseName": "篱笆/栅栏",
+      "translatedName": "Fence/Fence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125"
+    }
+  }
+}

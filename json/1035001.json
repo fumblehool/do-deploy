@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035001,
+      "chineseName": "箱式变电站",
+      "translatedName": "box-type substation",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "526"
+    }
+  }
+}

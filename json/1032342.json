@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032342,
+      "chineseName": "镇流器",
+      "translatedName": "Ballast",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10227"
+    }
+  }
+}

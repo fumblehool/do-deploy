@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032261,
+      "chineseName": "其他配电输电设备",
+      "translatedName": "Other power distribution and transmission equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "526"
+    }
+  }
+}

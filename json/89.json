@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 89,
+      "chineseName": "物流服务",
+      "translatedName": "Logistics Services",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032080,
+          "chineseName": "国际空运",
+          "translatedName": "International Air Transport",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1032081,
+          "chineseName": "国内空运",
+          "translatedName": "Domestic Air Transport",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1032076,
+          "chineseName": "特种物流",
+          "translatedName": "Special Logistics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1032079,
+          "chineseName": "仓储与配送",
+          "translatedName": "Warehousing and Distribution",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1033594,
+          "chineseName": "国内陆运",
+          "translatedName": "Domestic land transportation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1033596,
+          "chineseName": "国际陆运",
+          "translatedName": "international land transport",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1033595,
+          "chineseName": "国内水运",
+          "translatedName": "domestic water transport",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1033597,
+          "chineseName": "国际海运",
+          "translatedName": "International Shipping",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 1035815,
+          "chineseName": "商检报关",
+          "translatedName": "commodity inspection customs declaration",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 2830,
+          "chineseName": "货代",
+          "translatedName": "Freight Forwarder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        },
+        {
+          "categoryId": 2814,
+          "chineseName": "快递",
+          "translatedName": "Express",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 89
+        }
+      ]
+    }
+  }
+}

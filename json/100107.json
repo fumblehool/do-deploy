@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 100107,
+      "chineseName": "石油焦",
+      "translatedName": "petroleum coke",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "10"
+    }
+  }
+}

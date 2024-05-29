@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051612,
+      "chineseName": "其他光伏相关设备",
+      "translatedName": "Other PV related equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202052911"
+    }
+  }
+}

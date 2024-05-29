@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122260001,
+      "chineseName": "运动心率表",
+      "translatedName": "Exercise heart rate table",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121898001"
+    }
+  }
+}

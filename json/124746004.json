@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746004,
+      "chineseName": "标签打印纸",
+      "translatedName": "Label Printing Paper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2112"
+    }
+  }
+}

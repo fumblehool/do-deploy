@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037199,
+      "chineseName": "脚手架及其配件",
+      "translatedName": "Scaffolding and its accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032653"
+    }
+  }
+}

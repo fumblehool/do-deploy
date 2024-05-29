@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122796003,
+      "chineseName": "休闲、户外家具",
+      "translatedName": "Leisure, outdoor furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033757,
+          "chineseName": "户外花架",
+          "translatedName": "Outdoor flower stand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 1032691,
+          "chineseName": "充气沙发",
+          "translatedName": "inflatable sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 1035653,
+          "chineseName": "棋牌桌、麻将桌",
+          "translatedName": "Chess and card table, mahjong table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122794005,
+          "chineseName": "户外折叠桌椅",
+          "translatedName": "Outdoor folding tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122794006,
+          "chineseName": "充气旅行枕",
+          "translatedName": "Inflatable travel pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122796004,
+          "chineseName": "充气床",
+          "translatedName": "inflatable bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122772004,
+          "chineseName": "藤编桌椅",
+          "translatedName": "Rattan tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122794004,
+          "chineseName": "户外实木桌椅",
+          "translatedName": "Outdoor solid wood tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 121496008,
+          "chineseName": "沙滩椅",
+          "translatedName": "Beach Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 121494015,
+          "chineseName": "吊篮",
+          "translatedName": "Basket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122744004,
+          "chineseName": "摇椅",
+          "translatedName": "Rocking chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122800001,
+          "chineseName": "麻将桌",
+          "translatedName": "Mahjong Table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 122800002,
+          "chineseName": "户外金属桌椅",
+          "translatedName": "Outdoor metal tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 124066002,
+          "chineseName": "户外伞",
+          "translatedName": "outdoor umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 201357743,
+          "chineseName": "吊篮/吊椅",
+          "translatedName": "Hanging Basket/Hanging Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        },
+        {
+          "categoryId": 201900002,
+          "chineseName": "户外沙发",
+          "translatedName": "Outdoor Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122796003
+        }
+      ]
+    }
+  }
+}

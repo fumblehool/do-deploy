@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036457,
+      "chineseName": "柴油添加剂",
+      "translatedName": "diesel additive",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034567"
+    }
+  }
+}

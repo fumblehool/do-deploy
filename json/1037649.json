@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037649,
+      "chineseName": "童礼服",
+      "translatedName": "Children's Dress",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202030801"
+    }
+  }
+}

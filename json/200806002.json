@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200806002,
+      "chineseName": "功率二极管",
+      "translatedName": "power diode",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200804003"
+    }
+  }
+}

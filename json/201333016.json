@@ -1,0 +1,190 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201333016,
+      "chineseName": "邮票/钱币/纪念币",
+      "translatedName": "Stamps/Coins/Commemorative Coins",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037288,
+          "chineseName": "纪念币",
+          "translatedName": "Commemorative Coins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201332311,
+          "chineseName": "邮戳",
+          "translatedName": "Postmark",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201331617,
+          "chineseName": "银票/古钞",
+          "translatedName": "Silver Tickets/Old Banknotes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201336211,
+          "chineseName": "第一套人民币",
+          "translatedName": "The first set of RMB",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201330618,
+          "chineseName": "反馈卡",
+          "translatedName": "Feedback Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201330917,
+          "chineseName": "花钱/厌胜钱",
+          "translatedName": "Spend money/hate money",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201329912,
+          "chineseName": "连体钞/纪念钞",
+          "translatedName": "conjoined/commemorative banknotes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201333416,
+          "chineseName": "第三套人民币",
+          "translatedName": "The third set of RMB",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201335914,
+          "chineseName": "第二套人民币",
+          "translatedName": "The second set of RMB",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201344716,
+          "chineseName": "铜元",
+          "translatedName": "copper dollar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201333117,
+          "chineseName": "银元",
+          "translatedName": "silver dollar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201346711,
+          "chineseName": "古币",
+          "translatedName": "Ancient Coin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201332916,
+          "chineseName": "第四套人民币（流通币除外）",
+          "translatedName": "The fourth set of RMB (except currency in circulation)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201346510,
+          "chineseName": "邮票",
+          "translatedName": "Stamps",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201346511,
+          "chineseName": "民国钱币",
+          "translatedName": "COINS of the Republic of China",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201334814,
+          "chineseName": "非流通港澳台钱币",
+          "translatedName": "Non-circulating Hong Kong, Macao and Taiwan coins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201339214,
+          "chineseName": "非流通外国钱币",
+          "translatedName": "Non-circulating foreign coins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201339616,
+          "chineseName": "邮箱/邮筒/收件箱",
+          "translatedName": "Mailbox/Post Box/Inbox",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        },
+        {
+          "categoryId": 201339811,
+          "chineseName": "金币/鎏金币",
+          "translatedName": "Gold Coin/Gold Coin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201333016
+        }
+      ]
+    }
+  }
+}

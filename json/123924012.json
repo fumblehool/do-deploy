@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123924012,
+      "chineseName": "套筒扳手",
+      "translatedName": "Socket wrench",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926004"
+    }
+  }
+}

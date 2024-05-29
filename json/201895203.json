@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201895203,
+      "chineseName": "桑拿服、汗蒸服",
+      "translatedName": "Sauna clothes, sweat clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122500001"
+    }
+  }
+}

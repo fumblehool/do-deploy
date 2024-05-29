@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10204,
+      "chineseName": "电池",
+      "translatedName": "Battery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1009,
+          "chineseName": "蓄电池",
+          "translatedName": "Battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 10205,
+          "chineseName": "光电池",
+          "translatedName": "photocell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 10206,
+          "chineseName": "锂电池",
+          "translatedName": "Lithium battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 10207,
+          "chineseName": "其他电池",
+          "translatedName": "Other Batteries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 1032300,
+          "chineseName": "电池配件及材料",
+          "translatedName": "Battery accessories and materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 1032301,
+          "chineseName": "纽扣电池",
+          "translatedName": "button battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 1032303,
+          "chineseName": "充电电池",
+          "translatedName": "Rechargeable battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 1032306,
+          "chineseName": "镍镉电池",
+          "translatedName": "nickel-cadmium battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 1032307,
+          "chineseName": "镍氢电池",
+          "translatedName": "Ni-MH battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 155,
+          "chineseName": "干电池",
+          "translatedName": "dry battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 202058904,
+          "chineseName": "光伏储能系统",
+          "translatedName": "photovoltaic energy storage system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        },
+        {
+          "categoryId": 201857804,
+          "chineseName": "燃料电池",
+          "translatedName": "Fuel cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10204
+        }
+      ]
+    }
+  }
+}

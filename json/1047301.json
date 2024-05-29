@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047301,
+      "chineseName": "其他布类包装袋",
+      "translatedName": "Other cloth packaging bags",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047293"
+    }
+  }
+}

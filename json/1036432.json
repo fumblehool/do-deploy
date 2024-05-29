@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036432,
+      "chineseName": "节能环保材料",
+      "translatedName": "Energy saving and environmental protection materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "64"
+    }
+  }
+}

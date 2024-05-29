@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126144005,
+      "chineseName": "仿真阳具",
+      "translatedName": "artificial penis",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126178001"
+    }
+  }
+}

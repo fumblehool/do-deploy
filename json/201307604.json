@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201307604,
+      "chineseName": "眼部彩妆",
+      "translatedName": "Eye makeup",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034779,
+          "chineseName": "眉笔、眉粉、眉膏",
+          "translatedName": "Eyebrow pencil, eyebrow powder, eyebrow cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307604
+        },
+        {
+          "categoryId": 1034780,
+          "chineseName": "睫毛膏",
+          "translatedName": "Mascara",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307604
+        },
+        {
+          "categoryId": 1034782,
+          "chineseName": "眼影",
+          "translatedName": "Eyeshadow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307604
+        },
+        {
+          "categoryId": 1036812,
+          "chineseName": "眼线",
+          "translatedName": "Eyeliner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307604
+        },
+        {
+          "categoryId": 201916905,
+          "chineseName": "儿童彩妆",
+          "translatedName": "Children's makeup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201307604
+        }
+      ]
+    }
+  }
+}

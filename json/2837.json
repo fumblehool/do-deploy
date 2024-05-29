@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2837,
+      "chineseName": "产权债权转让",
+      "translatedName": "Transfer of property rights claims",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1036079"
+    }
+  }
+}

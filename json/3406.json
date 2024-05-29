@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3406,
+      "chineseName": "印前处理设备",
+      "translatedName": "prepress processing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "72",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034082,
+          "chineseName": "其他印前处理设备",
+          "translatedName": "Other prepress processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1034083,
+          "chineseName": "打样机",
+          "translatedName": "Proofing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1034084,
+          "chineseName": "晒版机",
+          "translatedName": "printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1032525,
+          "chineseName": "制版机",
+          "translatedName": "plate making machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 10455,
+          "chineseName": "照排机",
+          "translatedName": "phototypesetting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1036332,
+          "chineseName": "光绘机",
+          "translatedName": "light plotter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1036333,
+          "chineseName": "绷网机",
+          "translatedName": "Tauber",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        },
+        {
+          "categoryId": 1036334,
+          "chineseName": "冲版机",
+          "translatedName": "plate punching machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3406
+        }
+      ]
+    }
+  }
+}

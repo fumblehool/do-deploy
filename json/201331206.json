@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201331206,
+      "chineseName": "生物缓冲液",
+      "translatedName": "Biological buffer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332403"
+    }
+  }
+}

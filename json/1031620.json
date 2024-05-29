@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031620,
+      "chineseName": "合成胶粘剂",
+      "translatedName": "synthetic adhesive",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032189,
+          "chineseName": "密封胶",
+          "translatedName": "Sealant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1034570,
+          "chineseName": "复合型胶粘剂",
+          "translatedName": "composite adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1036565,
+          "chineseName": "压敏胶",
+          "translatedName": "pressure sensitive adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1036566,
+          "chineseName": "瞬间胶",
+          "translatedName": "Instant Glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1036567,
+          "chineseName": "热熔胶",
+          "translatedName": "hot melt adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1036568,
+          "chineseName": "结构胶",
+          "translatedName": "structural adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1036569,
+          "chineseName": "厌氧胶",
+          "translatedName": "anaerobic adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042481,
+          "chineseName": "导电胶",
+          "translatedName": "conductive adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042482,
+          "chineseName": "万能胶",
+          "translatedName": "Universal glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042484,
+          "chineseName": "绝缘胶",
+          "translatedName": "Insulating glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042485,
+          "chineseName": "浸渗胶",
+          "translatedName": "infiltrating adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042486,
+          "chineseName": "灌封胶",
+          "translatedName": "Potting glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042487,
+          "chineseName": "硬化胶",
+          "translatedName": "hardening glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042488,
+          "chineseName": "耐低温胶",
+          "translatedName": "Low temperature resistant adhesive",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042491,
+          "chineseName": "防火胶",
+          "translatedName": "Fireproof glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1037139,
+          "chineseName": "UV胶",
+          "translatedName": "UV glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042492,
+          "chineseName": "防水胶",
+          "translatedName": "waterproof glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042493,
+          "chineseName": "特种胶",
+          "translatedName": "special glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 1042499,
+          "chineseName": "纸品用胶",
+          "translatedName": "Adhesive for paper products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 201159105,
+          "chineseName": "改性硅烷",
+          "translatedName": "modified silane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        },
+        {
+          "categoryId": 822,
+          "chineseName": "其他合成胶粘剂",
+          "translatedName": "Other synthetic adhesives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031620
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 904,
+      "chineseName": "有色金属矿产",
+      "translatedName": "non-ferrous metal mineral",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033385,
+          "chineseName": "其他有色金属矿产",
+          "translatedName": "Other non-ferrous minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        },
+        {
+          "categoryId": 1033386,
+          "chineseName": "半金属矿产",
+          "translatedName": "semi-metallic mineral",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        },
+        {
+          "categoryId": 1033387,
+          "chineseName": "贵金属矿产",
+          "translatedName": "Precious metal minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        },
+        {
+          "categoryId": 1033388,
+          "chineseName": "稀有金属矿产",
+          "translatedName": "rare metal mineral",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        },
+        {
+          "categoryId": 1033389,
+          "chineseName": "重有色金属矿产",
+          "translatedName": "heavy non-ferrous metal mineral",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        },
+        {
+          "categoryId": 1033390,
+          "chineseName": "轻有色金属矿产",
+          "translatedName": "Light non-ferrous minerals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 904
+        }
+      ]
+    }
+  }
+}

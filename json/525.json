@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 525,
+      "chineseName": "高压电器",
+      "translatedName": "High-voltage electrical appliances",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032264,
+          "chineseName": "高压开关柜",
+          "translatedName": "High voltage switch cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1032254,
+          "chineseName": "其他高压电器",
+          "translatedName": "Other high-voltage appliances",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1032256,
+          "chineseName": "高压成套电器",
+          "translatedName": "High-voltage complete electrical apparatus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1032257,
+          "chineseName": "高压接触器",
+          "translatedName": "High-voltage contactor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1032258,
+          "chineseName": "高压断路器",
+          "translatedName": "high voltage circuit breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1032259,
+          "chineseName": "高压熔断器",
+          "translatedName": "high voltage fuse",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1036544,
+          "chineseName": "电缆分接箱",
+          "translatedName": "Cable tap box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 1036545,
+          "chineseName": "高压接地开关",
+          "translatedName": "HV earthing switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 127106001,
+          "chineseName": "互感器",
+          "translatedName": "Transformer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        },
+        {
+          "categoryId": 127108001,
+          "chineseName": "避雷器",
+          "translatedName": "Arrester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 525
+        }
+      ]
+    }
+  }
+}

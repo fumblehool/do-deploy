@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202001206,
+      "chineseName": "关东煮",
+      "translatedName": "Kwantung Boiled",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202010504"
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 81,
+      "chineseName": "书写工具",
+      "translatedName": "Writing Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033104,
+          "chineseName": "其他笔类",
+          "translatedName": "Other Pens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033105,
+          "chineseName": "笔配件",
+          "translatedName": "Pen Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033107,
+          "chineseName": "记号笔",
+          "translatedName": "marker pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033108,
+          "chineseName": "荧光笔",
+          "translatedName": "Highlighter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033109,
+          "chineseName": "中性笔",
+          "translatedName": "neutral pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033110,
+          "chineseName": "钢笔",
+          "translatedName": "Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033111,
+          "chineseName": "圆珠笔、中油笔",
+          "translatedName": "Ballpoint pen, medium oil pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033112,
+          "chineseName": "铅笔",
+          "translatedName": "Pencil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 1033123,
+          "chineseName": "粉笔",
+          "translatedName": "Chalk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 124256007,
+          "chineseName": "台笔",
+          "translatedName": "Desk pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122626002,
+          "chineseName": "书写油墨",
+          "translatedName": "writing ink",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122638004,
+          "chineseName": "活动铅笔",
+          "translatedName": "Active Pencil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122638005,
+          "chineseName": "礼品笔",
+          "translatedName": "Gift Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122646002,
+          "chineseName": "白板笔",
+          "translatedName": "Whiteboard pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122662001,
+          "chineseName": "替芯、笔芯",
+          "translatedName": "Refill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 122664001,
+          "chineseName": "宝珠笔、签字笔",
+          "translatedName": "Ball pen, signature pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 201157104,
+          "chineseName": "针管笔",
+          "translatedName": "syringe pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 201161603,
+          "chineseName": "蘸水笔",
+          "translatedName": "Dip Pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 201236105,
+          "chineseName": "马克笔",
+          "translatedName": "Marker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        },
+        {
+          "categoryId": 201162806,
+          "chineseName": "油漆笔",
+          "translatedName": "Paint pen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 81
+        }
+      ]
+    }
+  }
+}

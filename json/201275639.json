@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201275639,
+      "chineseName": "特殊用途膳食营养补充剂",
+      "translatedName": "Special Purpose Dietary Supplements",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201271344,
+          "chineseName": "运动营养食品",
+          "translatedName": "sports nutrition food",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201275639
+        },
+        {
+          "categoryId": 201273059,
+          "chineseName": "特殊医学用途食品",
+          "translatedName": "Food for special medical purposes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201275639
+        },
+        {
+          "categoryId": 201268067,
+          "chineseName": "其他特殊用途膳食营养补充剂",
+          "translatedName": "Other special purpose dietary supplements",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201275639
+        }
+      ]
+    }
+  }
+}

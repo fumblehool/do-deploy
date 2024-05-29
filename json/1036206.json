@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036206,
+      "chineseName": "环境检测仪器",
+      "translatedName": "Environmental testing instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036207,
+          "chineseName": "其他环境检测仪器",
+          "translatedName": "Other environmental testing instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036208,
+          "chineseName": "臭氧检测仪",
+          "translatedName": "Ozone detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036209,
+          "chineseName": "COD检测仪器",
+          "translatedName": "COD detection instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036210,
+          "chineseName": "ROHS检测仪器",
+          "translatedName": "ROHS testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036211,
+          "chineseName": "在线监测仪",
+          "translatedName": "online monitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036212,
+          "chineseName": "噪音计",
+          "translatedName": "noise meter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036213,
+          "chineseName": "粉尘采样、检测仪器",
+          "translatedName": "Dust sampling and testing instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 1036214,
+          "chineseName": "大气采样仪",
+          "translatedName": "atmospheric sampler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        },
+        {
+          "categoryId": 121490010,
+          "chineseName": "土壤检测仪器",
+          "translatedName": "Soil testing instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036206
+        }
+      ]
+    }
+  }
+}

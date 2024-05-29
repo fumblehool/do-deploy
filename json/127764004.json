@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127764004,
+      "chineseName": "电力金具",
+      "translatedName": "Power fittings",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127756005,
+          "chineseName": "悬吊金具",
+          "translatedName": "Hanging hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127762003,
+          "chineseName": "锚固金具",
+          "translatedName": "Anchoring Fit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127746005,
+          "chineseName": "线夹",
+          "translatedName": "Clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127740008,
+          "chineseName": "连接金具",
+          "translatedName": "Connecting hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127780003,
+          "chineseName": "接续金具",
+          "translatedName": "connection hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127782005,
+          "chineseName": "接触金具",
+          "translatedName": "Contact hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127786002,
+          "chineseName": "防护金具",
+          "translatedName": "Protective hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        },
+        {
+          "categoryId": 127778006,
+          "chineseName": "固定金具",
+          "translatedName": "Fixed hardware",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127764004
+        }
+      ]
+    }
+  }
+}

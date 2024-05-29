@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122988006,
+      "chineseName": "工具玩具",
+      "translatedName": "TOOLS TOYS",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962011"
+    }
+  }
+}

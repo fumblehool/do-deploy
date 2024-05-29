@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201925001,
+      "chineseName": "瑜伽洗鼻器",
+      "translatedName": "Yoga nasal wash",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044713"
+    }
+  }
+}

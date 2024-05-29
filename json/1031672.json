@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031672,
+      "chineseName": "合成树脂",
+      "translatedName": "synthetic resin",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031673,
+          "chineseName": "有机硅树脂",
+          "translatedName": "silicone resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031674,
+          "chineseName": "氨基树脂",
+          "translatedName": "amino resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031675,
+          "chineseName": "离子交换树脂",
+          "translatedName": "ion exchange resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031676,
+          "chineseName": "不饱和聚酯树脂",
+          "translatedName": "unsaturated polyester resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031677,
+          "chineseName": "丙烯酸树脂",
+          "translatedName": "acrylic resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031678,
+          "chineseName": "酚醛树脂",
+          "translatedName": "Phenolic resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031679,
+          "chineseName": "环氧树脂",
+          "translatedName": "Epoxy Resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031604,
+          "chineseName": "聚氨酯树脂",
+          "translatedName": "polyurethane resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031605,
+          "chineseName": "脲醛树脂",
+          "translatedName": "urea-formaldehyde resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1031606,
+          "chineseName": "聚酰胺树脂",
+          "translatedName": "polyamide resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 1037136,
+          "chineseName": "古马隆树脂",
+          "translatedName": "Gumalon resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 806,
+          "chineseName": "其他合成树脂",
+          "translatedName": "Other Synthetic Resins",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        },
+        {
+          "categoryId": 831,
+          "chineseName": "呋喃树脂",
+          "translatedName": "furan resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031672
+        }
+      ]
+    }
+  }
+}

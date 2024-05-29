@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033842,
+      "chineseName": "配料秤",
+      "translatedName": "batching scale",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032372"
+    }
+  }
+}

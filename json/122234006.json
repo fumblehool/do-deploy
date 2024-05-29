@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122234006,
+      "chineseName": "皮革家具护理品",
+      "translatedName": "Leather Furniture Care Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122262003"
+    }
+  }
+}

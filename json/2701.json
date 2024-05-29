@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2701,
+      "chineseName": "进出口代理",
+      "translatedName": "Import and Export Agent",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036081,
+          "chineseName": "退税服务",
+          "translatedName": "Tax refund service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2701
+        },
+        {
+          "categoryId": 1036082,
+          "chineseName": "清关服务",
+          "translatedName": "Customs Clearance Service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2701
+        },
+        {
+          "categoryId": 1036083,
+          "chineseName": "单证服务",
+          "translatedName": "documentary services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2701
+        },
+        {
+          "categoryId": 1036084,
+          "chineseName": "采购代理",
+          "translatedName": "Purchasing Agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2701
+        },
+        {
+          "categoryId": 1036085,
+          "chineseName": "全套代理",
+          "translatedName": "Full Agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2701
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022010,
+      "chineseName": "面部防护",
+      "translatedName": "Face Protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033214,
+          "chineseName": "其他面部防护",
+          "translatedName": "Other face protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022010
+        },
+        {
+          "categoryId": 124014013,
+          "chineseName": "防护面屏",
+          "translatedName": "Protective surface screen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022010
+        },
+        {
+          "categoryId": 124000012,
+          "chineseName": "防护面罩",
+          "translatedName": "Protective mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124022010
+        }
+      ]
+    }
+  }
+}

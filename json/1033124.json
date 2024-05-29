@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033124,
+      "chineseName": "板擦",
+      "translatedName": "Board eraser",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2129"
+    }
+  }
+}

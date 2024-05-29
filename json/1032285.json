@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032285,
+      "chineseName": "彩色灯泡",
+      "translatedName": "colored light bulb",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10219"
+    }
+  }
+}

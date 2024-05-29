@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122086002,
+      "chineseName": "童旗袍/唐装/民族服装（停用",
+      "translatedName": "Children's cheongsam/Tang suit/ethnic costume (deactivated",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "311"
+    }
+  }
+}

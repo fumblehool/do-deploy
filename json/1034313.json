@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034313,
+      "chineseName": "其他风机、排风设备",
+      "translatedName": "Other fans and exhaust equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1422"
+    }
+  }
+}

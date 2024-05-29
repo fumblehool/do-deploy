@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123926005,
+      "chineseName": "扭力扳手",
+      "translatedName": "Torque wrench",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123926004"
+    }
+  }
+}

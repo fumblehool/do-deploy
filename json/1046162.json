@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046162,
+      "chineseName": "汽车用气囊",
+      "translatedName": "Air bag for automobile",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046156"
+    }
+  }
+}

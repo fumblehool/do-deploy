@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202038903,
+      "chineseName": "外形检测门架",
+      "translatedName": "Contour inspection door frame",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10414"
+    }
+  }
+}

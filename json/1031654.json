@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031654,
+      "chineseName": "其他工业用橡胶制品",
+      "translatedName": "Other rubber products for industrial use",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201373405"
+    }
+  }
+}

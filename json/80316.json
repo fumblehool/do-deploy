@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80316,
+      "chineseName": "醚",
+      "translatedName": "Ether",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037114,
+          "chineseName": "丁醚",
+          "translatedName": "butyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037115,
+          "chineseName": "乙二醇乙醚",
+          "translatedName": "Ethylene Glycol Ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037116,
+          "chineseName": "石油醚",
+          "translatedName": "petroleum ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037239,
+          "chineseName": "二乙二醇丁醚",
+          "translatedName": "diethylene glycol butyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037240,
+          "chineseName": "聚醚",
+          "translatedName": "Polyether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037241,
+          "chineseName": "苯乙醚",
+          "translatedName": "Phenylether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037242,
+          "chineseName": "乙二醇二乙醚",
+          "translatedName": "ethylene glycol diethyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037106,
+          "chineseName": "其他醚",
+          "translatedName": "Other ethers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037107,
+          "chineseName": "十溴联苯醚",
+          "translatedName": "Decabromodiphenyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037108,
+          "chineseName": "对羟基苯甲醚",
+          "translatedName": "p-Hydroxyanisole",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037109,
+          "chineseName": "聚四氢呋喃醚",
+          "translatedName": "polytetrahydrofuran ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037110,
+          "chineseName": "脂肪醇聚氧乙烯醚",
+          "translatedName": "fatty alcohol polyoxyethylene ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037111,
+          "chineseName": "甲基叔丁基醚",
+          "translatedName": "methyl tert-butyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037112,
+          "chineseName": "二苯醚",
+          "translatedName": "diphenyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037113,
+          "chineseName": "二甲醚",
+          "translatedName": "dimethyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037233,
+          "chineseName": "防白水",
+          "translatedName": "Whitewater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037236,
+          "chineseName": "烷基酚聚氧乙烯醚",
+          "translatedName": "Alkylphenol ethoxylates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037235,
+          "chineseName": "异丙醚",
+          "translatedName": "isopropyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037237,
+          "chineseName": "乙二醇丁醚",
+          "translatedName": "ethylene glycol butyl ether",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        },
+        {
+          "categoryId": 1037238,
+          "chineseName": "壬基酚聚氧乙烯醚",
+          "translatedName": "nonylphenol ethoxylates",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80316
+        }
+      ]
+    }
+  }
+}

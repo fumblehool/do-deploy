@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033358,
+      "chineseName": "其他矿山施工设备及配件",
+      "translatedName": "Other mining construction equipment and accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "922"
+    }
+  }
+}

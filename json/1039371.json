@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1039371,
+      "chineseName": "显示器件",
+      "translatedName": "display device",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202061303"
+    }
+  }
+}

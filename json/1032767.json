@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032767,
+      "chineseName": "筒灯",
+      "translatedName": "Downlight",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201903201"
+    }
+  }
+}

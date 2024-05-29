@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612012,
+      "chineseName": "OLED",
+      "translatedName": "OLED",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122280002,
+          "chineseName": "OLED驱动",
+          "translatedName": "OLED driver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        },
+        {
+          "categoryId": 122198007,
+          "chineseName": "OLED显示屏",
+          "translatedName": "OLED display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        },
+        {
+          "categoryId": 122242005,
+          "chineseName": "OLED材料",
+          "translatedName": "OLED materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        },
+        {
+          "categoryId": 123612014,
+          "chineseName": "其他OLED",
+          "translatedName": "Other OLEDs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        },
+        {
+          "categoryId": 123616016,
+          "chineseName": "OLED照明",
+          "translatedName": "OLED lighting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        },
+        {
+          "categoryId": 123618010,
+          "chineseName": "OLED设备",
+          "translatedName": "OLED devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123612012
+        }
+      ]
+    }
+  }
+}

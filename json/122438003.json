@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122438003,
+      "chineseName": "运动、休闲棉袜",
+      "translatedName": "Sports, leisure cotton socks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043349"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 141905,
+      "chineseName": "模具",
+      "translatedName": "Mold",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032436,
+          "chineseName": "其他模具",
+          "translatedName": "Other molds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032437,
+          "chineseName": "模具设备",
+          "translatedName": "Mold equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032439,
+          "chineseName": "快速经济模具",
+          "translatedName": "Rapid economic mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032440,
+          "chineseName": "粉末冶金模",
+          "translatedName": "powder metallurgy mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032441,
+          "chineseName": "成型模",
+          "translatedName": "forming die",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032442,
+          "chineseName": "拉丝模",
+          "translatedName": "wire drawing die",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032443,
+          "chineseName": "锻造模",
+          "translatedName": "forging die",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032444,
+          "chineseName": "铸造模",
+          "translatedName": "casting mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032445,
+          "chineseName": "冲压模",
+          "translatedName": "stamping die",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032446,
+          "chineseName": "橡胶模",
+          "translatedName": "Rubber mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1032447,
+          "chineseName": "塑料模",
+          "translatedName": "plastic mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1036782,
+          "chineseName": "压铸模",
+          "translatedName": "die-casting mould",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        },
+        {
+          "categoryId": 1042529,
+          "chineseName": "冷镦模",
+          "translatedName": "cold heading die",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 141905
+        }
+      ]
+    }
+  }
+}

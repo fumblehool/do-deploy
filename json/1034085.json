@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034085,
+      "chineseName": "其他纸加工机械",
+      "translatedName": "Other Paper Processing Machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10370"
+    }
+  }
+}

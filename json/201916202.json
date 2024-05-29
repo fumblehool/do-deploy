@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201916202,
+      "chineseName": "电子维修套装",
+      "translatedName": "Electronic repair kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046977"
+    }
+  }
+}

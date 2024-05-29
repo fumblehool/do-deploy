@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310012,
+      "chineseName": "男士假发",
+      "translatedName": "Men's Wig",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122338008"
+    }
+  }
+}

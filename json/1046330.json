@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046330,
+      "chineseName": "特种养殖动物",
+      "translatedName": "Special breeding animals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046331,
+          "chineseName": "特种兽畜",
+          "translatedName": "Special animals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046330
+        },
+        {
+          "categoryId": 1046332,
+          "chineseName": "特种珍禽",
+          "translatedName": "Special rare birds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046330
+        },
+        {
+          "categoryId": 1046333,
+          "chineseName": "特种昆虫",
+          "translatedName": "special insects",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046330
+        },
+        {
+          "categoryId": 1046334,
+          "chineseName": "特种水产",
+          "translatedName": "special aquatic products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046330
+        },
+        {
+          "categoryId": 1046335,
+          "chineseName": "其他特种养殖动物",
+          "translatedName": "Other Special Farmed Animals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046330
+        }
+      ]
+    }
+  }
+}

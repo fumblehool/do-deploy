@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046647,
+      "chineseName": "其他林业副产品",
+      "translatedName": "Other forestry by-products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045486"
+    }
+  }
+}

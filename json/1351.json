@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1351,
+      "chineseName": "梯类",
+      "translatedName": "Ladder",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032637,
+          "chineseName": "其他梯类及设施",
+          "translatedName": "Other ladders and facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1351
+        },
+        {
+          "categoryId": 1032638,
+          "chineseName": "楼梯及配件",
+          "translatedName": "Stairs and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1351
+        },
+        {
+          "categoryId": 1208,
+          "chineseName": "电梯及配件",
+          "translatedName": "Elevator and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1351
+        }
+      ]
+    }
+  }
+}

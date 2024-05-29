@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034857,
+      "chineseName": "热稳定剂",
+      "translatedName": "heat stabilizer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10371"
+    }
+  }
+}

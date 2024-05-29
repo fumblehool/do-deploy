@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033992,
+      "chineseName": "其他电话机配附件",
+      "translatedName": "Other telephone with accessories",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "50915"
+    }
+  }
+}

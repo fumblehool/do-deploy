@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201921102,
+      "chineseName": "真空吸笔",
+      "translatedName": "vacuum suction pen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201924501"
+    }
+  }
+}

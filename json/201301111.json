@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201301111,
+      "chineseName": "粉状精华",
+      "translatedName": "powder essence",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201308310"
+    }
+  }
+}

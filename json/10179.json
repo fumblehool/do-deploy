@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10179,
+      "chineseName": "制鞋机械",
+      "translatedName": "Shoe Machinery",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034477,
+          "chineseName": "其他制鞋机械",
+          "translatedName": "Other Shoe Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034478,
+          "chineseName": "打钉机",
+          "translatedName": "nailing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034479,
+          "chineseName": "结帮机",
+          "translatedName": "knot machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034481,
+          "chineseName": "前帮机",
+          "translatedName": "Front Helper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034480,
+          "chineseName": "后帮机",
+          "translatedName": "Rear Helper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034482,
+          "chineseName": "钉跟机",
+          "translatedName": "Nailing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034483,
+          "chineseName": "压合机",
+          "translatedName": "press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034484,
+          "chineseName": "压底机",
+          "translatedName": "bottom pressing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034485,
+          "chineseName": "鞋眼机",
+          "translatedName": "Shoe-eye machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034486,
+          "chineseName": "鞋成型机",
+          "translatedName": "Shoe forming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034394,
+          "chineseName": "修鞋设备",
+          "translatedName": "Shoe repair equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1034395,
+          "chineseName": "鞋机配件",
+          "translatedName": "Shoe machine accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1036832,
+          "chineseName": "鞋修饰机",
+          "translatedName": "Shoe Modifier Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1036051,
+          "chineseName": "缝鞋机",
+          "translatedName": "sewing shoe machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1036052,
+          "chineseName": "定型机",
+          "translatedName": "setting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        },
+        {
+          "categoryId": 1036053,
+          "chineseName": "上胶机",
+          "translatedName": "Gluer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10179
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125484002,
+      "chineseName": "种子、种苗及种球",
+      "translatedName": "Seeds, seedlings and balls",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10016,
+          "chineseName": "树苗",
+          "translatedName": "sapling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125484002
+        },
+        {
+          "categoryId": 125500001,
+          "chineseName": "种苗",
+          "translatedName": "seedling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125484002
+        },
+        {
+          "categoryId": 125502001,
+          "chineseName": "种球",
+          "translatedName": "seed ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125484002
+        },
+        {
+          "categoryId": 125504001,
+          "chineseName": "种子",
+          "translatedName": "Seeds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125484002
+        },
+        {
+          "categoryId": 201157611,
+          "chineseName": "草种子",
+          "translatedName": "grass seed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125484002
+        }
+      ]
+    }
+  }
+}

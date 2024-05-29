@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033608,
+      "chineseName": "输送线",
+      "translatedName": "Conveyor Line",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1228"
+    }
+  }
+}

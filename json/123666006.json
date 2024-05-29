@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123666006,
+      "chineseName": "男式西装马甲",
+      "translatedName": "Men's Suit Vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123694001"
+    }
+  }
+}

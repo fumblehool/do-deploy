@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3417,
+      "chineseName": "光学摄影器材",
+      "translatedName": "optical photographic equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034112,
+          "chineseName": "其他摄影器材",
+          "translatedName": "Other photographic equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1914,
+          "chineseName": "摄影棚",
+          "translatedName": "Studio",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1915,
+          "chineseName": "三脚架",
+          "translatedName": "Tripod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1916,
+          "chineseName": "镜头",
+          "translatedName": "Lens",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1917,
+          "chineseName": "贴纸相机",
+          "translatedName": "Sticker Camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1903,
+          "chineseName": "冲印彩扩设备",
+          "translatedName": "Printing color expansion equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1913,
+          "chineseName": "摄影背景",
+          "translatedName": "Photography background",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        },
+        {
+          "categoryId": 1901,
+          "chineseName": "光学相机",
+          "translatedName": "optical camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3417
+        }
+      ]
+    }
+  }
+}

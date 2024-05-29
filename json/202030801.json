@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202030801,
+      "chineseName": "校园服装",
+      "translatedName": "Campus Clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "311",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037649,
+          "chineseName": "童礼服",
+          "translatedName": "Children's Dress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        },
+        {
+          "categoryId": 122704004,
+          "chineseName": "童披风/斗蓬",
+          "translatedName": "Children's Cape/Cloak",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        },
+        {
+          "categoryId": 122086001,
+          "chineseName": "童表演服/舞蹈服/摄影服",
+          "translatedName": "Children's performance clothes/dance clothes/photography clothes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        },
+        {
+          "categoryId": 122088001,
+          "chineseName": "校服/校服定制",
+          "translatedName": "School Uniform/Uniform Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        },
+        {
+          "categoryId": 202031301,
+          "chineseName": "班服/园服",
+          "translatedName": "Class clothing/garden clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        },
+        {
+          "categoryId": 202031501,
+          "chineseName": "学生军训服",
+          "translatedName": "Student military training uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202030801
+        }
+      ]
+    }
+  }
+}

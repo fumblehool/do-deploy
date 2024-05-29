@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127658022,
+      "chineseName": "堆垛脚碗",
+      "translatedName": "Stacking Foot Bowl",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032077"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033230,
+      "chineseName": "交通警示灯",
+      "translatedName": "Traffic warning light",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041282"
+    }
+  }
+}

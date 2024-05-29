@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201547712,
+      "chineseName": "男式羽绒马甲",
+      "translatedName": "Men's Down Vest",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123682003"
+    }
+  }
+}

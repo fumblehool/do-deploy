@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10107,
+      "chineseName": "电源、点火系统",
+      "translatedName": "Power supply, ignition system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036924,
+          "chineseName": "分电器",
+          "translatedName": "Distributor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036925,
+          "chineseName": "电子调节器",
+          "translatedName": "electronic regulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036676,
+          "chineseName": "其他电源、点火系统",
+          "translatedName": "Other power supply, ignition system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036677,
+          "chineseName": "电源、点火系统配件",
+          "translatedName": "Power supply, ignition system accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036679,
+          "chineseName": "点火线圈",
+          "translatedName": "Ignition coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036680,
+          "chineseName": "火花塞",
+          "translatedName": "spark plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1036682,
+          "chineseName": "点火器",
+          "translatedName": "Igniter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 1042661,
+          "chineseName": "发电机及配件",
+          "translatedName": "Generators and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 123276002,
+          "chineseName": "点火开关",
+          "translatedName": "Ignition switch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 123278003,
+          "chineseName": "点火模块",
+          "translatedName": "Ignition Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        },
+        {
+          "categoryId": 123282003,
+          "chineseName": "预热塞",
+          "translatedName": "glow plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10107
+        }
+      ]
+    }
+  }
+}

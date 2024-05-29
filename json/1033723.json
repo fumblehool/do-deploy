@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033723,
+      "chineseName": "香菇",
+      "translatedName": "Shiitake mushroom",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "106"
+    }
+  }
+}

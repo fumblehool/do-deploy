@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1422,
+      "chineseName": "风机、排风设备",
+      "translatedName": "Fan and exhaust equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034313,
+          "chineseName": "其他风机、排风设备",
+          "translatedName": "Other fans and exhaust equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034314,
+          "chineseName": "风管",
+          "translatedName": "Air duct",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034315,
+          "chineseName": "风叶",
+          "translatedName": "wind blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034316,
+          "chineseName": "风机盘管",
+          "translatedName": "Fan coil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034317,
+          "chineseName": "离子风机",
+          "translatedName": "Ion fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034319,
+          "chineseName": "风幕机",
+          "translatedName": "air curtain machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034320,
+          "chineseName": "工业风扇",
+          "translatedName": "industrial fan",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034321,
+          "chineseName": "通风机",
+          "translatedName": "Ventilator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1034322,
+          "chineseName": "鼓风机",
+          "translatedName": "Blower",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1035663,
+          "chineseName": "风机、排风设备配件",
+          "translatedName": "Fan, exhaust equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        },
+        {
+          "categoryId": 1042435,
+          "chineseName": "风口",
+          "translatedName": "Tuyere",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1422
+        }
+      ]
+    }
+  }
+}

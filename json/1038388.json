@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1038388,
+      "chineseName": "砌筑材料",
+      "translatedName": "Masonry Materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "201346017",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10427,
+          "chineseName": "混凝土制品",
+          "translatedName": "Concrete Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        },
+        {
+          "categoryId": 1308,
+          "chineseName": "水泥",
+          "translatedName": "Cement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        },
+        {
+          "categoryId": 1313,
+          "chineseName": "砖瓦及砌块",
+          "translatedName": "Brick, tile and block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        },
+        {
+          "categoryId": 201608506,
+          "chineseName": "沙子",
+          "translatedName": "Sand",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        },
+        {
+          "categoryId": 1339,
+          "chineseName": "砂浆",
+          "translatedName": "Mortar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        },
+        {
+          "categoryId": 833,
+          "chineseName": "陶瓷",
+          "translatedName": "Ceramics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1038388
+        }
+      ]
+    }
+  }
+}

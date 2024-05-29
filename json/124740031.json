@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124740031,
+      "chineseName": "背巾/背婴带/腰凳",
+      "translatedName": "Back towel/baby belt/waist stool",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122962004"
+    }
+  }
+}

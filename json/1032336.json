@@ -1,0 +1,478 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032336,
+      "chineseName": "电动工具",
+      "translatedName": "Electric tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034180,
+          "chineseName": "开槽机",
+          "translatedName": "Slotting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1032334,
+          "chineseName": "其他电动磨光机",
+          "translatedName": "Other electric polishing machines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035237,
+          "chineseName": "手电钻",
+          "translatedName": "Hand electric drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035585,
+          "chineseName": "电磨(直磨机)",
+          "translatedName": "Electric Mill (Straight Mill)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035586,
+          "chineseName": "电动砂轮机",
+          "translatedName": "Electric grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035587,
+          "chineseName": "其他电动工具",
+          "translatedName": "Other Power Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035588,
+          "chineseName": "套装电动工具",
+          "translatedName": "Set of electric tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035589,
+          "chineseName": "电动扳手",
+          "translatedName": "Electric wrench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035590,
+          "chineseName": "电动套丝机",
+          "translatedName": "Electric threading machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035591,
+          "chineseName": "电动螺丝刀、起子机",
+          "translatedName": "Electric screwdriver, screwdriver",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035593,
+          "chineseName": "电动雕刻机",
+          "translatedName": "electric engraving machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035594,
+          "chineseName": "电刨",
+          "translatedName": "electric planer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035581,
+          "chineseName": "电动砂光机（砂磨机）",
+          "translatedName": "Electric sander (sand mill)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035583,
+          "chineseName": "电动抛光机",
+          "translatedName": "electric polishing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035582,
+          "chineseName": "光饰机",
+          "translatedName": "Finishing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035584,
+          "chineseName": "电动角磨机",
+          "translatedName": "Electric angle grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1036387,
+          "chineseName": "磨刀机",
+          "translatedName": "knife grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1036913,
+          "chineseName": "螺丝机",
+          "translatedName": "Screw machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1041927,
+          "chineseName": "电镐",
+          "translatedName": "electric pick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1045093,
+          "chineseName": "电动工具配件",
+          "translatedName": "Power tool accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035598,
+          "chineseName": "石材切割机",
+          "translatedName": "Stone cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035599,
+          "chineseName": "型材切割机",
+          "translatedName": "profile cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035600,
+          "chineseName": "其他电锯",
+          "translatedName": "Other chainsaws",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035601,
+          "chineseName": "电动坡口机",
+          "translatedName": "Electric beveling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1035603,
+          "chineseName": "电锤",
+          "translatedName": "electric hammer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1036840,
+          "chineseName": "电动倒角机",
+          "translatedName": "Electric chamferer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1036843,
+          "chineseName": "热风枪",
+          "translatedName": "Hot air gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 1046576,
+          "chineseName": "工业吸尘器",
+          "translatedName": "Industrial Vacuum Cleaner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124190001,
+          "chineseName": "修边机",
+          "translatedName": "trimming machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124268007,
+          "chineseName": "电动拉铆枪",
+          "translatedName": "Electric rivet gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124158002,
+          "chineseName": "磁座钻",
+          "translatedName": "Magnetic seat drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124186002,
+          "chineseName": "电圆锯",
+          "translatedName": "electric circular saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124186003,
+          "chineseName": "马刀锯（往复锯）",
+          "translatedName": "saber saw (reciprocating saw)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124184001,
+          "chineseName": "电动曲线锯",
+          "translatedName": "electric jig saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124188001,
+          "chineseName": "斜切锯",
+          "translatedName": "miter saw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124188002,
+          "chineseName": "电动吹风机",
+          "translatedName": "Electric hair dryer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 124152003,
+          "chineseName": "冲击钻",
+          "translatedName": "percussion drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 201922101,
+          "chineseName": "电动锉刀",
+          "translatedName": "Electric file",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202027905,
+          "chineseName": "电动螺母破切器",
+          "translatedName": "Electric nut breaker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202038202,
+          "chineseName": "电动黄油枪",
+          "translatedName": "Electric grease gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202026904,
+          "chineseName": "电动钉枪",
+          "translatedName": "Electric nail gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202035903,
+          "chineseName": "电动液压拉马",
+          "translatedName": "Electro-hydraulic pular",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 201922201,
+          "chineseName": "电动岩石钻",
+          "translatedName": "Electric Rock Drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 201922603,
+          "chineseName": "工业手持电动搅拌机",
+          "translatedName": "Industrial hand-held electric mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202029106,
+          "chineseName": "电动液压钳",
+          "translatedName": "Electric hydraulic pliers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202029402,
+          "chineseName": "电动钻夹头",
+          "translatedName": "Electric drill chuck",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202029704,
+          "chineseName": "电动撑顶器",
+          "translatedName": "Electric jacking device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 201920603,
+          "chineseName": "钥匙铣槽机",
+          "translatedName": "Key milling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202025807,
+          "chineseName": "电动胶枪",
+          "translatedName": "Electric glue gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202026305,
+          "chineseName": "电动喷枪",
+          "translatedName": "Electric spray gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        },
+        {
+          "categoryId": 202034602,
+          "chineseName": "电动捣固机",
+          "translatedName": "Electric tamping machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032336
+        }
+      ]
+    }
+  }
+}

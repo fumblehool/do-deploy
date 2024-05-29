@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202051614,
+      "chineseName": "氢能源",
+      "translatedName": "hydrogen energy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202060210,
+          "chineseName": "氢燃料电池",
+          "translatedName": "hydrogen fuel cell",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202051614
+        },
+        {
+          "categoryId": 202059111,
+          "chineseName": "氢能存储",
+          "translatedName": "hydrogen energy storage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202051614
+        },
+        {
+          "categoryId": 202059215,
+          "chineseName": "其他氢能源产品",
+          "translatedName": "Other Hydrogen Energy Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202051614
+        },
+        {
+          "categoryId": 202062808,
+          "chineseName": "氢气发生器",
+          "translatedName": "Hydrogen generator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202051614
+        }
+      ]
+    }
+  }
+}

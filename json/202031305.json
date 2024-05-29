@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202031305,
+      "chineseName": "顶升移载机",
+      "translatedName": "Jacking transfer machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031666"
+    }
+  }
+}

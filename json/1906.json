@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1906,
+      "chineseName": "装饰框架",
+      "translatedName": "Decorative frame",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031950,
+          "chineseName": "其他装饰框架",
+          "translatedName": "Other decorative frames",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1906
+        },
+        {
+          "categoryId": 1031953,
+          "chineseName": "相框、画框",
+          "translatedName": "Photo frame, picture frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1906
+        },
+        {
+          "categoryId": 1035623,
+          "chineseName": "镜框",
+          "translatedName": "Frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1906
+        },
+        {
+          "categoryId": 1747,
+          "chineseName": "框饰配件",
+          "translatedName": "Frame Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1906
+        }
+      ]
+    }
+  }
+}

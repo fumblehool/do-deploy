@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1330,
+      "chineseName": "台灯夜灯",
+      "translatedName": "Table Lamp Night Lamp",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032772,
+          "chineseName": "普通照明台灯",
+          "translatedName": "General lighting table lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 1035217,
+          "chineseName": "小夜灯",
+          "translatedName": "Nightlight",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 1045065,
+          "chineseName": "USB灯",
+          "translatedName": "USB lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 122744005,
+          "chineseName": "阅读台灯（学习、护眼）",
+          "translatedName": "Reading lamp (study, eye protection)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 122798003,
+          "chineseName": "装饰台灯",
+          "translatedName": "decorative table lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127876014,
+          "chineseName": "创意夜灯",
+          "translatedName": "Creative night light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127926012,
+          "chineseName": "智能台灯",
+          "translatedName": "Intelligent desk lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127870013,
+          "chineseName": "充电台灯",
+          "translatedName": "Rechargeable table lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127902014,
+          "chineseName": "智能夜灯",
+          "translatedName": "Smart night light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 201334221,
+          "chineseName": "酷毙灯",
+          "translatedName": "Cool Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127872009,
+          "chineseName": "充电夜灯",
+          "translatedName": "Charging night light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 127890015,
+          "chineseName": "创意台灯",
+          "translatedName": "Creative desk lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 201348401,
+          "chineseName": "屏幕护眼灯",
+          "translatedName": "Screen eye protection lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 201772202,
+          "chineseName": "拾音灯",
+          "translatedName": "Pickup light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        },
+        {
+          "categoryId": 201770902,
+          "chineseName": "氛围投影灯",
+          "translatedName": "Ambience projection lamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1330
+        }
+      ]
+    }
+  }
+}

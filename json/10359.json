@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10359,
+      "chineseName": "包装用纸",
+      "translatedName": "Packaging paper",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032960,
+          "chineseName": "其他包装用纸",
+          "translatedName": "Other Packaging Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032961,
+          "chineseName": "硅油纸",
+          "translatedName": "silicone oil paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032962,
+          "chineseName": "淋膜纸",
+          "translatedName": "coated paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032963,
+          "chineseName": "商标、标签纸",
+          "translatedName": "Trademark, label paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032965,
+          "chineseName": "透明纸",
+          "translatedName": "transparent paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032966,
+          "chineseName": "羊皮、鸡皮纸",
+          "translatedName": "Sheepskin, chicken skin paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032967,
+          "chineseName": "铝箔纸",
+          "translatedName": "aluminum foil paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032968,
+          "chineseName": "玻璃纸",
+          "translatedName": "Cellophane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032969,
+          "chineseName": "防油、防潮纸",
+          "translatedName": "Oil-proof and moisture-proof paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032970,
+          "chineseName": "纸袋纸、杯纸",
+          "translatedName": "Paper bag paper, cup paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032971,
+          "chineseName": "卡纸",
+          "translatedName": "Paper jam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032972,
+          "chineseName": "板纸",
+          "translatedName": "Paperboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032973,
+          "chineseName": "瓦楞原纸",
+          "translatedName": "Corrugated Base Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1032974,
+          "chineseName": "牛皮纸",
+          "translatedName": "kraft paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 1042931,
+          "chineseName": "石头纸",
+          "translatedName": "Stone Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        },
+        {
+          "categoryId": 202036601,
+          "chineseName": "特种纸",
+          "translatedName": "Specialty Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10359
+        }
+      ]
+    }
+  }
+}

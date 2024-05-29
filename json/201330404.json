@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201330404,
+      "chineseName": "咖啡",
+      "translatedName": "Coffee",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1042704,
+          "chineseName": "咖啡豆",
+          "translatedName": "Coffee Beans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 1042707,
+          "chineseName": "咖啡生豆",
+          "translatedName": "Coffee Raw Beans",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 126642001,
+          "chineseName": "即饮咖啡",
+          "translatedName": "Ready-to-drink coffee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 201159708,
+          "chineseName": "咖啡粉",
+          "translatedName": "Coffee powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 201157015,
+          "chineseName": "挂耳咖啡",
+          "translatedName": "Hanging Ear Coffee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 201333201,
+          "chineseName": "咖啡伴侣辅料",
+          "translatedName": "Coffee companion accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 201158410,
+          "chineseName": "速溶咖啡",
+          "translatedName": "instant coffee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 201461127,
+          "chineseName": "胶囊咖啡",
+          "translatedName": "Capsule Coffee",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        },
+        {
+          "categoryId": 202021401,
+          "chineseName": "咖啡液",
+          "translatedName": "Coffee liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201330404
+        }
+      ]
+    }
+  }
+}

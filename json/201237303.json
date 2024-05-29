@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201237303,
+      "chineseName": "连接件",
+      "translatedName": "CONNECTIONS",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201233908"
+    }
+  }
+}

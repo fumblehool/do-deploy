@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031666,
+      "chineseName": "输送设备",
+      "translatedName": "Conveying equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034745,
+          "chineseName": "其他输送设备",
+          "translatedName": "Other conveying equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 1034746,
+          "chineseName": "加料机",
+          "translatedName": "Feeder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 1034748,
+          "chineseName": "输送机",
+          "translatedName": "Conveyor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 1045769,
+          "chineseName": "输送设备配件",
+          "translatedName": "Conveying equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 1036836,
+          "chineseName": "启闭机",
+          "translatedName": "hoist",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 1036842,
+          "chineseName": "排屑机",
+          "translatedName": "Chip removal machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 201958107,
+          "chineseName": "上下料机",
+          "translatedName": "Filler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 201958402,
+          "chineseName": "翻转机",
+          "translatedName": "Turning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 201955001,
+          "chineseName": "SPS车",
+          "translatedName": "SPS car",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 202031305,
+          "chineseName": "顶升移载机",
+          "translatedName": "Jacking transfer machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        },
+        {
+          "categoryId": 202061407,
+          "chineseName": "物流分拣机",
+          "translatedName": "logistics sorting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031666
+        }
+      ]
+    }
+  }
+}

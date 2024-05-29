@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201894902,
+      "chineseName": "棘轮螺丝刀",
+      "translatedName": "Ratchet screwdriver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924001"
+    }
+  }
+}

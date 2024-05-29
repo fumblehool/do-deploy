@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046304,
+      "chineseName": "推拉窗",
+      "translatedName": "sliding window",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10440"
+    }
+  }
+}

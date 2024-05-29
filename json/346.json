@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 346,
+      "chineseName": "其它舞台表演服饰",
+      "translatedName": "Other stage costumes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548501"
+    }
+  }
+}

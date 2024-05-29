@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202011005,
+      "chineseName": "预制披萨/面团",
+      "translatedName": "Pre-made pizza/dough",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202010504"
+    }
+  }
+}

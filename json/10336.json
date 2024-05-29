@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10336,
+      "chineseName": "纸品本册",
+      "translatedName": "Paper Products This Book",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033076,
+          "chineseName": "其他簿、本、册",
+          "translatedName": "Other books, books, books",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033077,
+          "chineseName": "活页本、活页替芯",
+          "translatedName": "Loose-leaf, loose-leaf replacement",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033078,
+          "chineseName": "信纸、信封",
+          "translatedName": "Letter paper, envelope",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033079,
+          "chineseName": "便签本",
+          "translatedName": "Slabs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033081,
+          "chineseName": "万用手册、工作手册",
+          "translatedName": "Universal Manual, Work Manual",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033083,
+          "chineseName": "电话本、通讯录",
+          "translatedName": "Phone book, address book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1033085,
+          "chineseName": "笔记本、记事本",
+          "translatedName": "Notebook, Notepad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 1045653,
+          "chineseName": "同学录、毕业纪念册",
+          "translatedName": "Classmates, graduation album",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 122772002,
+          "chineseName": "指示标签、手写标签",
+          "translatedName": "Indicate labels, handwritten labels",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 127836005,
+          "chineseName": "线圈本",
+          "translatedName": "Coil book",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 127822004,
+          "chineseName": "便利贴",
+          "translatedName": "Post-it Notes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 127824005,
+          "chineseName": "软抄本",
+          "translatedName": "soft transcript",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        },
+        {
+          "categoryId": 202054917,
+          "chineseName": "3D立体便签",
+          "translatedName": "3D Stereo Notes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10336
+        }
+      ]
+    }
+  }
+}

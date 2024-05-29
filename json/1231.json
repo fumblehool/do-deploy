@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1231,
+      "chineseName": "电动车",
+      "translatedName": "Electric Vehicle",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036591,
+          "chineseName": "其他电动车",
+          "translatedName": "Other electric vehicles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 1036592,
+          "chineseName": "电动观光车",
+          "translatedName": "electric sightseeing bus",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 1036593,
+          "chineseName": "电动汽车",
+          "translatedName": "Electric vehicle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 1036594,
+          "chineseName": "电动摩托车",
+          "translatedName": "Electric motorcycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 1044038,
+          "chineseName": "电动三轮车",
+          "translatedName": "electric tricycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 1221,
+          "chineseName": "电动自行车",
+          "translatedName": "Electric Bicycle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 201910702,
+          "chineseName": "电动滑板车",
+          "translatedName": "Electric Scooter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        },
+        {
+          "categoryId": 201882212,
+          "chineseName": "电动代步车",
+          "translatedName": "electric scooter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1231
+        }
+      ]
+    }
+  }
+}

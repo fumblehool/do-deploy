@@ -1,0 +1,352 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10165,
+      "chineseName": "男装",
+      "translatedName": "Menswear",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034163,
+          "chineseName": "男式羽绒服",
+          "translatedName": "men's down jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1031888,
+          "chineseName": "男式牛仔裤",
+          "translatedName": "men's jeans",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1031889,
+          "chineseName": "男式西裤",
+          "translatedName": "men's trousers",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1031890,
+          "chineseName": "男式休闲裤",
+          "translatedName": "men's casual pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1031892,
+          "chineseName": "男式棉服",
+          "translatedName": "men's cotton-padded jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1031897,
+          "chineseName": "男式风衣",
+          "translatedName": "Men's windbreaker",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1036995,
+          "chineseName": "男式卫衣",
+          "translatedName": "men's sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1036996,
+          "chineseName": "男式沙滩裤",
+          "translatedName": "men's beach pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 1042833,
+          "chineseName": "中山装、唐装、民族服装",
+          "translatedName": "Zhongshan suit, Tang suit, national costume",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 122232007,
+          "chineseName": "男式Polo衫",
+          "translatedName": "Men's Polo Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123694002,
+          "chineseName": "男式皮衣",
+          "translatedName": "men's leather",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123698001,
+          "chineseName": "男式羽绒裤",
+          "translatedName": "Men's Down Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 122194006,
+          "chineseName": "男式大衣",
+          "translatedName": "men's coat",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123650006,
+          "chineseName": "男式毛衫",
+          "translatedName": "men's sweater",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 122238007,
+          "chineseName": "男式休闲运动套装",
+          "translatedName": "Men's leisure sports suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 124450001,
+          "chineseName": "工装、制服",
+          "translatedName": "Tooling and uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 122196008,
+          "chineseName": "男式背心",
+          "translatedName": "Men's Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123682003,
+          "chineseName": "男式马甲",
+          "translatedName": "Men's Vest",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123688001,
+          "chineseName": "男式棒球服",
+          "translatedName": "men's baseball uniform",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 123694001,
+          "chineseName": "男式西装",
+          "translatedName": "Men's Suit",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127442001,
+          "chineseName": "情侣装/情侣服",
+          "translatedName": "Couple Clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127422009,
+          "chineseName": "男式防晒衣、皮肤衣",
+          "translatedName": "Men's sunscreen clothing, skin clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201378222,
+          "chineseName": "男式民族服装",
+          "translatedName": "men's national costume",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201559512,
+          "chineseName": "男式加绒裤",
+          "translatedName": "Men's Padded Pants",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201470102,
+          "chineseName": "大码男装",
+          "translatedName": "Menswear Plus Size",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127420010,
+          "chineseName": "广告衫",
+          "translatedName": "Advertising Shirt",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201546513,
+          "chineseName": "动漫二次元服装",
+          "translatedName": "Anime Secondary Costume",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201561908,
+          "chineseName": "男式短裤",
+          "translatedName": "Men's Shorts",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127160001,
+          "chineseName": "男装杂款包",
+          "translatedName": "Men's Miscellaneous Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201465302,
+          "chineseName": "男式卫裤",
+          "translatedName": "Men's Sweat Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127444001,
+          "chineseName": "男式棉裤",
+          "translatedName": "men's cotton trousers",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 127446001,
+          "chineseName": "男式皮裤",
+          "translatedName": "men's leather pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 201473006,
+          "chineseName": "中老年男装",
+          "translatedName": "Middle-aged men's clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 314,
+          "chineseName": "男式衬衫",
+          "translatedName": "Men's Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 315,
+          "chineseName": "男式T恤",
+          "translatedName": "Men's T-Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 317,
+          "chineseName": "男式夹克",
+          "translatedName": "men's jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 10165
+        },
+        {
+          "categoryId": 202056512,
+          "chineseName": "男装加工定制",
+          "translatedName": "Menswear processing customization",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 10165
+        }
+      ]
+    }
+  }
+}

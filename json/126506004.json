@@ -1,0 +1,217 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126506004,
+      "chineseName": "男鞋",
+      "translatedName": "Men's Shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043191,
+          "chineseName": "男式雨鞋",
+          "translatedName": "men's rain boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 1038548,
+          "chineseName": "男式商务皮鞋",
+          "translatedName": "men's business leather shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 123610003,
+          "chineseName": "男式帆布鞋",
+          "translatedName": "men's canvas shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 125380002,
+          "chineseName": "男式凉鞋",
+          "translatedName": "men's sandals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 125388001,
+          "chineseName": "男式休闲单鞋",
+          "translatedName": "Men's casual shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 123864006,
+          "chineseName": "男式雪地靴",
+          "translatedName": "Men's snow boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 121880003,
+          "chineseName": "男式皮靴",
+          "translatedName": "Men's Leather Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 123622002,
+          "chineseName": "男式棉鞋",
+          "translatedName": "men's cotton shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 125312007,
+          "chineseName": "男式人字拖",
+          "translatedName": "Men's Flip Flops",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 126480003,
+          "chineseName": "男式布鞋",
+          "translatedName": "men's cloth shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 126484005,
+          "chineseName": "男式运动单鞋",
+          "translatedName": "Men's sports shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201310515,
+          "chineseName": "男式健步鞋",
+          "translatedName": "men's walking shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 126442003,
+          "chineseName": "男式板鞋",
+          "translatedName": "men's board shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201829215,
+          "chineseName": "男式马丁靴",
+          "translatedName": "Men's Martin Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201867902,
+          "chineseName": "男式一字拖",
+          "translatedName": "Men's one-word drag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201863901,
+          "chineseName": "男式包头拖",
+          "translatedName": "Men's Baotou Drag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201906106,
+          "chineseName": "户外工装鞋",
+          "translatedName": "Outdoor Tooling Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201831311,
+          "chineseName": "男式沙滩鞋/洞洞鞋",
+          "translatedName": "Men's beach shoes/hole shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201835812,
+          "chineseName": "男式切尔西靴",
+          "translatedName": "Men's Chelsea Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201837114,
+          "chineseName": "男式时装靴",
+          "translatedName": "Men's Fashion Boots",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201837318,
+          "chineseName": "男式休闲皮鞋",
+          "translatedName": "Men's casual leather shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        },
+        {
+          "categoryId": 201837319,
+          "chineseName": "乐福鞋/豆豆鞋",
+          "translatedName": "Loafers/Doug Shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126506004
+        }
+      ]
+    }
+  }
+}

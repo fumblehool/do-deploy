@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022011,
+      "chineseName": "扁钢",
+      "translatedName": "Flat steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022010"
+    }
+  }
+}

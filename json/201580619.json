@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201580619,
+      "chineseName": "女士斜挎包",
+      "translatedName": "Women's Messenger Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016002"
+    }
+  }
+}

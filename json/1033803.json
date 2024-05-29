@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033803,
+      "chineseName": "拓展培训",
+      "translatedName": "Outward Bound Training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2815"
+    }
+  }
+}

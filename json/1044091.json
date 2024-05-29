@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044091,
+      "chineseName": "食品凝固剂",
+      "translatedName": "food coagulant",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031607"
+    }
+  }
+}

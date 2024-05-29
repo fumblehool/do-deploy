@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033116,
+      "chineseName": "硒鼓、粉盒",
+      "translatedName": "Toner cartridge, toner cartridge",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10260"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031668,
+      "chineseName": "传热设备",
+      "translatedName": "Heat transfer equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034690,
+          "chineseName": "其他传热设备",
+          "translatedName": "Other heat transfer equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034691,
+          "chineseName": "分凝器",
+          "translatedName": "condenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034692,
+          "chineseName": "冷凝器",
+          "translatedName": "Condenser",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034693,
+          "chineseName": "再沸器",
+          "translatedName": "Reboiler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034694,
+          "chineseName": "蒸发器",
+          "translatedName": "Evaporator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034695,
+          "chineseName": "冷却器",
+          "translatedName": "Cooler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034696,
+          "chineseName": "加热器",
+          "translatedName": "Heater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1034697,
+          "chineseName": "换热器",
+          "translatedName": "Heat Exchanger",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1036828,
+          "chineseName": "阻火器",
+          "translatedName": "flame arrester",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        },
+        {
+          "categoryId": 1045777,
+          "chineseName": "传热设备配件",
+          "translatedName": "Heat transfer equipment accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031668
+        }
+      ]
+    }
+  }
+}

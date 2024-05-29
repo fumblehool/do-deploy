@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1805,
+      "chineseName": "乐器",
+      "translatedName": "Musical Instruments",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033529,
+          "chineseName": "其他乐器",
+          "translatedName": "Other musical instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033530,
+          "chineseName": "乐器配件/零件",
+          "translatedName": "Musical Instrument Accessories/Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033531,
+          "chineseName": "吹奏类乐器",
+          "translatedName": "wind instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033532,
+          "chineseName": "拉弦类乐器",
+          "translatedName": "Pull string instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033533,
+          "chineseName": "键盘类乐器",
+          "translatedName": "Keyboard instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033534,
+          "chineseName": "打击类乐器",
+          "translatedName": "Percussion instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 1033535,
+          "chineseName": "弹拨类乐器",
+          "translatedName": "plucked stringed musical instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        },
+        {
+          "categoryId": 126026003,
+          "chineseName": "儿童尤克里里",
+          "translatedName": "Children's Ukulele",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1805
+        }
+      ]
+    }
+  }
+}

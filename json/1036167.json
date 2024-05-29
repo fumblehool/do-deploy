@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036167,
+      "chineseName": "包装测试设备",
+      "translatedName": "Packaging Test Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10208",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036170,
+          "chineseName": "耐破度试验机",
+          "translatedName": "Breaking test machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036167
+        },
+        {
+          "categoryId": 1036171,
+          "chineseName": "压缩试验机",
+          "translatedName": "Compression testing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036167
+        },
+        {
+          "categoryId": 1036172,
+          "chineseName": "泄漏检测仪",
+          "translatedName": "Leak detector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036167
+        },
+        {
+          "categoryId": 1036168,
+          "chineseName": "其他包装测试设备",
+          "translatedName": "Other packaging test equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036167
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033713,
+      "chineseName": "生花生",
+      "translatedName": "raw peanut",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "104"
+    }
+  }
+}

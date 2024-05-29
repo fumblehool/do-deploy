@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121022004,
+      "chineseName": "中厚板",
+      "translatedName": "medium thick plate",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "123614001",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045209,
+          "chineseName": "低合金中板",
+          "translatedName": "low alloy medium plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121022006,
+          "chineseName": "船板",
+          "translatedName": "ship plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121022007,
+          "chineseName": "耐磨板",
+          "translatedName": "wear plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121022009,
+          "chineseName": "耐候板",
+          "translatedName": "Weathering board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121018004,
+          "chineseName": "机械结构用钢",
+          "translatedName": "Steel for mechanical structures",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121046005,
+          "chineseName": "其他中厚板",
+          "translatedName": "Other plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121012008,
+          "chineseName": "普中板",
+          "translatedName": "General plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121012011,
+          "chineseName": "汽车大梁板",
+          "translatedName": "automobile girder plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121012012,
+          "chineseName": "建筑结构钢板",
+          "translatedName": "building structural steel plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121046002,
+          "chineseName": "高强度板",
+          "translatedName": "high strength plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 125474001,
+          "chineseName": "耐腐蚀结构钢",
+          "translatedName": "corrosion-resistant structural steel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        },
+        {
+          "categoryId": 121022016,
+          "chineseName": "压力容器板",
+          "translatedName": "Pressure vessel plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121022004
+        }
+      ]
+    }
+  }
+}

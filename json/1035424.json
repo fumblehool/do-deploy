@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035424,
+      "chineseName": "其他磨具",
+      "translatedName": "Other Abrasives",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201921802"
+    }
+  }
+}

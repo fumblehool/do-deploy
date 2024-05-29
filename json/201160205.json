@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160205,
+      "chineseName": "管胚",
+      "translatedName": "tube embryo",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10390"
+    }
+  }
+}

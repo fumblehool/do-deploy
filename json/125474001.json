@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125474001,
+      "chineseName": "耐腐蚀结构钢",
+      "translatedName": "corrosion-resistant structural steel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121022004"
+    }
+  }
+}

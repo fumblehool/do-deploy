@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194013,
+      "chineseName": "半自动打包机",
+      "translatedName": "Semi-automatic baler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "86"
+    }
+  }
+}

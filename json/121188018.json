@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121188018,
+      "chineseName": "婴童家纺",
+      "translatedName": "Baby Home Textile",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 121190021,
+          "chineseName": "婴童枕芯",
+          "translatedName": "Baby pillow core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121188019,
+          "chineseName": "婴童床品套件",
+          "translatedName": "Baby Bedding Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121188020,
+          "chineseName": "床围",
+          "translatedName": "Bed circumference",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121188021,
+          "chineseName": "婴童床垫",
+          "translatedName": "Baby mattress",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 122200004,
+          "chineseName": "睡袋、防踢被",
+          "translatedName": "Sleeping bag, kick-proof",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 122436002,
+          "chineseName": "婴儿床品套件",
+          "translatedName": "Baby Bedding Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 122442001,
+          "chineseName": "婴儿枕",
+          "translatedName": "Baby pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121186016,
+          "chineseName": "婴童抱毯、毛毯",
+          "translatedName": "Baby blanket, blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121186017,
+          "chineseName": "婴童席、推车席",
+          "translatedName": "Baby mat, cart mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 122466001,
+          "chineseName": "婴幼儿凉席",
+          "translatedName": "Infant mat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 123858004,
+          "chineseName": "孕妇枕头",
+          "translatedName": "Pregnant women pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 122224006,
+          "chineseName": "孕妇枕",
+          "translatedName": "Pregnant women pillow",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121190022,
+          "chineseName": "婴童抱被、被芯",
+          "translatedName": "Baby quilt, quilt core",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121190024,
+          "chineseName": "婴童蚊帐",
+          "translatedName": "Baby mosquito nets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        },
+        {
+          "categoryId": 121190028,
+          "chineseName": "其他婴童床品",
+          "translatedName": "Other Baby Bedding",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121188018
+        }
+      ]
+    }
+  }
+}

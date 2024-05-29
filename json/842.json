@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 842,
+      "chineseName": "过氧化物",
+      "translatedName": "peroxide",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035941,
+          "chineseName": "其他过氧化物",
+          "translatedName": "Other Peroxides",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 842
+        }
+      ]
+    }
+  }
+}

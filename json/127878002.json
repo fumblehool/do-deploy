@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127878002,
+      "chineseName": "遥感式按钮",
+      "translatedName": "Remote sensing button",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201605802"
+    }
+  }
+}

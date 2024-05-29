@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125312003,
+      "chineseName": "家居鞋",
+      "translatedName": "Home Shoes",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1038378",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043192,
+          "chineseName": "家居棉鞋",
+          "translatedName": "Home cotton shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 1038539,
+          "chineseName": "布艺拖鞋",
+          "translatedName": "Fabric slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 125376003,
+          "chineseName": "皮质拖鞋",
+          "translatedName": "Leather slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 125380001,
+          "chineseName": "塑料拖鞋",
+          "translatedName": "Plastic slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201202705,
+          "chineseName": "亚麻拖鞋",
+          "translatedName": "Linen slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201548713,
+          "chineseName": "EVA拖鞋",
+          "translatedName": "EVA slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201555213,
+          "chineseName": "无纺布拖鞋",
+          "translatedName": "Non-woven slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201546110,
+          "chineseName": "羽绒拖鞋",
+          "translatedName": "Down slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201159002,
+          "chineseName": "毛毛拖鞋",
+          "translatedName": "Mao Mao slippers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201827725,
+          "chineseName": "家居婚鞋",
+          "translatedName": "Home wedding shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        },
+        {
+          "categoryId": 201843202,
+          "chineseName": "盆底鞋",
+          "translatedName": "Pelvic shoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125312003
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124270001,
+      "chineseName": "花盆装饰",
+      "translatedName": "Flower pot decoration",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125496001"
+    }
+  }
+}

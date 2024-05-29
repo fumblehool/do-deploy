@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122668006,
+      "chineseName": "女装杂款包",
+      "translatedName": "Women's Miscellaneous Bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125750001"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036283,
+      "chineseName": "EPE珍珠棉",
+      "translatedName": "EPE pearl cotton",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121186001"
+    }
+  }
+}

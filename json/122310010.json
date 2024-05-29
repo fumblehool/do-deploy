@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122310010,
+      "chineseName": "假发刘海",
+      "translatedName": "Wig bangs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122338008"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201964701,
+      "chineseName": "敷料贴",
+      "translatedName": "dressing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201962701"
+    }
+  }
+}

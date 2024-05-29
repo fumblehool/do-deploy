@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548001,
+      "chineseName": "驱虫防蚊灭鼠杀虫用品",
+      "translatedName": "insect repellent, anti-mosquito, rodent and insecticide supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822220",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043947,
+          "chineseName": "防蚊、防蛀、灭鼠杀虫用品",
+          "translatedName": "Anti-mosquito, anti-moth, rodent and insecticide supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 122992006,
+          "chineseName": "婴幼儿驱蚊防蚊",
+          "translatedName": "Infant mosquito repellent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 122260004,
+          "chineseName": "花露水、防蚊液",
+          "translatedName": "toilet water, anti-mosquito liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201693403,
+          "chineseName": "灭蚁用品",
+          "translatedName": "Ant Extermination Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201620903,
+          "chineseName": "驱蚊手环",
+          "translatedName": "Mosquito repellent bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201631353,
+          "chineseName": "蚊香液/蚊香片",
+          "translatedName": "Mosquito-repellent incense liquid/mosquito-repellent incense sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201690302,
+          "chineseName": "灭蟑用品",
+          "translatedName": "Cockroach Killing Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201346721,
+          "chineseName": "清凉油",
+          "translatedName": "Cool oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201774802,
+          "chineseName": "驱虫防蚊灭鼠药剂",
+          "translatedName": "insect repellent, mosquito control and rodent control agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        },
+        {
+          "categoryId": 201730511,
+          "chineseName": "驱虫用品",
+          "translatedName": "Insect Repellent Supplies",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548001
+        }
+      ]
+    }
+  }
+}

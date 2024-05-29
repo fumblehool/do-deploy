@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121910001,
+      "chineseName": "排球鞋",
+      "translatedName": "volleyball shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122248001"
+    }
+  }
+}

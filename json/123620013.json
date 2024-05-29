@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123620013,
+      "chineseName": "LED生产及检测设备",
+      "translatedName": "LED production and testing equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123610010,
+          "chineseName": "LED封装设备",
+          "translatedName": "LED packaging equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123610011,
+          "chineseName": "其他LED生产及检测设备",
+          "translatedName": "Other LED production and testing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123622014,
+          "chineseName": "LED器件检测设备",
+          "translatedName": "LED device testing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123612009,
+          "chineseName": "LED老化设备",
+          "translatedName": "LED Aging Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123622011,
+          "chineseName": "MOCVD",
+          "translatedName": "MOCVD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123622012,
+          "chineseName": "LED芯片设备",
+          "translatedName": "LED chip equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123622013,
+          "chineseName": "LED灯具制造设备",
+          "translatedName": "LED lamp manufacturing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123608009,
+          "chineseName": "LED外延检测设备",
+          "translatedName": "LED epitaxial detection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123608010,
+          "chineseName": "LED芯片检测设备",
+          "translatedName": "LED chip testing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        },
+        {
+          "categoryId": 123608011,
+          "chineseName": "LED灯具检测设备",
+          "translatedName": "LED lamp detection equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123620013
+        }
+      ]
+    }
+  }
+}

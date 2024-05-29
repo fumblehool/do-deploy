@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201155706,
+      "chineseName": "发光棒",
+      "translatedName": "glow stick",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124022002"
+    }
+  }
+}

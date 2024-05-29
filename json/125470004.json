@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125470004,
+      "chineseName": "军迷作训鞋",
+      "translatedName": "Military fan training shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121876002"
+    }
+  }
+}

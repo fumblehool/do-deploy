@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124742010,
+      "chineseName": "水产零食",
+      "translatedName": "Aquatic snacks",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032908,
+          "chineseName": "其他水产零食",
+          "translatedName": "Other Aquatic Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 124744021,
+          "chineseName": "鱼类零食",
+          "translatedName": "Fish snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 124744022,
+          "chineseName": "鱿鱼零食",
+          "translatedName": "Squid Snack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 124744023,
+          "chineseName": "虾类零食",
+          "translatedName": "Shrimp Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 124746014,
+          "chineseName": "海苔零食",
+          "translatedName": "Seaweed Snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 201273855,
+          "chineseName": "海参即食",
+          "translatedName": "Sea Cucumber Instant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 201274755,
+          "chineseName": "贝类即食",
+          "translatedName": "Ready to eat shellfish",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 201276231,
+          "chineseName": "海带零食",
+          "translatedName": "kelp snacks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        },
+        {
+          "categoryId": 201267969,
+          "chineseName": "蟹类即食",
+          "translatedName": "ready-to-eat crab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124742010
+        }
+      ]
+    }
+  }
+}

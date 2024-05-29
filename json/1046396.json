@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046396,
+      "chineseName": "商用垃圾处理机",
+      "translatedName": "Commercial waste disposal machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10241"
+    }
+  }
+}

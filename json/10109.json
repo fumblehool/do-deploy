@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10109,
+      "chineseName": "车用仪表",
+      "translatedName": "Vehicle instrument",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "71",
+      "fromCache": true,
+      "children": [
+        {
+          "categoryId": 1036155,
+          "chineseName": "水温表",
+          "translatedName": "water temperature gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036156,
+          "chineseName": "气压表",
+          "translatedName": "barometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036158,
+          "chineseName": "汽车传感器",
+          "translatedName": "Automotive Sensors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036159,
+          "chineseName": "电动车仪表",
+          "translatedName": "Electric vehicle instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036162,
+          "chineseName": "摩托车仪表",
+          "translatedName": "Motorcycle instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036163,
+          "chineseName": "汽车仪表",
+          "translatedName": "automobile instrument",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036164,
+          "chineseName": "测速仪",
+          "translatedName": "Velocimeter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036166,
+          "chineseName": "转速表",
+          "translatedName": "tachometer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036152,
+          "chineseName": "其他车用仪表",
+          "translatedName": "Other vehicle instruments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        },
+        {
+          "categoryId": 1036154,
+          "chineseName": "油压表",
+          "translatedName": "Oil pressure gauge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10109
+        }
+      ]
+    }
+  }
+}

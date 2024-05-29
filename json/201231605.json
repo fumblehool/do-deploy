@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201231605,
+      "chineseName": "洗衣凝珠",
+      "translatedName": "Laundry beads",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196011"
+    }
+  }
+}

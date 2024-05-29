@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 82,
+      "chineseName": "音像制品",
+      "translatedName": "audio-visual products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034205,
+          "chineseName": "其他音像制品",
+          "translatedName": "Other audio-visual products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034206,
+          "chineseName": "DVD",
+          "translatedName": "DVD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034207,
+          "chineseName": "VCD",
+          "translatedName": "VCD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034208,
+          "chineseName": "录像带",
+          "translatedName": "video tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034209,
+          "chineseName": "CD",
+          "translatedName": "CD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034210,
+          "chineseName": "录音带",
+          "translatedName": "Audio Tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034097,
+          "chineseName": "音像制品代理加盟",
+          "translatedName": "Audio and video products agent to join",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        },
+        {
+          "categoryId": 1034099,
+          "chineseName": "库存音像制品",
+          "translatedName": "Stock audio-visual products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 82
+        }
+      ]
+    }
+  }
+}

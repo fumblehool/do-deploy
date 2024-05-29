@@ -1,0 +1,181 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10522,
+      "chineseName": "金属粉末",
+      "translatedName": "Metal powder",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033445,
+          "chineseName": "其他金属粉末",
+          "translatedName": "Other metal powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035846,
+          "chineseName": "镍粉系列",
+          "translatedName": "Nickel powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035847,
+          "chineseName": "锡粉系列",
+          "translatedName": "Tin powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035848,
+          "chineseName": "锌粉系列",
+          "translatedName": "Zinc powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035849,
+          "chineseName": "铅粉系列",
+          "translatedName": "Lead powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035850,
+          "chineseName": "铝合金粉",
+          "translatedName": "aluminum alloy powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035851,
+          "chineseName": "铜粉系列",
+          "translatedName": "Copper powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035835,
+          "chineseName": "铍粉系列",
+          "translatedName": "Beryllium powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035836,
+          "chineseName": "铁粉系列",
+          "translatedName": "Iron powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035837,
+          "chineseName": "锰粉系列",
+          "translatedName": "Manganese powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035838,
+          "chineseName": "镁粉系列",
+          "translatedName": "Magnesium powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035839,
+          "chineseName": "硼粉系列",
+          "translatedName": "Boron powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035840,
+          "chineseName": "钛粉系列",
+          "translatedName": "Titanium powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035841,
+          "chineseName": "铬粉系列",
+          "translatedName": "Chrome powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035842,
+          "chineseName": "硅粉系列",
+          "translatedName": "Silicon powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035843,
+          "chineseName": "钴粉系列",
+          "translatedName": "Cobalt powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035844,
+          "chineseName": "钼粉系列",
+          "translatedName": "Molybdenum powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        },
+        {
+          "categoryId": 1035845,
+          "chineseName": "钨粉系列",
+          "translatedName": "Tungsten powder series",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10522
+        }
+      ]
+    }
+  }
+}

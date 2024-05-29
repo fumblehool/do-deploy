@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80215,
+      "chineseName": "氯化物",
+      "translatedName": "Chloride",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "802"
+    }
+  }
+}

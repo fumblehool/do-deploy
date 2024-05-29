@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201351440,
+      "chineseName": "男性私处洗液",
+      "translatedName": "Male Private Lotion",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201358608"
+    }
+  }
+}

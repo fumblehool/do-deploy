@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125064004,
+      "chineseName": "文化用品",
+      "translatedName": "Cultural supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "67",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10453,
+          "chineseName": "挂历",
+          "translatedName": "Calendar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 124902003,
+          "chineseName": "明信片",
+          "translatedName": "Postcard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 121542012,
+          "chineseName": "艺术收藏",
+          "translatedName": "Art Collection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 1739,
+          "chineseName": "贺卡",
+          "translatedName": "Greeting Cards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 201305825,
+          "chineseName": "明星海报/写真",
+          "translatedName": "Star poster/photo",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 201301125,
+          "chineseName": "动漫海报",
+          "translatedName": "Anime Poster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 201305220,
+          "chineseName": "卡贴",
+          "translatedName": "Card stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        },
+        {
+          "categoryId": 3411,
+          "chineseName": "台历/日历",
+          "translatedName": "Desk Calendar/Calendar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064004
+        }
+      ]
+    }
+  }
+}

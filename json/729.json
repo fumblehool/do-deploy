@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 729,
+      "chineseName": "笔记本电脑配件",
+      "translatedName": "Laptop Accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "7",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033289,
+          "chineseName": "笔记本电脑锁",
+          "translatedName": "Laptop Lock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1042209,
+          "chineseName": "笔记本散热器",
+          "translatedName": "Notebook radiator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1036496,
+          "chineseName": "笔记本键盘保护膜",
+          "translatedName": "Notebook Keyboard Protective Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1037148,
+          "chineseName": "笔记本键盘",
+          "translatedName": "Laptop Keyboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1037149,
+          "chineseName": "笔记本电池",
+          "translatedName": "Laptop Battery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1037150,
+          "chineseName": "笔记本电源适配器",
+          "translatedName": "notebook power adapter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1037151,
+          "chineseName": "笔记本屏幕保护膜",
+          "translatedName": "Notebook Screen Protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 1037147,
+          "chineseName": "其他笔记本配件",
+          "translatedName": "Other Notebook Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        },
+        {
+          "categoryId": 124736055,
+          "chineseName": "笔记本外壳膜",
+          "translatedName": "Notebook Shell Film",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 729
+        }
+      ]
+    }
+  }
+}

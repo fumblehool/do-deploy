@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123650002,
+      "chineseName": "沙包/呼啦圈/投掷套圈",
+      "translatedName": "Sandbag/Hula Hoop/Throwing Ring",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045520"
+    }
+  }
+}

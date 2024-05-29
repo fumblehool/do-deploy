@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10132,
+      "chineseName": "套件类",
+      "translatedName": "Suite Class",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031730,
+          "chineseName": "枕套",
+          "translatedName": "Pillowcase",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 1031731,
+          "chineseName": "床罩、床笠、床裙",
+          "translatedName": "Bedspread, bed hat, bed skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 1031732,
+          "chineseName": "被套",
+          "translatedName": "Quilt cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 10135,
+          "chineseName": "床单、被单",
+          "translatedName": "Bed sheets, sheets",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 10137,
+          "chineseName": "多件套",
+          "translatedName": "multi-piece set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 122202003,
+          "chineseName": "三件套",
+          "translatedName": "three-piece set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 122206003,
+          "chineseName": "四件套",
+          "translatedName": "four-piece set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        },
+        {
+          "categoryId": 127882016,
+          "chineseName": "绗缝三件套",
+          "translatedName": "Quilted three-piece set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10132
+        }
+      ]
+    }
+  }
+}

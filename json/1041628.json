@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041628,
+      "chineseName": "液压马达",
+      "translatedName": "Hydraulic motor",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041627"
+    }
+  }
+}

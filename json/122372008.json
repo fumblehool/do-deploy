@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122372008,
+      "chineseName": "假发短直发",
+      "translatedName": "Wig Short Straight Hair",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122338008"
+    }
+  }
+}

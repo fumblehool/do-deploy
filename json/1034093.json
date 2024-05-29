@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034093,
+      "chineseName": "水辊",
+      "translatedName": "water roller",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3407"
+    }
+  }
+}

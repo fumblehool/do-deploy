@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3403,
+      "chineseName": "印刷设备",
+      "translatedName": "Printing Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033265,
+          "chineseName": "热转印机",
+          "translatedName": "heat transfer machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1034178,
+          "chineseName": "丝印机",
+          "translatedName": "screen printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1033933,
+          "chineseName": "其他印刷设备",
+          "translatedName": "Other Printing Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1034175,
+          "chineseName": "数码印刷机",
+          "translatedName": "digital printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1034176,
+          "chineseName": "柔印机",
+          "translatedName": "flexo printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1034177,
+          "chineseName": "移印机",
+          "translatedName": "pad printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 1041147,
+          "chineseName": "凹版印刷机",
+          "translatedName": "gravure printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 201390001,
+          "chineseName": "数码印花机",
+          "translatedName": "digital printing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 201376628,
+          "chineseName": "印刷设备配件及耗材",
+          "translatedName": "Printing equipment accessories and consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 163,
+          "chineseName": "胶印机",
+          "translatedName": "Offset Press",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        },
+        {
+          "categoryId": 201381517,
+          "chineseName": "其他丝印机",
+          "translatedName": "Other screen printing machines",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 3403
+        }
+      ]
+    }
+  }
+}

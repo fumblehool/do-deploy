@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121494014,
+      "chineseName": "焊接辅机",
+      "translatedName": "Welding auxiliary machine",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040435,
+          "chineseName": "其他焊接辅机",
+          "translatedName": "Other welding auxiliaries",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121494014
+        },
+        {
+          "categoryId": 121488006,
+          "chineseName": "焊接滚轮架",
+          "translatedName": "Welding roller frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121494014
+        },
+        {
+          "categoryId": 121496009,
+          "chineseName": "焊接变位机",
+          "translatedName": "welding displacement machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121494014
+        },
+        {
+          "categoryId": 121504006,
+          "chineseName": "送丝机",
+          "translatedName": "Wire Feeding Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121494014
+        },
+        {
+          "categoryId": 121492008,
+          "chineseName": "焊接操作机",
+          "translatedName": "welding manipulator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 121494014
+        }
+      ]
+    }
+  }
+}

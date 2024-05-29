@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202037104,
+      "chineseName": "托盘分配机",
+      "translatedName": "Pallet Dispensing Machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10414"
+    }
+  }
+}

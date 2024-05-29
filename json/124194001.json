@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124194001,
+      "chineseName": "防护耳塞",
+      "translatedName": "Ear protection",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124190002"
+    }
+  }
+}

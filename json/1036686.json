@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036686,
+      "chineseName": "涂料乳液及成膜物质",
+      "translatedName": "Coating emulsion and film-forming substance",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036687,
+          "chineseName": "其他乳液或成膜物",
+          "translatedName": "Other emulsions or film formers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036688,
+          "chineseName": "苯丙乳液",
+          "translatedName": "Styrene-acrylic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036689,
+          "chineseName": "纯丙乳液",
+          "translatedName": "pure acrylic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036690,
+          "chineseName": "醋丙乳液",
+          "translatedName": "vinegar-acrylic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036691,
+          "chineseName": "弹性乳液",
+          "translatedName": "elastic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036692,
+          "chineseName": "硅丙乳液",
+          "translatedName": "silicone-acrylic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036693,
+          "chineseName": "丙烯酸乳液",
+          "translatedName": "acrylic emulsion",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036694,
+          "chineseName": "光固化树脂",
+          "translatedName": "light curing resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036695,
+          "chineseName": "醇酸树脂",
+          "translatedName": "alkyd resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        },
+        {
+          "categoryId": 1036696,
+          "chineseName": "氟碳树脂",
+          "translatedName": "fluorocarbon resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1036686
+        }
+      ]
+    }
+  }
+}

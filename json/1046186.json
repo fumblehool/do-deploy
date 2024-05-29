@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046186,
+      "chineseName": "橡胶密封制品",
+      "translatedName": "Rubber sealing products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1046187,
+          "chineseName": "橡胶密封圈",
+          "translatedName": "Rubber seal ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046186
+        },
+        {
+          "categoryId": 1046188,
+          "chineseName": "橡胶密封垫",
+          "translatedName": "Rubber gasket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046186
+        },
+        {
+          "categoryId": 1046189,
+          "chineseName": "橡胶密封条",
+          "translatedName": "Rubber sealing strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046186
+        },
+        {
+          "categoryId": 1046190,
+          "chineseName": "其他橡胶密封制品",
+          "translatedName": "Other rubber sealing products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046186
+        }
+      ]
+    }
+  }
+}

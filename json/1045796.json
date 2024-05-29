@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045796,
+      "chineseName": "其他材料印刷",
+      "translatedName": "Other Materials Printing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045787"
+    }
+  }
+}

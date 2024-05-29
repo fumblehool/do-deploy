@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122528002,
+      "chineseName": "一次性洗漱、沐浴用品",
+      "translatedName": "Disposable toiletries and bath products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045268"
+    }
+  }
+}

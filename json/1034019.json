@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034019,
+      "chineseName": "绣花加工",
+      "translatedName": "embroidery processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1034016"
+    }
+  }
+}

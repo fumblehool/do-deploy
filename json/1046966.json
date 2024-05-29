@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046966,
+      "chineseName": "沐浴液、沐浴露",
+      "translatedName": "Bath lotion, shower gel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043058"
+    }
+  }
+}

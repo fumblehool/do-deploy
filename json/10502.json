@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10502,
+      "chineseName": "铜",
+      "translatedName": "Copper",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "935"
+    }
+  }
+}

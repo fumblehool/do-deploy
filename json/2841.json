@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 2841,
+      "chineseName": "企业日常服务",
+      "translatedName": "Daily Service of Enterprise",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "69",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036602,
+          "chineseName": "家政服务",
+          "translatedName": "Housekeeping Service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 1036603,
+          "chineseName": "物业管理",
+          "translatedName": "Property Management",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 1036604,
+          "chineseName": "污水处理",
+          "translatedName": "Sewage treatment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 1036605,
+          "chineseName": "灭虫害",
+          "translatedName": "pest control",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 2827,
+          "chineseName": "餐饮服务",
+          "translatedName": "Catering Service",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 2831,
+          "chineseName": "清洗及保洁服务",
+          "translatedName": "Cleaning and cleaning services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 2910,
+          "chineseName": "安全保卫",
+          "translatedName": "Security",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        },
+        {
+          "categoryId": 3110,
+          "chineseName": "迁厂搬家",
+          "translatedName": "Relocation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 2841
+        }
+      ]
+    }
+  }
+}

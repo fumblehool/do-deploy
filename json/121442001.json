@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121442001,
+      "chineseName": "其他婴幼儿配方奶粉",
+      "translatedName": "Other infant formula",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124746009"
+    }
+  }
+}

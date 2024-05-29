@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033013,
+      "chineseName": "木桶",
+      "translatedName": "Barrel",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10368"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126144004,
+      "chineseName": "前列腺按摩器",
+      "translatedName": "Prostate Massager",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126150002"
+    }
+  }
+}

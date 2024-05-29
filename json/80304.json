@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 80304,
+      "chineseName": "砜",
+      "translatedName": "sulfone",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037100,
+          "chineseName": "其他砜",
+          "translatedName": "Other Sulfone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        },
+        {
+          "categoryId": 1037101,
+          "chineseName": "环丁砜",
+          "translatedName": "Sulfolane",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        },
+        {
+          "categoryId": 1037102,
+          "chineseName": "氯化亚砜",
+          "translatedName": "Thionyl chloride",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        },
+        {
+          "categoryId": 1037103,
+          "chineseName": "二甲基亚砜",
+          "translatedName": "Dimethyl sulfoxide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        },
+        {
+          "categoryId": 1043118,
+          "chineseName": "二苯砜",
+          "translatedName": "diphenyl sulfone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        },
+        {
+          "categoryId": 1043120,
+          "chineseName": "二甲基砜",
+          "translatedName": "dimethyl sulfone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 80304
+        }
+      ]
+    }
+  }
+}

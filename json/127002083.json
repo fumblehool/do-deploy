@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127002083,
+      "chineseName": "积木拼插类玩具",
+      "translatedName": "Building block patchwork toys",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1813",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201157905,
+          "chineseName": "大颗粒积木",
+          "translatedName": "Large particle building blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127002083
+        },
+        {
+          "categoryId": 201162306,
+          "chineseName": "中颗粒积木",
+          "translatedName": "Medium granular building blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127002083
+        },
+        {
+          "categoryId": 201160505,
+          "chineseName": "电子积木",
+          "translatedName": "Electronic Building Blocks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127002083
+        },
+        {
+          "categoryId": 201159106,
+          "chineseName": "多米诺骨牌",
+          "translatedName": "Dominoes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127002083
+        },
+        {
+          "categoryId": 201162405,
+          "chineseName": "雪花片",
+          "translatedName": "Snowflake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127002083
+        }
+      ]
+    }
+  }
+}

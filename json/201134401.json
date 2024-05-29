@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201134401,
+      "chineseName": "中密度纤维板",
+      "translatedName": "medium density fiberboard",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10422"
+    }
+  }
+}

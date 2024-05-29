@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126510004,
+      "chineseName": "巡查/航拍无人机",
+      "translatedName": "Patrol/aerial drone",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126552001"
+    }
+  }
+}

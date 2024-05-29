@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044095,
+      "chineseName": "母料",
+      "translatedName": "Masterbatch",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031641,
+          "chineseName": "色母料",
+          "translatedName": "color masterbatch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044095
+        },
+        {
+          "categoryId": 1044099,
+          "chineseName": "填充母料",
+          "translatedName": "Filling Masterbatch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044095
+        },
+        {
+          "categoryId": 1044105,
+          "chineseName": "功能性母料",
+          "translatedName": "Functional masterbatch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044095
+        },
+        {
+          "categoryId": 1044107,
+          "chineseName": "其他母料",
+          "translatedName": "Other masterbatch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044095
+        }
+      ]
+    }
+  }
+}

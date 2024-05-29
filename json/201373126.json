@@ -1,0 +1,127 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201373126,
+      "chineseName": "防爆器材",
+      "translatedName": "Explosion-proof equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201384222,
+          "chineseName": "防爆钢叉",
+          "translatedName": "Explosion-proof steel fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201377317,
+          "chineseName": "防爆柜",
+          "translatedName": "Explosion-proof cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201378117,
+          "chineseName": "防爆头盔",
+          "translatedName": "Explosion-proof helmet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201375018,
+          "chineseName": "防爆盾牌",
+          "translatedName": "Explosion proof shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201379817,
+          "chineseName": "防爆箱",
+          "translatedName": "Explosion-proof box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201380909,
+          "chineseName": "防爆棍",
+          "translatedName": "Explosion-proof stick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201381514,
+          "chineseName": "防爆罐",
+          "translatedName": "Explosion-proof tank",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201373021,
+          "chineseName": "防爆服",
+          "translatedName": "Explosion-proof clothing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201374123,
+          "chineseName": "防爆门",
+          "translatedName": "Explosion-proof door",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201371825,
+          "chineseName": "防刺背心",
+          "translatedName": "Stab-resistant vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 201375623,
+          "chineseName": "防爆毯",
+          "translatedName": "Explosion-proof blanket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        },
+        {
+          "categoryId": 3005,
+          "chineseName": "其他防爆器材",
+          "translatedName": "Other explosion-proof equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373126
+        }
+      ]
+    }
+  }
+}

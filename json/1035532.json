@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035532,
+      "chineseName": "手锯、木工锯",
+      "translatedName": "Hand saw, woodworking saw",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032409"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 82102,
+      "chineseName": "其他香料、香精",
+      "translatedName": "Other spices and flavors",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1031633"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053613,
+      "chineseName": "晶振与频率元件",
+      "translatedName": "Crystal Oscillator and Frequency Element",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1040247,
+          "chineseName": "压电晶体、频率元件",
+          "translatedName": "Piezoelectric crystal, frequency element",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053613
+        },
+        {
+          "categoryId": 202053708,
+          "chineseName": "谐振器",
+          "translatedName": "resonator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053613
+        },
+        {
+          "categoryId": 202055212,
+          "chineseName": "雾化片",
+          "translatedName": "atomizing sheet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053613
+        },
+        {
+          "categoryId": 201895101,
+          "chineseName": "滤波器",
+          "translatedName": "Filter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053613
+        },
+        {
+          "categoryId": 202060914,
+          "chineseName": "晶体振荡器",
+          "translatedName": "crystal oscillator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053613
+        }
+      ]
+    }
+  }
+}

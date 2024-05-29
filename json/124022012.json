@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124022012,
+      "chineseName": "医用防护服",
+      "translatedName": "Medical protective clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124016011"
+    }
+  }
+}

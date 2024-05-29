@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123930004,
+      "chineseName": "梅花螺丝刀",
+      "translatedName": "Torx screwdriver",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123924001"
+    }
+  }
+}

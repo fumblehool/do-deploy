@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122258005,
+      "chineseName": "衣领净",
+      "translatedName": "collar clean",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122196011"
+    }
+  }
+}

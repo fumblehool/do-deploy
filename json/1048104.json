@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048104,
+      "chineseName": "其他运动休闲服",
+      "translatedName": "Other sportswear",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1048069"
+    }
+  }
+}

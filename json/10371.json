@@ -1,0 +1,199 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10371,
+      "chineseName": "合成材料助剂",
+      "translatedName": "Synthetic material additives",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 100103,
+          "chineseName": "溶剂油",
+          "translatedName": "Solvent oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034856,
+          "chineseName": "防霉剂、抗菌剂",
+          "translatedName": "Fungicides, Antibacterial Agents",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034857,
+          "chineseName": "热稳定剂",
+          "translatedName": "heat stabilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034858,
+          "chineseName": "光稳定剂",
+          "translatedName": "light stabilizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034859,
+          "chineseName": "合成材料抗氧化剂",
+          "translatedName": "synthetic material antioxidant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034849,
+          "chineseName": "其他合成材料助剂",
+          "translatedName": "Other synthetic material additives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034850,
+          "chineseName": "合成材料阻燃剂",
+          "translatedName": "synthetic material flame retardant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034851,
+          "chineseName": "防雾剂",
+          "translatedName": "antifogging agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034852,
+          "chineseName": "脱模剂",
+          "translatedName": "Mold release agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034853,
+          "chineseName": "抗冲击剂",
+          "translatedName": "anti-impact agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034854,
+          "chineseName": "偶联剂",
+          "translatedName": "coupling agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1034855,
+          "chineseName": "填充剂",
+          "translatedName": "Fillers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1031638,
+          "chineseName": "发泡剂",
+          "translatedName": "Foaming agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 10376,
+          "chineseName": "软化剂",
+          "translatedName": "Softener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 10378,
+          "chineseName": "增塑剂",
+          "translatedName": "Plasticizer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1036798,
+          "chineseName": "促进剂",
+          "translatedName": "Accelerator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1036799,
+          "chineseName": "防老剂",
+          "translatedName": "Anti-aging agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 10379,
+          "chineseName": "硫化剂",
+          "translatedName": "vulcanizing agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1036850,
+          "chineseName": "橡胶油",
+          "translatedName": "Rubber oil",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        },
+        {
+          "categoryId": 1037135,
+          "chineseName": "氯化石蜡",
+          "translatedName": "chlorinated paraffin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10371
+        }
+      ]
+    }
+  }
+}

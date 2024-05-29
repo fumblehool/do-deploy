@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124016003,
+      "chineseName": "挡风、遮阳、防雨工具",
+      "translatedName": "Windshield, sunshade and rainproof tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032028,
+          "chineseName": "工艺伞",
+          "translatedName": "Craft umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124022005,
+          "chineseName": "其他伞",
+          "translatedName": "Other umbrellas",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124020005,
+          "chineseName": "遮阳伞、太阳伞",
+          "translatedName": "Sun umbrella, sun umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124020006,
+          "chineseName": "其他雨衣、雨披",
+          "translatedName": "Other raincoats, ponchos",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124000005,
+          "chineseName": "连体雨衣、雨披",
+          "translatedName": "conjoined raincoat, poncho",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124014009,
+          "chineseName": "分体雨衣、雨披",
+          "translatedName": "Split raincoat, poncho",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124016004,
+          "chineseName": "创意伞具",
+          "translatedName": "Creative Umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124016005,
+          "chineseName": "装饰伞",
+          "translatedName": "Decorative umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124014005,
+          "chineseName": "雨伞",
+          "translatedName": "Umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124014006,
+          "chineseName": "晴雨伞",
+          "translatedName": "Umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124014007,
+          "chineseName": "垂钓伞",
+          "translatedName": "Fishing umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124014008,
+          "chineseName": "高尔夫伞",
+          "translatedName": "Golf umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124018002,
+          "chineseName": "沙滩伞",
+          "translatedName": "beach umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124018003,
+          "chineseName": "广告伞",
+          "translatedName": "advertising umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124066003,
+          "chineseName": "挡风衣、挡风被",
+          "translatedName": "Windbreaker, wind shield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 124066004,
+          "chineseName": "其他挡风遮阳防雨工具",
+          "translatedName": "Other windscreen and sunshade and rainproof tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201638359,
+          "chineseName": "居家挡风板",
+          "translatedName": "Home Windshield",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201308417,
+          "chineseName": "伞架/伞配件",
+          "translatedName": "Umbrella stand/umbrella accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201661901,
+          "chineseName": "电动车车罩",
+          "translatedName": "Electric car cover",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201160508,
+          "chineseName": "儿童伞具",
+          "translatedName": "Children's Umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201302022,
+          "chineseName": "防雨布",
+          "translatedName": "rain cloth",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 202038401,
+          "chineseName": "头戴伞",
+          "translatedName": "wearing an umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 201778501,
+          "chineseName": "油纸伞",
+          "translatedName": "Oilpaper umbrella",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        },
+        {
+          "categoryId": 202054608,
+          "chineseName": "一次性雨衣、雨披",
+          "translatedName": "Disposable raincoat, poncho",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124016003
+        }
+      ]
+    }
+  }
+}

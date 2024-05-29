@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035275,
+      "chineseName": "红外线灯泡",
+      "translatedName": "infrared light bulb",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10219"
+    }
+  }
+}

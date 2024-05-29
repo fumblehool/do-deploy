@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10154,
+      "chineseName": "其他纺织设备和器材",
+      "translatedName": "Other textile equipment and apparatus",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10062"
+    }
+  }
+}

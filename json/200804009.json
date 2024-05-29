@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200804009,
+      "chineseName": "高压触发二极管(SIDAC)",
+      "translatedName": "High Voltage Trigger Diode (SIDAC)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "200800009"
+    }
+  }
+}

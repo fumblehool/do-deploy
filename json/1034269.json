@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034269,
+      "chineseName": "其他纺织废料",
+      "translatedName": "Other Textile Waste",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10237"
+    }
+  }
+}

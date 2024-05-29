@@ -1,0 +1,730 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031642,
+      "chineseName": "工程塑料",
+      "translatedName": "engineering plastics",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034891,
+          "chineseName": "其他工程塑料",
+          "translatedName": "Other Engineering Plastics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034893,
+          "chineseName": "PMMA",
+          "translatedName": "PMMA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034894,
+          "chineseName": "PBT",
+          "translatedName": "PBT",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034896,
+          "chineseName": "POM",
+          "translatedName": "POM",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034897,
+          "chineseName": "PPO",
+          "translatedName": "PPO",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034898,
+          "chineseName": "PES",
+          "translatedName": "PES",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034899,
+          "chineseName": "PU",
+          "translatedName": "PU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034900,
+          "chineseName": "PTFE",
+          "translatedName": "PTFE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034901,
+          "chineseName": "PC",
+          "translatedName": "PC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034902,
+          "chineseName": "PPS",
+          "translatedName": "PPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034904,
+          "chineseName": "EVA",
+          "translatedName": "EVA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1034905,
+          "chineseName": "PET",
+          "translatedName": "PET",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036729,
+          "chineseName": "PETG",
+          "translatedName": "PETG",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036449,
+          "chineseName": "LCP",
+          "translatedName": "LCP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036450,
+          "chineseName": "PEEK",
+          "translatedName": "PEEK",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036451,
+          "chineseName": "PEI",
+          "translatedName": "PEI",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036452,
+          "chineseName": "PI",
+          "translatedName": "PI",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037222,
+          "chineseName": "COC",
+          "translatedName": "COC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037223,
+          "chineseName": "CPE",
+          "translatedName": "CPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037224,
+          "chineseName": "FEP",
+          "translatedName": "FEP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037225,
+          "chineseName": "MBS",
+          "translatedName": "MBS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037226,
+          "chineseName": "MS",
+          "translatedName": "MS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037227,
+          "chineseName": "PCTA",
+          "translatedName": "PCTA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042767,
+          "chineseName": "PA66",
+          "translatedName": "PA66",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042768,
+          "chineseName": "PA6",
+          "translatedName": "PA6",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042769,
+          "chineseName": "PA610",
+          "translatedName": "PA610",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042770,
+          "chineseName": "PA1010",
+          "translatedName": "PA1010",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042771,
+          "chineseName": "PA12",
+          "translatedName": "PA12",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042772,
+          "chineseName": "PA46",
+          "translatedName": "PA46",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042773,
+          "chineseName": "PA6T",
+          "translatedName": "PA6T",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042774,
+          "chineseName": "PA9T",
+          "translatedName": "PA9T",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1042775,
+          "chineseName": "PA11",
+          "translatedName": "PA11",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037228,
+          "chineseName": "PF",
+          "translatedName": "PF",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037229,
+          "chineseName": "PPA",
+          "translatedName": "PPA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037230,
+          "chineseName": "PP-R",
+          "translatedName": "PP-R",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037231,
+          "chineseName": "EVOH",
+          "translatedName": "EVOH",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037232,
+          "chineseName": "AES",
+          "translatedName": "AES",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041762,
+          "chineseName": "CA",
+          "translatedName": "CA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036444,
+          "chineseName": "PFA",
+          "translatedName": "PFA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036445,
+          "chineseName": "POE",
+          "translatedName": "POE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036446,
+          "chineseName": "PPE",
+          "translatedName": "PPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036447,
+          "chineseName": "SPS",
+          "translatedName": "SPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036448,
+          "chineseName": "PVDF",
+          "translatedName": "PVDF",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047920,
+          "chineseName": "SMMA",
+          "translatedName": "SMMA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047921,
+          "chineseName": "UHMWPE",
+          "translatedName": "UHMWPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047922,
+          "chineseName": "TSC",
+          "translatedName": "TSC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047923,
+          "chineseName": "PVDC",
+          "translatedName": "PVDC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047924,
+          "chineseName": "ULDPE",
+          "translatedName": "ULDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036941,
+          "chineseName": "K胶",
+          "translatedName": "K glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036942,
+          "chineseName": "PTT",
+          "translatedName": "PTT",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036943,
+          "chineseName": "PSU",
+          "translatedName": "PSU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036944,
+          "chineseName": "TPX",
+          "translatedName": "TPX",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037040,
+          "chineseName": "CPVC",
+          "translatedName": "CPVC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1037253,
+          "chineseName": "PCTG",
+          "translatedName": "PCTG",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1043452,
+          "chineseName": "PA612",
+          "translatedName": "PA612",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041109,
+          "chineseName": "MDPE",
+          "translatedName": "MDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041110,
+          "chineseName": "MLLDPE",
+          "translatedName": "MLLDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041111,
+          "chineseName": "MPPO",
+          "translatedName": "MPPO",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041112,
+          "chineseName": "PLA",
+          "translatedName": "PLA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041113,
+          "chineseName": "PPC",
+          "translatedName": "PPC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041114,
+          "chineseName": "沙林树脂",
+          "translatedName": "sarin resin",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041126,
+          "chineseName": "PPSU",
+          "translatedName": "PPSU",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047909,
+          "chineseName": "EBA",
+          "translatedName": "EBA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047910,
+          "chineseName": "EEA",
+          "translatedName": "EEA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047911,
+          "chineseName": "EPS",
+          "translatedName": "EPS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047912,
+          "chineseName": "LMDPE",
+          "translatedName": "LMDPE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047913,
+          "chineseName": "MABS",
+          "translatedName": "MABS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047914,
+          "chineseName": "PAI",
+          "translatedName": "PAI",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047915,
+          "chineseName": "PAMXD6",
+          "translatedName": "PAMXD6",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047916,
+          "chineseName": "PCT",
+          "translatedName": "PCT",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047917,
+          "chineseName": "POP",
+          "translatedName": "POP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047918,
+          "chineseName": "PP-B",
+          "translatedName": "PP-B",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047919,
+          "chineseName": "PUR",
+          "translatedName": "PUR",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036945,
+          "chineseName": "ASA",
+          "translatedName": "ASA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036946,
+          "chineseName": "CAB",
+          "translatedName": "CAB",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1036947,
+          "chineseName": "AS",
+          "translatedName": "AS",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041107,
+          "chineseName": "EAA",
+          "translatedName": "EAA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1041108,
+          "chineseName": "EMA",
+          "translatedName": "EMA",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        },
+        {
+          "categoryId": 1047908,
+          "chineseName": "CAP",
+          "translatedName": "CAP",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031642
+        }
+      ]
+    }
+  }
+}

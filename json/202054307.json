@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202054307,
+      "chineseName": "光伏零配件",
+      "translatedName": "Photovoltaic spare parts",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125754003,
+          "chineseName": "光伏支架",
+          "translatedName": "Photovoltaic bracket",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202053915,
+          "chineseName": "光伏螺栓",
+          "translatedName": "Photovoltaic bolt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202055210,
+          "chineseName": "光伏地桩",
+          "translatedName": "Photovoltaic ground pile",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202064009,
+          "chineseName": "光伏并网箱/柜",
+          "translatedName": "Photovoltaic grid-connected box/cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202058808,
+          "chineseName": "其他光伏零部件",
+          "translatedName": "Other PV Parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202055905,
+          "chineseName": "光伏夹具",
+          "translatedName": "Photovoltaic Fixture",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        },
+        {
+          "categoryId": 202059213,
+          "chineseName": "防雷接地",
+          "translatedName": "Lightning protection grounding",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202054307
+        }
+      ]
+    }
+  }
+}

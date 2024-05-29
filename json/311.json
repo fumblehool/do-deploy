@@ -1,0 +1,334 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 311,
+      "chineseName": "童装",
+      "translatedName": "Children's clothing",
+      "language": "en",
+      "leaf": "false",
+      "level": "1",
+      "parentCateId": "0",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043351,
+          "chineseName": "儿童袜",
+          "translatedName": "children's socks",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037648,
+          "chineseName": "儿童外套/夹克/大衣（停用）",
+          "translatedName": "Children's coat/jacket/coat (deactivated)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1042754,
+          "chineseName": "儿童家居服（停用）",
+          "translatedName": "Children's home clothes (discontinued)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037003,
+          "chineseName": "连身衣、爬服",
+          "translatedName": "jumpsuit, climbing suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037004,
+          "chineseName": "童裤",
+          "translatedName": "Children's Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037005,
+          "chineseName": "儿童裙（停用）",
+          "translatedName": "Children's skirt (deactivated)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037006,
+          "chineseName": "童棉袄/棉服",
+          "translatedName": "Children's cotton-padded jacket/cotton-padded jacket",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037008,
+          "chineseName": "儿童羽绒服/羽绒内胆（停用）",
+          "translatedName": "Children's Down Jacket/Down Liner (Disused)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037009,
+          "chineseName": "童针织衫",
+          "translatedName": "Children's Knitwear",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037010,
+          "chineseName": "童毛衣",
+          "translatedName": "Children's Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037011,
+          "chineseName": "童衬衫",
+          "translatedName": "Children's Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037012,
+          "chineseName": "童T恤",
+          "translatedName": "Children's T-shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1042840,
+          "chineseName": "童卫衣",
+          "translatedName": "Children's Sweat",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1042841,
+          "chineseName": "童马甲",
+          "translatedName": "Children's Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037192,
+          "chineseName": "童套装",
+          "translatedName": "Children's Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1037039,
+          "chineseName": "亲子装",
+          "translatedName": "parent-child outfit",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 122698004,
+          "chineseName": "婴儿礼盒",
+          "translatedName": "Baby Gift Box",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 1048174,
+          "chineseName": "童背心/吊带衫",
+          "translatedName": "Children's Vest/Sling Top",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 122086002,
+          "chineseName": "童旗袍/唐装/民族服装（停用",
+          "translatedName": "Children's cheongsam/Tang suit/ethnic costume (deactivated",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 122380006,
+          "chineseName": "婴幼儿寝居/服饰",
+          "translatedName": "Infant Bedding/Clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 124196006,
+          "chineseName": "童皮衣（停用）",
+          "translatedName": "Children's Leather Coat (Stopped)",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 127430003,
+          "chineseName": "童打底裤",
+          "translatedName": "Children's Leggings",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 127430004,
+          "chineseName": "童打底衫",
+          "translatedName": "Children's Undershirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201387101,
+          "chineseName": "童牛仔服",
+          "translatedName": "Children's Jeans",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201554412,
+          "chineseName": "儿童POLO衫",
+          "translatedName": "Children's polo shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 127420011,
+          "chineseName": "儿童运动/户外服",
+          "translatedName": "Children's sports/outdoor clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201545714,
+          "chineseName": "童旗袍/唐装/民族服装",
+          "translatedName": "Children's cheongsam/Tang suit/national costume",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201546613,
+          "chineseName": "童裙",
+          "translatedName": "Children's Skirt",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 127164001,
+          "chineseName": "童装杂款包",
+          "translatedName": "Children's Miscellaneous Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201552814,
+          "chineseName": "童羽绒服/羽绒内胆",
+          "translatedName": "Children's Down Jacket/Down Liner",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201552907,
+          "chineseName": "童家居服",
+          "translatedName": "Children's home clothes",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 201551614,
+          "chineseName": "童外套/夹克/大衣",
+          "translatedName": "Children's coat/jacket/coat",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 127496001,
+          "chineseName": "儿童内衣内裤",
+          "translatedName": "Children's Underwear Panties",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 202030801,
+          "chineseName": "校园服装",
+          "translatedName": "Campus Clothing",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        },
+        {
+          "categoryId": 202057212,
+          "chineseName": "童装加工定制",
+          "translatedName": "Children's clothing processing customization",
+          "language": "en",
+          "leaf": false,
+          "level": "2",
+          "parentCateId": 311
+        }
+      ]
+    }
+  }
+}

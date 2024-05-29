@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046874,
+      "chineseName": "离心离合器",
+      "translatedName": "centrifugal clutch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046868"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201223340,
+      "chineseName": "阀用电磁铁（新）",
+      "translatedName": "Valve electromagnet (new)",
+      "language": "en",
+      "leaf": "true",
+      "level": "2",
+      "parentCateId": "5"
+    }
+  }
+}

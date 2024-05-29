@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125062007,
+      "chineseName": "送变电工程专业承包",
+      "translatedName": "Power transmission and transformation engineering professional contracting",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124960005"
+    }
+  }
+}

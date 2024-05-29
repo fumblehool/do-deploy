@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125728001,
+      "chineseName": "化妆箱包",
+      "translatedName": "Makeup bags",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125728002,
+          "chineseName": "化妆箱",
+          "translatedName": "Cosmetic Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125728001
+        },
+        {
+          "categoryId": 125742002,
+          "chineseName": "其他功能包袋",
+          "translatedName": "Other functional bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125728001
+        },
+        {
+          "categoryId": 125740001,
+          "chineseName": "化妆包",
+          "translatedName": "Makeup Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125728001
+        }
+      ]
+    }
+  }
+}

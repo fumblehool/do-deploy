@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032645,
+      "chineseName": "整体厨房",
+      "translatedName": "Whole kitchen",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122380009"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124594001,
+      "chineseName": "塑料包装袋",
+      "translatedName": "plastic packaging bag",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "68",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033022,
+          "chineseName": "其他塑料薄膜袋",
+          "translatedName": "Other Plastic Film Bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124594002,
+          "chineseName": "塑料背心袋",
+          "translatedName": "Plastic vest bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124596002,
+          "chineseName": "塑料连卷袋",
+          "translatedName": "plastic roll bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124596003,
+          "chineseName": "塑料自封袋",
+          "translatedName": "plastic self-sealing bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124596004,
+          "chineseName": "塑料购物袋",
+          "translatedName": "plastic shopping bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124598001,
+          "chineseName": "塑料自立袋",
+          "translatedName": "plastic self-standing bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124600001,
+          "chineseName": "塑料食品袋",
+          "translatedName": "Plastic food bags",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124600002,
+          "chineseName": "塑料服装袋",
+          "translatedName": "plastic garment bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 124600003,
+          "chineseName": "塑料手提袋",
+          "translatedName": "plastic tote bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        },
+        {
+          "categoryId": 201353860,
+          "chineseName": "环保包装袋",
+          "translatedName": "Environmental protection packaging bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124594001
+        }
+      ]
+    }
+  }
+}

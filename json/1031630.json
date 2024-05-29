@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031630,
+      "chineseName": "有机颜料",
+      "translatedName": "organic pigment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031631,
+          "chineseName": "偶氮颜料",
+          "translatedName": "azo pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 1034864,
+          "chineseName": "还原颜料",
+          "translatedName": "reduced pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 1034865,
+          "chineseName": "酞菁颜料",
+          "translatedName": "phthalocyanine pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 1034866,
+          "chineseName": "色淀",
+          "translatedName": "Lake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 1036560,
+          "chineseName": "荧光颜料",
+          "translatedName": "fluorescent pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 1036561,
+          "chineseName": "透明颜料",
+          "translatedName": "transparent pigment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        },
+        {
+          "categoryId": 814,
+          "chineseName": "其他有机颜料",
+          "translatedName": "Other Organic Pigments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031630
+        }
+      ]
+    }
+  }
+}

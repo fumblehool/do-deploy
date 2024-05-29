@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124158004,
+      "chineseName": "绝缘鞋",
+      "translatedName": "Insulated shoes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124166001"
+    }
+  }
+}

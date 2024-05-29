@@ -1,0 +1,154 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10086,
+      "chineseName": "肉禽类",
+      "translatedName": "Meat Poultry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033724,
+          "chineseName": "鲜/活畜类",
+          "translatedName": "Fresh/live livestock",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 1033729,
+          "chineseName": "鲜/活禽类",
+          "translatedName": "Fresh/live poultry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 1046320,
+          "chineseName": "其他肉禽制品",
+          "translatedName": "Other meat and poultry products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125062010,
+          "chineseName": "牛肉类",
+          "translatedName": "beef meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125062011,
+          "chineseName": "鸭肉类",
+          "translatedName": "duck meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125062012,
+          "chineseName": "鹅肉类",
+          "translatedName": "Goose Meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125070004,
+          "chineseName": "鸡肉类",
+          "translatedName": "chicken meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125070005,
+          "chineseName": "猪肉类",
+          "translatedName": "pork meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 125086002,
+          "chineseName": "羊肉类",
+          "translatedName": "mutton meat",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201157809,
+          "chineseName": "火腿类",
+          "translatedName": "Ham",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201160907,
+          "chineseName": "方腿培根类",
+          "translatedName": "Square Leg Bacon Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201155608,
+          "chineseName": "腌腊类",
+          "translatedName": "Cured class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201161510,
+          "chineseName": "香肠烤肠类",
+          "translatedName": "Sausage Roasted Sausage",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201161906,
+          "chineseName": "牛排类",
+          "translatedName": "Steak Class",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        },
+        {
+          "categoryId": 201161509,
+          "chineseName": "酱卤类",
+          "translatedName": "Sauce and halogen",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10086
+        }
+      ]
+    }
+  }
+}

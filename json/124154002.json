@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124154002,
+      "chineseName": "其他安全标识",
+      "translatedName": "Other safety signs",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124158001"
+    }
+  }
+}

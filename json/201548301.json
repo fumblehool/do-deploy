@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201548301,
+      "chineseName": "JK制服",
+      "translatedName": "JK Uniforms",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10166",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037013,
+          "chineseName": "其它JK",
+          "translatedName": "Other JK",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202041602,
+          "chineseName": "JK衬衫",
+          "translatedName": "JK Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042401,
+          "chineseName": "JK套装",
+          "translatedName": "JK Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042402,
+          "chineseName": "JK水手服",
+          "translatedName": "JK sailor suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042502,
+          "chineseName": "JK毛衣",
+          "translatedName": "JK Sweater",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042601,
+          "chineseName": "JK百褶裙",
+          "translatedName": "JK Pleated Skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202026005,
+          "chineseName": "JK背心裙",
+          "translatedName": "JK vest skirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042701,
+          "chineseName": "JK西服",
+          "translatedName": "JK Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        },
+        {
+          "categoryId": 202042801,
+          "chineseName": "JK马甲",
+          "translatedName": "JK Vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201548301
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126150002,
+      "chineseName": "男用器具",
+      "translatedName": "male utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130823000",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123864004,
+          "chineseName": "飞机蛋",
+          "translatedName": "aircraft egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 123864005,
+          "chineseName": "延时喷剂",
+          "translatedName": "Delayed spray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126128004,
+          "chineseName": "名器倒模",
+          "translatedName": "Inverted mold of famous device",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126178002,
+          "chineseName": "震动环/夹",
+          "translatedName": "Vibe ring/clamp",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126178003,
+          "chineseName": "其他男用",
+          "translatedName": "Other male",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126180001,
+          "chineseName": "飞机杯",
+          "translatedName": "aircraft cup",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126182001,
+          "chineseName": "充气娃娃",
+          "translatedName": "Inflatable Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126128005,
+          "chineseName": "实体娃娃",
+          "translatedName": "Entity Doll",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        },
+        {
+          "categoryId": 126144004,
+          "chineseName": "前列腺按摩器",
+          "translatedName": "Prostate Massager",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126150002
+        }
+      ]
+    }
+  }
+}

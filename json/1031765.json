@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031765,
+      "chineseName": "苎麻面料",
+      "translatedName": "ramie fabric",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "412"
+    }
+  }
+}

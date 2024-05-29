@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1459,
+      "chineseName": "车间设备",
+      "translatedName": "Workshop Equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036784,
+          "chineseName": "其他车间设备",
+          "translatedName": "Other workshop equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1459
+        },
+        {
+          "categoryId": 1036785,
+          "chineseName": "无尘车间",
+          "translatedName": "Dust-free workshop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1459
+        },
+        {
+          "categoryId": 1036786,
+          "chineseName": "风淋室",
+          "translatedName": "Air shower room",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1459
+        },
+        {
+          "categoryId": 1036787,
+          "chineseName": "喷涂车间",
+          "translatedName": "Spraying workshop",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1459
+        }
+      ]
+    }
+  }
+}

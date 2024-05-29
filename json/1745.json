@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1745,
+      "chineseName": "脚饰",
+      "translatedName": "Foot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125740007"
+    }
+  }
+}

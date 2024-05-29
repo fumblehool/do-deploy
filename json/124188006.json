@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124188006,
+      "chineseName": "童皮草/皮毛一体",
+      "translatedName": "Children's fur/fur one",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201551614"
+    }
+  }
+}

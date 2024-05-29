@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160507,
+      "chineseName": "塑胶零件、配件",
+      "translatedName": "Plastic parts, accessories",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037250,
+          "chineseName": "其他塑胶零件、配件",
+          "translatedName": "Other plastic parts and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201158202,
+          "chineseName": "塑胶卡垫",
+          "translatedName": "Plastic card pad",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201157407,
+          "chineseName": "塑料堵头",
+          "translatedName": "Plastic plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201160804,
+          "chineseName": "塑胶管帽",
+          "translatedName": "plastic pipe cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201156606,
+          "chineseName": "塑料封头",
+          "translatedName": "plastic head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201156705,
+          "chineseName": "橡塑管套",
+          "translatedName": "Rubber plastic pipe sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201163104,
+          "chineseName": "塑料塞子、脚塞",
+          "translatedName": "Plastic stopper, foot plug",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201155906,
+          "chineseName": "塑料套",
+          "translatedName": "plastic sleeve",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        },
+        {
+          "categoryId": 201156904,
+          "chineseName": "塑料件",
+          "translatedName": "Plastic parts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201160507
+        }
+      ]
+    }
+  }
+}

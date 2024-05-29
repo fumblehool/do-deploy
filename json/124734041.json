@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734041,
+      "chineseName": "车用千斤顶",
+      "translatedName": "Car jack",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124744036"
+    }
+  }
+}

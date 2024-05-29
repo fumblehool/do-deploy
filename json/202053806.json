@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053806,
+      "chineseName": "内衣加工定制",
+      "translatedName": "Underwear processing customization",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127092002,
+          "chineseName": "内衣其他加工",
+          "translatedName": "Underwear Other Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053806
+        },
+        {
+          "categoryId": 202051420,
+          "chineseName": "内衣梭织加工",
+          "translatedName": "underwear woven processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053806
+        },
+        {
+          "categoryId": 202055315,
+          "chineseName": "内衣针织加工",
+          "translatedName": "Underwear Knitting Processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202053806
+        }
+      ]
+    }
+  }
+}

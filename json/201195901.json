@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201195901,
+      "chineseName": "女式打底衫",
+      "translatedName": "women's bottoming shirt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201723506"
+    }
+  }
+}

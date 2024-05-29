@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034743,
+      "chineseName": "反应釜",
+      "translatedName": "Reaction kettle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10415"
+    }
+  }
+}

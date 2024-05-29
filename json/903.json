@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 903,
+      "chineseName": "金属网",
+      "translatedName": "Metal mesh",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033439,
+          "chineseName": "其他金属网",
+          "translatedName": "Other metal mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1033440,
+          "chineseName": "金属板网",
+          "translatedName": "metal plate net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1033441,
+          "chineseName": "铝丝网",
+          "translatedName": "Aluminum wire mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1033442,
+          "chineseName": "铜丝网",
+          "translatedName": "copper wire mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1033443,
+          "chineseName": "钢丝网",
+          "translatedName": "Wire Mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1033444,
+          "chineseName": "铁丝网",
+          "translatedName": "Barbed wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1036940,
+          "chineseName": "金属网带",
+          "translatedName": "Metal mesh belt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 1046018,
+          "chineseName": "不锈钢网",
+          "translatedName": "stainless steel mesh",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 124516002,
+          "chineseName": "护栏网",
+          "translatedName": "Fence net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        },
+        {
+          "categoryId": 124518001,
+          "chineseName": "金刚网",
+          "translatedName": "King Kong Net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 903
+        }
+      ]
+    }
+  }
+}

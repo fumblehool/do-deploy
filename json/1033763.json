@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033763,
+      "chineseName": "布类包装材料",
+      "translatedName": "Cloth packaging materials",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1047293"
+    }
+  }
+}

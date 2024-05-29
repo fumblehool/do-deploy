@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045499,
+      "chineseName": "钣金加工",
+      "translatedName": "sheet metal processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1045498"
+    }
+  }
+}

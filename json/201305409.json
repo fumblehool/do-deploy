@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201305409,
+      "chineseName": "科技功能型纤维被",
+      "translatedName": "Science and technology functional fiber",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123084001"
+    }
+  }
+}

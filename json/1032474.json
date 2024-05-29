@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032474,
+      "chineseName": "农用工具",
+      "translatedName": "Agricultural tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035498,
+          "chineseName": "锨",
+          "translatedName": "shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035499,
+          "chineseName": "锹",
+          "translatedName": "Spade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035500,
+          "chineseName": "耙子",
+          "translatedName": "Rake",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035501,
+          "chineseName": "镰刀",
+          "translatedName": "Sickle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035502,
+          "chineseName": "叉",
+          "translatedName": "Fork",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035494,
+          "chineseName": "其他农用工具",
+          "translatedName": "Other agricultural tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035495,
+          "chineseName": "钢镐",
+          "translatedName": "steel pick",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035496,
+          "chineseName": "锄头",
+          "translatedName": "Hoe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        },
+        {
+          "categoryId": 1035497,
+          "chineseName": "铲子",
+          "translatedName": "Shovel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032474
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1005,
+      "chineseName": "煤制品",
+      "translatedName": "Coal Products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033691,
+          "chineseName": "其他煤制品",
+          "translatedName": "Other Coal Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1005
+        },
+        {
+          "categoryId": 1033692,
+          "chineseName": "洗选煤",
+          "translatedName": "coal washing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1005
+        },
+        {
+          "categoryId": 1033694,
+          "chineseName": "焦炭",
+          "translatedName": "Coke",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1005
+        }
+      ]
+    }
+  }
+}

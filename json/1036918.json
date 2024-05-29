@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036918,
+      "chineseName": "悬挂系统",
+      "translatedName": "Suspension system",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3321"
+    }
+  }
+}

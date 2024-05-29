@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1704,
+      "chineseName": "贴饰",
+      "translatedName": "applique",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "96",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1038129,
+          "chineseName": "墙贴",
+          "translatedName": "Wall Stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 124734005,
+          "chineseName": "玻璃贴",
+          "translatedName": "Glass Sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 127902018,
+          "chineseName": "电脑贴",
+          "translatedName": "Computer stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 127914016,
+          "chineseName": "衣柜贴",
+          "translatedName": "Wardrobe stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 201309205,
+          "chineseName": "镜面贴",
+          "translatedName": "Mirror stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 201309404,
+          "chineseName": "马桶贴",
+          "translatedName": "Toilet Sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        },
+        {
+          "categoryId": 127886021,
+          "chineseName": "开关贴",
+          "translatedName": "Switch stickers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1704
+        }
+      ]
+    }
+  }
+}

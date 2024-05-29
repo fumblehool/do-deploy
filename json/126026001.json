@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126026001,
+      "chineseName": "女士安全裤",
+      "translatedName": "Women's safety pants",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122450001"
+    }
+  }
+}

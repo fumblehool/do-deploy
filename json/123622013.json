@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123622013,
+      "chineseName": "LED灯具制造设备",
+      "translatedName": "LED lamp manufacturing equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123620013"
+    }
+  }
+}

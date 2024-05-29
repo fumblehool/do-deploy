@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036334,
+      "chineseName": "冲版机",
+      "translatedName": "plate punching machine",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3406"
+    }
+  }
+}

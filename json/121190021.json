@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 121190021,
+      "chineseName": "婴童枕芯",
+      "translatedName": "Baby pillow core",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "121188018"
+    }
+  }
+}

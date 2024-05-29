@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032301,
+      "chineseName": "纽扣电池",
+      "translatedName": "button battery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10204"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124184007,
+      "chineseName": "钢直尺",
+      "translatedName": "Steel ruler",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201914203"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124734002,
+      "chineseName": "菌/菇/微生物发酵（食品）",
+      "translatedName": "Mushroom/Mushroom/Microbial Fermentation (food)",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124740001"
+    }
+  }
+}

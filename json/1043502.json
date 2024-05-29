@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043502,
+      "chineseName": "其他唇部护理产品",
+      "translatedName": "Other Lip Care Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1043498"
+    }
+  }
+}

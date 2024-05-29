@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1045498,
+      "chineseName": "机械五金加工",
+      "translatedName": "Mechanical hardware processing",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045499,
+          "chineseName": "钣金加工",
+          "translatedName": "sheet metal processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045500,
+          "chineseName": "CNC加工",
+          "translatedName": "CNC Machining",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045501,
+          "chineseName": "铸造",
+          "translatedName": "Casting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045502,
+          "chineseName": "锻造",
+          "translatedName": "Forging",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045503,
+          "chineseName": "冲压加工",
+          "translatedName": "Stamping processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045504,
+          "chineseName": "表面处理",
+          "translatedName": "Surface treatment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045505,
+          "chineseName": "粉末冶金",
+          "translatedName": "powder metallurgy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045506,
+          "chineseName": "雕刻、打号",
+          "translatedName": "Engraving, marking",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045507,
+          "chineseName": "激光加工",
+          "translatedName": "laser processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045508,
+          "chineseName": "装配、组装",
+          "translatedName": "Assembly, assembly",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045509,
+          "chineseName": "模具制造",
+          "translatedName": "Mold manufacturing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045510,
+          "chineseName": "焊接加工",
+          "translatedName": "Welding processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 1045512,
+          "chineseName": "其他机械五金加工",
+          "translatedName": "Other mechanical hardware processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 202051508,
+          "chineseName": "金属面板加工",
+          "translatedName": "Metal panel processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 202052007,
+          "chineseName": "金属外壳加工",
+          "translatedName": "Metal shell processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        },
+        {
+          "categoryId": 202056412,
+          "chineseName": "压铸",
+          "translatedName": "Die Casting",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1045498
+        }
+      ]
+    }
+  }
+}

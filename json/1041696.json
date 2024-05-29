@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041696,
+      "chineseName": "其他整熨洗涤设备",
+      "translatedName": "Other Ironing and Washing Equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1041693"
+    }
+  }
+}

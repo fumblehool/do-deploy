@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122198004,
+      "chineseName": "篮球包、篮球袋",
+      "translatedName": "Basketball bag, basketball bag",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1044810"
+    }
+  }
+}

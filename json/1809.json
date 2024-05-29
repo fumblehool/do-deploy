@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1809,
+      "chineseName": "棋牌、休闲运动",
+      "translatedName": "Chess, leisure sports",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033523,
+          "chineseName": "其他室内休闲用品",
+          "translatedName": "Other Indoor Leisure Products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1033524,
+          "chineseName": "麻将",
+          "translatedName": "Mahjong",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1033525,
+          "chineseName": "游戏棋",
+          "translatedName": "game chess",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1044717,
+          "chineseName": "象棋、围棋",
+          "translatedName": "Chess, Go",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1044719,
+          "chineseName": "桌上足球、桌上曲棍球",
+          "translatedName": "Table football, table hockey",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1035652,
+          "chineseName": "骰子、筹码",
+          "translatedName": "Dice, chips",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1037345,
+          "chineseName": "筹码箱",
+          "translatedName": "Chip box",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 1808,
+          "chineseName": "扑克、桌游牌",
+          "translatedName": "Poker, board game cards",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 201867802,
+          "chineseName": "麻将机",
+          "translatedName": "Mahjong machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        },
+        {
+          "categoryId": 2041,
+          "chineseName": "飞镖",
+          "translatedName": "Darts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1809
+        }
+      ]
+    }
+  }
+}

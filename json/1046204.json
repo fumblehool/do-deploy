@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046204,
+      "chineseName": "农作物种子种苗",
+      "translatedName": "crop seed seedling",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130822002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032835,
+          "chineseName": "菌菇种苗",
+          "translatedName": "mushroom seedling",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        },
+        {
+          "categoryId": 1046205,
+          "chineseName": "粮食作物种子",
+          "translatedName": "grain crop seeds",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        },
+        {
+          "categoryId": 1046206,
+          "chineseName": "蔬菜种子、种苗",
+          "translatedName": "Vegetable seeds, seedlings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        },
+        {
+          "categoryId": 1046208,
+          "chineseName": "水果种子、种苗",
+          "translatedName": "Fruit Seeds, Seedlings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        },
+        {
+          "categoryId": 1046210,
+          "chineseName": "药材种子、种苗",
+          "translatedName": "Seeds and seedlings of medicinal herbs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        },
+        {
+          "categoryId": 1046217,
+          "chineseName": "其他农作物种子、种苗",
+          "translatedName": "Seeds and seedlings of other crops",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1046204
+        }
+      ]
+    }
+  }
+}

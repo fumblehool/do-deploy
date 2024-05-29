@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201914402,
+      "chineseName": "混合气体配比器",
+      "translatedName": "Mixing gas proportioner",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032366"
+    }
+  }
+}

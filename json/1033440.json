@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033440,
+      "chineseName": "金属板网",
+      "translatedName": "metal plate net",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "903"
+    }
+  }
+}

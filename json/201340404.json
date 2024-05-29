@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201340404,
+      "chineseName": "材料试剂",
+      "translatedName": "Material Reagent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "817"
+    }
+  }
+}

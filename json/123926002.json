@@ -1,0 +1,118 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123926002,
+      "chineseName": "手部防护",
+      "translatedName": "Hand protection",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "70",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033213,
+          "chineseName": "其他手部防护",
+          "translatedName": "Other hand protection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123924011,
+          "chineseName": "防割手套",
+          "translatedName": "cut-resistant gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123926003,
+          "chineseName": "耐高温手套",
+          "translatedName": "High temperature resistant gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123934005,
+          "chineseName": "一次性防护手套",
+          "translatedName": "Disposable protective gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123934006,
+          "chineseName": "通用手套",
+          "translatedName": "General Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123936001,
+          "chineseName": "防化手套",
+          "translatedName": "Anti-chemical gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123936002,
+          "chineseName": "焊工手套",
+          "translatedName": "Welder gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123930005,
+          "chineseName": "耐低温手套",
+          "translatedName": "Low temperature resistant gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123932005,
+          "chineseName": "绝缘手套",
+          "translatedName": "Insulating gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 123932008,
+          "chineseName": "防静电手套",
+          "translatedName": "Anti-static gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        },
+        {
+          "categoryId": 201575118,
+          "chineseName": "医用手套",
+          "translatedName": "Medical Gloves",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123926002
+        }
+      ]
+    }
+  }
+}

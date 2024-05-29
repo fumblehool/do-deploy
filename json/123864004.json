@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123864004,
+      "chineseName": "飞机蛋",
+      "translatedName": "aircraft egg",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "126150002"
+    }
+  }
+}

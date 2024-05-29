@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124736055,
+      "chineseName": "笔记本外壳膜",
+      "translatedName": "Notebook Shell Film",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "729"
+    }
+  }
+}

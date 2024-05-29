@@ -1,0 +1,235 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1212,
+      "chineseName": "影音导航",
+      "translatedName": "AV Navigation",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "122916002",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032086,
+          "chineseName": "其他汽车影音",
+          "translatedName": "Other Car Video",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032087,
+          "chineseName": "汽车音箱/低音炮",
+          "translatedName": "Car speaker/subwoofer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032090,
+          "chineseName": "车载显示器",
+          "translatedName": "Car display",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032093,
+          "chineseName": "车载影碟机",
+          "translatedName": "Car DVD player",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032094,
+          "chineseName": "车载CD机",
+          "translatedName": "Car CD player",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032112,
+          "chineseName": "行车记录仪",
+          "translatedName": "driving recorder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032113,
+          "chineseName": "倒车雷达",
+          "translatedName": "Reversing radar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032128,
+          "chineseName": "其他汽车通讯",
+          "translatedName": "Other Automotive Communications",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032129,
+          "chineseName": "车载对讲机",
+          "translatedName": "vehicle-mounted interphone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032130,
+          "chineseName": "车载免提",
+          "translatedName": "On-board handsfree",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1032131,
+          "chineseName": "车用便捷式GPS导航",
+          "translatedName": "Car Convenient GPS Navigation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1035896,
+          "chineseName": "车载电脑",
+          "translatedName": "On-board computer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1035659,
+          "chineseName": "车载mp3",
+          "translatedName": "car mp3",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1041508,
+          "chineseName": "车载电视",
+          "translatedName": "Car TV",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1041509,
+          "chineseName": "车载mp4",
+          "translatedName": "Car mp4",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1041510,
+          "chineseName": "FM发射器",
+          "translatedName": "FM Transmitter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1046460,
+          "chineseName": "GPS定位器",
+          "translatedName": "GPS Locator",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 1046461,
+          "chineseName": "车载摄像头",
+          "translatedName": "Vehicle camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 123288003,
+          "chineseName": "DVD导航",
+          "translatedName": "DVD Navigation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 125070007,
+          "chineseName": "智能后视镜导航",
+          "translatedName": "Intelligent rearview mirror navigation",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 201354113,
+          "chineseName": "车载HUD",
+          "translatedName": "Vehicle HUD",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 201306802,
+          "chineseName": "摩托车行车记录仪",
+          "translatedName": "motorcycle driving recorder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 201909801,
+          "chineseName": "车载mp5",
+          "translatedName": "Car mp5",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        },
+        {
+          "categoryId": 201909201,
+          "chineseName": "无线CarPlay",
+          "translatedName": "Wireless CarPlay",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1212
+        }
+      ]
+    }
+  }
+}

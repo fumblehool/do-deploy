@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 125064006,
+      "chineseName": "电工电气辅材",
+      "translatedName": "Electrical auxiliary materials for electricians",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 125068006,
+          "chineseName": "导线管及接头",
+          "translatedName": "Conduit and joints",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 125070012,
+          "chineseName": "电气联接",
+          "translatedName": "Electrical connection",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 125062019,
+          "chineseName": "线束扎带",
+          "translatedName": "Wire harness tie",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 127746004,
+          "chineseName": "导电材料",
+          "translatedName": "conductive material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 127782004,
+          "chineseName": "铁芯/非晶/磁性材料",
+          "translatedName": "iron core/amorphous/magnetic material",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 127894002,
+          "chineseName": "行线槽",
+          "translatedName": "Line groove",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        },
+        {
+          "categoryId": 202059107,
+          "chineseName": "母线槽",
+          "translatedName": "bus duct",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 125064006
+        }
+      ]
+    }
+  }
+}

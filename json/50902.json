@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 50902,
+      "chineseName": "固定电话",
+      "translatedName": "Fixed telephone",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "509",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033965,
+          "chineseName": "其他固定电话",
+          "translatedName": "Other Fixed Telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033966,
+          "chineseName": "多功能电话机",
+          "translatedName": "multi-function telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033967,
+          "chineseName": "无线固话",
+          "translatedName": "wireless fixed line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033968,
+          "chineseName": "IP电话机",
+          "translatedName": "IP telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033969,
+          "chineseName": "网络电话机",
+          "translatedName": "network telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033970,
+          "chineseName": "触摸屏电话机",
+          "translatedName": "touch screen telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033971,
+          "chineseName": "迷你造型电话",
+          "translatedName": "Mini styling phone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033973,
+          "chineseName": "插卡电话机",
+          "translatedName": "card telephone set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033974,
+          "chineseName": "可视电话机",
+          "translatedName": "visual telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033975,
+          "chineseName": "无绳电话机",
+          "translatedName": "Cordless telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033976,
+          "chineseName": "来电显示电话机",
+          "translatedName": "Caller ID Telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033977,
+          "chineseName": "录音电话机",
+          "translatedName": "Recording telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1033978,
+          "chineseName": "普通电话机",
+          "translatedName": "ordinary telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        },
+        {
+          "categoryId": 1042831,
+          "chineseName": "仿古电话机",
+          "translatedName": "antique telephone",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 50902
+        }
+      ]
+    }
+  }
+}

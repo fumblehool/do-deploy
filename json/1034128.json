@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034128,
+      "chineseName": "广电信号解调器",
+      "translatedName": "radio and television signal demodulator",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3419"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034779,
+      "chineseName": "眉笔、眉粉、眉膏",
+      "translatedName": "Eyebrow pencil, eyebrow powder, eyebrow cream",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201307604"
+    }
+  }
+}

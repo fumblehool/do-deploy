@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122358005,
+      "chineseName": "卫浴挂件套件",
+      "translatedName": "Bathroom pendant kit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122374009"
+    }
+  }
+}

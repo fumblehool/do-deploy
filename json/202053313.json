@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202053313,
+      "chineseName": "储能系统",
+      "translatedName": "energy storage system",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814"
+    }
+  }
+}

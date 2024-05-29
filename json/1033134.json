@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033134,
+      "chineseName": "教鞭、激光笔",
+      "translatedName": "Pointer, laser pointer",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2117"
+    }
+  }
+}

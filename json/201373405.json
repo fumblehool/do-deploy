@@ -1,0 +1,73 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201373405,
+      "chineseName": "工业用橡胶制品",
+      "translatedName": "Industrial rubber products",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031654,
+          "chineseName": "其他工业用橡胶制品",
+          "translatedName": "Other rubber products for industrial use",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        },
+        {
+          "categoryId": 201360736,
+          "chineseName": "橡胶坝",
+          "translatedName": "rubber dam",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        },
+        {
+          "categoryId": 201353859,
+          "chineseName": "缓冲垫、缓冲块",
+          "translatedName": "Cushion, buffer block",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        },
+        {
+          "categoryId": 201359554,
+          "chineseName": "桥梁伸缩缝",
+          "translatedName": "bridge expansion joint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        },
+        {
+          "categoryId": 201348962,
+          "chineseName": "橡胶支座",
+          "translatedName": "Rubber bearing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        },
+        {
+          "categoryId": 201349349,
+          "chineseName": "振动筛橡胶球",
+          "translatedName": "Vibrating screen rubber ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201373405
+        }
+      ]
+    }
+  }
+}

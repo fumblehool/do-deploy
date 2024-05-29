@@ -1,0 +1,226 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 86,
+      "chineseName": "包装设备",
+      "translatedName": "Packaging equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032570,
+          "chineseName": "包装辅助设备",
+          "translatedName": "Packaging auxiliary equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032571,
+          "chineseName": "集装机械",
+          "translatedName": "Container Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032572,
+          "chineseName": "全自动打包机",
+          "translatedName": "Fully automatic baler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032573,
+          "chineseName": "杀菌机、干燥机",
+          "translatedName": "Sterility machine, drying machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032574,
+          "chineseName": "清洗机械",
+          "translatedName": "Cleaning machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032575,
+          "chineseName": "贴标机械",
+          "translatedName": "Labeling Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032576,
+          "chineseName": "多功能包装机",
+          "translatedName": "Multi-function packaging machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032577,
+          "chineseName": "裹包机械",
+          "translatedName": "Wrapping machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032578,
+          "chineseName": "封口机械",
+          "translatedName": "Sealing machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032579,
+          "chineseName": "灌装机械",
+          "translatedName": "Filling machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032568,
+          "chineseName": "其他包装设备",
+          "translatedName": "Other Packaging Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032569,
+          "chineseName": "包装生产线",
+          "translatedName": "Packaging production line",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032580,
+          "chineseName": "充填机械",
+          "translatedName": "Filling machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1033570,
+          "chineseName": "条码设备",
+          "translatedName": "Bar code equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1032928,
+          "chineseName": "打码机、喷码机",
+          "translatedName": "Coding machine, inkjet printer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1036401,
+          "chineseName": "成型机",
+          "translatedName": "Molding Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1036400,
+          "chineseName": "包装机械配附件",
+          "translatedName": "Packaging machinery accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1045327,
+          "chineseName": "热收缩包装机",
+          "translatedName": "Heat Shrink Packaging Machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 1036838,
+          "chineseName": "热熔胶机",
+          "translatedName": "hot melt adhesive machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 124190011,
+          "chineseName": "手动打包机",
+          "translatedName": "Manual baler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 124194013,
+          "chineseName": "半自动打包机",
+          "translatedName": "Semi-automatic baler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 201958404,
+          "chineseName": "冲瓶机",
+          "translatedName": "Bottle punching machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        },
+        {
+          "categoryId": 201958405,
+          "chineseName": "收卷机",
+          "translatedName": "winder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 86
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033808,
+      "chineseName": "管理培训",
+      "translatedName": "Management training",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2815"
+    }
+  }
+}

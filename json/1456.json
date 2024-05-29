@@ -1,0 +1,280 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1456,
+      "chineseName": "电焊、切割设备",
+      "translatedName": "Welding and cutting equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035185,
+          "chineseName": "电阻焊机",
+          "translatedName": "resistance welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035186,
+          "chineseName": "排焊机",
+          "translatedName": "row welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035187,
+          "chineseName": "摩擦焊机",
+          "translatedName": "friction welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035184,
+          "chineseName": "焊台",
+          "translatedName": "Welding station",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035196,
+          "chineseName": "压焊机",
+          "translatedName": "pressure welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1032202,
+          "chineseName": "焊接设备",
+          "translatedName": "Welding equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1032367,
+          "chineseName": "电烙铁",
+          "translatedName": "electric soldering iron",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035597,
+          "chineseName": "其他电焊、切割设备",
+          "translatedName": "Other welding and cutting equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1040399,
+          "chineseName": "螺柱焊机",
+          "translatedName": "stud welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035188,
+          "chineseName": "激光焊机",
+          "translatedName": "laser welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035189,
+          "chineseName": "滚焊机",
+          "translatedName": "roll welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035190,
+          "chineseName": "等离子焊机",
+          "translatedName": "plasma welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035191,
+          "chineseName": "储能机",
+          "translatedName": "Energy storage machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035192,
+          "chineseName": "碰焊机",
+          "translatedName": "touch welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035193,
+          "chineseName": "回流焊接机",
+          "translatedName": "reflow soldering machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035194,
+          "chineseName": "点焊机",
+          "translatedName": "spot welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035195,
+          "chineseName": "焊锡机",
+          "translatedName": "Solder machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1036670,
+          "chineseName": "管焊机",
+          "translatedName": "pipe welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035437,
+          "chineseName": "焊线机",
+          "translatedName": "wire bonding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035439,
+          "chineseName": "焊管机",
+          "translatedName": "pipe welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035438,
+          "chineseName": "塑焊机",
+          "translatedName": "plastic welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035897,
+          "chineseName": "弧焊机",
+          "translatedName": "arc welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1037380,
+          "chineseName": "水切割机",
+          "translatedName": "Water cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1036835,
+          "chineseName": "钎焊机",
+          "translatedName": "brazing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1040436,
+          "chineseName": "水焊机",
+          "translatedName": "water welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1040439,
+          "chineseName": "电焊机",
+          "translatedName": "electric welding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035643,
+          "chineseName": "激光切割机",
+          "translatedName": "laser cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 1035622,
+          "chineseName": "等离子切割机",
+          "translatedName": "plasma cutting machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        },
+        {
+          "categoryId": 121504008,
+          "chineseName": "焊接小车",
+          "translatedName": "Welding trolley",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1456
+        }
+      ]
+    }
+  }
+}

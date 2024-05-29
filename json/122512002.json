@@ -1,0 +1,244 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122512002,
+      "chineseName": "简易家具",
+      "translatedName": "simple furniture",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "13",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043668,
+          "chineseName": "层架",
+          "translatedName": "Shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122538003,
+          "chineseName": "其他架类",
+          "translatedName": "Other shelf classes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122540002,
+          "chineseName": "鞋架",
+          "translatedName": "Shoe rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122540003,
+          "chineseName": "简易鞋柜",
+          "translatedName": "Simple shoe cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122548004,
+          "chineseName": "置物凳",
+          "translatedName": "Stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 121488005,
+          "chineseName": "换鞋凳",
+          "translatedName": "Shoe changing stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122522003,
+          "chineseName": "折叠电脑桌",
+          "translatedName": "Folding computer desk",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122578001,
+          "chineseName": "折叠椅",
+          "translatedName": "Folding chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122580001,
+          "chineseName": "折叠凳",
+          "translatedName": "Folding stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122582001,
+          "chineseName": "简易衣柜",
+          "translatedName": "Simple wardrobe",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122938001,
+          "chineseName": "折叠床",
+          "translatedName": "Folding bed",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122570002,
+          "chineseName": "衣帽架",
+          "translatedName": "coat rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122570003,
+          "chineseName": "马扎",
+          "translatedName": "Mazar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122570004,
+          "chineseName": "红酒储藏架",
+          "translatedName": "Red Wine Storage Rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122572001,
+          "chineseName": "搁板、壁架",
+          "translatedName": "Shelves, ledges",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122576001,
+          "chineseName": "多用折叠桌",
+          "translatedName": "Multi-use folding table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122936003,
+          "chineseName": "落地镜",
+          "translatedName": "Floor mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 123612018,
+          "chineseName": "室内花架",
+          "translatedName": "Indoor flower rack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122516003,
+          "chineseName": "简易储物柜",
+          "translatedName": "Simple Locker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122550002,
+          "chineseName": "塑料桌椅",
+          "translatedName": "Plastic tables and chairs",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 122558003,
+          "chineseName": "休闲椅/凳",
+          "translatedName": "Lounge chair/stool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 124272013,
+          "chineseName": "DIY鞋架、鞋柜",
+          "translatedName": "DIY shoe rack, shoe cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 201359753,
+          "chineseName": "穿衣镜",
+          "translatedName": "Done mirror",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 201303605,
+          "chineseName": "懒人沙发",
+          "translatedName": "Lazy Sofa",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        },
+        {
+          "categoryId": 201897201,
+          "chineseName": "书架",
+          "translatedName": "Bookshelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122512002
+        }
+      ]
+    }
+  }
+}

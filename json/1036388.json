@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036388,
+      "chineseName": "络筒并捻机械",
+      "translatedName": "Woil and twist machinery",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10062"
+    }
+  }
+}

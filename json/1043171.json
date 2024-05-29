@@ -1,0 +1,271 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1043171,
+      "chineseName": "美妆工具",
+      "translatedName": "Beauty Tools",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1043174,
+          "chineseName": "假睫毛",
+          "translatedName": "false eyelashes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043175,
+          "chineseName": "双眼皮贴、胶水",
+          "translatedName": "Double eyelid stickers, glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043176,
+          "chineseName": "睫毛夹、烫睫毛器",
+          "translatedName": "Eyelash curler, curler",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043177,
+          "chineseName": "眉刀、眉剪、眉夹",
+          "translatedName": "Eyebrow knife, eyebrow scissors, eyebrow clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043178,
+          "chineseName": "粉刺针、暗疮针、黑头夹",
+          "translatedName": "Acne needle, acne needle, blackhead clip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043179,
+          "chineseName": "粉扑、美妆蛋",
+          "translatedName": "Powder puff, beauty egg",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043181,
+          "chineseName": "面膜纸、棒、碗",
+          "translatedName": "Face mask paper, stick, bowl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043183,
+          "chineseName": "化妆棉、棉签",
+          "translatedName": "Cosmetic cotton, cotton swab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043184,
+          "chineseName": "化妆刷、刷包",
+          "translatedName": "Makeup brush, brush bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043185,
+          "chineseName": "吸油面纸",
+          "translatedName": "Oil Absorbing Face Paper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043188,
+          "chineseName": "化妆工具套装",
+          "translatedName": "Makeup tool set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043189,
+          "chineseName": "其他美妆工具",
+          "translatedName": "Other beauty tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043143,
+          "chineseName": "美发梳",
+          "translatedName": "Hair Comb",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043144,
+          "chineseName": "美发剪",
+          "translatedName": "hair clipper",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1043145,
+          "chineseName": "卷发球、发卷",
+          "translatedName": "Roll serve, hair curl",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 1048041,
+          "chineseName": "棉签、棉棒、棉包",
+          "translatedName": "Cotton swab, cotton swab, cotton bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201306711,
+          "chineseName": "粉扑清洁液",
+          "translatedName": "Powder puff cleaning liquid",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201331624,
+          "chineseName": "眉刷",
+          "translatedName": "Eyebrow brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201345519,
+          "chineseName": "眉卡",
+          "translatedName": "Eyebrow Card",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201331227,
+          "chineseName": "眉贴",
+          "translatedName": "Eyebrow Paste",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201333422,
+          "chineseName": "睫毛刷",
+          "translatedName": "Eyelash Brush",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201310903,
+          "chineseName": "卸妆巾、卸妆湿巾",
+          "translatedName": "Makeup Remover Wipes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201307407,
+          "chineseName": "画眉、修眉套装",
+          "translatedName": "Thrushcross and eyebrow trimming suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201310003,
+          "chineseName": "美睫胶",
+          "translatedName": "eyelash glue",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 126578002,
+          "chineseName": "宝宝棉棒/棉签",
+          "translatedName": "Baby cotton swab/cotton swab",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201270664,
+          "chineseName": "洗脸扑",
+          "translatedName": "wash face",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 201836002,
+          "chineseName": "痘痘贴",
+          "translatedName": "Pimple Patch",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        },
+        {
+          "categoryId": 202021301,
+          "chineseName": "假睫毛镊子",
+          "translatedName": "False eyelash tweezers",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1043171
+        }
+      ]
+    }
+  }
+}

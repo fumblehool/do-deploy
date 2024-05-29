@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 19,
+      "chineseName": "光学摄像器材",
+      "translatedName": "optical camera equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "53",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1918,
+          "chineseName": "摄录一体机",
+          "translatedName": "camcorder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 19
+        },
+        {
+          "categoryId": 1919,
+          "chineseName": "空白录像带",
+          "translatedName": "Blank video tape",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 19
+        },
+        {
+          "categoryId": 1902,
+          "chineseName": "光学摄像机",
+          "translatedName": "optical camera",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 19
+        },
+        {
+          "categoryId": 1907,
+          "chineseName": "其他摄像器材",
+          "translatedName": "Other camera equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 19
+        }
+      ]
+    }
+  }
+}

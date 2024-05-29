@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122566002,
+      "chineseName": "肩带、搭扣",
+      "translatedName": "Shoulder strap, buckle",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122528003"
+    }
+  }
+}

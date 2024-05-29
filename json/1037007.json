@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037007,
+      "chineseName": "其他牛仔服",
+      "translatedName": "Other Denim Clothing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201387101"
+    }
+  }
+}

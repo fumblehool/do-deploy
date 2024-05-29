@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1811,
+      "chineseName": "游艺设施",
+      "translatedName": "Recream facilities",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1033550,
+          "chineseName": "其他游艺设施",
+          "translatedName": "Other Recreation Facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033551,
+          "chineseName": "大型户外陆地游乐设备",
+          "translatedName": "Large outdoor land amusement equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033552,
+          "chineseName": "水上游艺设施",
+          "translatedName": "Water recreation facilities",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033553,
+          "chineseName": "攀登架",
+          "translatedName": "Climbing frame",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033554,
+          "chineseName": "秋千",
+          "translatedName": "Swing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033556,
+          "chineseName": "跷跷板",
+          "translatedName": "Seesaw",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033555,
+          "chineseName": "游艺转椅",
+          "translatedName": "Recream Swivel Chair",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033557,
+          "chineseName": "淘气堡",
+          "translatedName": "Naughty Castle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033558,
+          "chineseName": "摇摆机",
+          "translatedName": "Swing machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033559,
+          "chineseName": "组合滑梯",
+          "translatedName": "Combination slide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1033560,
+          "chineseName": "碰碰车、卡丁车",
+          "translatedName": "Bumper cars, karts",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 1045018,
+          "chineseName": "电玩设备",
+          "translatedName": "video game equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        },
+        {
+          "categoryId": 123186001,
+          "chineseName": "游泳池",
+          "translatedName": "Swimming Pool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1811
+        }
+      ]
+    }
+  }
+}

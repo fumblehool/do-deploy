@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032518,
+      "chineseName": "脱硫除尘设备",
+      "translatedName": "Desulfurization and dust removal equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1103"
+    }
+  }
+}

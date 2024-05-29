@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1047211,
+      "chineseName": "其他婴幼儿零食",
+      "translatedName": "Other Infant Snacks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "124734007"
+    }
+  }
+}

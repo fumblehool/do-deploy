@@ -1,0 +1,208 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124272009,
+      "chineseName": "打火机及烟具",
+      "translatedName": "Lighters and smoking utensils",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "15",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124270011,
+          "chineseName": "烟壶、烟斗、烟枪、烟袋、烟杆",
+          "translatedName": "Pot, pipe, bong, pouch, rod",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124270012,
+          "chineseName": "家用烟灰缸",
+          "translatedName": "Household ashtray",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124268008,
+          "chineseName": "打火机",
+          "translatedName": "Lighter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124262012,
+          "chineseName": "火柴",
+          "translatedName": "Matches",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124262013,
+          "chineseName": "充电打火机、电子点烟器",
+          "translatedName": "Charging lighter, electronic cigarette lighter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124262014,
+          "chineseName": "其他烟具",
+          "translatedName": "Other Smoking",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124274004,
+          "chineseName": "厨用点火器、点烟枪",
+          "translatedName": "Kitchen igniter, smoking gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124274005,
+          "chineseName": "打火机配件",
+          "translatedName": "Lighter accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124274006,
+          "chineseName": "烟嘴",
+          "translatedName": "Cigarette holder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124190019,
+          "chineseName": "戒烟灵、戒烟贴",
+          "translatedName": "Quit Smoking Spirit, Quit Smoking Sticker",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 124272011,
+          "chineseName": "烟盒",
+          "translatedName": "Cigarette Case",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201307211,
+          "chineseName": "雪茄剪",
+          "translatedName": "cigar shears",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201301510,
+          "chineseName": "鼻烟壶",
+          "translatedName": "snuff bottle",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201353014,
+          "chineseName": "一次性打火机",
+          "translatedName": "disposable lighter",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201634548,
+          "chineseName": "烟具配件",
+          "translatedName": "Smoking Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201303808,
+          "chineseName": "烟丝盒/罐",
+          "translatedName": "Tobacco box/jar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201308807,
+          "chineseName": "雪茄配件",
+          "translatedName": "Cigar Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201302811,
+          "chineseName": "雪茄盒/套",
+          "translatedName": "Cigar box/set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201356215,
+          "chineseName": "茶烟",
+          "translatedName": "tea cigarette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201657803,
+          "chineseName": "香烟爆珠（不含尼古丁）",
+          "translatedName": "Cigarette popping beads (without nicotine)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        },
+        {
+          "categoryId": 201649501,
+          "chineseName": "卷烟器",
+          "translatedName": "Cigarette",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124272009
+        }
+      ]
+    }
+  }
+}

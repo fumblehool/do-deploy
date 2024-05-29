@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036997,
+      "chineseName": "男式西服套装",
+      "translatedName": "Men's Suit",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123694001"
+    }
+  }
+}

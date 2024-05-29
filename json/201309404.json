@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201309404,
+      "chineseName": "马桶贴",
+      "translatedName": "Toilet Sticker",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1704"
+    }
+  }
+}

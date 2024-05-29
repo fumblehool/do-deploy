@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034275,
+      "chineseName": "其他废金属",
+      "translatedName": "Other scrap metal",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "912"
+    }
+  }
+}

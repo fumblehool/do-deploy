@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201304311,
+      "chineseName": "其它精油芳疗产品",
+      "translatedName": "Other Essential Oil Aromatherapy Products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201309707"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201157906,
+      "chineseName": "泡沫塑料",
+      "translatedName": "foam plastic",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10386,
+          "chineseName": "其他泡沫塑料",
+          "translatedName": "Other Foam Plastics",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201161003,
+          "chineseName": "泡沫条",
+          "translatedName": "foam strip",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201160803,
+          "chineseName": "泡沫粒",
+          "translatedName": "Foam grain",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201157207,
+          "chineseName": "泡沫板",
+          "translatedName": "Foam board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201163503,
+          "chineseName": "泡沫加工",
+          "translatedName": "Foam processing",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201155606,
+          "chineseName": "泡沫球",
+          "translatedName": "foam ball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        },
+        {
+          "categoryId": 201158707,
+          "chineseName": "发泡网",
+          "translatedName": "foam net",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201157906
+        }
+      ]
+    }
+  }
+}

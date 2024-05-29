@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1046871,
+      "chineseName": "磁粉离合器",
+      "translatedName": "magnetic powder clutch",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1046868"
+    }
+  }
+}

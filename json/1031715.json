@@ -1,0 +1,91 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1031715,
+      "chineseName": "皮革",
+      "translatedName": "Leather",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "4",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1031716,
+          "chineseName": "人造革",
+          "translatedName": "artificial leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 1031717,
+          "chineseName": "牛皮革",
+          "translatedName": "Cow leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 1034458,
+          "chineseName": "马皮革",
+          "translatedName": "horse leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 1034459,
+          "chineseName": "羊皮革",
+          "translatedName": "sheep leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 1034461,
+          "chineseName": "猪皮革",
+          "translatedName": "Pig leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 402,
+          "chineseName": "其他皮革",
+          "translatedName": "Other leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 427,
+          "chineseName": "合成革",
+          "translatedName": "synthetic leather",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        },
+        {
+          "categoryId": 428,
+          "chineseName": "人造毛皮",
+          "translatedName": "artificial fur",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1031715
+        }
+      ]
+    }
+  }
+}

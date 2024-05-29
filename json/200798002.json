@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 200798002,
+      "chineseName": "整流器",
+      "translatedName": "Rectifier",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 200826001,
+          "chineseName": "肖特基整流器",
+          "translatedName": "Schottky Rectifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 200828001,
+          "chineseName": "整流器阵列",
+          "translatedName": "rectifier array",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 200804005,
+          "chineseName": "桥式整流器",
+          "translatedName": "bridge rectifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 200770002,
+          "chineseName": "快速整流器",
+          "translatedName": "fast rectifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 200778004,
+          "chineseName": "超高速整流器",
+          "translatedName": "ultra high speed rectifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 200794002,
+          "chineseName": "标准整流器",
+          "translatedName": "standard rectifier",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        },
+        {
+          "categoryId": 1411,
+          "chineseName": "整流设备",
+          "translatedName": "Rectifier equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 200798002
+        }
+      ]
+    }
+  }
+}

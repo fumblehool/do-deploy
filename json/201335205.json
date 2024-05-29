@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201335205,
+      "chineseName": "分子生物学",
+      "translatedName": "Molecular Biology",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201332403"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126574002,
+      "chineseName": "开发板/树莓派",
+      "translatedName": "Development Board/Raspberry Pie",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 126606001,
+          "chineseName": "仿真器/烧录器",
+          "translatedName": "Emulator/Burner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 126608001,
+          "chineseName": "软件服务",
+          "translatedName": "Software Services",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 126574003,
+          "chineseName": "评估板",
+          "translatedName": "Evaluation Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 126478004,
+          "chineseName": "开发套件",
+          "translatedName": "Development Kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 126586002,
+          "chineseName": "配件",
+          "translatedName": "Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202010301,
+          "chineseName": "智能模块（DIY）",
+          "translatedName": "Intelligent Module (DIY)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202010601,
+          "chineseName": "树莓派",
+          "translatedName": "Raspberry Pie",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202010701,
+          "chineseName": "工控板",
+          "translatedName": "industrial control board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202010801,
+          "chineseName": "电子积木元器件",
+          "translatedName": "Electronic building block components",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202008602,
+          "chineseName": "测试工具",
+          "translatedName": "Test Tools",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202008901,
+          "chineseName": "面包板/实验板",
+          "translatedName": "Breadboard/Experiment Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202009002,
+          "chineseName": "开发板",
+          "translatedName": "Development Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202003203,
+          "chineseName": "扩展版",
+          "translatedName": "Extended Edition",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        },
+        {
+          "categoryId": 202001703,
+          "chineseName": "核心板",
+          "translatedName": "Core Board",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126574002
+        }
+      ]
+    }
+  }
+}

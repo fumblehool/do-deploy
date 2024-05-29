@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034640,
+      "chineseName": "钙氧化物",
+      "translatedName": "calcium oxide",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "80204"
+    }
+  }
+}

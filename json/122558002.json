@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122558002,
+      "chineseName": "保暖内衣",
+      "translatedName": "Thermal underwear",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "312",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1037931,
+          "chineseName": "保暖上衣",
+          "translatedName": "Warm Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 122984014,
+          "chineseName": "保暖衬衫",
+          "translatedName": "Warm Shirt",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 122992010,
+          "chineseName": "保暖一体裤",
+          "translatedName": "Warm One-piece Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 122512003,
+          "chineseName": "保暖套装",
+          "translatedName": "Warm Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 1048322,
+          "chineseName": "保暖裤",
+          "translatedName": "Warm Pants",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 122986009,
+          "chineseName": "保暖内胆",
+          "translatedName": "Warm liner",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        },
+        {
+          "categoryId": 122986010,
+          "chineseName": "保暖马甲、保暖背心",
+          "translatedName": "Warm vest, warm vest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 122558002
+        }
+      ]
+    }
+  }
+}

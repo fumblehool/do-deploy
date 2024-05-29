@@ -1,0 +1,604 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127290004,
+      "chineseName": "珠宝饰品",
+      "translatedName": "Jewelry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 127432001,
+          "chineseName": "翡翠手饰",
+          "translatedName": "Jade Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127434001,
+          "chineseName": "彩色宝石/贵重宝石首饰套装",
+          "translatedName": "Colored Gem/Precious Gem Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127434003,
+          "chineseName": "铂金/PT其他饰品、投资铂金",
+          "translatedName": "Platinum/PT Other Accessories, Investment Platinum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127442002,
+          "chineseName": "钻石胸饰",
+          "translatedName": "Diamond Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127424003,
+          "chineseName": "彩色宝石/贵重宝石耳饰",
+          "translatedName": "Colored Gem/Precious Gem Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127422012,
+          "chineseName": "天然珍珠项饰",
+          "translatedName": "Natural Pearl Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127424007,
+          "chineseName": "黄金胸饰",
+          "translatedName": "Gold Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127424008,
+          "chineseName": "天然珍珠首饰套装",
+          "translatedName": "Natural Pearl Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127426003,
+          "chineseName": "天然玉石其他饰品",
+          "translatedName": "Natural Jade Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127426005,
+          "chineseName": "K金项饰",
+          "translatedName": "K Gold Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 201547312,
+          "chineseName": "和田玉挂饰",
+          "translatedName": "Hetian Jade Hanging Ornament",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127278006,
+          "chineseName": "和田玉项饰",
+          "translatedName": "Hetian jade necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127294004,
+          "chineseName": "钻石耳饰",
+          "translatedName": "Diamond Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127300006,
+          "chineseName": "K金耳饰",
+          "translatedName": "K Gold Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127406012,
+          "chineseName": "天然珍珠其他饰品",
+          "translatedName": "Natural Pearl Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127412004,
+          "chineseName": "彩色宝石/贵重宝石手饰",
+          "translatedName": "Colored Gem/Precious Gem Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127412006,
+          "chineseName": "黄金脚饰",
+          "translatedName": "Gold Foot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127414003,
+          "chineseName": "天然玉石首饰套装",
+          "translatedName": "Natural Jade Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127414004,
+          "chineseName": "翡翠项饰",
+          "translatedName": "Jade Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127416007,
+          "chineseName": "黄金首饰套装",
+          "translatedName": "Gold Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127418012,
+          "chineseName": "天然珍珠手饰",
+          "translatedName": "Natural Pearl Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127396005,
+          "chineseName": "彩色宝石/贵重宝石胸饰",
+          "translatedName": "Colored Gems/Precious Gem Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127398005,
+          "chineseName": "K金其他饰品",
+          "translatedName": "K gold other jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127398007,
+          "chineseName": "天然珍珠胸饰",
+          "translatedName": "Natural Pearl Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127400004,
+          "chineseName": "天然玉石发饰",
+          "translatedName": "Natural jade hair accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127400009,
+          "chineseName": "k金首饰套装",
+          "translatedName": "gold jewelry set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127402004,
+          "chineseName": "彩色宝石/贵重宝石项饰",
+          "translatedName": "Colored Gems/Precious Gem Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127402007,
+          "chineseName": "黄金其他饰品、投资黄金",
+          "translatedName": "Gold Other Jewelry, Investment Gold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127402008,
+          "chineseName": "铂金/PT项饰",
+          "translatedName": "Platinum/PT Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127466001,
+          "chineseName": "钻石首饰套装",
+          "translatedName": "Diamond Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127466002,
+          "chineseName": "琥珀项饰",
+          "translatedName": "Amber Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127826004,
+          "chineseName": "莫桑钻、仿真钻其他饰品",
+          "translatedName": "Mosan diamond, simulation diamond other jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127834008,
+          "chineseName": "莫桑钻、仿真钻项饰",
+          "translatedName": "Mossam diamond, simulation diamond ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127312004,
+          "chineseName": "琥珀耳饰",
+          "translatedName": "Amber Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127314004,
+          "chineseName": "天然珍珠耳饰",
+          "translatedName": "Natural Pearl Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127322002,
+          "chineseName": "天然玉石耳饰",
+          "translatedName": "Natural jade earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127420009,
+          "chineseName": "翡翠首饰套装",
+          "translatedName": "Jade Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127420016,
+          "chineseName": "K金脚饰",
+          "translatedName": "K Gold Foot",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127422003,
+          "chineseName": "翡翠其他饰品",
+          "translatedName": "Jadeite Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127390014,
+          "chineseName": "铂金/PT手饰",
+          "translatedName": "Platinum/PT Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127390015,
+          "chineseName": "铂金/PT胸饰",
+          "translatedName": "Platinum/PT Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127390016,
+          "chineseName": "铂金/PT首饰套装",
+          "translatedName": "Platinum/PT Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127394007,
+          "chineseName": "天然玉石手饰",
+          "translatedName": "Natural jade jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127394008,
+          "chineseName": "翡翠耳饰",
+          "translatedName": "Emerald Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127394009,
+          "chineseName": "彩色宝石/贵重宝石其他饰品",
+          "translatedName": "Colored Gems/Precious Gems Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127394012,
+          "chineseName": "K金胸饰",
+          "translatedName": "K Gold Chest",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127462001,
+          "chineseName": "钻石项饰",
+          "translatedName": "Diamond Necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127464001,
+          "chineseName": "钻石手饰",
+          "translatedName": "Diamond Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127464002,
+          "chineseName": "钻石其他饰品",
+          "translatedName": "Diamonds Other Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127812008,
+          "chineseName": "莫桑钻、仿真钻耳饰",
+          "translatedName": "Moussaint Drill, Simulation Drill Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127814005,
+          "chineseName": "莫桑钻、仿真钻发饰",
+          "translatedName": "Mosan diamond, artificial diamond hair accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127822005,
+          "chineseName": "莫桑钻、仿真钻手饰",
+          "translatedName": "Mossam diamond, artificial diamond hand ornaments",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127388007,
+          "chineseName": "黄金耳饰",
+          "translatedName": "Gold Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127448002,
+          "chineseName": "和田玉手饰",
+          "translatedName": "Hetian Jade Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127450002,
+          "chineseName": "琥珀手饰",
+          "translatedName": "Amber Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127404008,
+          "chineseName": "K金手饰",
+          "translatedName": "K Gold Bracelet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127406005,
+          "chineseName": "天然玉石项饰",
+          "translatedName": "Natural jade necklace",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127406007,
+          "chineseName": "黄金项饰",
+          "translatedName": "Gold Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127406008,
+          "chineseName": "黄金手饰",
+          "translatedName": "Gold Jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127406009,
+          "chineseName": "铂金/PT耳饰",
+          "translatedName": "Platinum/PT Earrings",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127490001,
+          "chineseName": "和田玉其他饰品",
+          "translatedName": "Hetian jade other jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127492001,
+          "chineseName": "琥珀首饰套装",
+          "translatedName": "Amber Jewelry Set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127494001,
+          "chineseName": "琥珀其他饰品",
+          "translatedName": "Amber Other Accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 127868011,
+          "chineseName": "珠宝首饰定制",
+          "translatedName": "Jewelry Customization",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        },
+        {
+          "categoryId": 201620702,
+          "chineseName": "其他贵金属饰品",
+          "translatedName": "Other precious metal jewelry",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 127290004
+        }
+      ]
+    }
+  }
+}

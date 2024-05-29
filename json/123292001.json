@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123292001,
+      "chineseName": "凉垫",
+      "translatedName": "Cool pad",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3307"
+    }
+  }
+}

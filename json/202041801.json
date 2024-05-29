@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202041801,
+      "chineseName": "女团表演服",
+      "translatedName": "Women's performance clothes",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201548501"
+    }
+  }
+}

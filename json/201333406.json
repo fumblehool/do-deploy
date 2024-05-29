@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201333406,
+      "chineseName": "实验室清洗剂",
+      "translatedName": "Laboratory cleaning agent",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "817"
+    }
+  }
+}

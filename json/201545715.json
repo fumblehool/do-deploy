@@ -1,0 +1,28 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201545715,
+      "chineseName": "古风饰品",
+      "translatedName": "Antique Jewelry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "54",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201834316,
+          "chineseName": "凤冠",
+          "translatedName": "Phoenix crown",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201545715
+        }
+      ]
+    }
+  }
+}

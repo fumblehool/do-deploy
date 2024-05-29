@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122700002,
+      "chineseName": "鼓芯",
+      "translatedName": "Drum core",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "10260"
+    }
+  }
+}

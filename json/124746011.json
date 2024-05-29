@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 124746011,
+      "chineseName": "糖果",
+      "translatedName": "Candy",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "2",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 124736021,
+          "chineseName": "口香糖",
+          "translatedName": "Chewing gum",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746011
+        },
+        {
+          "categoryId": 124742013,
+          "chineseName": "硬糖",
+          "translatedName": "Hard Candy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746011
+        },
+        {
+          "categoryId": 124742014,
+          "chineseName": "软糖",
+          "translatedName": "Fudge",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746011
+        },
+        {
+          "categoryId": 201302702,
+          "chineseName": "喜糖",
+          "translatedName": "Happy candy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746011
+        },
+        {
+          "categoryId": 201752401,
+          "chineseName": "压片糖果",
+          "translatedName": "tableted candy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 124746011
+        }
+      ]
+    }
+  }
+}

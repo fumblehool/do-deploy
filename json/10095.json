@@ -1,0 +1,523 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10095,
+      "chineseName": "食品、饮料加工及餐饮行业设备",
+      "translatedName": "Equipment for food and beverage processing and catering industry",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "65",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 10096,
+          "chineseName": "果蔬加工设备",
+          "translatedName": "Fruit and vegetable processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 10097,
+          "chineseName": "饮料生产设备",
+          "translatedName": "Beverage production equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 10099,
+          "chineseName": "肉制品加工设备",
+          "translatedName": "Meat processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 10100,
+          "chineseName": "其他食品、饮料加工设备",
+          "translatedName": "Other food and beverage processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1032519,
+          "chineseName": "罐头食品加工设备",
+          "translatedName": "canned food processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1032520,
+          "chineseName": "豆制品加工设备",
+          "translatedName": "Bean products processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1032521,
+          "chineseName": "调味品加工设备",
+          "translatedName": "Condiment processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1032523,
+          "chineseName": "冷冻食品加工设备",
+          "translatedName": "Frozen food processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1032522,
+          "chineseName": "休闲食品加工设备",
+          "translatedName": "Snack food processing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036402,
+          "chineseName": "烟草配附件",
+          "translatedName": "Tobacco accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036403,
+          "chineseName": "食品包装机械",
+          "translatedName": "Food packaging machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036589,
+          "chineseName": "食品杀菌设备",
+          "translatedName": "Food sterilization equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1045450,
+          "chineseName": "饮食加工设备配附件",
+          "translatedName": "Food processing equipment with accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1035619,
+          "chineseName": "食品烘焙设备",
+          "translatedName": "Food baking equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036404,
+          "chineseName": "保鲜冷藏设备",
+          "translatedName": "Fresh-keeping refrigeration equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036405,
+          "chineseName": "酿酒设备",
+          "translatedName": "Brewing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036406,
+          "chineseName": "乳品机械",
+          "translatedName": "Dairy Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036407,
+          "chineseName": "米面机械",
+          "translatedName": "Rice Noodles Machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036408,
+          "chineseName": "糖果机械",
+          "translatedName": "candy machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 1036409,
+          "chineseName": "饼干机械",
+          "translatedName": "Biscuit machinery",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200952003,
+          "chineseName": "炒炉／炒灶／商用炒锅",
+          "translatedName": "Stir-fry stove/commercial wok",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200954002,
+          "chineseName": "煮面炉/意粉炉",
+          "translatedName": "Poodle oven/spaghetti oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200958002,
+          "chineseName": "斩切台/打荷台/不锈钢工作台",
+          "translatedName": "Chopping table/playing table/stainless steel worktable",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200958003,
+          "chineseName": "商用甜甜圈机/华夫炉",
+          "translatedName": "Commercial Donut Machine/Waffle Oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200966002,
+          "chineseName": "饮料展示柜",
+          "translatedName": "Beverage display cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200966001,
+          "chineseName": "商用厨房货架",
+          "translatedName": "commercial kitchen shelf",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200968001,
+          "chineseName": "扒炉/铁板烧",
+          "translatedName": "Grill oven/teppanyaki",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200970001,
+          "chineseName": "煲仔饭机/煲仔炉",
+          "translatedName": "Pot rice machine/pot oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200970002,
+          "chineseName": "蛋糕柜/饼盘柜/风幕柜",
+          "translatedName": "Cake cabinet/cake cabinet/air curtain cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200970003,
+          "chineseName": "分块机/分块滚圆机",
+          "translatedName": "Block machine/block rounding machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200928004,
+          "chineseName": "餐具消毒柜/毛巾消毒柜",
+          "translatedName": "Tableware disinfection cabinet/towel disinfection cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200928005,
+          "chineseName": "冷库/速冻柜",
+          "translatedName": "Cold storage/quick-freezing cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200928006,
+          "chineseName": "披萨柜/沙拉柜/三明治工作台",
+          "translatedName": "Pizza Cabinet/Salad Cabinet/Sandwich Workbench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200928007,
+          "chineseName": "披萨烤箱/烤箱",
+          "translatedName": "Pizza oven/oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200930003,
+          "chineseName": "矮汤炉/汤粥炉/暖汤池",
+          "translatedName": "Short soup oven/porridge oven/warm soup pool",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200930004,
+          "chineseName": "开水机",
+          "translatedName": "Water boiling machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200930005,
+          "chineseName": "腌制机/裹粉台",
+          "translatedName": "Pickling machine/powder wrapping table",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200938002,
+          "chineseName": "商用打蛋机/鲜奶机",
+          "translatedName": "Commercial egg machine/fresh milk machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200938003,
+          "chineseName": "烙饼机",
+          "translatedName": "Pancake machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200946002,
+          "chineseName": "商用烤炉",
+          "translatedName": "commercial oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200950002,
+          "chineseName": "商用咖啡机／磨豆机",
+          "translatedName": "Commercial coffee machine/grinder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200918003,
+          "chineseName": "立式冷柜/平面冷柜/饼盘柜",
+          "translatedName": "Vertical Freezer/Flat Freezer/Pie Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200918004,
+          "chineseName": "压面机／面条机",
+          "translatedName": "noodle press/noodle machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200922003,
+          "chineseName": "饼盘车",
+          "translatedName": "Cake cart",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200922004,
+          "chineseName": "煮食炉/面火炉/商用多士炉",
+          "translatedName": "Cooking stove/surface stove/commercial toaster",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200970004,
+          "chineseName": "制冰机/制冰工作台",
+          "translatedName": "Ice machine/ice workbench",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200972001,
+          "chineseName": "冰激凌机",
+          "translatedName": "Ice cream machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200972002,
+          "chineseName": "汉堡机/炸炉/保温展示柜",
+          "translatedName": "Hamburger machine/fryer/insulation display cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200974001,
+          "chineseName": "发酵箱/醒发库",
+          "translatedName": "Fermentation box/hair-proofing library",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200974002,
+          "chineseName": "海鲜蒸柜/蒸饭柜/蒸柜",
+          "translatedName": "Seafood Steaming Cabinet/Steaming Cabinet/Steaming Cabinet",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200974003,
+          "chineseName": "和面机",
+          "translatedName": "dough mixer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200976001,
+          "chineseName": "果糖机",
+          "translatedName": "Fructose machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200976002,
+          "chineseName": "蒸烤箱/焗炉",
+          "translatedName": "Steam oven/oven",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200978001,
+          "chineseName": "商用冷饮机/可乐机/冷热饮机",
+          "translatedName": "Commercial cold drink machine/Coke machine/hot and cold drink machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 200980001,
+          "chineseName": "中心岛/薯条工作台/水吧台",
+          "translatedName": "Center Island/Fries Workbench/Water Bar",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        },
+        {
+          "categoryId": 221,
+          "chineseName": "炊事设备",
+          "translatedName": "Cooking Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10095
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201160505,
+      "chineseName": "电子积木",
+      "translatedName": "Electronic Building Blocks",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127002083"
+    }
+  }
+}

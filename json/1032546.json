@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032546,
+      "chineseName": "中频电源",
+      "translatedName": "medium frequency power supply",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "924"
+    }
+  }
+}

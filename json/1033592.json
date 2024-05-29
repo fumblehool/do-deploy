@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1033592,
+      "chineseName": "缆绳、锚绳",
+      "translatedName": "Cable, anchor rope",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1224"
+    }
+  }
+}

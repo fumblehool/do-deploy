@@ -1,0 +1,46 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201470102,
+      "chineseName": "大码男装",
+      "translatedName": "Menswear Plus Size",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "10165",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 201504304,
+          "chineseName": "男式大码下装",
+          "translatedName": "Men's Plus Size Bottles",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201470102
+        },
+        {
+          "categoryId": 201551818,
+          "chineseName": "男式大码套装",
+          "translatedName": "Men's Plus Size Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201470102
+        },
+        {
+          "categoryId": 201497410,
+          "chineseName": "大码上装",
+          "translatedName": "Large Top",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201470102
+        }
+      ]
+    }
+  }
+}

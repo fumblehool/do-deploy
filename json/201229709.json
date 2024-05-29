@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201229709,
+      "chineseName": "物联网IOT",
+      "translatedName": "IOT",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "57",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202057507,
+          "chineseName": "蓝牙信标",
+          "translatedName": "Bluetooth beacon",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202063409,
+          "chineseName": "边缘计算设备",
+          "translatedName": "Edge computing devices",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202052313,
+          "chineseName": "应答器",
+          "translatedName": "Transponder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202059609,
+          "chineseName": "网关",
+          "translatedName": "Gateway",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202059610,
+          "chineseName": "IoT传感器",
+          "translatedName": "IoT sensors",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202052907,
+          "chineseName": "通信模组",
+          "translatedName": "communication module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        },
+        {
+          "categoryId": 202054108,
+          "chineseName": "NFC模块",
+          "translatedName": "NFC Module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201229709
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1044824,
+      "chineseName": "橄榄球、壁球、手球",
+      "translatedName": "Rugby, squash, handball",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1044883,
+          "chineseName": "橄榄球",
+          "translatedName": "Rugby",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044824
+        },
+        {
+          "categoryId": 1044884,
+          "chineseName": "壁球",
+          "translatedName": "Squash",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044824
+        },
+        {
+          "categoryId": 1044885,
+          "chineseName": "手球",
+          "translatedName": "Handball",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044824
+        },
+        {
+          "categoryId": 201890104,
+          "chineseName": "橄榄球服",
+          "translatedName": "RIVOVE",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1044824
+        }
+      ]
+    }
+  }
+}

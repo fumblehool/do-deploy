@@ -1,0 +1,109 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123650003,
+      "chineseName": "专业线护肤",
+      "translatedName": "Professional line skin care",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "97",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123650004,
+          "chineseName": "冻干粉",
+          "translatedName": "Freeze-dried powder",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 123646004,
+          "chineseName": "仪器可导入原液",
+          "translatedName": "Instrument can be introduced into the stock solution",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 123666003,
+          "chineseName": "美容胶囊",
+          "translatedName": "Beauty Capsule",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 201302512,
+          "chineseName": "院线护理套盒",
+          "translatedName": "Hospital line nursing kit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 201305210,
+          "chineseName": "其他专业线护肤品",
+          "translatedName": "Other professional line skin care products",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 202024902,
+          "chineseName": "院线面膜",
+          "translatedName": "Cinemas Mask",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 202025201,
+          "chineseName": "院线护理凝胶",
+          "translatedName": "Hospital line care gel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 202028601,
+          "chineseName": "盐水清洁液（妆字号）",
+          "translatedName": "Salt water cleaning liquid (makeup size)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 202017902,
+          "chineseName": "按摩啫喱/乳霜",
+          "translatedName": "Massage Gel/Cream",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        },
+        {
+          "categoryId": 202061506,
+          "chineseName": "盐水清洁液（消字号）",
+          "translatedName": "Salt water cleaning solution (size elimination)",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 123650003
+        }
+      ]
+    }
+  }
+}

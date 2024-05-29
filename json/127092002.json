@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 127092002,
+      "chineseName": "内衣其他加工",
+      "translatedName": "Underwear Other Processing",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "202053806"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10507,
+      "chineseName": "金属加工材",
+      "translatedName": "Metal processing materials",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "9",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036937,
+          "chineseName": "钛及钛合金材",
+          "translatedName": "Titanium and titanium alloys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035819,
+          "chineseName": "镍及镍合金材",
+          "translatedName": "Nickel and nickel alloy",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035820,
+          "chineseName": "锡及锡合金材",
+          "translatedName": "Tin and tin alloy materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035821,
+          "chineseName": "锌及锌合金材",
+          "translatedName": "Zinc and zinc alloy materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035822,
+          "chineseName": "铅及铅合金材",
+          "translatedName": "Lead and lead alloy materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035823,
+          "chineseName": "铝及铝合金材",
+          "translatedName": "Aluminum and aluminum alloy materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035824,
+          "chineseName": "铜及铜合金材",
+          "translatedName": "Copper and copper alloy materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 1035818,
+          "chineseName": "金属复合材",
+          "translatedName": "metal composite",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        },
+        {
+          "categoryId": 10510,
+          "chineseName": "其他金属加工材",
+          "translatedName": "Other metal processing materials",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10507
+        }
+      ]
+    }
+  }
+}

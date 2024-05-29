@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201303723,
+      "chineseName": "LED灯串",
+      "translatedName": "LED light string",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "58",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1032267,
+          "chineseName": "室外LED灯串",
+          "translatedName": "Outdoor LED String Light",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303723
+        },
+        {
+          "categoryId": 121192024,
+          "chineseName": "室内LED灯串",
+          "translatedName": "Indoor LED string lights",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201303723
+        }
+      ]
+    }
+  }
+}

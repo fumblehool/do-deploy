@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1042817,
+      "chineseName": "工具耗材",
+      "translatedName": "Tool Consumables",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "59",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035416,
+          "chineseName": "钻头",
+          "translatedName": "Drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 1035529,
+          "chineseName": "曲线锯条",
+          "translatedName": "Jig saw blade",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 121190016,
+          "chineseName": "丝锥",
+          "translatedName": "Tap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 121192028,
+          "chineseName": "板牙",
+          "translatedName": "Mold",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 124268002,
+          "chineseName": "旋具头及组套",
+          "translatedName": "Screw head and set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 121192004,
+          "chineseName": "丝锥板牙套装",
+          "translatedName": "Tap and die set",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201913204,
+          "chineseName": "电锤钻头",
+          "translatedName": "electric hammer bit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201921503,
+          "chineseName": "冲击套筒及附件",
+          "translatedName": "Impact sleeve and accessories",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201922701,
+          "chineseName": "麻花钻",
+          "translatedName": "twist drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201915504,
+          "chineseName": "螺丝批头",
+          "translatedName": "Screwdriver head",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201922801,
+          "chineseName": "开孔器",
+          "translatedName": "Hole opener",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201922901,
+          "chineseName": "铲凿",
+          "translatedName": "shovel chisel",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201923001,
+          "chineseName": "切割丝",
+          "translatedName": "Cutting wire",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201916803,
+          "chineseName": "冲击石工钻",
+          "translatedName": "Impact Stone Drill",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201916904,
+          "chineseName": "钉枪用钉",
+          "translatedName": "nail for nail gun",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        },
+        {
+          "categoryId": 201917205,
+          "chineseName": "其他工具耗材",
+          "translatedName": "Other tool consumables",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1042817
+        }
+      ]
+    }
+  }
+}

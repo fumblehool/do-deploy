@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1041519,
+      "chineseName": "汽车地毯",
+      "translatedName": "Car Carpet",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3307"
+    }
+  }
+}

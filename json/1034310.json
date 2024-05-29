@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1034310,
+      "chineseName": "酸雾净化器",
+      "translatedName": "Acid mist purifier",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1103"
+    }
+  }
+}

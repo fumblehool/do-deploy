@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 123612017,
+      "chineseName": "其他LED照明模组",
+      "translatedName": "Other LED Lighting Modules",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "123616020"
+    }
+  }
+}

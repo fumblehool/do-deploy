@@ -1,0 +1,136 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1048023,
+      "chineseName": "游泳用品",
+      "translatedName": "Swimming Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "18",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1045138,
+          "chineseName": "泳帽",
+          "translatedName": "Swimming cap",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 1044746,
+          "chineseName": "游泳圈",
+          "translatedName": "Swimming ring",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 1048032,
+          "chineseName": "其他游泳装备",
+          "translatedName": "Other Swimming Equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 122108001,
+          "chineseName": "比基尼、分体泳衣",
+          "translatedName": "Bikini, split swimsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 122110001,
+          "chineseName": "儿童泳衣",
+          "translatedName": "Children's Swimwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 122080003,
+          "chineseName": "沙滩裙、沙滩套装",
+          "translatedName": "Beach dress, beach suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 124516001,
+          "chineseName": "三件套泳装",
+          "translatedName": "Three-Piece Swimsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 122094002,
+          "chineseName": "泳裤",
+          "translatedName": "Swim Trunks",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 123122003,
+          "chineseName": "游泳辅助用品",
+          "translatedName": "Swimming aids",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 123162002,
+          "chineseName": "男式泳衣",
+          "translatedName": "men's swimsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 123184002,
+          "chineseName": "亲子泳装",
+          "translatedName": "Parent-child Swimwear",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 1048310,
+          "chineseName": "沙滩防晒服",
+          "translatedName": "Beach Sun Protection Suit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        },
+        {
+          "categoryId": 337,
+          "chineseName": "连体泳衣",
+          "translatedName": "one-piece swimsuit",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1048023
+        }
+      ]
+    }
+  }
+}

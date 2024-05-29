@@ -1,0 +1,145 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 504,
+      "chineseName": "工控系统及装备",
+      "translatedName": "Industrial control system and equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "5",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1035235,
+          "chineseName": "人机界面",
+          "translatedName": "man-machine interface",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 1035236,
+          "chineseName": "伺服定位系统",
+          "translatedName": "servo positioning system",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 1035234,
+          "chineseName": "其他工控系统及装备",
+          "translatedName": "Other industrial control systems and equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 1035238,
+          "chineseName": "振动盘",
+          "translatedName": "vibration plate",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 1035239,
+          "chineseName": "PLC",
+          "translatedName": "PLC",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 1035813,
+          "chineseName": "保护器",
+          "translatedName": "Protector",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 201068002,
+          "chineseName": "可编程控制器中央处理器",
+          "translatedName": "Programmable controller central processor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 201076001,
+          "chineseName": "可编程控制器IO模块",
+          "translatedName": "Programmable controller IO module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 201090001,
+          "chineseName": "可编程控制器通讯模块",
+          "translatedName": "programmable controller communication module",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 127894006,
+          "chineseName": "伺服电机",
+          "translatedName": "Servo motor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 127886004,
+          "chineseName": "伺服驱动器",
+          "translatedName": "Servo Drives",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 202031404,
+          "chineseName": "工控一体机",
+          "translatedName": "industrial control integrated machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 202063106,
+          "chineseName": "工控主板",
+          "translatedName": "Industrial control motherboard",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        },
+        {
+          "categoryId": 202052112,
+          "chineseName": "PLC编程控制器",
+          "translatedName": "PLC programming controller",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 504
+        }
+      ]
+    }
+  }
+}

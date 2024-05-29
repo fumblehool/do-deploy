@@ -1,0 +1,37 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 126144003,
+      "chineseName": "情趣用品",
+      "translatedName": "Sex Supplies",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "130823000",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 123854005,
+          "chineseName": "其他情趣用品",
+          "translatedName": "Other sex toys",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126144003
+        },
+        {
+          "categoryId": 123868002,
+          "chineseName": "润滑剂",
+          "translatedName": "Lubricant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 126144003
+        }
+      ]
+    }
+  }
+}

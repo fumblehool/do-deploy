@@ -1,0 +1,64 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201956604,
+      "chineseName": "双肩背包",
+      "translatedName": "Backpack",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "1042954",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 122220001,
+          "chineseName": "通用双肩背包",
+          "translatedName": "Universal Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201956604
+        },
+        {
+          "categoryId": 125742001,
+          "chineseName": "妈咪包",
+          "translatedName": "Mummy Bag",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201956604
+        },
+        {
+          "categoryId": 201555914,
+          "chineseName": "女士双肩包",
+          "translatedName": "Women's Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201956604
+        },
+        {
+          "categoryId": 201976403,
+          "chineseName": "休闲背包",
+          "translatedName": "Leisure Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201956604
+        },
+        {
+          "categoryId": 201996001,
+          "chineseName": "商务背包",
+          "translatedName": "Business Backpack",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 201956604
+        }
+      ]
+    }
+  }
+}

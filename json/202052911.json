@@ -1,0 +1,55 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 202052911,
+      "chineseName": "光伏配套设备",
+      "translatedName": "Photovoltaic equipment",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "202052814",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 202055211,
+          "chineseName": "光伏检查和维修设备",
+          "translatedName": "Photovoltaic inspection and maintenance equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052911
+        },
+        {
+          "categoryId": 202051612,
+          "chineseName": "其他光伏相关设备",
+          "translatedName": "Other PV related equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052911
+        },
+        {
+          "categoryId": 202060913,
+          "chineseName": "面板清洗机",
+          "translatedName": "Panel cleaning machine",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052911
+        },
+        {
+          "categoryId": 202057810,
+          "chineseName": "光伏生产制造设备",
+          "translatedName": "Photovoltaic manufacturing equipment",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 202052911
+        }
+      ]
+    }
+  }
+}

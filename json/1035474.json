@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035474,
+      "chineseName": "机床接杆",
+      "translatedName": "Machine tool connecting rod",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032476"
+    }
+  }
+}

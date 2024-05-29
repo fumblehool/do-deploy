@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1037026,
+      "chineseName": "胸垫、插片",
+      "translatedName": "Chest pad, insert",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "122528003"
+    }
+  }
+}

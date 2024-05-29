@@ -1,0 +1,82 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10380,
+      "chineseName": "水处理化学品",
+      "translatedName": "Water Treatment Chemicals",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "8",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1034283,
+          "chineseName": "其他水处理化学品",
+          "translatedName": "Other water treatment chemicals",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034284,
+          "chineseName": "消泡剂",
+          "translatedName": "Defoamer",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034285,
+          "chineseName": "缓蚀剂",
+          "translatedName": "corrosion inhibitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034286,
+          "chineseName": "阻垢剂",
+          "translatedName": "scale inhibitor",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034287,
+          "chineseName": "脱水剂",
+          "translatedName": "dehydrating agent",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034288,
+          "chineseName": "杀菌灭藻剂",
+          "translatedName": "bactericidal algaecide",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        },
+        {
+          "categoryId": 1034289,
+          "chineseName": "净水絮凝剂",
+          "translatedName": "water purification flocculant",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 10380
+        }
+      ]
+    }
+  }
+}

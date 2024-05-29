@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10270,
+      "chineseName": "库存电脑产品",
+      "translatedName": "Stock computer products",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "735"
+    }
+  }
+}

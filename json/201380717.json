@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 201380717,
+      "chineseName": "儿童牛仔外套",
+      "translatedName": "Children's denim jacket",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "201387101"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1903,
+      "chineseName": "冲印彩扩设备",
+      "translatedName": "Printing color expansion equipment",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "3417"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 3411,
+      "chineseName": "台历/日历",
+      "translatedName": "Desk Calendar/Calendar",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "125064004"
+    }
+  }
+}

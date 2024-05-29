@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 10222,
+      "chineseName": "氙气灯",
+      "translatedName": "Xenon lamp",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "527"
+    }
+  }
+}

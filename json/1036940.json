@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1036940,
+      "chineseName": "金属网带",
+      "translatedName": "Metal mesh belt",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "903"
+    }
+  }
+}

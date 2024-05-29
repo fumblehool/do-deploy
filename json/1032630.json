@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032630,
+      "chineseName": "檐口线脚",
+      "translatedName": "Cornice line foot",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1349"
+    }
+  }
+}

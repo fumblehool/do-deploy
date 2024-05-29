@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 281902,
+      "chineseName": "票务服务",
+      "translatedName": "Ticketing Service",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "2840"
+    }
+  }
+}

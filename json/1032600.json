@@ -1,0 +1,163 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1032600,
+      "chineseName": "橡胶管",
+      "translatedName": "Rubber tube",
+      "language": "en",
+      "leaf": "false",
+      "level": "2",
+      "parentCateId": "55",
+      "fromCache": false,
+      "children": [
+        {
+          "categoryId": 1036877,
+          "chineseName": "伸缩胶管",
+          "translatedName": "Telescopic hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036878,
+          "chineseName": "硅胶管",
+          "translatedName": "Silicone tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036879,
+          "chineseName": "高压橡胶管、低压橡胶管",
+          "translatedName": "High pressure rubber tube, low pressure rubber tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036866,
+          "chineseName": "其他橡胶管",
+          "translatedName": "Other rubber tubes",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036867,
+          "chineseName": "胶管接头",
+          "translatedName": "Hose joint",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036868,
+          "chineseName": "特种胶管",
+          "translatedName": "Special rubber hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036869,
+          "chineseName": "纤维胶管",
+          "translatedName": "Fiber hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036871,
+          "chineseName": "耐油胶管",
+          "translatedName": "Oil resistant hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036872,
+          "chineseName": "复合胶管",
+          "translatedName": "Composite hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036874,
+          "chineseName": "夹布胶管",
+          "translatedName": "Fabric Hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036873,
+          "chineseName": "增强软管",
+          "translatedName": "Reinforced hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036875,
+          "chineseName": "缠绕胶管",
+          "translatedName": "Winding hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1036876,
+          "chineseName": "编织胶管",
+          "translatedName": "Braided hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1046135,
+          "chineseName": "液压胶管",
+          "translatedName": "hydraulic hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 1046136,
+          "chineseName": "喷砂胶管",
+          "translatedName": "Sand blasting hose",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        },
+        {
+          "categoryId": 201163403,
+          "chineseName": "乳胶管",
+          "translatedName": "latex tube",
+          "language": "en",
+          "leaf": true,
+          "level": "3",
+          "parentCateId": 1032600
+        }
+      ]
+    }
+  }
+}

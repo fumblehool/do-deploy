@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 1035476,
+      "chineseName": "机床垫铁",
+      "translatedName": "Machine tool pad iron",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "1032476"
+    }
+  }
+}

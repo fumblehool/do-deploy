@@ -1,0 +1,16 @@
+{
+  "result": {
+    "success": true,
+    "code": "S0000",
+    "message": "成功",
+    "result": {
+      "categoryId": 122200003,
+      "chineseName": "礼品、广告毛巾",
+      "translatedName": "Gifts, advertising towels",
+      "language": "en",
+      "leaf": "true",
+      "level": "3",
+      "parentCateId": "127864016"
+    }
+  }
+}
